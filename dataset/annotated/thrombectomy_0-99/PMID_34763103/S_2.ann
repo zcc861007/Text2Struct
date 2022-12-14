@@ -1,0 +1,5 @@
+T1	Num 118 122	2016
+T2	Num 134 138	2020
+T3	Num 144 145	2
+T4	Unit 146 174	comprehensive stroke centers
+R1	acomp Arg1:T3 Arg2:T4	

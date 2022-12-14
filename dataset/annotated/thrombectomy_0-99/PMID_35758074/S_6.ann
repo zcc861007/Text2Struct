@@ -1,0 +1,10 @@
+T1	Targ 0 107	Mean duration of thrombectomy from aneurysm opening to bleeding and temporary clipping of the parent artery
+T2	Num 112 114	82
+T3	Unit 115 122	minutes
+T4	Targ 125 151	time of temporary clipping
+T5	Num 162 164	12
+T6	Unit 165 172	minutes
+R1	acomp Arg1:T5 Arg2:T6	
+R2	acomp Arg1:T5 Arg2:T4	
+R3	acomp Arg1:T2 Arg2:T3	
+R4	acomp Arg1:T2 Arg2:T1	

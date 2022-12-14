@@ -1,0 +1,8 @@
+T1	Num 73 77	0.01
+T2	Num 88 93	-0.04
+T3	Num 97 101	0.05
+T4	Targ 80 87	0.95 CI
+R1	acomp Arg1:T2 Arg2:T4	
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Targ 26 68	risk difference of functional independence
+R3	acomp Arg1:T1 Arg2:T5	

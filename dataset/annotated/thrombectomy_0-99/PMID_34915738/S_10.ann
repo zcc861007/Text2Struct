@@ -1,0 +1,25 @@
+T1	Num 130 134	0.07
+T2	Num 162 167	0.071
+T3	Num 197 201	0.97
+T4	Num 219 224	0.051
+T5	Num 232 237	0.025
+T6	Num 244 248	0.22
+T7	Num 266 271	0.091
+T8	Num 279 284	0.048
+T9	Num 291 295	0.78
+T10	Targ 138 154	bridging therapy
+R1	acomp Arg1:T1 Arg2:T10	
+T11	Targ 172 190	thrombectomy alone
+R2	acomp Arg1:T2 Arg2:T11	
+T12	Targ 193 194	P
+R3	acomp Arg1:T3 Arg2:T12	
+T13	Targ 204 216	M1 occlusion
+R4	acomp Arg1:T4 Arg2:T13	
+R5	acomp Arg1:T5 Arg2:T13	
+T14	Targ 240 241	P
+R6	acomp Arg1:T6 Arg2:T14	
+T15	Targ 251 263	M2 occlusion
+R7	acomp Arg1:T7 Arg2:T15	
+R8	acomp Arg1:T8 Arg2:T15	
+T16	Targ 287 288	P
+R9	acomp Arg1:T9 Arg2:T16	

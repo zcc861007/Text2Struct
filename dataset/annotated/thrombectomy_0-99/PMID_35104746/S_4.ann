@@ -1,0 +1,22 @@
+T1	Num 17 21	2019
+T2	Num 24 28	1375
+T3	Unit 29 31	MT
+R1	acomp Arg1:T2 Arg2:T3	
+T4	Unit 75 83	patients
+T5	Num 61 65	1178
+T6	Num 68 72	0.86
+R2	acomp Arg1:T6 Arg2:T4	
+R3	acomp Arg1:T5 Arg2:T4	
+T7	Num 86 91	0.503
+T8	Unit 92 97	males
+R4	acomp Arg1:T7 Arg2:T8	
+T9	Targ 100 108	mean age
+T10	Unit 123 128	years
+T11	Num 109 113	70.5
+T12	Num 118 122	13.0
+R5	acomp Arg1:T12 Arg2:T10	
+R6	acomp Arg1:T11 Arg2:T10	
+R7	acomp Arg1:T11 Arg2:T9	
+R8	acomp Arg1:T12 Arg2:T9	
+T13	Targ 54 56	CR
+R9	acomp Arg1:T2 Arg2:T13	

@@ -1,0 +1,7 @@
+T1	Num 59 60	1
+T2	Num 64 65	6
+T3	Unit 66 71	cases
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 107 111	2016
+T5	Num 114 118	2018

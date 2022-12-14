@@ -1,0 +1,1 @@
+RESULTS : We identified 409910 total hospitalizations who underwent primary PCI .

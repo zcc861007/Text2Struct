@@ -1,0 +1,1 @@
+For seven possible health states , we identified local costs ( Argentinian Pesos AR $ ) , utility ( QALY ) , and transition/distribution probabilities ( 0.05 discounted rate ) and performed deterministic and probabilistic sensitivity analyses .

@@ -1,0 +1,22 @@
+T1	Num 22 27	0.061
+T2	Num 30 31	3
+T3	Num 34 36	49
+T4	Unit 42 50	patients
+T5	Targ 58 101	NIHSS improvements of 0 points at discharge
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T4	
+R3	acomp Arg1:T3 Arg2:T4	
+R4	acomp Arg1:T3 Arg2:T5	
+R5	acomp Arg1:T2 Arg2:T5	
+R6	acomp Arg1:T1 Arg2:T5	
+T6	Num 108 113	0.249
+T7	Num 116 118	12
+T8	Num 121 123	49
+T9	Unit 129 137	patients
+T10	Targ 145 189	NIHSS improvements of 10 points at discharge
+R7	acomp Arg1:T8 Arg2:T9	
+R8	acomp Arg1:T7 Arg2:T9	
+R9	acomp Arg1:T6 Arg2:T9	
+R10	acomp Arg1:T8 Arg2:T10	
+R11	acomp Arg1:T7 Arg2:T10	
+R12	acomp Arg1:T6 Arg2:T10	

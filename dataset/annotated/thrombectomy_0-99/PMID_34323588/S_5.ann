@@ -1,0 +1,5 @@
+T1	Num 77 78	6
+T2	Num 81 82	8
+T3	Unit 83 88	weeks
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	

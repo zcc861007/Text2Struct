@@ -1,0 +1,6 @@
+T1	Num 27 31	1094
+T2	Num 54 58	1366
+T3	Targ 23 24	n
+T4	Targ 50 51	n
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T4	

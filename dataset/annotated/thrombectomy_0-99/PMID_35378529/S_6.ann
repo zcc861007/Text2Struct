@@ -1,0 +1,22 @@
+T1	Targ 144 161	risk ratio ( RR )
+T2	Num 164 168	1.07
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 171 202	0.95 confidence interval ( CI )
+T4	Num 205 209	0.94
+T5	Num 212 216	1.21
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+T6	Targ 219 220	p
+T7	Num 223 228	0.294
+R4	acomp Arg1:T7 Arg2:T6	
+T8	Targ 264 266	RR
+T9	Num 269 273	1.01
+R5	acomp Arg1:T9 Arg2:T8	
+T10	Targ 276 283	0.95 CI
+T11	Num 286 290	0.96
+T12	Num 293 297	1.06
+T13	Targ 300 301	p
+T14	Num 304 309	0.823
+R6	acomp Arg1:T14 Arg2:T13	
+R7	acomp Arg1:T11 Arg2:T10	
+R8	acomp Arg1:T12 Arg2:T10	

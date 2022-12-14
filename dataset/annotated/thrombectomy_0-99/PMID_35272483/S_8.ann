@@ -1,0 +1,12 @@
+T1	Targ 20 77	baseline National Institutes of Health Stroke Scale score
+T2	Num 80 82	11
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 125 145	EVT-treated patients
+T4	Targ 221 249	those treated medically only
+T5	Num 252 257	0.714
+T6	Num 265 270	0.556
+R2	acomp Arg1:T5 Arg2:T3	
+R3	acomp Arg1:T6 Arg2:T4	
+T7	Targ 273 274	P
+T8	Num 277 282	0.146
+R4	acomp Arg1:T8 Arg2:T7	

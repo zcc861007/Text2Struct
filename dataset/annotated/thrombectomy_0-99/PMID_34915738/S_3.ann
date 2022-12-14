@@ -1,0 +1,7 @@
+T1	Num 6 9	658
+T2	Unit 10 29	randomized patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 32 35	640
+T4	Targ 41 76	baseline occlusion site information
+R2	acomp Arg1:T3 Arg2:T2	
+R3	acomp Arg1:T3 Arg2:T4	

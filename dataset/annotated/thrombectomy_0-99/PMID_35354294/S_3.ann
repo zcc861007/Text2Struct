@@ -1,0 +1,5 @@
+T1	Targ 194 244	first medical contact to percutaneous intervention
+T2	Num 265 267	90
+T3	Unit 268 275	minutes
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T2 Arg2:T3	

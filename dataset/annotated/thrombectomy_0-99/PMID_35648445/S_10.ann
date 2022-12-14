@@ -1,0 +1,55 @@
+T1	Num 60 64	0.96
+T2	Num 75 79	0.94
+T3	Num 82 86	0.98
+T4	Num 93 98	0.001
+T5	Num 132 136	0.87
+T6	Num 147 151	0.83
+T7	Num 154 158	0.91
+T8	Num 165 170	0.001
+T9	Num 208 212	0.77
+T10	Num 223 227	0.77
+T11	Num 230 234	0.87
+T12	Num 241 246	0.001
+T13	Num 312 316	0.83
+T14	Num 327 331	0.71
+T15	Num 334 338	0.98
+T16	Num 345 350	0.026
+T17	Num 431 436	0.024
+T18	Num 506 510	2.01
+T19	Num 521 525	0.71
+T20	Num 528 532	5.67
+T21	Targ 42 59	odds ratio [ OR ]
+T22	Targ 67 74	0.95 CI
+T23	Targ 89 90	p
+R1	acomp Arg1:T1 Arg2:T21	
+R2	acomp Arg1:T2 Arg2:T22	
+R3	acomp Arg1:T3 Arg2:T22	
+R4	acomp Arg1:T4 Arg2:T23	
+T24	Targ 129 131	OR
+T25	Targ 139 146	0.95 CI
+T26	Targ 161 162	p
+T27	Targ 205 207	OR
+T28	Targ 215 222	0.95 CI
+T29	Targ 237 238	p
+T30	Targ 309 311	OR
+T31	Targ 319 326	0.95 CI
+T32	Targ 341 342	p
+T33	Targ 427 428	p
+T34	Targ 503 505	OR
+T35	Targ 513 520	0.95 CI
+R5	acomp Arg1:T5 Arg2:T24	
+R6	acomp Arg1:T6 Arg2:T25	
+R7	acomp Arg1:T7 Arg2:T25	
+R8	acomp Arg1:T8 Arg2:T26	
+R9	acomp Arg1:T9 Arg2:T27	
+R10	acomp Arg1:T10 Arg2:T28	
+R11	acomp Arg1:T11 Arg2:T28	
+R12	acomp Arg1:T12 Arg2:T29	
+R13	acomp Arg1:T13 Arg2:T30	
+R14	acomp Arg1:T14 Arg2:T31	
+R15	acomp Arg1:T15 Arg2:T31	
+R16	acomp Arg1:T16 Arg2:T32	
+R17	acomp Arg1:T17 Arg2:T33	
+R18	acomp Arg1:T18 Arg2:T34	
+R19	acomp Arg1:T19 Arg2:T35	
+R20	acomp Arg1:T20 Arg2:T35	

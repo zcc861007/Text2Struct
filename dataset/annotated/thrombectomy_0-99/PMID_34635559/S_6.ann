@@ -1,0 +1,37 @@
+T1	Targ 31 34	day
+T2	Num 35 36	2
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 104 113	mRS score
+T4	Num 114 115	0
+T5	Num 118 119	1
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+T6	Num 125 127	90
+T7	Unit 128 132	days
+R4	acomp Arg1:T6 Arg2:T7	
+T8	Targ 181 190	mRS score
+T9	Num 191 192	2
+T10	Num 195 196	6
+R5	acomp Arg1:T9 Arg2:T8	
+R6	acomp Arg1:T10 Arg2:T8	
+T11	Targ 201 207	median
+T12	Num 208 212	0.10
+T13	Unit 213 221	microg/L
+R7	acomp Arg1:T12 Arg2:T13	
+R8	acomp Arg1:T12 Arg2:T11	
+T14	Targ 224 243	interquartile range
+T15	Num 244 248	0.07
+T16	Num 251 255	0.14
+R9	acomp Arg1:T15 Arg2:T14	
+R10	acomp Arg1:T16 Arg2:T14	
+T17	Num 261 265	0.20
+T18	Unit 266 274	microg/L
+R11	acomp Arg1:T17 Arg2:T18	
+T19	Num 277 281	0.11
+T20	Num 284 288	0.48
+R12	acomp Arg1:T19 Arg2:T14	
+R13	acomp Arg1:T20 Arg2:T14	
+T21	Targ 293 294	p
+T22	Num 297 302	0.001
+R14	acomp Arg1:T22 Arg2:T21	
+R15	acomp Arg1:T17 Arg2:T11	

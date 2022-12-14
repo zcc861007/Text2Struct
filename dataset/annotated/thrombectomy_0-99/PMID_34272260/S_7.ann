@@ -1,0 +1,18 @@
+T1	Num 37 42	0.549
+T2	Num 45 47	39
+T3	Num 50 52	71
+T4	Num 86 91	0.451
+T5	Num 94 96	32
+T6	Num 99 101	71
+T7	Unit 107 112	cases
+T8	Targ 0 24	Periprocedural migration
+T9	Targ 59 82	preprocedural migration
+R1	acomp Arg1:T6 Arg2:T7	
+R2	acomp Arg1:T5 Arg2:T7	
+R3	acomp Arg1:T4 Arg2:T7	
+R4	acomp Arg1:T1 Arg2:T8	
+R5	acomp Arg1:T2 Arg2:T8	
+R6	acomp Arg1:T3 Arg2:T8	
+R7	acomp Arg1:T4 Arg2:T9	
+R8	acomp Arg1:T5 Arg2:T9	
+R9	acomp Arg1:T6 Arg2:T9	

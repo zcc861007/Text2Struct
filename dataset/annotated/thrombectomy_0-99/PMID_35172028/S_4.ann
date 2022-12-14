@@ -1,0 +1,11 @@
+T1	Targ 11 35	" extended " time window
+T2	Num 39 40	6
+T3	Num 43 45	24
+T4	Unit 46 47	h
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T4	
+R3	acomp Arg1:T2 Arg2:T1	
+R4	acomp Arg1:T3 Arg2:T1	
+T5	Targ 164 186	number needed to treat
+T6	Num 193 194	2
+R5	acomp Arg1:T6 Arg2:T5	

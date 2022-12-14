@@ -1,0 +1,6 @@
+T1	Num 224 225	6
+T2	Unit 226 227	h
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 270 272	24
+T4	Unit 273 274	h
+R2	acomp Arg1:T3 Arg2:T4	

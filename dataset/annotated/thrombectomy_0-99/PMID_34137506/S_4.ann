@@ -1,0 +1,7 @@
+T1	Num 57 60	802
+T2	Num 150 154	2016
+T3	Num 167 171	2020
+T4	Unit 61 69	patients
+R1	acomp Arg1:T1 Arg2:T4	
+T5	Targ 13 39	observational cohort study
+R2	acomp Arg1:T1 Arg2:T5	

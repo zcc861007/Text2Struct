@@ -1,0 +1,8 @@
+T1	Targ 19 81	lower median National Institutes of Health Stroke Scale scores
+T2	Num 84 86	14
+T3	Num 94 96	16
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+T4	Targ 99 100	P
+T5	Num 103 108	0.001
+R3	acomp Arg1:T5 Arg2:T4	

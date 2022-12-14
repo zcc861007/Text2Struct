@@ -1,0 +1,1 @@
+METHODS : We used data ( March 2014 until November 2017 ) of patients with an anterior circulation large vessel occlusion stroke from the MR CLEAN ( Multicenter Randomized Controlled Trial of Endovascular Treatment for Acute Ischemic Stroke in the Netherlands ) Registry , a nationwide , prospective study on endovascular thrombectomy in the Netherlands .

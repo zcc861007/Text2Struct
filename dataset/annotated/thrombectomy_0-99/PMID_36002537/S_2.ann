@@ -1,0 +1,6 @@
+T1	Targ 191 206	stent-graft ( N
+T2	Num 209 211	10
+T3	Targ 218 236	native vessels ( N
+T4	Num 239 240	8
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T4 Arg2:T3	

@@ -1,0 +1,1 @@
+After adjusting for confounders ( influencing variables ) , the association between age and post-interventional NIHSS was reduced and non-significant ( p = .17 ) .

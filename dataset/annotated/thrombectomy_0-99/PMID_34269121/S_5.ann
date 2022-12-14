@@ -1,0 +1,8 @@
+T1	Num 18 22	2013
+T2	Num 27 31	2018
+T3	Num 45 50	55247
+T4	Unit 51 68	stroke admissions
+T5	Num 76 78	11
+T6	Unit 79 100	participating centers
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T5 Arg2:T6	

@@ -1,0 +1,15 @@
+T1	Num 15 18	568
+T2	Unit 19 23	days
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 60 64	1489
+T4	Unit 65 70	times
+T5	Targ 41 44	MSU
+T6	Num 99 102	300
+T7	Unit 103 111	patients
+T8	Num 114 117	0.2
+T9	Unit 121 131	dispatches
+R2	acomp Arg1:T8 Arg2:T9	
+R3	acomp Arg1:T6 Arg2:T7	
+R4	acomp Arg1:T3 Arg2:T4	
+R5	acomp Arg1:T3 Arg2:T5	
+R6	acomp Arg1:T6 Arg2:T5	

@@ -1,0 +1,8 @@
+T1	Num 167 168	6
+T2	Num 171 173	24
+T3	Unit 174 175	h
+T4	Targ 176 187	time window
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	
+R3	acomp Arg1:T2 Arg2:T4	
+R4	acomp Arg1:T1 Arg2:T4	

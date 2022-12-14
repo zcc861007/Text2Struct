@@ -1,0 +1,8 @@
+T1	Num 311 315	2015
+T2	Num 257 261	2013
+T3	Num 370 371	3
+T4	Targ 363 369	DEFUSE
+R1	acomp Arg1:T3 Arg2:T4	
+T5	Targ 241 249	timeline
+R2	acomp Arg1:T2 Arg2:T5	
+R3	acomp Arg1:T1 Arg2:T5	

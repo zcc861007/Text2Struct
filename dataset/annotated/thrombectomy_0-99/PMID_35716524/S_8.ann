@@ -1,0 +1,3 @@
+T1	Num 72 75	1.0
+T2	Targ 76 109	probability of cost-effectiveness
+R1	acomp Arg1:T1 Arg2:T2	

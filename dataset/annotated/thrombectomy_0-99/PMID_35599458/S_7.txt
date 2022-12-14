@@ -1,0 +1,1 @@
+RESULTS : Of 540 patients , 286 ( 0.53 ) received EVTpri and demonstrated larger critically hypoperfused tissue ( Tmax > 6 seconds ) volumes ( median [ IQR ] : 64 [ 26 - 96 ] ml vs MMpri : 40 [ 14 - 76 ] ml , p < 0.001 ) and higher presentation NIHSS ( median [ IQR ] : 4 [ 2 - 5 ] vs MMpri : 3 [ 2 - 4 ] , p < 0.001 ) .

@@ -1,0 +1,5 @@
+T1	Num 39 43	0.95
+T2	Unit 47 55	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 0 22	Successful reperfusion
+R2	acomp Arg1:T1 Arg2:T3	

@@ -1,0 +1,5 @@
+T1	Num 57 61	2012
+T2	Num 65 69	2018
+T3	Num 140 141	6
+T4	Unit 142 147	weeks
+R1	acomp Arg1:T3 Arg2:T4	

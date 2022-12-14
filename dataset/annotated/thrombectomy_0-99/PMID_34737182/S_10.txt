@@ -1,0 +1,1 @@
+Multivariable regression analysis regarding patient profiles indicated that patients who identified as Black ( OR = 0.83 , P = .001 ) or Hispanic ( OR = 0.79 ; P < .001 ) were more likely to undergo mechanical thrombectomy alone compared with those who identified as White .

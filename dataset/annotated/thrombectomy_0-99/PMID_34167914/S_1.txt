@@ -1,0 +1,1 @@
+METHODS : We queried the Nationwide Readmission Database ( NRD ) from January 2016 to December 2018 to identify patients who underwent primary PCI and thrombectomy .

@@ -1,0 +1,10 @@
+T1	Num 45 50	0.837
+T2	Unit 54 62	patients
+T3	Num 67 72	0.462
+T4	Unit 76 84	patients
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Targ 0 28	Recanalization ( TICI 2b-3 )
+R3	acomp Arg1:T1 Arg2:T5	
+T6	Targ 89 118	good 3-month clinical outcome
+R4	acomp Arg1:T3 Arg2:T6	

@@ -1,0 +1,6 @@
+T1	Num 137 138	5
+T2	Unit 139 144	years
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 264 266	24
+T4	Unit 267 272	hours
+R2	acomp Arg1:T3 Arg2:T4	

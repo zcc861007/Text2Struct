@@ -1,0 +1,19 @@
+T1	Num 119 120	1
+T2	Num 125 126	2
+T3	Targ 113 118	parts
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	
+T4	Num 50 51	3
+T5	Num 133 134	2
+T6	Unit 52 80	randomized controlled trials
+T7	Unit 135 168	prospective nonrandomized studies
+T8	Targ 15 46	pooled , patient-level analysis
+R3	acomp Arg1:T4 Arg2:T6	
+R4	acomp Arg1:T4 Arg2:T8	
+R5	acomp Arg1:T5 Arg2:T7	
+R6	acomp Arg1:T5 Arg2:T8	
+T9	Targ 261 290	modified Rankin Scale [ mRS ]
+T10	Num 293 294	0
+T11	Num 297 298	2
+R7	acomp Arg1:T10 Arg2:T9	
+R8	acomp Arg1:T11 Arg2:T9	

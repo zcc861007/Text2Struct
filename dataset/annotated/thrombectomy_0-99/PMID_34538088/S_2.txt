@@ -1,0 +1,1 @@
+METHODS : The National Inpatient Sample was queried from 2012 to 2018 to identify and characterize pregnant and postpartum patients ( up to 6 weeks following childbirth ) with AIS treated with MT .

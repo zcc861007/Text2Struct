@@ -1,0 +1,15 @@
+T1	Num 44 48	0.38
+T2	Num 51 52	7
+T3	Num 55 57	18
+T4	Unit 63 71	patients
+T5	Num 117 120	1.0
+T6	Targ 78 109	percutaneous thrombectomy alone
+T7	Targ 127 148	additional procedures
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T4	
+R3	acomp Arg1:T3 Arg2:T4	
+R4	acomp Arg1:T3 Arg2:T6	
+R5	acomp Arg1:T2 Arg2:T6	
+R6	acomp Arg1:T1 Arg2:T6	
+R7	acomp Arg1:T5 Arg2:T7	
+R8	acomp Arg1:T5 Arg2:T4	

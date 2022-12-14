@@ -1,0 +1,3 @@
+T1	Num 36 37	2
+T2	Targ 32 35	day
+R1	acomp Arg1:T1 Arg2:T2	

@@ -1,0 +1,4 @@
+T1	Num 123 125	30
+T2	Unit 126 130	days
+T3	Num 241 245	2019
+R1	acomp Arg1:T1 Arg2:T2	

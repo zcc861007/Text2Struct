@@ -1,0 +1,19 @@
+T1	Num 20 23	353
+T2	Unit 24 32	patients
+T3	Num 35 38	225
+T4	Unit 39 42	men
+T5	Num 47 50	128
+T6	Unit 51 56	women
+T7	Num 75 78	314
+T8	Unit 79 87	patients
+T9	Num 127 129	39
+T10	Unit 130 138	patients
+T11	Targ 92 122	anterior circulation occlusion
+T12	Targ 143 174	posterior circulation occlusion
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T3 Arg2:T4	
+R3	acomp Arg1:T5 Arg2:T6	
+R4	acomp Arg1:T7 Arg2:T8	
+R5	acomp Arg1:T7 Arg2:T11	
+R6	acomp Arg1:T9 Arg2:T10	
+R7	acomp Arg1:T9 Arg2:T12	

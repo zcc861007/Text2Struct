@@ -1,0 +1,32 @@
+T1	Targ 54 66	good outcome
+T2	Num 69 73	0.42
+T3	Num 81 85	0.53
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+T4	Targ 103 104	P
+T5	Num 107 111	0.30
+R3	acomp Arg1:T5 Arg2:T4	
+T6	Targ 116 133	excellent outcome
+T7	Num 136 140	0.26
+T8	Num 148 152	0.32
+R4	acomp Arg1:T7 Arg2:T6	
+R5	acomp Arg1:T8 Arg2:T6	
+T9	Targ 170 171	P
+T10	Num 174 178	0.51
+R6	acomp Arg1:T10 Arg2:T9	
+T11	Targ 183 218	symptomatic intracranial hemorrhage
+T12	Num 221 226	0.065
+T13	Num 234 239	0.046
+T14	Num 261 265	0.74
+T15	Targ 257 258	P
+R7	acomp Arg1:T12 Arg2:T11	
+R8	acomp Arg1:T13 Arg2:T11	
+R9	acomp Arg1:T14 Arg2:T15	
+T16	Targ 274 279	death
+T17	Num 282 287	0.032
+T18	Num 295 300	0.057
+T19	Targ 318 319	P
+T20	Num 322 326	0.58
+R10	acomp Arg1:T20 Arg2:T19	
+R11	acomp Arg1:T18 Arg2:T16	
+R12	acomp Arg1:T17 Arg2:T16	

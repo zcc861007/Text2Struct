@@ -1,0 +1,26 @@
+T1	Num 72 76	1575
+T2	Unit 77 101	eligible stroke patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 148 151	6.3
+T4	Num 167 168	1
+T5	Num 200 201	5
+T6	Unit 257 262	years
+T7	Num 255 256	5
+T8	Num 237 241	56.2
+T9	Targ 122 134	cost savings
+T10	Unit 152 159	million
+T11	Num 180 184	14.6
+T12	Unit 185 192	million
+T13	Targ 211 236	total cost saving of euro
+T14	Unit 242 249	million
+R2	acomp Arg1:T3 Arg2:T10	
+R3	acomp Arg1:T3 Arg2:T9	
+R4	acomp Arg1:T11 Arg2:T12	
+R5	acomp Arg1:T11 Arg2:T9	
+R6	acomp Arg1:T8 Arg2:T13	
+R7	acomp Arg1:T8 Arg2:T14	
+R8	acomp Arg1:T7 Arg2:T6	
+T15	Targ 162 166	year
+T16	Targ 195 199	year
+R9	acomp Arg1:T5 Arg2:T16	
+R10	acomp Arg1:T4 Arg2:T15	

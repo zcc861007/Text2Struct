@@ -1,0 +1,19 @@
+T1	Num 44 46	90
+T2	Unit 47 51	days
+T3	Num 54 59	0.161
+T4	Num 63 68	0.192
+T5	Targ 71 73	OR
+T6	Num 74 78	0.81
+T7	Targ 81 89	0.95 CrI
+T8	Num 90 94	0.66
+T9	Num 98 102	0.99
+T10	Targ 105 106	p
+T11	Num 109 114	0.024
+R1	acomp Arg1:T1 Arg2:T2	
+T12	Targ 21 40	all-cause mortality
+R2	acomp Arg1:T3 Arg2:T12	
+R3	acomp Arg1:T4 Arg2:T12	
+R4	acomp Arg1:T6 Arg2:T5	
+R5	acomp Arg1:T8 Arg2:T7	
+R6	acomp Arg1:T9 Arg2:T7	
+R7	acomp Arg1:T11 Arg2:T10	

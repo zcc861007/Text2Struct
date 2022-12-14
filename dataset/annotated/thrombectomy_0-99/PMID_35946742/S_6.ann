@@ -1,0 +1,33 @@
+T1	Targ 65 91	risk of death of all cause
+T2	Num 94 99	0.168
+T3	Num 107 112	0.201
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+T4	Targ 115 128	relative risk
+T5	Num 132 136	0.85
+R3	acomp Arg1:T5 Arg2:T4	
+T6	Targ 139 140	p
+T7	Num 143 147	0.04
+R4	acomp Arg1:T7 Arg2:T6	
+T8	Targ 171 232	number of patients with functional independence after 90 days
+T9	Num 235 240	0.457
+T10	Num 248 253	0.275
+R5	acomp Arg1:T9 Arg2:T8	
+R6	acomp Arg1:T10 Arg2:T8	
+T11	Targ 256 269	relative risk
+T12	Num 273 277	1.65
+R7	acomp Arg1:T12 Arg2:T11	
+T13	Targ 280 281	p
+T14	Num 284 288	0.01
+R8	acomp Arg1:T14 Arg2:T13	
+T15	Targ 316 341	rate of revascularization
+T16	Num 344 349	0.762
+T17	Num 357 362	0.339
+R9	acomp Arg1:T16 Arg2:T15	
+R10	acomp Arg1:T17 Arg2:T15	
+T18	Targ 365 378	relative risk
+T19	Num 382 386	2.20
+R11	acomp Arg1:T19 Arg2:T18	
+T20	Targ 389 390	p
+T21	Num 393 397	0.01
+R12	acomp Arg1:T21 Arg2:T20	

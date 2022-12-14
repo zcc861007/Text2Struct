@@ -1,0 +1,24 @@
+T1	Num 96 100	0.99
+T2	Targ 131 165	internal carotid artery occlusions
+T3	Num 168 172	1.12
+T4	Targ 203 216	M1 occlusions
+T5	Num 223 227	1.22
+T6	Targ 258 271	M2 occlusions
+T7	Targ 103 110	0.95 CI
+T8	Num 113 117	0.62
+T9	Num 120 124	1.59
+T10	Targ 175 182	0.95 CI
+T11	Num 185 189	0.77
+T12	Num 192 196	1.64
+T13	Targ 230 237	0.95 CI
+T14	Num 240 244	0.53
+T15	Num 247 251	2.79
+R1	acomp Arg1:T14 Arg2:T13	
+R2	acomp Arg1:T15 Arg2:T13	
+R3	acomp Arg1:T5 Arg2:T6	
+R4	acomp Arg1:T3 Arg2:T4	
+R5	acomp Arg1:T11 Arg2:T10	
+R6	acomp Arg1:T12 Arg2:T10	
+R7	acomp Arg1:T8 Arg2:T7	
+R8	acomp Arg1:T9 Arg2:T7	
+R9	acomp Arg1:T1 Arg2:T2	

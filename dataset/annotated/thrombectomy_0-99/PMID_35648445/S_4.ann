@@ -1,0 +1,5 @@
+T1	Targ 130 196	final modified Thrombolysis In Cerebral Infarction ( mTICI ) score
+T2	Num 200 201	0
+T3	Num 204 205	1
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	

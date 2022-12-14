@@ -1,0 +1,29 @@
+T1	Num 67 70	198
+T2	Num 73 78	0.822
+T3	Num 84 87	2.6
+T4	Num 90 93	1.1
+T5	Num 96 99	6.9
+T6	Num 142 147	0.842
+T7	Num 153 156	9.2
+T8	Num 159 162	1.9
+T9	Num 165 169	44.6
+T10	Num 210 212	62
+T11	Num 215 220	0.667
+T12	Targ 45 63	combined technique
+T13	Targ 111 132	stent-retriever alone
+T14	Targ 183 206	direct aspiration alone
+T15	Targ 81 83	OR
+T16	Targ 150 152	OR
+R1	acomp Arg1:T1 Arg2:T12	
+R2	acomp Arg1:T2 Arg2:T12	
+R3	acomp Arg1:T3 Arg2:T15	
+R4	acomp Arg1:T4 Arg2:T15	
+R5	acomp Arg1:T5 Arg2:T15	
+R6	acomp Arg1:T6 Arg2:T13	
+R7	acomp Arg1:T7 Arg2:T16	
+R8	acomp Arg1:T8 Arg2:T16	
+R9	acomp Arg1:T9 Arg2:T16	
+R10	acomp Arg1:T10 Arg2:T14	
+R11	acomp Arg1:T11 Arg2:T14	
+T17	Num 136 139	112
+R12	acomp Arg1:T17 Arg2:T13	

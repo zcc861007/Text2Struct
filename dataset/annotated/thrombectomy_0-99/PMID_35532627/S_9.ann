@@ -1,0 +1,11 @@
+T1	Num 11 16	0.816
+T2	Num 19 22	111
+T3	Num 25 28	136
+T4	Targ 48 76	time window for thrombolysis
+T5	Num 79 80	0
+T6	Num 83 86	4.5
+T7	Unit 87 88	h
+R1	acomp Arg1:T6 Arg2:T7	
+R2	acomp Arg1:T5 Arg2:T7	
+R3	acomp Arg1:T5 Arg2:T4	
+R4	acomp Arg1:T6 Arg2:T4	

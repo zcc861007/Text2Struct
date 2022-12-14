@@ -1,0 +1,1 @@
+Mean age was 68.8 +/- 16 years , and median admission National Institutes of Health Stroke Scale ( NIHSS ) and Alberta Stroke Program Early Computed Tomography Score ( ASPECTS ) were 17 ( IQR 12 - 21 ) and 7 ( IQR 5 - 8 ) , respectively .

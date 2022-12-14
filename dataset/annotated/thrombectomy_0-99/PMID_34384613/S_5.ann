@@ -1,0 +1,9 @@
+T1	Num 17 19	42
+T2	Unit 20 28	patients
+T3	Num 40 42	16
+T4	Num 63 65	26
+T5	Targ 48 58	massive PE
+T6	Targ 71 84	submassive PE
+R1	acomp Arg1:T4 Arg2:T6	
+R2	acomp Arg1:T3 Arg2:T5	
+R3	acomp Arg1:T1 Arg2:T2	

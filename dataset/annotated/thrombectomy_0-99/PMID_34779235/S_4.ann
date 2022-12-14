@@ -1,0 +1,35 @@
+T1	Num 4 6	12
+T2	Unit 7 23	included studies
+T3	Num 26 27	3
+T4	Unit 28 56	randomized controlled trials
+T5	Num 61 62	9
+T6	Unit 63 84	observational studies
+T7	Num 95 99	3924
+T8	Unit 100 111	participant
+T9	Targ 115 123	mean age
+T10	Num 126 130	68.0
+T11	Unit 131 136	years
+T12	Targ 139 141	SD
+T13	Num 144 148	13.1
+T14	Unit 149 154	years
+T15	Num 167 172	0.442
+T16	Num 175 179	1887
+T17	Targ 159 164	women
+T18	Unit 180 192	participants
+T19	Num 214 218	2037
+T20	Unit 219 231	participants
+T21	Targ 245 247	BT
+T22	Targ 206 209	dMT
+R1	acomp Arg1:T16 Arg2:T18	
+R2	acomp Arg1:T16 Arg2:T22	
+R3	acomp Arg1:T19 Arg2:T20	
+R4	acomp Arg1:T19 Arg2:T21	
+R5	acomp Arg1:T15 Arg2:T17	
+R6	acomp Arg1:T13 Arg2:T14	
+R7	acomp Arg1:T13 Arg2:T12	
+R8	acomp Arg1:T10 Arg2:T11	
+R9	acomp Arg1:T10 Arg2:T9	
+R10	acomp Arg1:T7 Arg2:T8	
+R11	acomp Arg1:T5 Arg2:T6	
+R12	acomp Arg1:T1 Arg2:T2	
+R13	acomp Arg1:T3 Arg2:T4	

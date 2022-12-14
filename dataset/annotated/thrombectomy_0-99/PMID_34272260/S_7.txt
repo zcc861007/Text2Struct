@@ -1,0 +1,1 @@
+Periprocedural migration occurred in 0.549 ( 39 / 71 ) and preprocedural migration in 0.451 ( 32 / 71 ) of cases .

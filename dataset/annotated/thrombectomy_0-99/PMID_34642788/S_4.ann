@@ -1,0 +1,6 @@
+T1	Num 21 23	50
+T2	Unit 24 32	articles
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 72 77	12838
+T4	Unit 78 91	interventions
+R2	acomp Arg1:T3 Arg2:T4	

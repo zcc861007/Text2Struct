@@ -1,0 +1,8 @@
+T1	Targ 55 107	National Institutes of Health Stroke Scale ( NIHSS )
+T2	Num 110 111	6
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Num 429 431	15
+T4	Num 457 461	2010
+T5	Num 471 475	2020
+T6	Unit 432 443	EVT centers
+R2	acomp Arg1:T3 Arg2:T6	

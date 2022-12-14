@@ -1,0 +1,8 @@
+T1	Num 24 26	11
+T2	Unit 27 55	randomized controlled trials
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 72 76	3640
+T4	Unit 77 85	patients
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Targ 91 103	acute stroke
+R3	acomp Arg1:T3 Arg2:T5	

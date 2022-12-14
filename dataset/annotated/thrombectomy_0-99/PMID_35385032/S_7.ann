@@ -1,0 +1,16 @@
+T1	Targ 32 82	Thrombolysis in Cerebral Infarction [ TICI ] grade
+T2	Num 89 90	3
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 93 98	rates
+T4	Num 125 128	0.9
+T5	Num 133 138	0.867
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+T6	Targ 156 158	OR
+T7	Num 161 165	0.72
+R4	acomp Arg1:T7 Arg2:T6	
+T8	Targ 168 175	0.95 CI
+T9	Num 178 182	0.15
+T10	Num 185 189	3.55
+R5	acomp Arg1:T9 Arg2:T8	
+R6	acomp Arg1:T10 Arg2:T8	

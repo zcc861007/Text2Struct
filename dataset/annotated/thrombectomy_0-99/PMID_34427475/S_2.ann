@@ -1,0 +1,17 @@
+T1	Num 45 48	0.2
+T2	Targ 21 41	estimated difference
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 112 115	318
+T4	Unit 116 124	patients
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 146 150	0.05
+T6	Targ 151 163	significance
+R3	acomp Arg1:T5 Arg2:T6	
+T7	Num 168 171	0.9
+T8	Targ 172 177	power
+R4	acomp Arg1:T7 Arg2:T8	
+T9	Num 248 251	212
+T10	Unit 252 260	patients
+T11	Targ 234 245	sample size
+R5	acomp Arg1:T9 Arg2:T10	
+R6	acomp Arg1:T9 Arg2:T11	

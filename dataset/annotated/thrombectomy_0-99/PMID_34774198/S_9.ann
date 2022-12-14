@@ -1,0 +1,24 @@
+T1	Num 284 286	12
+T2	Num 289 291	24
+T3	Unit 292 293	h
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	
+T4	Targ 303 305	OR
+T5	Num 306 310	5.86
+R3	acomp Arg1:T5 Arg2:T4	
+T6	Targ 313 320	0.95 CI
+T7	Num 321 325	3.14
+T8	Num 328 333	10.94
+R4	acomp Arg1:T7 Arg2:T6	
+R5	acomp Arg1:T8 Arg2:T6	
+T9	Num 374 375	6
+T10	Num 378 380	12
+T11	Unit 381 382	h
+R6	acomp Arg1:T9 Arg2:T11	
+R7	acomp Arg1:T10 Arg2:T11	
+T12	Num 385 389	1.76
+T13	Num 392 396	1.18
+T14	Num 399 403	2.62
+T15	Targ 408 420	pinteraction
+T16	Num 423 429	0.0087
+R8	acomp Arg1:T16 Arg2:T15	

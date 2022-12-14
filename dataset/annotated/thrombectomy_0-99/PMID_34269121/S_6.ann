@@ -1,0 +1,11 @@
+T1	Num 11 15	6145
+T2	Num 31 35	4122
+T3	Num 65 68	662
+T4	Unit 69 77	patients
+T5	Targ 25 28	tPA
+R1	acomp Arg1:T1 Arg2:T5	
+T6	Targ 46 58	thrombectomy
+R2	acomp Arg1:T2 Arg2:T6	
+T7	Targ 88 103	hemicraniectomy
+R3	acomp Arg1:T3 Arg2:T4	
+R4	acomp Arg1:T3 Arg2:T7	

@@ -1,0 +1,5 @@
+T1	Num 107 114	1049062
+T2	Unit 102 106	AR $
+T3	Targ 115 130	overall savings
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	

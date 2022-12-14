@@ -1,0 +1,43 @@
+T1	Targ 84 87	mRS
+T2	Num 94 95	2
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 98 100	SP
+T4	Num 101 105	0.51
+T5	Targ 109 111	BP
+T6	Num 112 116	0.43
+T7	Targ 119 120	p
+T8	Num 123 127	0.14
+R2	acomp Arg1:T8 Arg2:T7	
+R3	acomp Arg1:T6 Arg2:T5	
+R4	acomp Arg1:T4 Arg2:T3	
+T9	Targ 160 162	SP
+T10	Num 163 167	0.87
+T11	Targ 171 173	BP
+T12	Num 174 178	0.88
+R5	acomp Arg1:T10 Arg2:T9	
+R6	acomp Arg1:T12 Arg2:T11	
+T13	Targ 181 182	p
+T14	Num 185 189	0.72
+R7	acomp Arg1:T14 Arg2:T13	
+T15	Targ 229 231	SP
+T16	Num 232 236	0.03
+R8	acomp Arg1:T16 Arg2:T15	
+T17	Targ 240 242	BP
+T18	Num 243 247	0.02
+R9	acomp Arg1:T18 Arg2:T17	
+T19	Targ 250 251	p
+T20	Num 254 258	0.96
+R10	acomp Arg1:T20 Arg2:T19	
+T21	Targ 308 310	SP
+T22	Num 311 313	24
+T23	Unit 314 317	min
+T24	Targ 321 323	BP
+T25	Num 324 326	26
+T26	Unit 327 330	min
+T27	Targ 333 334	p
+T28	Num 337 341	0.58
+R11	acomp Arg1:T28 Arg2:T27	
+R12	acomp Arg1:T25 Arg2:T26	
+R13	acomp Arg1:T25 Arg2:T24	
+R14	acomp Arg1:T22 Arg2:T23	
+R15	acomp Arg1:T22 Arg2:T21	

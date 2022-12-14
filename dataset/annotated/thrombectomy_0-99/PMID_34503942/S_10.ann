@@ -1,0 +1,17 @@
+T1	Num 89 94	0.042
+T2	Num 111 115	0.04
+T3	Num 123 127	1.12
+T4	Targ 130 138	0.95 CrI
+T5	Targ 120 122	OR
+T6	Num 139 143	0.76
+T7	Num 147 151	1.68
+T8	Num 158 162	0.72
+T9	Targ 154 155	p
+R1	acomp Arg1:T8 Arg2:T9	
+R2	acomp Arg1:T6 Arg2:T4	
+R3	acomp Arg1:T7 Arg2:T4	
+R4	acomp Arg1:T3 Arg2:T5	
+T10	Targ 101 108	control
+T11	Targ 74 86	thrombectomy
+R5	acomp Arg1:T1 Arg2:T11	
+R6	acomp Arg1:T2 Arg2:T10	

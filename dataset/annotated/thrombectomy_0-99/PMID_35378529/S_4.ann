@@ -1,0 +1,3 @@
+T1	Targ 41 46	Stata
+T2	Num 47 51	12.0
+R1	acomp Arg1:T2 Arg2:T1	

@@ -1,0 +1,12 @@
+T1	Num 40 44	69.5
+T2	Num 47 51	11.7
+T3	Num 66 71	0.488
+T4	Targ 77 83	female
+T5	Targ 0 8	Mean age
+T6	Targ 15 33	standard deviation
+T7	Unit 54 59	years
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T7	
+R3	acomp Arg1:T1 Arg2:T7	
+R4	acomp Arg1:T1 Arg2:T5	
+R5	acomp Arg1:T2 Arg2:T6	

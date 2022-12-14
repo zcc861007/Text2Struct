@@ -1,0 +1,5 @@
+T1	Num 21 26	89645
+T2	Unit 27 46	weighted admissions
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 132 136	2013
+T4	Num 140 144	2018

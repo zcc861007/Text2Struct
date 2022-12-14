@@ -1,0 +1,9 @@
+T1	Num 53 54	3
+T2	Num 58 60	90
+T3	Targ 49 52	mRS
+T4	Unit 61 65	days
+T5	Num 0 4	0.38
+T6	Targ 11 32	good clinical outcome
+R1	acomp Arg1:T5 Arg2:T6	
+R2	acomp Arg1:T1 Arg2:T3	
+R3	acomp Arg1:T2 Arg2:T4	

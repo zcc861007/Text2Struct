@@ -1,0 +1,10 @@
+T1	Num 97 99	80
+T2	Num 120 122	18
+T3	Unit 100 105	years
+T4	Unit 123 128	years
+T5	Targ 88 96	over age
+T6	Targ 110 119	under age
+R1	acomp Arg1:T1 Arg2:T5	
+R2	acomp Arg1:T1 Arg2:T3	
+R3	acomp Arg1:T2 Arg2:T6	
+R4	acomp Arg1:T2 Arg2:T4	

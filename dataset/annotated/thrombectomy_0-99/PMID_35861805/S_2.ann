@@ -1,0 +1,5 @@
+T1	Targ 78 105	modified Rankin Scale score
+T2	Num 106 107	0
+T3	Num 110 111	2
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	

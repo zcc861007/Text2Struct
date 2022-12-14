@@ -1,0 +1,8 @@
+T1	Num 18 22	0.57
+T2	Num 62 64	90
+T3	Unit 7 15	patients
+T4	Unit 65 69	days
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T4	
+T5	Targ 29 55	favorable clinical outcome
+R3	acomp Arg1:T1 Arg2:T5	

@@ -1,0 +1,5 @@
+T1	Targ 39 55	elderly patients
+T2	Num 60 62	80
+T3	Unit 63 68	years
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T1	

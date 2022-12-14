@@ -1,0 +1,8 @@
+T1	Targ 0 18	Mean hospital stay
+T2	Num 26 29	3.6
+T3	Num 34 37	1.7
+T4	Unit 40 44	days
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T4	
+R3	acomp Arg1:T2 Arg2:T1	
+R4	acomp Arg1:T3 Arg2:T1	

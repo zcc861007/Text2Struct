@@ -1,0 +1,1 @@
+Functional independence was similar ( EVTpri : 0.774 vs MMpri : 0.756 , adjusted odds ratio [ aOR ] = 1.29 , 0.95 confidence interval [ CI ] = 0.82 - 2.03 , p = 0.27 ) .

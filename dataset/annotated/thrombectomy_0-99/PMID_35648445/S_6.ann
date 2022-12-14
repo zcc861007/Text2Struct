@@ -1,0 +1,5 @@
+T1	Num 41 44	533
+T2	Unit 45 53	patients
+T3	Targ 14 30	study population
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	

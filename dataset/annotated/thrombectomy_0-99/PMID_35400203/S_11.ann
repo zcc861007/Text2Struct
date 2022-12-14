@@ -1,0 +1,9 @@
+T1	Targ 52 135	patients who underwent combined stent retriever and contact aspiration thrombectomy
+T2	Targ 143 185	those who underwent either procedure alone
+T3	Num 188 192	0.22
+T4	Num 200 204	0.19
+R1	acomp Arg1:T3 Arg2:T1	
+R2	acomp Arg1:T4 Arg2:T2	
+T5	Targ 207 208	P
+T6	Num 211 215	0.80
+R3	acomp Arg1:T6 Arg2:T5	

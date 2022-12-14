@@ -1,0 +1,5 @@
+T1	Num 165 167	64
+T2	Num 171 174	104
+T3	Unit 175 189	thrombectomies
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	

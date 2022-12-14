@@ -1,0 +1,8 @@
+T1	Targ 35 50	female patients
+T2	Num 53 57	0.67
+T3	Num 65 69	0.31
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+T4	Targ 87 88	P
+T5	Num 91 96	0.001
+R3	acomp Arg1:T5 Arg2:T4	

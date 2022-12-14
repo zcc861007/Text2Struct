@@ -1,0 +1,1 @@
+When adjusting for confounders this number was reduced to 0.16 , yet still highly significant ( p < .001 ) .

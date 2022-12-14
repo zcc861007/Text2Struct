@@ -1,0 +1,5 @@
+T1	Num 34 37	225
+T2	Unit 38 58	consecutive patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 72 83	EVT for LVO
+R2	acomp Arg1:T1 Arg2:T3	

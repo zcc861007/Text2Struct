@@ -1,0 +1,24 @@
+T1	Num 13 17	68.8
+T2	Num 22 24	16
+T3	Unit 25 30	years
+T4	Targ 0 8	Mean age
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T4	
+R3	acomp Arg1:T2 Arg2:T3	
+R4	acomp Arg1:T1 Arg2:T3	
+T5	Targ 37 106	median admission National Institutes of Health Stroke Scale ( NIHSS )
+T6	Targ 111 177	Alberta Stroke Program Early Computed Tomography Score ( ASPECTS )
+T7	Num 183 185	17
+T8	Num 206 207	7
+T9	Targ 188 191	IQR
+T10	Num 192 194	12
+T11	Num 197 199	21
+T12	Targ 210 213	IQR
+T13	Num 214 215	5
+T14	Num 218 219	8
+R5	acomp Arg1:T13 Arg2:T12	
+R6	acomp Arg1:T14 Arg2:T12	
+R7	acomp Arg1:T10 Arg2:T9	
+R8	acomp Arg1:T11 Arg2:T9	
+R9	acomp Arg1:T7 Arg2:T5	
+R10	acomp Arg1:T8 Arg2:T6	

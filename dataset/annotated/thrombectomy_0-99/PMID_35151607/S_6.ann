@@ -1,0 +1,9 @@
+T1	Num 43 45	80
+T2	Num 74 77	116
+T3	Num 110 112	52
+T4	Targ 33 40	ICs ( n
+T5	Targ 50 71	vascular surgeons ( n
+T6	Targ 86 107	neuroradiologists ( n
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T5	
+R3	acomp Arg1:T3 Arg2:T6	

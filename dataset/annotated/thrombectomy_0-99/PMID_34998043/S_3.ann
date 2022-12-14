@@ -1,0 +1,5 @@
+T1	Targ 137 148	NIHSS score
+T2	Num 151 152	6
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Num 161 165	2015
+T4	Num 168 172	2021

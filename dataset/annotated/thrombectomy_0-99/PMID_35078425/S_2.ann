@@ -1,0 +1,5 @@
+T1	Num 132 133	3
+T2	Num 145 147	25
+T3	Num 154 158	2015
+T4	Unit 134 139	years
+R1	acomp Arg1:T1 Arg2:T4	

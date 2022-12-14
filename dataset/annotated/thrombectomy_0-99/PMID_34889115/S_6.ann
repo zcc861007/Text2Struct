@@ -1,0 +1,6 @@
+T1	Num 3 7	1294
+T2	Unit 8 16	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 19 22	118
+T4	Unit 23 31	patients
+R2	acomp Arg1:T3 Arg2:T4	

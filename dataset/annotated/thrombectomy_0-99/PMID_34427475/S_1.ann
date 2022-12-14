@@ -1,0 +1,5 @@
+T1	Num 130 131	6
+T2	Num 134 136	24
+T3	Unit 137 138	h
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	

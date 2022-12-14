@@ -1,0 +1,16 @@
+T1	Unit 16 24	patients
+T2	Num 11 15	1227
+T3	Num 27 32	0.499
+T4	Num 57 61	1233
+T5	Unit 62 70	patients
+T6	Num 73 78	0.501
+T7	Targ 42 52	DEVT group
+T8	Targ 88 96	BT group
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+R3	acomp Arg1:T2 Arg2:T7	
+R4	acomp Arg1:T3 Arg2:T7	
+R5	acomp Arg1:T4 Arg2:T5	
+R6	acomp Arg1:T6 Arg2:T5	
+R7	acomp Arg1:T6 Arg2:T8	
+R8	acomp Arg1:T4 Arg2:T8	

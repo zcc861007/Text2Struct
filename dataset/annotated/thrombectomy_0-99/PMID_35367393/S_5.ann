@@ -1,0 +1,5 @@
+T1	Num 37 39	11
+T2	Unit 40 48	patients
+T3	Targ 54 57	LVO
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	

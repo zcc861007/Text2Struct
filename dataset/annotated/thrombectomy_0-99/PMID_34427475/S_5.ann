@@ -1,0 +1,8 @@
+T1	Targ 82 111	modified Rankin Scale ( mRS )
+T2	Num 112 113	0
+T3	Num 116 117	3
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+T4	Num 121 123	90
+T5	Unit 124 128	days
+R3	acomp Arg1:T4 Arg2:T5	

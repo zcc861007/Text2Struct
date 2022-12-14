@@ -1,0 +1,11 @@
+T1	Num 33 38	0.195
+T2	Unit 59 67	patients
+T3	Num 46 49	221
+T4	Num 41 43	43
+T5	Targ 0 20	AIS eligible for EVT
+R1	acomp Arg1:T1 Arg2:T5	
+R2	acomp Arg1:T4 Arg2:T5	
+R3	acomp Arg1:T3 Arg2:T5	
+R4	acomp Arg1:T3 Arg2:T2	
+R5	acomp Arg1:T4 Arg2:T2	
+R6	acomp Arg1:T1 Arg2:T2	

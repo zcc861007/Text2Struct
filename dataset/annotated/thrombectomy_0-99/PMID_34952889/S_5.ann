@@ -1,0 +1,22 @@
+T1	Num 69 71	57
+T2	Unit 72 84	MSU patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 111 114	911
+T4	Num 131 135	42.5
+T5	Unit 136 139	min
+T6	Targ 93 105	average time
+R2	acomp Arg1:T4 Arg2:T6	
+R3	acomp Arg1:T4 Arg2:T5	
+T7	Num 175 177	73
+T8	Unit 178 186	patients
+T9	Num 207 211	99.4
+T10	Unit 212 215	min
+R4	acomp Arg1:T9 Arg2:T10	
+T11	Targ 230 231	p
+T12	Num 234 239	0.001
+R5	acomp Arg1:T12 Arg2:T11	
+T13	Targ 159 162	EMS
+R6	acomp Arg1:T7 Arg2:T8	
+R7	acomp Arg1:T7 Arg2:T13	
+T14	Targ 0 48	Intravenous tissue plasminogen activator ( tPA )
+R8	acomp Arg1:T1 Arg2:T14	

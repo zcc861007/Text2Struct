@@ -1,0 +1,19 @@
+T1	Num 0 2	41
+T2	Num 51 53	23
+T3	Num 65 70	0.561
+T4	Num 245 247	18
+T5	Num 259 264	0.463
+T6	Targ 78 105	distal main stem occlusions
+T7	Targ 272 307	distal individual branch occlusions
+T8	Unit 54 62	patients
+T9	Unit 248 256	patients
+T10	Unit 3 11	patients
+R1	acomp Arg1:T1 Arg2:T10	
+R2	acomp Arg1:T2 Arg2:T8	
+R3	acomp Arg1:T3 Arg2:T8	
+R4	acomp Arg1:T3 Arg2:T6	
+R5	acomp Arg1:T2 Arg2:T6	
+R6	acomp Arg1:T4 Arg2:T9	
+R7	acomp Arg1:T5 Arg2:T9	
+R8	acomp Arg1:T5 Arg2:T7	
+R9	acomp Arg1:T4 Arg2:T7	

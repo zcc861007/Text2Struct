@@ -1,0 +1,17 @@
+T1	Num 21 23	23
+T2	Unit 24 29	cases
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 43 45	22
+T4	Unit 46 62	successful cases
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 67 68	1
+T6	Unit 69 86	unsuccessful case
+R3	acomp Arg1:T5 Arg2:T6	
+T7	Targ 93 112	mean procedure time
+T8	Num 119 123	68.2
+T9	Num 128 132	15.6
+T10	Unit 135 138	min
+R4	acomp Arg1:T9 Arg2:T10	
+R5	acomp Arg1:T8 Arg2:T10	
+R6	acomp Arg1:T8 Arg2:T7	
+R7	acomp Arg1:T9 Arg2:T7	

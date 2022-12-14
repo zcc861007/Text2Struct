@@ -1,0 +1,22 @@
+T1	Num 29 33	0.14
+T2	Num 36 37	4
+T3	Num 40 42	28
+T4	Unit 48 60	participants
+T5	Targ 68 78	USAT group
+T6	Num 86 90	0.03
+T7	Num 93 94	1
+T8	Num 97 99	32
+T9	Unit 105 117	participants
+T10	Targ 125 134	CDT group
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T4	
+R3	acomp Arg1:T1 Arg2:T4	
+R4	acomp Arg1:T3 Arg2:T5	
+R5	acomp Arg1:T2 Arg2:T5	
+R6	acomp Arg1:T1 Arg2:T5	
+R7	acomp Arg1:T8 Arg2:T9	
+R8	acomp Arg1:T7 Arg2:T9	
+R9	acomp Arg1:T6 Arg2:T9	
+R10	acomp Arg1:T8 Arg2:T10	
+R11	acomp Arg1:T7 Arg2:T10	
+R12	acomp Arg1:T6 Arg2:T10	

@@ -1,0 +1,10 @@
+T1	Targ 0 83	Successful recanalization ( thrombolysis in cerebral infarction [ TICI ] > / = 2b )
+T2	Num 115 118	1.0
+T3	Unit 104 112	patients
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T1	
+T4	Targ 127 133	TICI 3
+T5	Num 150 155	0.939
+T6	Unit 159 167	patients
+R3	acomp Arg1:T5 Arg2:T6	
+R4	acomp Arg1:T5 Arg2:T4	

@@ -1,0 +1,13 @@
+T1	Num 19 21	74
+T2	Unit 22 27	years
+T3	Targ 4 13	median ag
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T2	
+T4	Targ 30 87	baseline National Institutes of Health Stroke Scale score
+T5	Num 92 94	14
+R3	acomp Arg1:T5 Arg2:T4	
+T6	Targ 101 112	core volume
+T7	Num 117 119	13
+T8	Unit 120 122	mL
+R4	acomp Arg1:T7 Arg2:T8	
+R5	acomp Arg1:T7 Arg2:T6	

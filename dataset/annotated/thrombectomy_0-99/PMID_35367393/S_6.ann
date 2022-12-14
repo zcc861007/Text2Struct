@@ -1,0 +1,5 @@
+T1	Num 11 14	216
+T2	Unit 15 20	cases
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 39 56	literature search
+R2	acomp Arg1:T1 Arg2:T3	

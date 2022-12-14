@@ -1,0 +1,1 @@
+EVT had worse safety regarding sICH ( EVTpri : 0.163 vs MMpri : 0.013 , p < 0.001 ) and neurological worsening ( EVTpri : 0.196 vs MMpri : 0.067 , p < 0.001 ) .

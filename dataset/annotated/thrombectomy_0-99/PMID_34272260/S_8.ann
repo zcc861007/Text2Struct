@@ -1,0 +1,12 @@
+T1	Num 37 41	0.38
+T2	Num 44 46	27
+T3	Num 49 51	71
+T4	Unit 57 66	all cases
+T5	Num 76 77	3
+T6	Targ 70 75	mTICI
+R1	acomp Arg1:T5 Arg2:T6	
+T7	Targ 4 29	first reperfusion attempt
+R2	acomp Arg1:T3 Arg2:T4	
+R3	acomp Arg1:T2 Arg2:T4	
+R4	acomp Arg1:T1 Arg2:T4	
+R5	acomp Arg1:T1 Arg2:T7	

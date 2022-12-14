@@ -1,0 +1,16 @@
+T1	Targ 0 8	Mean age
+T2	Num 13 17	64.7
+T3	Num 22 26	16.7
+T4	Num 29 33	0.42
+T5	Targ 39 45	female
+T6	Targ 52 64	median NIHSS
+T7	Num 69 71	20
+T8	Targ 74 77	IQR
+T9	Num 78 80	11
+T10	Num 83 85	27
+R1	acomp Arg1:T9 Arg2:T8	
+R2	acomp Arg1:T10 Arg2:T8	
+R3	acomp Arg1:T7 Arg2:T6	
+R4	acomp Arg1:T4 Arg2:T5	
+R5	acomp Arg1:T2 Arg2:T1	
+R6	acomp Arg1:T3 Arg2:T1	

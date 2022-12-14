@@ -1,0 +1,19 @@
+T1	Num 13 16	370
+T2	Unit 17 25	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 28 31	124
+T4	Targ 44 58	tortuous group
+R2	acomp Arg1:T3 Arg2:T4	
+R3	acomp Arg1:T3 Arg2:T2	
+T5	Targ 61 88	extracranial ICA tortuosity
+T6	Targ 96 120	cavernous ICA tortuosity
+T7	Targ 128 152	tortuosity at both sites
+T8	Num 91 93	35
+T9	Num 123 125	70
+T10	Num 155 157	19
+R4	acomp Arg1:T8 Arg2:T5	
+R5	acomp Arg1:T9 Arg2:T6	
+R6	acomp Arg1:T10 Arg2:T7	
+R7	acomp Arg1:T8 Arg2:T2	
+R8	acomp Arg1:T9 Arg2:T2	
+R9	acomp Arg1:T10 Arg2:T2	

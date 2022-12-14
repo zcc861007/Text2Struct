@@ -1,0 +1,26 @@
+T1	Targ 19 42	intracranial hemorrhage
+T2	Num 45 49	0.54
+T3	Num 57 61	0.42
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+T4	Targ 64 83	adjusted odds ratio
+T5	Num 86 90	1.61
+R3	acomp Arg1:T5 Arg2:T4	
+T6	Targ 93 100	0.95 CI
+T7	Num 103 107	1.02
+T8	Num 110 114	2.53
+R4	acomp Arg1:T7 Arg2:T6	
+R5	acomp Arg1:T8 Arg2:T6	
+T9	Targ 123 143	parenchymal hematoma
+T10	Num 146 150	0.11
+T11	Num 158 162	0.06
+R6	acomp Arg1:T10 Arg2:T9	
+R7	acomp Arg1:T11 Arg2:T9	
+T12	Targ 165 184	adjusted odds ratio
+T13	Num 187 191	2.41
+R8	acomp Arg1:T13 Arg2:T12	
+T14	Targ 194 201	0.95 CI
+T15	Num 204 208	1.04
+T16	Num 211 215	5.58
+R9	acomp Arg1:T15 Arg2:T14	
+R10	acomp Arg1:T16 Arg2:T14	

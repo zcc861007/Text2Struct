@@ -1,0 +1,5 @@
+T1	Num 65 68	257
+T2	Unit 69 90	acute stroke patients
+T3	Targ 96 113	LVO undergoing MT
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	

@@ -1,0 +1,15 @@
+T1	Targ 53 54	P
+T2	Num 57 62	0.016
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 67 85	NIHSS on admission
+T4	Num 88 90	15
+R2	acomp Arg1:T4 Arg2:T3	
+T5	Targ 93 94	P
+T6	Num 97 102	0.032
+R3	acomp Arg1:T6 Arg2:T5	
+T7	Targ 111 127	GCS on admission
+T8	Num 130 131	8
+R4	acomp Arg1:T8 Arg2:T7	
+T9	Targ 134 135	P
+T10	Num 138 143	0.010
+R5	acomp Arg1:T10 Arg2:T9	

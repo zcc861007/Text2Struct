@@ -1,0 +1,3 @@
+T1	Unit 79 83	days
+T2	Num 77 78	2
+R1	acomp Arg1:T2 Arg2:T1	

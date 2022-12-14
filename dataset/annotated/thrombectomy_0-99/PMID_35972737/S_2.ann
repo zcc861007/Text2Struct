@@ -1,0 +1,19 @@
+T1	Targ 136 163	modified Rankin Scale score
+T2	Num 166 167	3
+T3	Num 171 172	4
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+T4	Num 237 241	2006
+T5	Num 258 262	2019
+T6	Targ 265 273	controls
+T7	Num 276 280	2006
+T8	Num 283 287	2015
+R3	acomp Arg1:T7 Arg2:T6	
+R4	acomp Arg1:T8 Arg2:T6	
+T9	Targ 290 302	thrombectomy
+T10	Num 305 309	2015
+T11	Num 312 316	2019
+R5	acomp Arg1:T10 Arg2:T9	
+R6	acomp Arg1:T11 Arg2:T9	
+T12	Num 233 234	1
+T13	Num 253 255	30

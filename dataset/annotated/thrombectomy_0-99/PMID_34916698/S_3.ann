@@ -1,0 +1,14 @@
+T1	Targ 0 20	Duration of symptoms
+T2	Num 25 26	6
+T3	Num 36 38	14
+T4	Unit 27 32	hours
+T5	Unit 39 43	days
+T6	Targ 46 57	median time
+T7	Num 58 59	7
+T8	Unit 60 64	days
+R1	acomp Arg1:T7 Arg2:T8	
+R2	acomp Arg1:T7 Arg2:T6	
+R3	acomp Arg1:T3 Arg2:T5	
+R4	acomp Arg1:T2 Arg2:T4	
+R5	acomp Arg1:T2 Arg2:T1	
+R6	acomp Arg1:T3 Arg2:T1	

@@ -1,0 +1,8 @@
+T1	Num 11 16	59935
+T2	Num 19 24	0.669
+T3	Unit 27 37	admissions
+T4	Targ 47 76	mechanical thrombectomy alone
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	
+R3	acomp Arg1:T2 Arg2:T4	
+R4	acomp Arg1:T1 Arg2:T4	

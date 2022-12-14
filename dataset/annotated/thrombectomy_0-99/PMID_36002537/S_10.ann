@@ -1,0 +1,10 @@
+T1	Targ 0 15	Primary patency
+T2	Num 20 24	0.72
+T3	Num 27 29	13
+T4	Num 32 34	18
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+R3	acomp Arg1:T4 Arg2:T1	
+T5	Targ 85 86	P
+T6	Num 89 92	.94
+R4	acomp Arg1:T6 Arg2:T5	

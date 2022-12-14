@@ -1,0 +1,38 @@
+T1	Num 41 45	0.55
+T2	Num 51 54	146
+T3	Unit 55 63	patients
+T4	Num 36 38	80
+T6	Targ 71 96	direct thrombectomy group
+R4	acomp Arg1:T2 Arg2:T6	
+T7	Num 101 103	89
+T8	Num 106 110	0.61
+T9	Num 116 119	147
+T10	Unit 120 128	patients
+T11	Targ 136 158	bridging therapy group
+R7	acomp Arg1:T9 Arg2:T10	
+R8	acomp Arg1:T9 Arg2:T11	
+R1	acomp Arg1:T1 Arg2:T6	
+R2	acomp Arg1:T4 Arg2:T6	
+R5	acomp Arg1:T2 Arg2:T3	
+R6	acomp Arg1:T1 Arg2:T3	
+R9	acomp Arg1:T4 Arg2:T3	
+R10	acomp Arg1:T8 Arg2:T11	
+R11	acomp Arg1:T7 Arg2:T11	
+R12	acomp Arg1:T8 Arg2:T10	
+R13	acomp Arg1:T7 Arg2:T10	
+T5	Targ 161 195	intention-to-treat risk difference
+T12	Num 196 202	-0.051
+T13	Targ 205 222	two-sided 0.95 CI
+T14	Num 223 229	-0.160
+T15	Num 233 238	0.059
+T16	Targ 241 269	per-protocol risk difference
+T17	Num 270 276	-0.062
+T18	Targ 279 296	two-sided 0.95 CI
+T19	Num 297 303	-0.173
+T20	Num 307 312	0.049
+R14	acomp Arg1:T12 Arg2:T5	
+R15	acomp Arg1:T14 Arg2:T13	
+R16	acomp Arg1:T15 Arg2:T13	
+R17	acomp Arg1:T17 Arg2:T16	
+R18	acomp Arg1:T19 Arg2:T18	
+R19	acomp Arg1:T20 Arg2:T18	

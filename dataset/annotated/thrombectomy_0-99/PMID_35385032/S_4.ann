@@ -1,0 +1,7 @@
+T1	Num 24 28	2020
+T2	Num 42 46	2021
+T3	Num 49 51	60
+T4	Unit 52 60	patients
+R1	acomp Arg1:T3 Arg2:T4	
+T5	Targ 83 88	study
+R2	acomp Arg1:T3 Arg2:T5	

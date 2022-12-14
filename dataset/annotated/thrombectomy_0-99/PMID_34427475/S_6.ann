@@ -1,0 +1,34 @@
+T1	Targ 65 87	dichotomized mRS score
+T2	Num 90 91	0
+T3	Num 94 95	2
+T4	Num 100 101	3
+T5	Num 104 105	6
+T6	Num 110 111	0
+T7	Num 114 115	4
+T8	Num 120 121	5
+T9	Num 124 125	6
+T10	Num 131 133	90
+T11	Unit 134 138	days
+R1	acomp Arg1:T10 Arg2:T11	
+R2	acomp Arg1:T2 Arg2:T1	
+R3	acomp Arg1:T3 Arg2:T1	
+R4	acomp Arg1:T4 Arg2:T1	
+R5	acomp Arg1:T5 Arg2:T1	
+R6	acomp Arg1:T6 Arg2:T1	
+R7	acomp Arg1:T7 Arg2:T1	
+R8	acomp Arg1:T8 Arg2:T1	
+R9	acomp Arg1:T9 Arg2:T1	
+T12	Num 175 177	90
+T13	Unit 178 182	days
+R10	acomp Arg1:T12 Arg2:T13	
+T14	Num 203 205	24
+T15	Unit 206 207	h
+R11	acomp Arg1:T14 Arg2:T15	
+T16	Num 235 237	24
+T17	Unit 238 239	h
+R12	acomp Arg1:T16 Arg2:T17	
+T18	Targ 417 422	mTICI
+T19	Num 423 424	2
+T20	Num 430 431	3
+R13	acomp Arg1:T19 Arg2:T18	
+R14	acomp Arg1:T20 Arg2:T18	

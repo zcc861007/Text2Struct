@@ -1,0 +1,14 @@
+T1	Num 66 68	90
+T2	Num 94 98	0.52
+T3	Num 132 136	0.46
+T4	Num 140 144	0.61
+T5	Num 180 186	0.0001
+T6	Targ 101 131	0.95 credible interval [ CrI ]
+T7	Targ 76 93	odds ratio [ OR ]
+T8	Targ 147 177	probability ( control better )
+T9	Unit 69 73	days
+R1	acomp Arg1:T1 Arg2:T9	
+R2	acomp Arg1:T2 Arg2:T7	
+R3	acomp Arg1:T3 Arg2:T6	
+R4	acomp Arg1:T4 Arg2:T6	
+R5	acomp Arg1:T5 Arg2:T8	

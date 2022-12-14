@@ -1,0 +1,5 @@
+T1	Unit 210 211	h
+T2	Num 206 209	4.5
+T3	Targ 177 199	time from stroke onset
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T1	

@@ -1,0 +1,18 @@
+T1	Targ 38 44	EVTpri
+T2	Num 47 52	0.163
+T3	Targ 56 61	MMpri
+T4	Num 64 69	0.013
+T5	Targ 72 73	p
+T6	Num 76 81	0.001
+R1	acomp Arg1:T6 Arg2:T5	
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T2 Arg2:T1	
+T7	Targ 113 119	EVTpri
+T8	Targ 131 136	MMpri
+T9	Num 122 127	0.196
+T10	Num 139 144	0.067
+T11	Targ 147 148	p
+T12	Num 151 156	0.001
+R4	acomp Arg1:T12 Arg2:T11	
+R5	acomp Arg1:T10 Arg2:T8	
+R6	acomp Arg1:T9 Arg2:T7	

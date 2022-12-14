@@ -1,0 +1,6 @@
+T1	Num 42 46	1660
+T2	Unit 47 61	stroke centers
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 126 129	306
+T4	Unit 157 209	thrombectomy-capable or comprehensive stroke centers
+R2	acomp Arg1:T3 Arg2:T4	

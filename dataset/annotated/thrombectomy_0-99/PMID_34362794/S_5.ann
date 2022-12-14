@@ -1,0 +1,11 @@
+T1	Num 129 133	5861
+T2	Num 145 149	2041
+T3	Num 189 193	3820
+T4	Unit 134 142	patients
+T5	Targ 112 125	pooled cohort
+R1	acomp Arg1:T1 Arg2:T5	
+R2	acomp Arg1:T1 Arg2:T4	
+T6	Targ 169 182	hyperglycemia
+T7	Targ 213 240	normal blood glucose levels
+R3	acomp Arg1:T2 Arg2:T6	
+R4	acomp Arg1:T3 Arg2:T7	

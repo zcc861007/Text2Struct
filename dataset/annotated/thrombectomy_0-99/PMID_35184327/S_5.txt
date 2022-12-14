@@ -1,0 +1,1 @@
+EVT was associated with higher functional independence in patients with a perfusion mismatch profile ( EVT = 0.707 vs MM = 0.613 , aOR = 2.29 , 0.95 CI = 1.09 - 4.79 , p = 0.029 , IPTW-OR = 2.02 , 1.08 - 3.78 , p = 0.029 ) , whereas no difference was found in those without mismatch ( EVT = 0.438 vs MM = 0.627 , p = 0.17 , IPTW-OR : 0.71 , 0.95 CI = 0.18 - 2.78 , p = 0.62 ) .

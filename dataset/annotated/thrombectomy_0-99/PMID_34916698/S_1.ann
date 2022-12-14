@@ -1,0 +1,7 @@
+T1	Num 24 28	2017
+T2	Num 41 45	2019
+T3	Num 69 71	23
+T4	Unit 72 103	acute lower limb ischemia cases
+T5	Targ 52 65	clinical data
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T3 Arg2:T5	

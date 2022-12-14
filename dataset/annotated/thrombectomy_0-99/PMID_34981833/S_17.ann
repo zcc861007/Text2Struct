@@ -1,0 +1,32 @@
+T1	Num 139 143	1.14
+T2	Num 178 182	0.17
+T3	Num 186 190	7.59
+T4	Num 215 219	1.71
+T5	Num 230 234	0.31
+T6	Num 238 242	9.53
+T7	Num 269 273	1.00
+T8	Num 284 288	0.94
+T9	Num 292 296	1.07
+T10	Num 326 330	5.69
+T11	Num 341 345	0.28
+T12	Num 349 355	113.72
+T13	Targ 121 138	risk ratio ( RR )
+R1	acomp Arg1:T1 Arg2:T13	
+T14	Targ 146 177	0.95 confidence interval ( CI )
+R2	acomp Arg1:T2 Arg2:T14	
+R3	acomp Arg1:T3 Arg2:T14	
+T15	Targ 212 214	RR
+T16	Targ 222 229	0.95 CI
+R4	acomp Arg1:T4 Arg2:T15	
+R5	acomp Arg1:T5 Arg2:T16	
+R6	acomp Arg1:T6 Arg2:T16	
+T17	Targ 266 268	RR
+R7	acomp Arg1:T7 Arg2:T17	
+T18	Targ 276 283	0.95 CI
+R8	acomp Arg1:T8 Arg2:T18	
+R9	acomp Arg1:T9 Arg2:T18	
+T19	Targ 323 325	RR
+R10	acomp Arg1:T10 Arg2:T19	
+T20	Targ 333 340	0.95 CI
+R11	acomp Arg1:T11 Arg2:T20	
+R12	acomp Arg1:T12 Arg2:T20	

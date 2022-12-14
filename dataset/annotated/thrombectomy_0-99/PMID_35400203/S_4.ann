@@ -1,0 +1,5 @@
+T1	Targ 141 176	3-month modified Rankin Scale score
+T2	Num 180 181	0
+T3	Num 184 185	2
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	

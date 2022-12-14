@@ -1,0 +1,10 @@
+T1	Num 33 35	55
+T2	Num 43 45	56
+T3	Unit 46 56	procedures
+T4	Targ 0 16	Clinical success
+T5	Num 59 64	0.982
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T5 Arg2:T3	
+R3	acomp Arg1:T1 Arg2:T3	
+R4	acomp Arg1:T1 Arg2:T4	
+R5	acomp Arg1:T5 Arg2:T4	

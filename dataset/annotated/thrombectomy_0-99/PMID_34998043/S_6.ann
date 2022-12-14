@@ -1,0 +1,13 @@
+T1	Num 54 56	66
+T2	Unit 57 62	years
+T3	Num 70 72	60
+T4	Unit 73 78	years
+T5	Targ 86 99	medical group
+T6	Targ 20 49	mechanical thrombectomy group
+R1	acomp Arg1:T1 Arg2:T6	
+R2	acomp Arg1:T1 Arg2:T2	
+R3	acomp Arg1:T3 Arg2:T4	
+R4	acomp Arg1:T3 Arg2:T5	
+T7	Num 106 110	0.06
+T8	Targ 102 103	p
+R5	acomp Arg1:T7 Arg2:T8	

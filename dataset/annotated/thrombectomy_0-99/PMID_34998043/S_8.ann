@@ -1,0 +1,15 @@
+T1	Num 0 2	14
+T2	Num 14 19	0.341
+T3	Num 63 65	20
+T4	Num 68 73	0.476
+T5	Targ 29 58	mechanical thrombectomy group
+T6	Targ 83 96	medical group
+R1	acomp Arg1:T4 Arg2:T6	
+R2	acomp Arg1:T3 Arg2:T6	
+R3	acomp Arg1:T2 Arg2:T5	
+R4	acomp Arg1:T1 Arg2:T5	
+T7	Unit 3 11	patients
+R5	acomp Arg1:T1 Arg2:T7	
+R6	acomp Arg1:T2 Arg2:T7	
+R7	acomp Arg1:T3 Arg2:T7	
+R8	acomp Arg1:T4 Arg2:T7	

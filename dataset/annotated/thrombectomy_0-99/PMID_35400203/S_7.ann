@@ -1,0 +1,14 @@
+T1	Targ 40 54	tortuous group
+T2	Targ 64 81	nontortuous group
+T3	Num 84 88	0.21
+T4	Num 96 100	0.39
+R1	acomp Arg1:T3 Arg2:T1	
+R2	acomp Arg1:T4 Arg2:T2	
+T5	Targ 103 122	adjusted odds ratio
+T6	Num 125 129	0.45
+R3	acomp Arg1:T6 Arg2:T5	
+T7	Targ 132 139	0.95 CI
+T8	Num 142 146	0.26
+T9	Num 149 153	0.77
+R4	acomp Arg1:T8 Arg2:T7	
+R5	acomp Arg1:T9 Arg2:T7	

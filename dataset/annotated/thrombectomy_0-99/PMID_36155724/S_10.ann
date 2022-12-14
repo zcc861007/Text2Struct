@@ -1,0 +1,5 @@
+T1	Num 41 46	0.156
+T2	Unit 50 58	patients
+T3	Targ 0 21	Complications of sICH
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	

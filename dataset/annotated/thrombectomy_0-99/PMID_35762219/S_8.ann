@@ -1,0 +1,13 @@
+T1	Targ 0 14	Operative time
+T2	Num 27 30	150
+T3	Num 34 37	530
+T4	Unit 38 45	minutes
+T5	Targ 48 65	blood transfusion
+T6	Num 86 91	0.382
+T7	Num 94 97	126
+R1	acomp Arg1:T6 Arg2:T5	
+R2	acomp Arg1:T7 Arg2:T5	
+R3	acomp Arg1:T2 Arg2:T1	
+R4	acomp Arg1:T3 Arg2:T1	
+R5	acomp Arg1:T3 Arg2:T4	
+R6	acomp Arg1:T2 Arg2:T4	

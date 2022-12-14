@@ -1,0 +1,3 @@
+T1	Num 132 133	3
+T2	Targ 117 128	mTICI score
+R1	acomp Arg1:T1 Arg2:T2	

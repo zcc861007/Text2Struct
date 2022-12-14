@@ -1,0 +1,3 @@
+T1	Unit 123 127	days
+T2	Num 120 122	90
+R1	acomp Arg1:T2 Arg2:T1	

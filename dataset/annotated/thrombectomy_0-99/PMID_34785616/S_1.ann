@@ -1,0 +1,3 @@
+T1	Num 38 40	24
+T2	Unit 41 46	hours
+R1	acomp Arg1:T1 Arg2:T2	

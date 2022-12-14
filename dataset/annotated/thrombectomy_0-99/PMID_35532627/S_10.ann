@@ -1,0 +1,11 @@
+T3	Unit 80 88	patients
+T4	Num 54 59	0.412
+T5	Num 62 64	91
+T6	Num 67 70	221
+T7	Targ 0 41	The patients with NIHSS > / = 6 and ACLVO
+R1	acomp Arg1:T4 Arg2:T7	
+R2	acomp Arg1:T5 Arg2:T7	
+R3	acomp Arg1:T6 Arg2:T7	
+R4	acomp Arg1:T6 Arg2:T3	
+R5	acomp Arg1:T5 Arg2:T3	
+R6	acomp Arg1:T4 Arg2:T3	

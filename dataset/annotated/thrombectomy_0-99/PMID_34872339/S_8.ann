@@ -1,0 +1,12 @@
+T1	Num 66 70	0.16
+T2	Num 93 97	0.15
+T3	Num 133 136	0.1
+T4	Num 185 189	0.31
+T5	Targ 45 63	carotid dissection
+T6	Targ 75 90	cardio-embolism
+T7	Targ 102 129	large artery atherosclerosi
+T8	Targ 145 182	embolic stroke of undetermined source
+R1	acomp Arg1:T1 Arg2:T5	
+R2	acomp Arg1:T2 Arg2:T6	
+R3	acomp Arg1:T3 Arg2:T7	
+R4	acomp Arg1:T4 Arg2:T8	

@@ -1,0 +1,15 @@
+T1	Num 36 38	85
+T2	Unit 39 47	patients
+T3	Num 62 65	186
+T4	Targ 66 70	died
+T5	Num 50 55	0.182
+T6	Num 73 77	0.39
+T7	Targ 0 18	Favorable outcomes
+R1	acomp Arg1:T1 Arg2:T7	
+R2	acomp Arg1:T1 Arg2:T2	
+R3	acomp Arg1:T5 Arg2:T2	
+R4	acomp Arg1:T5 Arg2:T7	
+R5	acomp Arg1:T3 Arg2:T4	
+R6	acomp Arg1:T6 Arg2:T4	
+R7	acomp Arg1:T3 Arg2:T2	
+R8	acomp Arg1:T6 Arg2:T2	

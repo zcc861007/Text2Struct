@@ -1,0 +1,3 @@
+T1	Targ 0 81	Technical success ( reperfusion of the vessel and no residual thrombus / stenosis
+T2	Num 84 87	0.3
+R1	acomp Arg1:T2 Arg2:T1	

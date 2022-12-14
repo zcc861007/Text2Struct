@@ -1,0 +1,3 @@
+T1	Num 211 215	0.31
+T2	Targ 195 199	rate
+R1	acomp Arg1:T1 Arg2:T2	

@@ -1,0 +1,8 @@
+T1	Num 76 81	-0.02
+T2	Num 111 113	-4
+T3	Num 117 121	-0.0
+T4	Targ 58 73	risk difference
+T5	Targ 84 108	0.95 confidence interval
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T5	
+R3	acomp Arg1:T3 Arg2:T5	

@@ -1,0 +1,19 @@
+T1	Targ 66 101	unadjusted common odds ratio ( OR )
+T2	Num 105 109	2.42
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 112 119	0.95 CI
+T4	Num 120 124	1.76
+T5	Num 127 131	3.33
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+T6	Targ 134 135	p
+T7	Num 138 144	0.0001
+R4	acomp Arg1:T7 Arg2:T6	
+T9	Num 310 314	2.54
+T10	Num 317 321	1.83
+T11	Num 324 328	3.54
+T12	Targ 331 332	p
+T13	Num 335 341	0.0001
+T8	Targ 154 172	adjusted common OR
+R5	acomp Arg1:T9 Arg2:T8	
+R6	acomp Arg1:T13 Arg2:T12	

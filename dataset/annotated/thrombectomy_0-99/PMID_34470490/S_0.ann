@@ -1,0 +1,9 @@
+T1	Num 28 32	2018
+T2	Num 35 36	2
+T3	Unit 37 65	randomized controlled trials
+T4	Num 164 165	6
+T5	Num 169 171	24
+T6	Unit 172 177	hours
+R1	acomp Arg1:T5 Arg2:T6	
+R2	acomp Arg1:T4 Arg2:T6	
+R3	acomp Arg1:T2 Arg2:T3	

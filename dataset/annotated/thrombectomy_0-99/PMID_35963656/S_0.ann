@@ -1,0 +1,5 @@
+T1	Targ 53 72	high mortality rate
+T2	Num 76 80	0.18
+T3	Num 83 87	0.65
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	

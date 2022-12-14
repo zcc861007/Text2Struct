@@ -1,0 +1,5 @@
+T1	Targ 113 150	Alberta Stroke Program Early CT Score
+T2	Num 151 152	3
+T3	Num 156 157	5
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	

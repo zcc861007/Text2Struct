@@ -1,0 +1,5 @@
+T1	Num 245 248	0.1
+T2	Num 252 256	0.15
+T3	Unit 260 265	cases
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	

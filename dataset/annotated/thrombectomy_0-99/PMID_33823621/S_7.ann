@@ -1,0 +1,9 @@
+T1	Num 74 75	3
+T2	Num 87 88	4
+T3	Num 187 191	0.05
+T4	Targ 69 73	pass
+T5	Targ 80 86	passes
+T6	Targ 176 184	P values
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T5	
+R3	acomp Arg1:T3 Arg2:T6	

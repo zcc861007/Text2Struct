@@ -1,0 +1,24 @@
+T1	Num 3 6	577
+T2	Unit 7 15	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 18 22	CMBs
+T4	Num 39 41	91
+T5	Num 44 49	0.158
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+R4	acomp Arg1:T4 Arg2:T2	
+R5	acomp Arg1:T5 Arg2:T2	
+T6	Num 54 56	67
+T7	Num 59 64	0.116
+T8	Targ 71 81	1 - 4 CMBs
+R6	acomp Arg1:T7 Arg2:T8	
+R7	acomp Arg1:T6 Arg2:T8	
+R8	acomp Arg1:T6 Arg2:T2	
+R9	acomp Arg1:T7 Arg2:T2	
+T9	Num 88 90	24
+T10	Num 93 98	0.042
+R10	acomp Arg1:T9 Arg2:T2	
+R11	acomp Arg1:T10 Arg2:T2	
+T11	Targ 105 112	> / = 5
+R12	acomp Arg1:T10 Arg2:T11	
+R13	acomp Arg1:T9 Arg2:T11	

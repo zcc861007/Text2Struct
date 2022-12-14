@@ -1,0 +1,45 @@
+T1	Num 102 103	3
+T2	Targ 63 99	modified Ranking Scale ( mRS ) score
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 106 123	risk ratio ( RR )
+T4	Num 126 130	0.65
+R2	acomp Arg1:T4 Arg2:T3	
+T5	Targ 133 140	0.95 CI
+T6	Num 141 145	0.59
+T7	Num 149 153	0.72
+R3	acomp Arg1:T6 Arg2:T5	
+R4	acomp Arg1:T7 Arg2:T5	
+T8	Targ 156 157	p
+T9	Num 160 166	0.0001
+R5	acomp Arg1:T9 Arg2:T8	
+T10	Targ 169 171	I2
+T11	Num 174 178	0.13
+R6	acomp Arg1:T11 Arg2:T10	
+T12	Targ 259 261	RR
+T13	Num 264 268	2.07
+R7	acomp Arg1:T13 Arg2:T12	
+T14	Targ 271 278	0.95 CI
+T15	Num 279 283	1.65
+T16	Num 287 291	2.60
+R8	acomp Arg1:T15 Arg2:T14	
+R9	acomp Arg1:T16 Arg2:T14	
+T17	Targ 294 295	p
+T18	Num 298 304	0.0001
+R10	acomp Arg1:T18 Arg2:T17	
+T19	Targ 307 309	I2
+T20	Num 312 313	0
+R11	acomp Arg1:T20 Arg2:T19	
+T21	Targ 332 334	RR
+T22	Num 337 341	1.73
+T23	Targ 344 351	0.95 CI
+T24	Num 352 356	1.57
+T25	Num 360 364	1.91
+T26	Targ 367 368	p
+T27	Num 371 377	0.0001
+T28	Targ 380 382	I2
+T29	Num 385 386	0
+R12	acomp Arg1:T22 Arg2:T21	
+R13	acomp Arg1:T24 Arg2:T23	
+R14	acomp Arg1:T25 Arg2:T23	
+R15	acomp Arg1:T27 Arg2:T26	
+R16	acomp Arg1:T29 Arg2:T28	

@@ -1,0 +1,10 @@
+T1	Targ 67 71	beta
+T2	Num 74 78	0.27
+T3	Num 81 85	0.06
+T4	Num 88 93	0.047
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+R3	acomp Arg1:T4 Arg2:T1	
+T5	Targ 98 99	p
+T6	Num 102 107	0.010
+R4	acomp Arg1:T6 Arg2:T5	

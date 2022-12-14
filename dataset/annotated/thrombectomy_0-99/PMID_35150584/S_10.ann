@@ -1,0 +1,36 @@
+T3	Targ 41 91	24 hour National Institutes of Health Stroke Scale
+T1	Num 94 96	12
+R1	acomp Arg1:T1 Arg2:T3	
+T2	Targ 99 102	IQR
+T4	Num 105 106	8
+T5	Num 109 111	17
+R2	acomp Arg1:T4 Arg2:T2	
+R3	acomp Arg1:T5 Arg2:T2	
+T6	Num 121 122	3
+R4	acomp Arg1:T6 Arg2:T3	
+T7	Targ 125 128	IQR
+T8	Num 131 132	2
+T9	Num 135 137	13
+R5	acomp Arg1:T8 Arg2:T7	
+R6	acomp Arg1:T9 Arg2:T7	
+T10	Targ 142 143	P
+T11	Num 146 151	0.001
+R7	acomp Arg1:T11 Arg2:T10	
+T12	Targ 193 196	mRS
+T13	Num 197 198	0
+T14	Num 201 202	2
+R8	acomp Arg1:T13 Arg2:T12	
+R9	acomp Arg1:T14 Arg2:T12	
+T15	Num 205 209	0.18
+T16	Num 217 221	0.61
+T17	Num 228 233	0.001
+T18	Targ 224 225	P
+R10	acomp Arg1:T17 Arg2:T18	
+T19	Num 261 265	0.47
+T20	Num 273 277	0.14
+T21	Num 284 289	0.001
+T22	Targ 280 281	P
+R11	acomp Arg1:T21 Arg2:T22	
+T23	Num 299 301	90
+T24	Unit 302 306	days
+R12	acomp Arg1:T23 Arg2:T24	

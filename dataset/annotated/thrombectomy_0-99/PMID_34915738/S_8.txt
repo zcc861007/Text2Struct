@@ -1,0 +1,1 @@
+In subgroups based on occlusion location , we found the following adjusted common odds ratios : 0.99 ( 0.95 CI , 0.62 - 1.59 ) for internal carotid artery occlusions , 1.12 ( 0.95 CI , 0.77 - 1.64 ) for M1 occlusions , and 1.22 ( 0.95 CI , 0.53 - 2.79 ) for M2 occlusions .

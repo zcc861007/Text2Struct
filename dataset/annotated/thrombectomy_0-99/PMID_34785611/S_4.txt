@@ -1,0 +1,1 @@
+These trials selected patients based on occlusion location ( proximal anterior occlusion : internal carotid or middle cerebral artery ) , time from stroke onset ( early window : up to 6 - 12 hours ) , and acceptable infarct burden ( Alberta Stroke Program Early CT Score [ ASPECTS ] > / = 6 or infarct volume < 50 mL ) .

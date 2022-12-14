@@ -1,0 +1,6 @@
+T1	Num 115 117	90
+T2	Unit 118 122	days
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 47 51	0.83
+T4	Targ 4 24	majority of patients
+R2	acomp Arg1:T3 Arg2:T4	

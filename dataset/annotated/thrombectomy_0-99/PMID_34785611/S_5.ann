@@ -1,0 +1,6 @@
+T1	Num 3 7	2017
+T2	Num 83 85	24
+T3	Unit 86 91	hours
+T4	Targ 65 76	time window
+R1	acomp Arg1:T2 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T3	

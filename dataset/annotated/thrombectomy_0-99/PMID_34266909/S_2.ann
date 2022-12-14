@@ -1,0 +1,14 @@
+T1	Num 75 80	-0.15
+T2	Num 83 87	-0.1
+T3	Num 90 96	-0.065
+T4	Num 99 104	-0.05
+T5	Num 111 117	-0.013
+T6	Num 173 175	90
+T7	Targ 0 28	Five non-inferiority margins
+T8	Unit 176 180	days
+R1	acomp Arg1:T1 Arg2:T7	
+R2	acomp Arg1:T2 Arg2:T7	
+R3	acomp Arg1:T3 Arg2:T7	
+R4	acomp Arg1:T4 Arg2:T7	
+R5	acomp Arg1:T5 Arg2:T7	
+R6	acomp Arg1:T6 Arg2:T8	

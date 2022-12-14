@@ -1,0 +1,12 @@
+T1	Num 16 20	7365
+T2	Unit 21 39	pediatric patients
+T3	Targ 45 71	ischemic stroke identified
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Targ 106 109	EVT
+T5	Num 74 77	190
+T6	Num 80 85	0.026
+R3	acomp Arg1:T6 Arg2:T4	
+R4	acomp Arg1:T5 Arg2:T4	
+R5	acomp Arg1:T5 Arg2:T2	
+R6	acomp Arg1:T6 Arg2:T2	

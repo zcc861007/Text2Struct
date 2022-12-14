@@ -1,0 +1,5 @@
+T1	Num 206 211	0.688
+T2	Num 215 219	0.73
+T3	Targ 76 133	the percentage of patients receiving definitive treatment
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	

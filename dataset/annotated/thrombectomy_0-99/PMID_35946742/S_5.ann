@@ -1,0 +1,9 @@
+T1	Num 38 40	16
+T2	Unit 41 53	publications
+T3	Num 65 67	15
+T4	Unit 68 75	studies
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T1 Arg2:T2	
+T5	Targ 14 28	final analysis
+R3	acomp Arg1:T1 Arg2:T5	
+R4	acomp Arg1:T3 Arg2:T5	

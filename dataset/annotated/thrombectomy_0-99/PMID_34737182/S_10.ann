@@ -1,0 +1,12 @@
+T1	Num 116 120	0.83
+T2	Num 127 131	.001
+T3	Num 153 157	0.79
+T4	Num 164 168	.001
+T5	Targ 111 113	OR
+T6	Targ 123 124	P
+T7	Targ 148 150	OR
+T8	Targ 160 161	P
+R1	acomp Arg1:T1 Arg2:T5	
+R2	acomp Arg1:T2 Arg2:T6	
+R3	acomp Arg1:T3 Arg2:T7	
+R4	acomp Arg1:T4 Arg2:T8	

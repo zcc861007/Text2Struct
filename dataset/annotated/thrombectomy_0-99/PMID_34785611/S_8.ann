@@ -1,0 +1,8 @@
+T1	Targ 202 244	National Institutes of Health Stroke Scale
+T2	Num 247 248	6
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 278 289	core volume
+T4	Num 292 294	70
+T5	Unit 295 297	mL
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T4 Arg2:T5	

@@ -1,0 +1,3 @@
+T1	Targ 4 47	rate of symptomatic intracranial hemorrhage
+T2	Num 52 57	0.141
+R1	acomp Arg1:T2 Arg2:T1	

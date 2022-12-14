@@ -1,0 +1,3 @@
+T1	Targ 77 89	NIHSS scores
+T2	Num 92 93	6
+R1	acomp Arg1:T2 Arg2:T1	

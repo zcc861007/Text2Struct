@@ -1,0 +1,26 @@
+T1	Num 65 70	0.688
+T2	Num 129 134	0.521
+T3	Targ 0 33	Overall successful recanalization
+T4	Targ 87 104	excellent outcome
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T4	
+T5	Unit 154 162	patients
+T6	Num 73 75	33
+T7	Num 78 80	48
+T8	Num 137 139	25
+T9	Num 142 144	48
+T10	Targ 107 117	90-day mRS
+T11	Num 118 119	0
+T12	Num 122 123	1
+R3	acomp Arg1:T11 Arg2:T10	
+R4	acomp Arg1:T12 Arg2:T10	
+R5	acomp Arg1:T8 Arg2:T4	
+R6	acomp Arg1:T9 Arg2:T4	
+R7	acomp Arg1:T9 Arg2:T5	
+R8	acomp Arg1:T8 Arg2:T5	
+R9	acomp Arg1:T2 Arg2:T5	
+R10	acomp Arg1:T6 Arg2:T3	
+R11	acomp Arg1:T7 Arg2:T3	
+R12	acomp Arg1:T7 Arg2:T5	
+R13	acomp Arg1:T6 Arg2:T5	
+R14	acomp Arg1:T1 Arg2:T5	

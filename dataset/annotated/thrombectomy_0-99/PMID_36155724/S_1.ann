@@ -1,0 +1,8 @@
+T1	Num 130 132	24
+T2	Unit 133 138	hours
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 86 88	49
+T4	Unit 89 97	patients
+T5	Targ 103 106	BAO
+R2	acomp Arg1:T3 Arg2:T4	
+R3	acomp Arg1:T3 Arg2:T5	

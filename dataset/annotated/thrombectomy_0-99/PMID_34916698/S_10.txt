@@ -1,0 +1,1 @@
+RESULTS : In all the 23 cases , there were 22 successful cases and 1 unsuccessful case , the mean procedure time was ( 68.2 +/- 15.6 ) min .

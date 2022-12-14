@@ -1,0 +1,13 @@
+T2	Num 81 85	0.03
+T3	Num 93 97	0.06
+T4	Targ 100 119	adjusted odds ratio
+T5	Num 122 125	0.5
+R3	acomp Arg1:T5 Arg2:T4	
+T6	Targ 128 135	0.95 CI
+T7	Num 138 141	0.2
+T8	Num 144 148	1.00
+R4	acomp Arg1:T7 Arg2:T6	
+R5	acomp Arg1:T8 Arg2:T6	
+T1	Targ 0 35	Symptomatic intracranial hemorrhage
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	

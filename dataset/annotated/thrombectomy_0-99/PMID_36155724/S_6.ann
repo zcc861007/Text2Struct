@@ -1,0 +1,6 @@
+T1	Num 69 74	0.837
+T2	Num 108 113	0.163
+T3	Targ 38 66	large artery atherosclerosis
+T4	Targ 91 105	cardioembolism
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T4	

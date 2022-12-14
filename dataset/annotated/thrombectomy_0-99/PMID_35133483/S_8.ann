@@ -1,0 +1,26 @@
+T1	Num 67 72	0.036
+T2	Num 99 104	0.002
+T3	Num 126 131	0.035
+T4	Num 190 195	0.008
+T5	Num 246 251	0.036
+T6	Num 286 291	0.009
+T7	Num 339 344	0.047
+T8	Targ 63 64	p
+T9	Targ 95 96	p
+T10	Targ 122 123	p
+T11	Targ 186 187	p
+T12	Targ 242 243	p
+T13	Targ 282 283	p
+T14	Targ 335 336	p
+T15	Num 143 144	6
+T16	Targ 136 140	Tmax
+T17	Unit 145 146	s
+R1	acomp Arg1:T1 Arg2:T8	
+R2	acomp Arg1:T2 Arg2:T9	
+R3	acomp Arg1:T3 Arg2:T10	
+R4	acomp Arg1:T15 Arg2:T16	
+R5	acomp Arg1:T15 Arg2:T17	
+R6	acomp Arg1:T4 Arg2:T11	
+R7	acomp Arg1:T5 Arg2:T12	
+R8	acomp Arg1:T6 Arg2:T13	
+R9	acomp Arg1:T7 Arg2:T14	

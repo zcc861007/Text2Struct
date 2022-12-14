@@ -1,0 +1,6 @@
+T1	Num 40 42	17
+T2	Num 58 60	31
+T3	Targ 31 37	P1 ( n
+T4	Targ 49 55	P2 ( n
+R1	acomp Arg1:T2 Arg2:T4	
+R2	acomp Arg1:T1 Arg2:T3	

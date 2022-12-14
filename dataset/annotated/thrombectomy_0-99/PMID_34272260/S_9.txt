@@ -1,0 +1,1 @@
+On multivariable logistic regression analysis , increased numbers of reperfusion attempts ( adjusted odds ratio ( aOR ) = 0.39 , 0.95 CI 0.29 to 0.88 , p = 0.009 ) and preprocedural migration ( aOR = 4.70 , 0.95 CI , 1.35 to 16.35 , p = 0.015 ) were significantly associated with mTICI 3 , sICH occurred in 0.028 ( 2 / 71 ) .

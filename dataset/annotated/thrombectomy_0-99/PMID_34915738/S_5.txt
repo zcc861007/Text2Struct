@@ -1,0 +1,1 @@
+Multivariable ordinal logistic regression analysis with an interaction term was used to estimate treatment effect modification by occlusion location ( internal carotid artery versus M1 versus M2 ) .

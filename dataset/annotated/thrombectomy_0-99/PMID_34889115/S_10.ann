@@ -1,0 +1,30 @@
+T1	Num 74 78	0.19
+T2	Num 86 90	0.06
+T3	Targ 108 109	P
+T4	Num 112 116	0.03
+R1	acomp Arg1:T4 Arg2:T3	
+T5	Targ 35 71	atherothrombotic cerebral infarction
+R2	acomp Arg1:T1 Arg2:T5	
+R3	acomp Arg1:T2 Arg2:T5	
+T6	Targ 129 158	hypoperfusion volume ( median
+T7	Num 161 163	77
+T8	Num 171 174	133
+T9	Unit 175 177	mL
+R6	acomp Arg1:T7 Arg2:T9	
+R7	acomp Arg1:T8 Arg2:T9	
+T10	Targ 195 196	P
+T11	Num 199 203	0.04
+R8	acomp Arg1:T11 Arg2:T10	
+T12	Targ 219 251	infarct growth velocity ( median
+T13	Num 254 257	0.6
+T14	Num 265 268	5.1
+T15	Unit 269 273	mL/h
+T16	Targ 291 292	P
+T17	Num 295 299	0.03
+R9	acomp Arg1:T17 Arg2:T16	
+R10	acomp Arg1:T13 Arg2:T12	
+R11	acomp Arg1:T14 Arg2:T12	
+R12	acomp Arg1:T13 Arg2:T15	
+R13	acomp Arg1:T14 Arg2:T15	
+R4	acomp Arg1:T7 Arg2:T6	
+R5	acomp Arg1:T8 Arg2:T6	

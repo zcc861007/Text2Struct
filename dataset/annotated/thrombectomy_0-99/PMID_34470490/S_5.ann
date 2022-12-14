@@ -1,0 +1,6 @@
+T1	Num 24 29	53702
+T2	Unit 30 38	patients
+T3	Num 42 45	697
+T4	Unit 46 51	sites
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T1 Arg2:T2	

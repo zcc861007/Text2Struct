@@ -1,0 +1,1 @@
+Using historical data of 7679 on-scene patients with suspected stroke , the model was implemented to determine the hospital that maximizes the number of patients receiving EVT treatment within call-to-definitive-treatment time .

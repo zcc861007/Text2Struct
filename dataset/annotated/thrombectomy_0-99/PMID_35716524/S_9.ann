@@ -1,0 +1,9 @@
+T1	Targ 53 64	years three
+T2	Targ 76 80	four
+T3	Targ 97 101	five
+T4	Num 67 71	0.01
+T5	Num 83 88	0.026
+T6	Num 104 109	0.044
+R1	acomp Arg1:T4 Arg2:T1	
+R2	acomp Arg1:T5 Arg2:T2	
+R3	acomp Arg1:T6 Arg2:T3	

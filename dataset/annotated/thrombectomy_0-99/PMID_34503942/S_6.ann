@@ -1,0 +1,10 @@
+T1	Num 75 79	1276
+T2	Num 120 124	1282
+T3	Unit 80 88	patients
+T4	Unit 125 133	patients
+T5	Targ 103 115	thrombectomy
+T6	Targ 137 144	control
+R1	acomp Arg1:T2 Arg2:T4	
+R2	acomp Arg1:T1 Arg2:T3	
+R3	acomp Arg1:T1 Arg2:T5	
+R4	acomp Arg1:T2 Arg2:T6	

@@ -1,0 +1,13 @@
+T1	Num 36 41	0.017
+T4	Targ 0 23	Mechanical thrombectomy
+T5	Unit 42 50	patients
+R1	acomp Arg1:T1 Arg2:T5	
+R2	acomp Arg1:T1 Arg2:T4	
+T2	Targ 85 103	3rd quarter , 2008
+T3	Targ 116 134	4th quarter , 2018
+T6	Num 107 112	0.044
+T7	Num 78 81	0.0
+R3	acomp Arg1:T7 Arg2:T2	
+R4	acomp Arg1:T6 Arg2:T3	
+R5	acomp Arg1:T7 Arg2:T5	
+R6	acomp Arg1:T6 Arg2:T5	

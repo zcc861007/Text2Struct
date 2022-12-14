@@ -1,0 +1,1 @@
+On multivariable regression analysis adjusting for high-risk features , thrombectomy was not independently associated with in-hospital mortality [ 1.036 , 0.95 CI ( 0.993 - 1.080 ) , p = 0.100 ] , but was associated with a higher risk of stroke [ OR 1.186 , 0.95 CI ( 1.097 - 1.283 ) , p < 0.001 ] .

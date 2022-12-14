@@ -1,0 +1,1 @@
+Multivariable logistic regression showed that lower age ( odds ratio , 0.932 , P = 0.017 ) , onset-to-tissue-type plasminogen activator time ( odds ratio , 0.980 , P = 0.005 ) and TOR ( odds ratio , 8.764 , P = 0.031 ) were associated with favorable functional outcome .

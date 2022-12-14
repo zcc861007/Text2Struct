@@ -1,0 +1,8 @@
+T1	Targ 40 54	follow-up time
+T2	Num 57 60	653
+T3	Num 65 68	264
+T4	Unit 69 73	days
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T4	
+R3	acomp Arg1:T2 Arg2:T1	
+R4	acomp Arg1:T3 Arg2:T1	

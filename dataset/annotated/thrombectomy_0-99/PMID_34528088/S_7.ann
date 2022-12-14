@@ -1,0 +1,3 @@
+T1	Num 109 110	3
+T2	Targ 103 108	mTICI
+R1	acomp Arg1:T1 Arg2:T2	

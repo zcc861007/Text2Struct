@@ -1,0 +1,8 @@
+T1	Num 25 28	105
+T2	Num 31 36	0.553
+T3	Unit 39 59	EVT-treated patients
+T4	Targ 69 111	favorable functional outcomes at discharge
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	
+R3	acomp Arg1:T2 Arg2:T4	
+R4	acomp Arg1:T1 Arg2:T4	

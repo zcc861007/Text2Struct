@@ -1,0 +1,56 @@
+T1	Targ 78 136	National Institutes of Health Stroke Scale ( NIHSS ) score
+T2	Num 139 141	16
+T3	Num 144 146	12
+T4	Num 149 151	21
+T5	Num 158 160	29
+T6	Num 163 165	19
+T7	Num 168 170	34
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+R3	acomp Arg1:T4 Arg2:T1	
+R4	acomp Arg1:T5 Arg2:T1	
+R5	acomp Arg1:T6 Arg2:T1	
+R6	acomp Arg1:T7 Arg2:T1	
+T8	Targ 190 191	p
+T9	Num 194 199	0.001
+R7	acomp Arg1:T9 Arg2:T8	
+T10	Targ 204 225	door-to-puncture time
+T11	Num 228 230	65
+T12	Num 233 235	45
+T13	Num 238 240	99
+T14	Num 247 249	99
+T15	Num 252 254	51
+T16	Num 257 260	121
+T17	Unit 263 266	min
+R8	acomp Arg1:T11 Arg2:T10	
+R9	acomp Arg1:T12 Arg2:T10	
+R10	acomp Arg1:T13 Arg2:T10	
+R11	acomp Arg1:T14 Arg2:T10	
+R12	acomp Arg1:T15 Arg2:T10	
+R13	acomp Arg1:T16 Arg2:T10	
+R14	acomp Arg1:T16 Arg2:T17	
+R15	acomp Arg1:T15 Arg2:T17	
+R16	acomp Arg1:T14 Arg2:T17	
+R17	acomp Arg1:T13 Arg2:T17	
+R18	acomp Arg1:T12 Arg2:T17	
+R19	acomp Arg1:T11 Arg2:T17	
+T18	Num 288 293	0.018
+T19	Targ 284 285	p
+R20	acomp Arg1:T18 Arg2:T19	
+T20	Targ 302 311	mortality
+T21	Num 314 316	22
+T22	Num 319 323	0.07
+T23	Num 330 331	8
+T24	Num 334 339	0.205
+T25	Unit 342 350	patients
+T26	Num 372 377	0.010
+T27	Targ 368 369	p
+R21	acomp Arg1:T26 Arg2:T27	
+R22	acomp Arg1:T24 Arg2:T25	
+R23	acomp Arg1:T23 Arg2:T25	
+R24	acomp Arg1:T22 Arg2:T25	
+R25	acomp Arg1:T21 Arg2:T25	
+R26	acomp Arg1:T21 Arg2:T20	
+R27	acomp Arg1:T22 Arg2:T20	
+R28	acomp Arg1:T23 Arg2:T20	
+R29	acomp Arg1:T24 Arg2:T20	

@@ -1,0 +1,5 @@
+T1	Num 134 136	50
+T2	Unit 137 139	mL
+T3	Targ 108 123	infarct volumes
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	

@@ -1,0 +1,5 @@
+T1	Targ 49 62	French sheath
+T2	Num 41 43	12
+T3	Num 46 48	24
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	

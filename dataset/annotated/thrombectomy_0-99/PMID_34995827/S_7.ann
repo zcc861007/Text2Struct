@@ -1,0 +1,8 @@
+T1	Num 99 103	3.71
+T2	Num 116 120	1.18
+T3	Num 123 127	6.24
+T4	Targ 106 113	0.95 CI
+T5	Targ 72 96	adjusted mean difference
+R1	acomp Arg1:T1 Arg2:T5	
+R2	acomp Arg1:T2 Arg2:T4	
+R3	acomp Arg1:T3 Arg2:T4	

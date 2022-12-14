@@ -1,0 +1,3 @@
+T1	Num 24 30	409910
+T2	Unit 31 53	total hospitalizations
+R1	acomp Arg1:T1 Arg2:T2	

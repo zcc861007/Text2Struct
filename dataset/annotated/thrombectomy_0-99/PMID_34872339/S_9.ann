@@ -1,0 +1,39 @@
+T1	Targ 59 95	acOR for modified Rankin Scale shift
+T2	Num 98 101	1.8
+T3	Targ 104 111	0.95 CI
+T4	Num 114 117	1.5
+T5	Num 120 123	2.2
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+T6	Targ 154 181	modified Rankin Scale score
+T7	Num 182 183	0
+T8	Num 186 187	2
+R4	acomp Arg1:T7 Arg2:T6	
+R5	acomp Arg1:T8 Arg2:T6	
+T9	Targ 128 151	functional independence
+T10	Num 190 192	61
+T11	Num 200 204	0.39
+R6	acomp Arg1:T10 Arg2:T9	
+R7	acomp Arg1:T11 Arg2:T9	
+T12	Targ 207 226	adjusted odds ratio
+T13	Num 229 232	2.1
+T14	Targ 235 242	0.95 CI
+T15	Num 245 248	1.6
+T16	Num 251 254	2.8
+R8	acomp Arg1:T13 Arg2:T12	
+R9	acomp Arg1:T15 Arg2:T14	
+R10	acomp Arg1:T16 Arg2:T14	
+T17	Targ 261 270	mortality
+T18	Num 271 275	0.07
+T19	Num 283 287	0.32
+R11	acomp Arg1:T18 Arg2:T17	
+R12	acomp Arg1:T19 Arg2:T17	
+T20	Targ 290 309	adjusted odds ratio
+T21	Num 312 315	0.2
+T22	Targ 318 325	0.95 CI
+T23	Num 328 331	0.1
+T24	Num 334 337	0.3
+R13	acomp Arg1:T23 Arg2:T22	
+R14	acomp Arg1:T24 Arg2:T22	
+R15	acomp Arg1:T21 Arg2:T20	

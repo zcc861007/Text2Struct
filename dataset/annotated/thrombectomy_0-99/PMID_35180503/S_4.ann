@@ -1,0 +1,16 @@
+T1	Targ 2 36	stent retriever mediated technique
+T2	Targ 80 95	ADAPT technique
+T3	Num 52 54	34
+T4	Num 66 71	0.829
+T5	Unit 55 63	patients
+T6	Num 99 100	7
+T7	Unit 101 109	patients
+T8	Num 112 117	0.171
+R1	acomp Arg1:T3 Arg2:T5	
+R2	acomp Arg1:T3 Arg2:T1	
+R3	acomp Arg1:T4 Arg2:T5	
+R4	acomp Arg1:T4 Arg2:T1	
+R5	acomp Arg1:T6 Arg2:T7	
+R6	acomp Arg1:T6 Arg2:T2	
+R7	acomp Arg1:T8 Arg2:T7	
+R8	acomp Arg1:T8 Arg2:T2	

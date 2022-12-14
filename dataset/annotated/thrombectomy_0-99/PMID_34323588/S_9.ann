@@ -1,0 +1,3 @@
+T1	Targ 14 36	technical success rate
+T2	Num 41 44	1.0
+R1	acomp Arg1:T2 Arg2:T1	

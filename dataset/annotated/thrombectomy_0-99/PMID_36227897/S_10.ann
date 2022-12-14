@@ -1,0 +1,5 @@
+T1	Num 21 22	2
+T2	Num 31 36	0.036
+T3	Unit 52 65	complications
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	

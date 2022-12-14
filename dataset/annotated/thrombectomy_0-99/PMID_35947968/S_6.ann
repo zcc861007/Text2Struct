@@ -1,0 +1,6 @@
+T1	Num 15 18	963
+T2	Unit 19 26	studies
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 79 82	840
+T4	Unit 83 91	patients
+R2	acomp Arg1:T3 Arg2:T4	

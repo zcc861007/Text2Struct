@@ -1,0 +1,6 @@
+T1	Num 167 168	6
+T2	Unit 169 170	h
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 225 247	number needed to treat
+T4	Num 261 262	3
+R2	acomp Arg1:T4 Arg2:T3	

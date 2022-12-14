@@ -1,0 +1,14 @@
+T1	Num 60 64	0.71
+T2	Num 67 69	15
+T3	Num 72 74	21
+T4	Num 99 103	0.82
+T5	Num 106 108	22
+T6	Num 111 113	27
+T7	Targ 84 94	USAT group
+T8	Targ 123 132	CDT group
+R1	acomp Arg1:T3 Arg2:T7	
+R2	acomp Arg1:T2 Arg2:T7	
+R3	acomp Arg1:T1 Arg2:T7	
+R4	acomp Arg1:T6 Arg2:T8	
+R5	acomp Arg1:T5 Arg2:T8	
+R6	acomp Arg1:T4 Arg2:T8	

@@ -1,0 +1,24 @@
+T1	Targ 98 114	90-day mortality
+T2	Num 117 119	44
+T3	Num 122 127	0.165
+T4	Num 133 136	266
+T5	Num 140 142	46
+T6	Num 145 150	0.193
+T7	Num 156 159	238
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+R3	acomp Arg1:T4 Arg2:T1	
+R4	acomp Arg1:T5 Arg2:T1	
+R5	acomp Arg1:T6 Arg2:T1	
+R6	acomp Arg1:T7 Arg2:T1	
+T8	Targ 165 202	symptomatic intracerebral haemorrhage
+T9	Num 205 207	14
+T10	Num 210 215	0.053
+T11	Num 221 224	266
+T12	Num 236 241	0.033
+T13	Num 247 250	239
+R7	acomp Arg1:T9 Arg2:T8	
+R8	acomp Arg1:T10 Arg2:T8	
+R9	acomp Arg1:T11 Arg2:T8	
+R10	acomp Arg1:T12 Arg2:T8	
+R11	acomp Arg1:T13 Arg2:T8	

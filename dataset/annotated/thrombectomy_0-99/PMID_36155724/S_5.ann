@@ -1,0 +1,20 @@
+T1	Targ 4 14	mean NIHSS
+T2	Targ 19 45	Glasgow Coma Scale ( GCS )
+T3	Num 64 68	22.9
+T4	Num 73 77	11.2
+T5	Targ 80 85	range
+T6	Num 88 89	6
+T7	Num 92 94	40
+T8	Num 101 105	10.4
+T9	Num 110 113	3.1
+T10	Targ 116 121	range
+T11	Num 124 125	5
+T12	Num 128 130	15
+R1	acomp Arg1:T3 Arg2:T1	
+R2	acomp Arg1:T4 Arg2:T1	
+R3	acomp Arg1:T8 Arg2:T2	
+R4	acomp Arg1:T9 Arg2:T2	
+R5	acomp Arg1:T6 Arg2:T5	
+R6	acomp Arg1:T7 Arg2:T5	
+R7	acomp Arg1:T11 Arg2:T10	
+R8	acomp Arg1:T12 Arg2:T10	

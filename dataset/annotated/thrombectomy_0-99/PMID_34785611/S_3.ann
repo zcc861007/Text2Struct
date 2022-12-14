@@ -1,0 +1,5 @@
+T1	Num 99 100	3
+T2	Num 104 106	10
+T3	Targ 63 85	number needed to treat
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	

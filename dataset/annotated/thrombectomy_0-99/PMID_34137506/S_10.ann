@@ -1,0 +1,6 @@
+T1	Num 58 60	90
+T2	Num 0 4	0.81
+T3	Unit 8 16	patients
+T4	Unit 61 65	days
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T4	

@@ -1,0 +1,13 @@
+T1	Num 27 32	-0.04
+T2	Num 76 81	-0.15
+T3	Num 84 88	-0.1
+T4	Num 91 97	-0.065
+T5	Num 104 109	-0.05
+T6	Num 120 126	-0.013
+T7	Targ 4 23	lower 0.95 CI bound
+R1	acomp Arg1:T1 Arg2:T7	
+T8	Targ 49 72	non-inferiority margins
+R2	acomp Arg1:T2 Arg2:T8	
+R3	acomp Arg1:T3 Arg2:T8	
+R4	acomp Arg1:T4 Arg2:T8	
+R5	acomp Arg1:T5 Arg2:T8	

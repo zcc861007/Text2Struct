@@ -1,0 +1,11 @@
+T1	Unit 44 49	hours
+T2	Num 42 43	6
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 100 106	median
+T4	Num 107 110	0.3
+T5	Targ 113 132	interquartile range
+T6	Num 135 139	0.24
+T7	Num 142 146	0.38
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T6 Arg2:T5	
+R4	acomp Arg1:T7 Arg2:T5	

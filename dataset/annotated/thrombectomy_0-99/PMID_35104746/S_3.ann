@@ -1,0 +1,3 @@
+T1	Targ 156 160	year
+T2	Num 161 165	2016
+R1	acomp Arg1:T2 Arg2:T1	

@@ -1,0 +1,6 @@
+T1	Targ 22 25	FPE
+T2	Targ 38 42	mFPE
+T3	Num 30 33	0.6
+T4	Num 0 4	0.33
+R1	acomp Arg1:T4 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T2	

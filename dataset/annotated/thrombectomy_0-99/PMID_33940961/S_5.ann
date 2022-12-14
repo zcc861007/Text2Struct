@@ -1,0 +1,5 @@
+T1	Num 70 71	0
+T2	Num 74 75	2
+T3	Targ 41 69	90-day modified Rankin score
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	

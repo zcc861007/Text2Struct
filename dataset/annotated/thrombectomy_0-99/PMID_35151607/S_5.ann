@@ -1,0 +1,17 @@
+T1	Num 106 108	68
+T2	Num 113 115	13
+T3	Unit 116 121	years
+T4	Targ 97 105	mean age
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T4	
+R3	acomp Arg1:T1 Arg2:T3	
+R4	acomp Arg1:T2 Arg2:T3	
+T5	Num 124 128	0.48
+T6	Unit 129 134	women
+R5	acomp Arg1:T5 Arg2:T6	
+T7	Num 66 69	248
+T8	Unit 70 94	ischemic stroke patients
+R6	acomp Arg1:T7 Arg2:T8	
+T9	Targ 142 174	confirmed large vessel occlusion
+R7	acomp Arg1:T7 Arg2:T9	
+R8	acomp Arg1:T5 Arg2:T9	

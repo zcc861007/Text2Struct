@@ -1,0 +1,6 @@
+T1	Unit 84 89	hours
+T2	Num 82 83	6
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Num 276 277	6
+T4	Unit 278 283	hours
+R2	acomp Arg1:T3 Arg2:T4	

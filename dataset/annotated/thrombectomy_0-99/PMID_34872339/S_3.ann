@@ -1,0 +1,13 @@
+T1	Num 29 31	18
+T2	Num 34 36	49
+T3	Unit 37 42	years
+T4	Targ 12 26	young patients
+T5	Targ 50 64	older patients
+T6	Num 73 75	50
+T7	Unit 76 81	years
+R1	acomp Arg1:T6 Arg2:T7	
+R2	acomp Arg1:T6 Arg2:T5	
+R3	acomp Arg1:T2 Arg2:T3	
+R4	acomp Arg1:T1 Arg2:T3	
+R5	acomp Arg1:T1 Arg2:T4	
+R6	acomp Arg1:T2 Arg2:T4	

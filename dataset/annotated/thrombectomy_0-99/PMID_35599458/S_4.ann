@@ -1,0 +1,8 @@
+T1	Targ 46 60	mismatch ratio
+T2	Num 67 70	1.8
+T3	Targ 75 90	mismatch volume
+T4	Num 97 99	15
+T5	Unit 100 102	ml
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T4 Arg2:T5	

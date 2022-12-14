@@ -1,0 +1,36 @@
+T1	Targ 14 31	odds ratio [ OR ]
+T2	Num 32 37	1.120
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 40 66	confidence interval ( CI )
+T4	Num 67 72	1.068
+T5	Num 75 80	1.174
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+T6	Targ 85 86	p
+T7	Num 89 94	0.001
+R4	acomp Arg1:T7 Arg2:T6	
+T8	Targ 185 187	OR
+T9	Num 188 193	1.232
+T10	Num 199 204	1.106
+T11	Num 207 212	1.372
+T12	Num 221 226	0.001
+T13	Targ 196 198	CI
+T14	Targ 217 218	p
+R5	acomp Arg1:T9 Arg2:T8	
+R6	acomp Arg1:T10 Arg2:T13	
+R7	acomp Arg1:T11 Arg2:T13	
+R8	acomp Arg1:T12 Arg2:T14	
+T15	Targ 270 272	OR
+T16	Num 273 278	1.364
+T17	Num 284 289	1.105
+T18	Num 292 297	1.683
+T19	Targ 281 283	CI
+R9	acomp Arg1:T17 Arg2:T19	
+R10	acomp Arg1:T18 Arg2:T19	
+R11	acomp Arg1:T16 Arg2:T15	
+T20	Targ 302 303	p
+T21	Num 306 311	0.004
+R12	acomp Arg1:T21 Arg2:T20	
+T22	Num 154 156	24
+T23	Unit 157 162	hours
+R13	acomp Arg1:T22 Arg2:T23	

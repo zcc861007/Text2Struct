@@ -1,0 +1,11 @@
+T1	Targ 23 44	modified Rankin Scale
+T2	Num 45 46	0
+T3	Num 49 50	2
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+T4	Targ 77 176	those who either met the RCT criteria or presented with lower NIHSS score or longer treatment delay
+T5	Num 69 73	0.54
+R3	acomp Arg1:T5 Arg2:T4	
+T6	Num 191 194	0.3
+T7	Targ 198 211	M2 occlusions
+R4	acomp Arg1:T6 Arg2:T7	

@@ -1,0 +1,15 @@
+T1	Targ 33 52	peripheral embolism
+T2	Num 55 59	0.44
+T3	Num 62 63	8
+T4	Num 66 68	18
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+R3	acomp Arg1:T4 Arg2:T1	
+T5	Targ 137 182	mismatch between the sheath and target vessel
+T6	Num 192 193	1
+T7	Unit 194 196	mm
+R4	acomp Arg1:T6 Arg2:T7	
+R5	acomp Arg1:T6 Arg2:T5	
+T8	Num 199 200	P
+T9	Num 203 206	.01
+R6	acomp Arg1:T9 Arg2:T8	

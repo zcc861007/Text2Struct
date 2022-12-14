@@ -1,0 +1,21 @@
+T1	Targ 92 105	mTICI score 0
+T2	Num 108 111	0.0
+T3	Num 131 134	0.0
+T4	Num 154 157	0.5
+T5	Num 177 180	0.8
+T6	Num 199 204	0.813
+T7	Targ 114 128	mTICI score 2A
+T8	Targ 137 151	mTICI score 2b
+T9	Targ 160 174	mTICI score 2c
+T10	Targ 183 196	mTICI score 3
+T11	Targ 207 216	chi ( 2 )
+T12	Num 219 225	14.035
+T13	Num 232 237	0.003
+T14	Targ 228 229	P
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T7	
+R3	acomp Arg1:T4 Arg2:T8	
+R4	acomp Arg1:T5 Arg2:T9	
+R5	acomp Arg1:T6 Arg2:T10	
+R6	acomp Arg1:T12 Arg2:T11	
+R7	acomp Arg1:T13 Arg2:T14	

@@ -1,0 +1,25 @@
+T1	Targ 44 47	EVT
+T2	Targ 70 72	MM
+T3	Unit 64 66	ml
+T4	Unit 88 90	ml
+T5	Num 50 52	10
+T6	Num 55 56	0
+T7	Num 59 61	24
+T8	Num 75 76	9
+T9	Num 79 80	3
+T10	Num 83 85	21
+R1	acomp Arg1:T5 Arg2:T1	
+R2	acomp Arg1:T6 Arg2:T1	
+R3	acomp Arg1:T7 Arg2:T1	
+R4	acomp Arg1:T7 Arg2:T3	
+R5	acomp Arg1:T6 Arg2:T3	
+R6	acomp Arg1:T5 Arg2:T3	
+R7	acomp Arg1:T8 Arg2:T2	
+R8	acomp Arg1:T9 Arg2:T2	
+R9	acomp Arg1:T10 Arg2:T2	
+R10	acomp Arg1:T10 Arg2:T4	
+R11	acomp Arg1:T9 Arg2:T4	
+R12	acomp Arg1:T8 Arg2:T4	
+T11	Num 97 101	0.59
+T12	Targ 93 94	p
+R13	acomp Arg1:T11 Arg2:T12	

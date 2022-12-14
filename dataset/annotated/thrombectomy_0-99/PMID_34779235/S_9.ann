@@ -1,0 +1,3 @@
+T1	Targ 60 77	Unique identifier
+T2	Num 80 91	42021234664
+R1	acomp Arg1:T2 Arg2:T1	

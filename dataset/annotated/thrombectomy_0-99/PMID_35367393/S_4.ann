@@ -1,0 +1,5 @@
+T1	Num 60 64	2012
+T2	Num 67 71	2021
+T3	Targ 16 44	literature review of studies
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	

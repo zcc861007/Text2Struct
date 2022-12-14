@@ -1,0 +1,6 @@
+T1	Num 235 238	4.5
+T2	Unit 239 240	h
+T3	Num 277 279	25
+T4	Unit 280 300	acute-care hospitals
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T3 Arg2:T4	

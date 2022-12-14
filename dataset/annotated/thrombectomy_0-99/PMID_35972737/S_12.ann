@@ -1,0 +1,9 @@
+T1	Num 55 59	0.44
+T2	Num 109 114	0.294
+T3	Num 172 176	0.07
+T4	Targ 64 106	patients with early neurologic improvement
+T5	Targ 119 165	patients with small infarct volume ( < 50 mL )
+T6	Targ 181 222	patients with neither of these parameters
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T5	
+R3	acomp Arg1:T3 Arg2:T6	

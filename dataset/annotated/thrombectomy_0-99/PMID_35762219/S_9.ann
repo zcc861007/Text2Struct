@@ -1,0 +1,5 @@
+T1	Num 34 39	0.303
+T2	Targ 4 29	overall complication rate
+T3	Num 42 44	99
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T3 Arg2:T2	

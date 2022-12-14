@@ -1,0 +1,7 @@
+T1	Num 56 61	0.929
+T2	Num 64 69	0.838
+T3	Num 76 81	0.733
+T4	Targ 0 50	The primary patency rates at 3 , 6 , and 12 months
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T4	
+R3	acomp Arg1:T3 Arg2:T4	

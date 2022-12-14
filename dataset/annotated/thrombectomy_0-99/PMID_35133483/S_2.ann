@@ -1,0 +1,5 @@
+T1	Num 86 90	2008
+T2	Num 99 103	2021
+T3	Num 109 110	2
+T4	Unit 111 127	tertiary centers
+R1	acomp Arg1:T3 Arg2:T4	

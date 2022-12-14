@@ -1,0 +1,5 @@
+T1	Num 39 44	0.203
+T2	Unit 48 53	cases
+T3	Targ 0 25	DCP-related complications
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	

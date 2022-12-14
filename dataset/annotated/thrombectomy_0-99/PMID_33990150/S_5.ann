@@ -1,0 +1,9 @@
+T1	Num 43 47	2547
+T2	Num 78 82	1197
+T3	Num 112 116	1350
+T4	Unit 48 56	patients
+T5	Targ 59 73	thrombectomy n
+T6	Targ 87 109	medical care alone [ n
+R1	acomp Arg1:T3 Arg2:T6	
+R2	acomp Arg1:T2 Arg2:T5	
+R3	acomp Arg1:T1 Arg2:T4	

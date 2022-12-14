@@ -1,0 +1,1 @@
+The lower 0.95 CI bound of -0.04 fell within the non-inferiority margins of -0.15 , -0.1 , -0.065 , and -0.05 , but not -0.013 .

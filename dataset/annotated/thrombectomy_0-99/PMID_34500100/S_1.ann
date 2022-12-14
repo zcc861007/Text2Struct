@@ -1,0 +1,5 @@
+T1	Num 51 54	512
+T2	Num 200 204	2010
+T3	Num 207 211	2019
+T4	Unit 55 63	patients
+R1	acomp Arg1:T1 Arg2:T4	

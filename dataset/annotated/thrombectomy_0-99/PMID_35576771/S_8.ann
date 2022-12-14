@@ -1,0 +1,5 @@
+T1	Num 175 180	0.673
+T2	Num 188 193	0.539
+T3	Targ 8 51	patients with perioperative ischemic stroke
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	

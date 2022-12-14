@@ -1,0 +1,12 @@
+T1	Num 3 10	6349668
+T2	Unit 11 19	patients
+T3	Targ 25 51	elective inpatient surgery
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 54 59	12507
+T5	Num 62 67	0.002
+T6	Targ 74 103	perioperative ischemic stroke
+R3	acomp Arg1:T5 Arg2:T6	
+R4	acomp Arg1:T4 Arg2:T6	
+R5	acomp Arg1:T4 Arg2:T2	
+R6	acomp Arg1:T5 Arg2:T2	

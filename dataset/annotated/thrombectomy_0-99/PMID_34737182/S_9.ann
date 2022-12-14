@@ -1,0 +1,6 @@
+T1	Num 93 98	0.033
+T2	Num 105 109	.001
+T3	Targ 101 102	P
+T4	Targ 85 90	trend
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T3	

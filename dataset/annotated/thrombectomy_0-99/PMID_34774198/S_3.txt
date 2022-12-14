@@ -1,0 +1,1 @@
+In the Analysis Of Pooled Data From Randomized Studies Of Thrombectomy More Than 6 Hours After Last Known Well ( AURORA ) collaboration , the primary outcome was disability on the modified Rankin Scale ( mRS ) at 90 days , analysed by ordinal logistic regression .

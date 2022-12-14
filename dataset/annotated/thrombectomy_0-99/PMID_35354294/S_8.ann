@@ -1,0 +1,5 @@
+T1	Num 9 10	2
+T2	Num 18 19	6
+T3	Unit 20 37	randomized trials
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	

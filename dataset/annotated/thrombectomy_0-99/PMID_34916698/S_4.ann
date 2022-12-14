@@ -1,0 +1,6 @@
+T1	Num 15 16	8
+T2	Unit 17 44	acute thromboembolism cases
+T3	Num 49 51	15
+T4	Unit 52 74	acute thrombosis cases
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T1 Arg2:T2	

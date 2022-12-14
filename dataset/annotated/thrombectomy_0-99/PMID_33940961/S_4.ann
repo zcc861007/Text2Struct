@@ -1,0 +1,3 @@
+T1	Num 108 109	3
+T2	Targ 45 102	modified thrombolysis in cerebral infarct ( mTICI ) Grade
+R1	acomp Arg1:T1 Arg2:T2	

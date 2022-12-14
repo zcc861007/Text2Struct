@@ -1,0 +1,20 @@
+T1	Num 43 45	21
+T2	Unit 46 58	MSU patients
+T3	Num 110 114	99.9
+T4	Unit 115 118	min
+T5	Num 155 157	54
+T6	Unit 158 166	patients
+T7	Num 217 222	133.0
+T8	Unit 223 226	min
+T9	Targ 241 242	p
+T10	Num 245 251	0.0002
+T11	Targ 0 25	Endovascular thrombectomy
+T12	Targ 139 142	EMS
+R1	acomp Arg1:T1 Arg2:T11	
+R2	acomp Arg1:T1 Arg2:T2	
+R3	acomp Arg1:T3 Arg2:T4	
+T13	Num 75 78	911
+R4	acomp Arg1:T5 Arg2:T12	
+R5	acomp Arg1:T5 Arg2:T6	
+R6	acomp Arg1:T7 Arg2:T8	
+R7	acomp Arg1:T10 Arg2:T9	

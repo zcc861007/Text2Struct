@@ -1,0 +1,3 @@
+T1	Num 137 138	2
+T2	Targ 111 136	parenchymal hematoma type
+R1	acomp Arg1:T1 Arg2:T2	

@@ -1,0 +1,10 @@
+T1	Num 88 92	2015
+T2	Num 161 166	0.011
+T3	Targ 167 192	before 3rd quarter , 2015
+T4	Num 200 205	0.031
+T5	Targ 206 211	after
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T4 Arg2:T5	
+T6	Targ 214 215	p
+T7	Num 218 224	0.0001
+R3	acomp Arg1:T7 Arg2:T6	

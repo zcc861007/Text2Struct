@@ -1,0 +1,3 @@
+T1	Num 239 242	0.8
+T2	Targ 200 235	patient based clinical success rate
+R1	acomp Arg1:T1 Arg2:T2	

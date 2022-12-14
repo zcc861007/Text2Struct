@@ -1,0 +1,9 @@
+T1	Num 31 33	28
+T2	Unit 34 42	articles
+T3	Targ 54 58	R-CT
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 71 72	7
+T5	Unit 73 92	comparative studies
+R3	acomp Arg1:T4 Arg2:T3	
+R4	acomp Arg1:T4 Arg2:T5	

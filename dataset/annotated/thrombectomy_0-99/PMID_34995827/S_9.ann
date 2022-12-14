@@ -1,0 +1,6 @@
+T1	Num 48 53	0.031
+T2	Num 78 83	0.095
+T3	Targ 61 70	EVT group
+T4	Targ 91 103	no-EVT group
+R1	acomp Arg1:T2 Arg2:T4	
+R2	acomp Arg1:T1 Arg2:T3	

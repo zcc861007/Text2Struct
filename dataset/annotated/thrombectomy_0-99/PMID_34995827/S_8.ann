@@ -1,0 +1,24 @@
+T1	Targ 125 136	adjusted OR
+T2	Num 139 143	3.62
+T3	Targ 144 151	0.95 CI
+T4	Num 154 158	1.31
+T5	Num 161 166	10.03
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+T6	Targ 204 228	adjusted mean difference
+T7	Num 231 235	5.23
+R4	acomp Arg1:T7 Arg2:T6	
+T8	Targ 238 245	0.95 CI
+T9	Num 248 252	2.18
+T10	Num 255 259	8.29
+R5	acomp Arg1:T9 Arg2:T8	
+R6	acomp Arg1:T10 Arg2:T8	
+T11	Targ 319 361	adjusted common OR for 1 point improvement
+T12	Num 364 368	3.06
+R7	acomp Arg1:T12 Arg2:T11	
+T13	Targ 371 378	0.95 CI
+T14	Num 381 385	1.30
+T15	Num 389 393	7.23
+R8	acomp Arg1:T14 Arg2:T13	
+R9	acomp Arg1:T15 Arg2:T13	

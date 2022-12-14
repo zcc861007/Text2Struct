@@ -1,0 +1,6 @@
+T1	Num 21 23	22
+T2	Unit 24 31	studies
+T3	Num 45 49	1623
+T4	Unit 50 58	patients
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T3 Arg2:T4	

@@ -1,0 +1,8 @@
+T1	Num 29 33	1.31
+T3	Num 110 115	10216
+T2	Unit 67 72	years
+T5	Targ 34 66	additional quality-adjusted life
+R1	acomp Arg1:T1 Arg2:T5	
+R2	acomp Arg1:T1 Arg2:T2	
+T4	Targ 89 109	cost savings of euro
+R3	acomp Arg1:T3 Arg2:T4	

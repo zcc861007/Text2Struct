@@ -1,0 +1,54 @@
+T1	Targ 57 80	functional independence
+T2	Num 83 88	0.683
+T3	Num 92 97	0.616
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+T4	Targ 100 127	adjusted odds ratio [ aOR ]
+T5	Num 130 134	2.42
+R3	acomp Arg1:T5 Arg2:T4	
+T6	Targ 137 168	0.95 confidence interval [ CI ]
+T7	Num 171 175	1.25
+T8	Num 178 182	4.67
+R4	acomp Arg1:T7 Arg2:T6	
+R5	acomp Arg1:T8 Arg2:T6	
+T9	Targ 185 186	p
+T10	Num 189 194	0.008
+R6	acomp Arg1:T10 Arg2:T9	
+T11	Targ 249 251	OR
+T12	Num 254 258	1.75
+R7	acomp Arg1:T12 Arg2:T11	
+T13	Targ 261 268	0.95 CI
+T14	Num 271 275	1.00
+T15	Num 278 282	3.75
+R8	acomp Arg1:T14 Arg2:T13	
+R9	acomp Arg1:T15 Arg2:T13	
+T16	Targ 285 286	p
+T17	Num 289 293	0.05
+R10	acomp Arg1:T17 Arg2:T16	
+T18	Targ 338 350	adjusted cOR
+T19	Num 353 357	2.02
+R11	acomp Arg1:T19 Arg2:T18	
+T20	Targ 360 367	0.95 CI
+T21	Num 370 374	1.23
+T22	Num 377 381	3.29
+R12	acomp Arg1:T21 Arg2:T20	
+R13	acomp Arg1:T22 Arg2:T20	
+T23	Targ 384 385	p
+T24	Num 388 393	0.005
+R14	acomp Arg1:T24 Arg2:T23	
+T25	Targ 408 417	mortality
+T26	Num 420 424	0.05
+T27	Num 428 431	0.1
+R15	acomp Arg1:T26 Arg2:T25	
+R16	acomp Arg1:T27 Arg2:T25	
+T28	Targ 434 437	aOR
+T29	Num 440 444	0.32
+R17	acomp Arg1:T29 Arg2:T28	
+T30	Targ 447 454	0.95 CI
+T31	Num 457 461	0.12
+T32	Num 464 468	0.87
+R18	acomp Arg1:T31 Arg2:T30	
+R19	acomp Arg1:T32 Arg2:T30	
+T33	Targ 471 472	p
+T34	Num 475 480	0.025
+R20	acomp Arg1:T34 Arg2:T33	

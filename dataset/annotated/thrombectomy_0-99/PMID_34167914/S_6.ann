@@ -1,0 +1,5 @@
+T1	Num 63 68	0.056
+T2	Num 73 78	0.011
+T3	Targ 4 21	overall incidence
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	

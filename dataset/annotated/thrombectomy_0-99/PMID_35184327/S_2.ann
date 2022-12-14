@@ -1,0 +1,28 @@
+T1	Num 22 25	517
+T2	Unit 26 34	patients
+T3	Targ 37 40	EVT
+T4	Targ 51 53	MM
+T5	Num 43 46	195
+T6	Num 56 59	322
+R1	acomp Arg1:T5 Arg2:T3	
+R2	acomp Arg1:T6 Arg2:T4	
+R3	acomp Arg1:T1 Arg2:T2	
+R4	acomp Arg1:T5 Arg2:T2	
+R5	acomp Arg1:T6 Arg2:T2	
+T9	Num 169 171	13
+T10	Num 174 175	8
+T11	Num 178 180	19
+T7	Num 197 199	10
+T8	Num 202 203	6
+T12	Num 206 208	15
+T13	Targ 186 189	EVT
+T14	Targ 214 216	MM
+R6	acomp Arg1:T11 Arg2:T13	
+R7	acomp Arg1:T10 Arg2:T13	
+R8	acomp Arg1:T9 Arg2:T13	
+R9	acomp Arg1:T12 Arg2:T14	
+R10	acomp Arg1:T8 Arg2:T14	
+R11	acomp Arg1:T7 Arg2:T14	
+T15	Targ 219 220	p
+T16	Num 223 228	0.001
+R12	acomp Arg1:T16 Arg2:T15	

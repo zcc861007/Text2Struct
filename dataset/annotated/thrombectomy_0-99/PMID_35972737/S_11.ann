@@ -1,0 +1,14 @@
+T1	Num 75 76	2
+T2	Unit 77 83	groups
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 86 105	adjusted difference
+T4	Num 108 113	0.089
+R2	acomp Arg1:T4 Arg2:T3	
+T5	Targ 116 123	0.95 CI
+T6	Num 126 132	-0.025
+T7	Num 136 141	0.202
+R3	acomp Arg1:T6 Arg2:T5	
+R4	acomp Arg1:T7 Arg2:T5	
+T8	Targ 144 145	P
+T9	Num 148 151	.13
+R5	acomp Arg1:T9 Arg2:T8	

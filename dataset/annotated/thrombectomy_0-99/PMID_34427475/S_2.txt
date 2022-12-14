@@ -1,0 +1,1 @@
+SAMPLE SIZE : For an estimated difference of 0.2 in proportions of the primary outcome between the two groups , 318 patients will be included for 0.05 significance and 0.9 power with a planned interim analysis after two-thirds of the sample size ( 212 patients ) have achieved the 90 days follow-up .

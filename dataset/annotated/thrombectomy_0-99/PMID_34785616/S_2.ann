@@ -1,0 +1,11 @@
+T1	Num 116 117	1
+T2	Num 121 122	2
+T3	Unit 123 131	patients
+T4	Targ 137 147	LVO stroke
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	
+R3	acomp Arg1:T2 Arg2:T4	
+R4	acomp Arg1:T1 Arg2:T4	
+T5	Num 190 191	3
+T6	Unit 192 198	months
+R5	acomp Arg1:T5 Arg2:T6	

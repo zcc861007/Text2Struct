@@ -1,0 +1,5 @@
+T1	Targ 0 4	Tmax
+T2	Num 7 8	6
+T3	Unit 9 10	s
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T1	

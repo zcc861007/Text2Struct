@@ -1,0 +1,3 @@
+T1	Targ 143 149	number
+T2	Num 205 208	2.6
+R1	acomp Arg1:T2 Arg2:T1	

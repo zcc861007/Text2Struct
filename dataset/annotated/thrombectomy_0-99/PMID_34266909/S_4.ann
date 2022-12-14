@@ -1,0 +1,6 @@
+T1	Num 62 66	0.46
+T2	Num 89 94	0.455
+T3	Targ 72 81	EVT alone
+T4	Targ 100 112	IVT plus EVT
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T4	

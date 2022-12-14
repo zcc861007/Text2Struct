@@ -1,0 +1,6 @@
+T1	Num 153 158	0.009
+T2	Num 187 191	.096
+T3	Targ 171 180	non-White
+R1	acomp Arg1:T1 Arg2:T3	
+T4	Targ 183 184	P
+R2	acomp Arg1:T2 Arg2:T4	

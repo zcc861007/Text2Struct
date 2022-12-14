@@ -1,0 +1,5 @@
+T1	Unit 181 182	h
+T2	Num 177 180	4.5
+T3	Targ 164 173	time span
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T1	

@@ -1,0 +1,24 @@
+T1	Num 26 28	18
+T2	Unit 29 37	patients
+T3	Num 40 43	0.6
+T4	Targ 53 77	thrombectomy alone group
+T5	Num 85 87	18
+T6	Unit 88 96	patients
+T7	Num 99 102	0.6
+T8	Targ 112 134	bridging therapy group
+T9	Targ 170 187	odds ratio [ OR ]
+T10	Num 190 191	1
+T11	Targ 194 225	0.95 confidence interval [ CI ]
+T12	Num 228 232	0.36
+T13	Num 235 239	2.81
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T3 Arg2:T2	
+R3	acomp Arg1:T3 Arg2:T4	
+R4	acomp Arg1:T1 Arg2:T4	
+R5	acomp Arg1:T5 Arg2:T6	
+R6	acomp Arg1:T7 Arg2:T6	
+R7	acomp Arg1:T5 Arg2:T8	
+R8	acomp Arg1:T7 Arg2:T8	
+R9	acomp Arg1:T10 Arg2:T9	
+R10	acomp Arg1:T12 Arg2:T11	
+R11	acomp Arg1:T13 Arg2:T11	

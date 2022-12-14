@@ -1,0 +1,6 @@
+T1	Num 72 76	0.43
+T2	Targ 84 100	mean NIHSS score
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 113 114	p
+T4	Num 117 121	.027
+R2	acomp Arg1:T4 Arg2:T3	

@@ -1,0 +1,5 @@
+T1	Num 101 105	2017
+T2	Num 114 118	2020
+T3	Unit 129 134	hours
+T4	Num 126 128	24
+R1	acomp Arg1:T4 Arg2:T3	

@@ -1,0 +1,5 @@
+T1	Targ 48 68	consecutive patients
+T2	Num 166 167	2
+T3	Unit 168 174	groups
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T1	

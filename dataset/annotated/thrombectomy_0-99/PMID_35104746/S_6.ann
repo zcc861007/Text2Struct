@@ -1,0 +1,34 @@
+T1	Num 57 61	2016
+T2	Num 92 94	77
+T3	Num 99 101	53
+T4	Num 112 118	0.0001
+T5	Num 180 183	122
+T6	Num 188 190	93
+T7	Num 201 207	0.0001
+T8	Num 269 272	240
+T9	Num 277 280	229
+T10	Num 291 297	0.0001
+T11	Unit 102 105	min
+R1	acomp Arg1:T3 Arg2:T11	
+R2	acomp Arg1:T2 Arg2:T11	
+T12	Targ 108 109	p
+R3	acomp Arg1:T4 Arg2:T12	
+T13	Targ 197 198	p
+T14	Targ 287 288	p
+T15	Unit 191 194	min
+T16	Unit 281 284	min
+R4	acomp Arg1:T6 Arg2:T15	
+R5	acomp Arg1:T5 Arg2:T15	
+R6	acomp Arg1:T7 Arg2:T13	
+R7	acomp Arg1:T9 Arg2:T16	
+R8	acomp Arg1:T8 Arg2:T16	
+R9	acomp Arg1:T10 Arg2:T14	
+T17	Targ 66 87	hospital arrival - GP
+T18	Targ 125 175	hospital arrival - maximal achieved recanalization
+T19	Targ 218 264	stroke onset - maximal achieved recanalization
+R10	acomp Arg1:T2 Arg2:T17	
+R11	acomp Arg1:T3 Arg2:T17	
+R12	acomp Arg1:T5 Arg2:T18	
+R13	acomp Arg1:T6 Arg2:T18	
+R14	acomp Arg1:T8 Arg2:T19	
+R15	acomp Arg1:T9 Arg2:T19	

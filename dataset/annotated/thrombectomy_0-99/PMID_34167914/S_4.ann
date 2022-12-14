@@ -1,0 +1,8 @@
+T1	Num 25 30	62446
+T2	Num 41 46	0.152
+T3	Num 111 115	0.52
+T4	Unit 31 38	records
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T4	
+T5	Targ 101 108	p trend
+R3	acomp Arg1:T3 Arg2:T5	

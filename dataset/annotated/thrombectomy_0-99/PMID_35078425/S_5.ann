@@ -1,0 +1,18 @@
+T1	Num 21 24	222
+T2	Unit 25 33	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 75 76	3
+T4	Unit 77 82	years
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 85 87	50
+T6	Num 108 110	68
+T7	Num 136 139	104
+T8	Targ 95 105	first year
+T9	Targ 118 129	second year
+T10	Targ 147 157	third year
+R3	acomp Arg1:T5 Arg2:T8	
+R4	acomp Arg1:T6 Arg2:T9	
+R5	acomp Arg1:T7 Arg2:T10	
+R6	acomp Arg1:T5 Arg2:T2	
+R7	acomp Arg1:T6 Arg2:T2	
+R8	acomp Arg1:T7 Arg2:T2	

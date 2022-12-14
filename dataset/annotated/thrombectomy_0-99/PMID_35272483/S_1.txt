@@ -1,0 +1,1 @@
+METHODS : Weighted discharge data from the National Inpatient Sample were queried to identify pediatric patients with ischemic stroke ( < 18 years old ) during the period of 2010 to 2019 .

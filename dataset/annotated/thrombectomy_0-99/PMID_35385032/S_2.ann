@@ -1,0 +1,5 @@
+T1	Targ 84 97	standard dose
+T2	Num 101 104	0.9
+T3	Unit 105 110	mg/kg
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T1	
