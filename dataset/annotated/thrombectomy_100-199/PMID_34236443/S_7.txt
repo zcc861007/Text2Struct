@@ -1,0 +1,1 @@
+After propensity score matching functional independence was found to be significantly more frequent in patients who underwent < / = 2 retrieval attempts ( 0.14 ) , compared to patients with > 2 retrieval attempts ( 0.039 , OR 0.29 , 0.95 CI 0.07 - 0.73 , p = 0.009 ) .

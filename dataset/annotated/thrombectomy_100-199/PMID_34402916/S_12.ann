@@ -1,0 +1,8 @@
+T1	Num 25 26	8
+T2	Num 35 37	24
+T3	Unit 38 39	h
+T4	Targ 16 21	NIHSS
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T4	
+R3	acomp Arg1:T1 Arg2:T3	
+R4	acomp Arg1:T2 Arg2:T3	

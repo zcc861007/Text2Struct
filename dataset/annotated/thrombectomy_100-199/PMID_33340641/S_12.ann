@@ -1,0 +1,5 @@
+T1	Num 157 159	90
+T2	Unit 160 164	days
+T3	Targ 165 182	clinical outcomes
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T2	

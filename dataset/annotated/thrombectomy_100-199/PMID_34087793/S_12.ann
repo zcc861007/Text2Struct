@@ -1,0 +1,3 @@
+T1	Num 49 53	0.41
+T2	Targ 29 46	arterial traction
+R1	acomp Arg1:T1 Arg2:T2	

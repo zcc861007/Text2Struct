@@ -1,0 +1,5 @@
+T1	Targ 73 83	90-day mRS
+T2	Num 84 85	0
+T3	Num 88 89	2
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	

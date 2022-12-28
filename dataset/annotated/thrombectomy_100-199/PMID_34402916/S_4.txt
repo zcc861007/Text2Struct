@@ -1,0 +1,1 @@
+Receiver operating characteristics were used to compare different NIHSS-related surrogates , such as baseline ( B ) NIHSS , 24h-NIHSS , DeltaNIHSS and percent ( % ) change NIHSS to predict favorable function outcome ( mRS 0 - 2 ) .

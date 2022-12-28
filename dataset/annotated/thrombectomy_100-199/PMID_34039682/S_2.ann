@@ -1,0 +1,3 @@
+T1	Num 83 85	18
+T2	Unit 86 91	years
+R1	acomp Arg1:T1 Arg2:T2	

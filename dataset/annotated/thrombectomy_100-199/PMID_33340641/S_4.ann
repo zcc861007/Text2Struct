@@ -1,0 +1,10 @@
+T1	Num 132 134	90
+T2	Unit 135 139	days
+T3	Targ 125 128	mRS
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T2	
+T4	Num 117 118	5
+T5	Unit 113 116	day
+T6	Targ 104 109	NIHSS
+R3	acomp Arg1:T4 Arg2:T5	
+R4	acomp Arg1:T4 Arg2:T6	

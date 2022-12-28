@@ -1,0 +1,6 @@
+T1	Num 68 73	0.203
+T2	Num 78 83	0.036
+T3	Targ 0 35	Any intracranial hemorrhage ( ICH )
+T4	Targ 40 55	symptomatic ICH
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T4	

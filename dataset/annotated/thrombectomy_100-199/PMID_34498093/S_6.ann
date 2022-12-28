@@ -1,0 +1,11 @@
+T1	Num 21 24	180
+T2	Unit 25 33	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 50 53	116
+R2	acomp Arg1:T3 Arg2:T2	
+T4	Targ 57 82	the stent-retriever group
+R3	acomp Arg1:T3 Arg2:T4	
+T5	Num 87 89	64
+T6	Targ 93 108	the ADAPT group
+R4	acomp Arg1:T5 Arg2:T6	
+R5	acomp Arg1:T5 Arg2:T2	

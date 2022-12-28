@@ -1,0 +1,5 @@
+T2	Num 40 42	85
+T3	Unit 43 48	years
+R2	acomp Arg1:T2 Arg2:T3	
+T1	Targ 20 33	patients aged
+R1	acomp Arg1:T2 Arg2:T1	

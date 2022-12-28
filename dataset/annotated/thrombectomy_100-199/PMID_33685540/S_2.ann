@@ -1,0 +1,7 @@
+T1	Num 52 54	85
+T2	Unit 55 60	years
+T3	Targ 20 45	consecutive patients aged
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 113 117	2016
+T5	Num 131 135	2019

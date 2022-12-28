@@ -1,0 +1,1 @@
+RESULTS : The first-pass effect ( 0.34 ) , successful ( 0.71 ) , and complete ( 0.6 ) recanalization rates in this model were consistent with those in the literature .

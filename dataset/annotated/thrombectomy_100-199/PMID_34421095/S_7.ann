@@ -1,0 +1,9 @@
+T1	Num 175 179	0.38
+T2	Targ 170 172	M1
+T3	Targ 182 185	ICA
+T4	Num 188 192	0.09
+T5	Targ 195 196	P
+T6	Num 199 203	0.01
+R1	acomp Arg1:T6 Arg2:T5	
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T1 Arg2:T2	

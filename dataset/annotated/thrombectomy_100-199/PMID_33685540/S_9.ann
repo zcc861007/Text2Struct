@@ -1,0 +1,32 @@
+T1	Targ 69 96	adjusted odds ratio [ aOR ]
+T2	Num 99 103	0.52
+T3	Targ 106 113	0.95 CI
+T4	Num 116 120	0.36
+T5	Num 123 127	0.76
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+T6	Targ 162 165	aOR
+T7	Num 168 172	0.90
+R4	acomp Arg1:T7 Arg2:T6	
+T8	Targ 175 182	0.95 CI
+T9	Num 185 189	0.83
+T10	Num 192 196	0.97
+R5	acomp Arg1:T9 Arg2:T8	
+R6	acomp Arg1:T10 Arg2:T8	
+T11	Targ 229 232	aOR
+T12	Num 235 239	3.65
+R7	acomp Arg1:T12 Arg2:T11	
+T13	Targ 242 249	0.95 CI
+T14	Num 252 256	1.32
+T15	Num 259 264	10.09
+R8	acomp Arg1:T14 Arg2:T13	
+R9	acomp Arg1:T15 Arg2:T13	
+T16	Targ 311 314	aOR
+T17	Num 317 321	0.42
+T18	Targ 324 331	0.95 CI
+T19	Num 334 338	0.08
+T20	Num 341 345	0.75
+R10	acomp Arg1:T17 Arg2:T16	
+R11	acomp Arg1:T19 Arg2:T18	
+R12	acomp Arg1:T20 Arg2:T18	

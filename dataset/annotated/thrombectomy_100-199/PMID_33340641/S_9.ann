@@ -1,0 +1,17 @@
+T1	Num 3 8	0.171
+T2	Targ 11 12	n
+T3	Num 15 16	6
+R1	acomp Arg1:T3 Arg2:T2	
+T4	Num 82 83	2
+T5	Num 86 87	1
+T6	Num 90 91	7
+T7	Targ 47 77	median number of rescue passes
+T8	Num 132 137	0.943
+T9	Num 144 146	33
+T10	Targ 140 141	n
+R2	acomp Arg1:T9 Arg2:T10	
+T11	Targ 107 128	a final mTICI2b-3rate
+R3	acomp Arg1:T8 Arg2:T11	
+R4	acomp Arg1:T4 Arg2:T7	
+R5	acomp Arg1:T5 Arg2:T7	
+R6	acomp Arg1:T6 Arg2:T7	

@@ -1,0 +1,3 @@
+T1	Num 39 42	185
+T2	Unit 43 58	stroke patients
+R1	acomp Arg1:T1 Arg2:T2	

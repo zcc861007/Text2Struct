@@ -1,0 +1,5 @@
+T1	Num 119 123	0.28
+T2	Targ 4 19	Residual emboli
+T3	Unit 76 116	cases of alleged complete recanalization
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T2	

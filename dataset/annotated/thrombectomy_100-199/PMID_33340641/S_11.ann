@@ -1,0 +1,16 @@
+T1	Num 27 28	1
+T2	Targ 3 22	5 days median NIHSS
+T3	Targ 47 58	90 days mRS
+T5	Num 81 84	0.6
+T6	Unit 88 96	patients
+R1	acomp Arg1:T1 Arg2:T2	
+R3	acomp Arg1:T5 Arg2:T6	
+T4	Num 59 60	0
+T7	Num 63 64	2
+R2	acomp Arg1:T4 Arg2:T3	
+R4	acomp Arg1:T7 Arg2:T3	
+T8	Num 35 36	1
+T9	Num 39 40	6
+T10	Targ 31 34	IQR
+R5	acomp Arg1:T8 Arg2:T10	
+R6	acomp Arg1:T9 Arg2:T10	

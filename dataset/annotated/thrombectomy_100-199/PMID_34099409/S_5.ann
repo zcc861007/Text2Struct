@@ -1,0 +1,19 @@
+T1	Num 59 61	18
+T2	Num 65 67	47
+T3	Unit 68 73	kgm/m
+T4	Num 84 86	56
+T5	Num 89 92	932
+T6	Unit 93 98	pg/mL
+T7	Targ 101 104	ref
+T8	Num 113 115	78
+R2	acomp Arg1:T2 Arg2:T3	
+R3	acomp Arg1:T8 Arg2:T7	
+R4	acomp Arg1:T5 Arg2:T6	
+R5	acomp Arg1:T4 Arg2:T6	
+T9	Targ 0 15	Body mass index
+T10	Targ 20 45	B-type natriuretic peptid
+R1	acomp Arg1:T1 Arg2:T9	
+R6	acomp Arg1:T2 Arg2:T9	
+R7	acomp Arg1:T1 Arg2:T3	
+R8	acomp Arg1:T4 Arg2:T10	
+R9	acomp Arg1:T5 Arg2:T10	

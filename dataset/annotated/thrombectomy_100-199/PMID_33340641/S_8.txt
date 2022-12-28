@@ -1,0 +1,1 @@
+First pass complete recanalization rate was 0.429 , and median number of ANA passes 1 ( IQR : 1 - 2 ) .

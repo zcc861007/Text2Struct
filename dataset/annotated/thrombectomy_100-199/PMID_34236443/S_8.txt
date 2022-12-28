@@ -1,0 +1,1 @@
+After adjusting for age , sex , admission NIHSS score , and location of occlusion , more than two retrieval attempts remained significantly associated with lower odds of functional independence at 90 days ( OR 0.2 , 0.95 CI 0.07 - 0.52 , p = 0.002 ) .

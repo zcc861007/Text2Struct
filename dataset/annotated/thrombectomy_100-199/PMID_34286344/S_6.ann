@@ -1,0 +1,38 @@
+T1	Num 22 24	52
+T2	Unit 25 33	patients
+T3	Targ 36 46	median age
+T4	Num 49 51	75
+T5	Unit 52 53	y
+R1	acomp Arg1:T4 Arg2:T3	
+R2	acomp Arg1:T4 Arg2:T5	
+R3	acomp Arg1:T1 Arg2:T2	
+T6	Targ 54 57	IQR
+T7	Num 60 62	64
+T8	Num 65 67	83
+R4	acomp Arg1:T7 Arg2:T6	
+R5	acomp Arg1:T8 Arg2:T6	
+T9	Num 72 74	31
+T10	Unit 85 90	women
+T11	Num 77 82	0.596
+R6	acomp Arg1:T9 Arg2:T10	
+R7	acomp Arg1:T11 Arg2:T2	
+T12	Num 93 95	14
+T13	Num 98 103	0.269
+R9	acomp Arg1:T13 Arg2:T2	
+T14	Num 157 159	26
+T15	Num 162 165	0.5
+R10	acomp Arg1:T14 Arg2:T2	
+R8	acomp Arg1:T12 Arg2:T2	
+R11	acomp Arg1:T15 Arg2:T2	
+T16	Num 227 229	12
+T17	Num 232 237	0.231
+R12	acomp Arg1:T16 Arg2:T2	
+R13	acomp Arg1:T17 Arg2:T2	
+T18	Num 304 306	19
+T19	Targ 268 299	median NIHSS score at admission
+R14	acomp Arg1:T18 Arg2:T19	
+T20	Targ 309 312	IQR
+T21	Num 315 317	13
+T22	Num 320 322	22
+R15	acomp Arg1:T21 Arg2:T20	
+R16	acomp Arg1:T22 Arg2:T20	

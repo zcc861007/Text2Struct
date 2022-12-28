@@ -1,0 +1,17 @@
+T1	Num 103 108	0.068
+T2	Num 112 117	0.089
+T3	Num 166 170	8.89
+T4	Num 185 190	14.29
+T5	Num 194 199	23.18
+T6	Unit 200 203	min
+T7	Targ 206 207	p
+T8	Num 210 216	0.0017
+R1	acomp Arg1:T8 Arg2:T7	
+R2	acomp Arg1:T5 Arg2:T6	
+R3	acomp Arg1:T4 Arg2:T6	
+T9	Unit 171 174	min
+R4	acomp Arg1:T3 Arg2:T9	
+T10	Targ 4 18	TracStar group
+T11	Targ 43 56	control group
+R5	acomp Arg1:T1 Arg2:T10	
+R6	acomp Arg1:T2 Arg2:T11	

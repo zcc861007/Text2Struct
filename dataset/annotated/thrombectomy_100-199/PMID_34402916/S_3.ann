@@ -1,0 +1,5 @@
+T1	Num 61 65	2016
+T2	Num 77 81	2020
+T3	Targ 97 100	mRS
+T4	Num 103 104	3
+R1	acomp Arg1:T4 Arg2:T3	

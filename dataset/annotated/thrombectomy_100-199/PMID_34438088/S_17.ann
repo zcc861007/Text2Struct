@@ -1,0 +1,8 @@
+T1	Num 143 146	8.0
+T2	Targ 131 139	a median
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 149 168	interquartile range
+T4	Num 171 174	6.0
+T5	Num 177 181	12.0
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	

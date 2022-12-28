@@ -1,0 +1,5 @@
+T1	Num 86 88	85
+T2	Unit 89 93	year
+T3	Targ 66 79	patients aged
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T2	

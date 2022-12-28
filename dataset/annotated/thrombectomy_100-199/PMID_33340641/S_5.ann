@@ -1,0 +1,7 @@
+T1	Num 27 29	12
+T2	Num 32 33	9
+T3	Num 36 38	18
+T4	Targ 10 22	Median NIHSS
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T4	
+R3	acomp Arg1:T3 Arg2:T4	

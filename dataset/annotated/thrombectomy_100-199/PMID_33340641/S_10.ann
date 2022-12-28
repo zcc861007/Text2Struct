@@ -1,0 +1,6 @@
+T1	Num 75 80	0.057
+T2	Targ 58 70	rate of sICH
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 87 88	2
+T4	Targ 83 84	n
+R2	acomp Arg1:T3 Arg2:T4	

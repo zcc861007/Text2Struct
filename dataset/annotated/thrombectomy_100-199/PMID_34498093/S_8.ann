@@ -1,0 +1,17 @@
+T1	Num 107 111	0.95
+T2	Targ 112 131	confidence interval
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 198 202	3.57
+T4	Num 205 208	1.5
+T5	Num 211 215	8.48
+T7	Targ 178 193	the MT subgroup
+R2	acomp Arg1:T3 Arg2:T7	
+R3	acomp Arg1:T4 Arg2:T7	
+R4	acomp Arg1:T5 Arg2:T7	
+T6	Num 248 252	1.35
+T8	Num 255 259	0.37
+T9	Num 262 266	4.91
+T10	Targ 225 240	the ADAPT group
+R5	acomp Arg1:T6 Arg2:T10	
+R6	acomp Arg1:T8 Arg2:T10	
+R7	acomp Arg1:T9 Arg2:T10	

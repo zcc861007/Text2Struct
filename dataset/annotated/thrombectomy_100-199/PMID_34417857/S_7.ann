@@ -1,0 +1,6 @@
+T1	Num 89 94	0.957
+T2	Num 104 109	0.938
+T3	Targ 97 101	sICH
+T4	Targ 60 86	areas under the curve : HT
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T3	

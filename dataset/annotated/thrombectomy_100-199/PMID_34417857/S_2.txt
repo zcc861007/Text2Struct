@@ -1,0 +1,1 @@
+The prediction models of HT and symptomatic intracerebral hemorrhage ( sICH ) were established using mCTA ( model-H1 and model-S1 ) , CT perfusion ( CTP , model-H2 and model-S2 ) , and comprehensive parameters ( model-H3 and model-S3 ) .

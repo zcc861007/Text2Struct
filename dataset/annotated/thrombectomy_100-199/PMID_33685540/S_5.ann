@@ -1,0 +1,8 @@
+T1	Num 32 33	0
+T2	Num 36 37	3
+T3	Num 68 69	3
+T4	Unit 70 76	months
+T5	Targ 28 31	mRS
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T1 Arg2:T5	
+R3	acomp Arg1:T2 Arg2:T5	

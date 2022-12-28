@@ -1,0 +1,17 @@
+T1	Targ 139 140	p
+T2	Num 143 149	0.0001
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 111 124	drip and ship
+T4	Num 125 126	3
+R2	acomp Arg1:T4 Arg2:T3	
+T5	Num 129 130	2
+T6	Num 133 134	6
+R3	acomp Arg1:T5 Arg2:T3	
+R4	acomp Arg1:T6 Arg2:T3	
+T7	Targ 85 95	mothership
+T8	Num 96 97	2
+T9	Num 100 101	0
+T10	Num 104 105	3
+R5	acomp Arg1:T8 Arg2:T7	
+R6	acomp Arg1:T9 Arg2:T7	
+R7	acomp Arg1:T10 Arg2:T7	

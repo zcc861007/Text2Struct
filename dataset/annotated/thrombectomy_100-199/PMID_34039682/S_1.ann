@@ -1,0 +1,5 @@
+T1	Num 91 96	0.088
+T2	Unit 97 101	inch
+T3	Targ 102 116	guide catheter
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	

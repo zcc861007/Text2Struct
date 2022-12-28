@@ -1,0 +1,9 @@
+T1	Num 139 141	-4
+T2	Num 150 152	-9
+T3	Unit 142 146	mmHg
+T4	Unit 153 157	mmHg
+T5	Targ 64 128	reduction in mean pulmonary artery pressure in all five patients
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T4	
+R3	acomp Arg1:T1 Arg2:T5	
+R4	acomp Arg1:T2 Arg2:T5	

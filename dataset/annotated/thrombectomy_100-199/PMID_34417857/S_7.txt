@@ -1,0 +1,1 @@
+Model-H3 and model-S3 improved the prediction performance ( areas under the curve : HT , 0.957 ; sICH , 0.938 ) .

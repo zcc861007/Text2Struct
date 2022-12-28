@@ -1,0 +1,5 @@
+T1	Num 79 82	0.7
+T2	Targ 55 65	resolution
+T3	Unit 90 98	thrombus
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T2	

@@ -1,0 +1,19 @@
+T1	Num 82 87	0.453
+T2	Num 91 96	0.343
+T3	Targ 99 100	p
+T4	Num 103 108	0.013
+R1	acomp Arg1:T4 Arg2:T3	
+T5	Targ 53 79	proportion of good outcome
+R2	acomp Arg1:T1 Arg2:T5	
+R3	acomp Arg1:T2 Arg2:T5	
+T6	Num 134 135	3
+T7	Unit 136 142	months
+R4	acomp Arg1:T6 Arg2:T7	
+T8	Num 145 150	0.358
+T9	Num 154 159	0.486
+T10	Targ 115 130	lower mortality
+R5	acomp Arg1:T8 Arg2:T10	
+R6	acomp Arg1:T9 Arg2:T10	
+T11	Targ 162 163	p
+T12	Num 166 171	0.006
+R7	acomp Arg1:T12 Arg2:T11	

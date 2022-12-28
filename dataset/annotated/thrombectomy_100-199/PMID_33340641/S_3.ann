@@ -1,0 +1,5 @@
+T1	Num 44 46	35
+T2	Unit 47 67	consecutive patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 79 117	first line with ANA at a single centre
+R2	acomp Arg1:T1 Arg2:T3	

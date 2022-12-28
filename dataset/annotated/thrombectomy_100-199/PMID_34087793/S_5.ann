@@ -1,0 +1,9 @@
+T1	Num 34 38	0.34
+T2	Num 56 60	0.71
+T3	Num 80 83	0.6
+T4	Targ 10 31	The first-pass effect
+R1	acomp Arg1:T1 Arg2:T4	
+T5	Targ 43 53	successful
+R2	acomp Arg1:T2 Arg2:T5	
+T6	Targ 69 77	complete
+R3	acomp Arg1:T3 Arg2:T6	

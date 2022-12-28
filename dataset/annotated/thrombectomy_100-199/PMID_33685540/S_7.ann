@@ -1,0 +1,12 @@
+T1	Num 3 4	3
+T2	Unit 5 11	months
+T3	Num 14 19	0.447
+T5	Num 55 59	0.39
+R1	acomp Arg1:T1 Arg2:T2	
+T4	Unit 23 31	patients
+T6	Targ 38 50	good outcome
+T7	Targ 60 68	had died
+R2	acomp Arg1:T5 Arg2:T7	
+R3	acomp Arg1:T3 Arg2:T4	
+R4	acomp Arg1:T3 Arg2:T6	
+R5	acomp Arg1:T5 Arg2:T4	

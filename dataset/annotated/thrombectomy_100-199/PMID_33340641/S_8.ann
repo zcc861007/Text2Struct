@@ -1,0 +1,11 @@
+T1	Num 44 49	0.429
+T2	Targ 0 39	First pass complete recanalization rate
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 84 85	1
+T4	Targ 56 76	median number of ANA
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 94 95	1
+T6	Num 98 99	2
+T7	Num 88 91	IQR
+R3	acomp Arg1:T5 Arg2:T7	
+R4	acomp Arg1:T6 Arg2:T7	

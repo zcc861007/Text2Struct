@@ -1,0 +1,5 @@
+T1	Num 88 90	33
+T2	Unit 91 96	cases
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 99 104	0.733
+T4	Num 126 131	0.067

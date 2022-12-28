@@ -1,0 +1,3 @@
+T1	Num 21 24	337
+T2	Unit 25 39	eligible cases
+R1	acomp Arg1:T1 Arg2:T2	

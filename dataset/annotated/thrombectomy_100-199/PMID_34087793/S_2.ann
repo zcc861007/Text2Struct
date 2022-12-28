@@ -1,0 +1,6 @@
+T1	Num 13 15	12
+T2	Unit 16 34	fresh human brains
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 37 40	105
+T4	Unit 41 45	LVOs
+R2	acomp Arg1:T3 Arg2:T4	

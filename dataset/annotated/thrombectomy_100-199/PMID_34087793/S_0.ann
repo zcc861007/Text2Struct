@@ -1,0 +1,3 @@
+T1	Targ 135 164	complete recanalization rates
+T2	Num 179 182	0.5
+R1	acomp Arg1:T2 Arg2:T1	

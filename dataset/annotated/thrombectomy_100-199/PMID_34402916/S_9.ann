@@ -1,0 +1,8 @@
+T1	Targ 41 49	24-NIHSS
+T2	Num 56 57	8
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 117 120	mRS
+T4	Num 121 122	0
+T5	Num 125 126	2
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	

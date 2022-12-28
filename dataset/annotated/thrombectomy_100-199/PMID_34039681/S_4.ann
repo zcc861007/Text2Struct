@@ -1,0 +1,5 @@
+T1	Targ 28 31	age
+T2	Num 38 40	18
+T3	Unit 41 46	years
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T2 Arg2:T3	

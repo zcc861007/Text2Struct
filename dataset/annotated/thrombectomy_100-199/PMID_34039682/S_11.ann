@@ -1,0 +1,10 @@
+T1	Num 45 50	0.867
+T2	Unit 54 62	patients
+T3	Num 76 81	0.462
+R1	acomp Arg1:T1 Arg2:T2	
+T4	Num 114 115	0
+T7	Targ 89 110	modified Rankin Score
+T5	Num 118 119	2
+R2	acomp Arg1:T4 Arg2:T7	
+R3	acomp Arg1:T5 Arg2:T7	
+T6	Num 126 131	0.103

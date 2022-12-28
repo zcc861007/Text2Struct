@@ -1,0 +1,8 @@
+T1	Num 21 24	377
+T2	Unit 25 33	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 36 41	0.078
+T4	Num 70 71	0
+T5	Targ 56 66	TICI score
+R2	acomp Arg1:T4 Arg2:T5	
+R3	acomp Arg1:T3 Arg2:T2	
