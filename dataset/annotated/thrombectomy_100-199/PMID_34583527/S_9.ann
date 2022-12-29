@@ -1,0 +1,22 @@
+T1	Num 14 16	83
+T2	Num 19 22	240
+T3	Num 25 30	0.346
+T4	Num 40 42	44
+T5	Num 45 48	186
+T6	Num 51 56	0.237
+T7	Targ 67 84	3-month mRS score
+T8	Num 85 86	0
+T9	Num 90 91	1
+R1	acomp Arg1:T8 Arg2:T7	
+R2	acomp Arg1:T9 Arg2:T7	
+T10	Targ 94 95	P
+T11	Num 98 103	0.014
+R3	acomp Arg1:T11 Arg2:T10	
+T12	Targ 108 134	adjusted common odds ratio
+T13	Num 135 138	2.3
+R4	acomp Arg1:T13 Arg2:T12	
+T14	Targ 141 148	0.95 CI
+T15	Num 151 154	1.4
+T16	Num 157 160	3.6
+R5	acomp Arg1:T15 Arg2:T14	
+R6	acomp Arg1:T16 Arg2:T14	

@@ -1,0 +1,5 @@
+T1	Num 23 27	2015
+T2	Num 36 40	2019
+T3	Num 43 46	362
+T4	Unit 47 67	consecutive patients
+R1	acomp Arg1:T3 Arg2:T4	

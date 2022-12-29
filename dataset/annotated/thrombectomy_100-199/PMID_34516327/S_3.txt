@@ -1,0 +1,1 @@
+After propensity score matching with a ratio of 0.5 ( in-hospital stroke : community-onset stroke ) , clinical characteristics and functional outcomes were compared between in-hospital stroke and community-onset stroke groups .

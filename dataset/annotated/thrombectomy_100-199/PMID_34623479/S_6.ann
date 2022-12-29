@@ -1,0 +1,12 @@
+T1	Num 15 20	0.535
+T2	Num 23 25	23
+T3	Num 28 30	43
+T4	Unit 40 48	patients
+R1	acomp Arg1:T2 Arg2:T4	
+R2	acomp Arg1:T3 Arg2:T4	
+R3	acomp Arg1:T1 Arg2:T4	
+T5	Targ 84 87	mRS
+T6	Num 88 89	0
+T7	Num 92 93	2
+R4	acomp Arg1:T6 Arg2:T5	
+R5	acomp Arg1:T7 Arg2:T5	

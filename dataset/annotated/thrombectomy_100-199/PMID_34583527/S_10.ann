@@ -1,0 +1,8 @@
+T1	Num 41 42	6
+T2	Num 50 51	4
+T3	Targ 54 55	P
+T4	Num 58 63	0.005
+R1	acomp Arg1:T4 Arg2:T3	
+T5	Targ 0 19	Median NIHSS change
+R2	acomp Arg1:T1 Arg2:T5	
+R3	acomp Arg1:T2 Arg2:T5	

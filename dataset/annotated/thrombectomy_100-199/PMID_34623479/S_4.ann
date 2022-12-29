@@ -1,0 +1,14 @@
+T1	Num 147 152	0.267
+T2	Num 155 157	12
+T3	Num 160 162	45
+T4	Targ 124 143	a first pass effect
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T4	
+R3	acomp Arg1:T3 Arg2:T4	
+T5	Targ 47 96	the successful recanalization rate ( mTICI 2b-3 )
+T6	Num 101 106	0.844
+T7	Num 109 111	38
+T8	Num 114 116	45
+R4	acomp Arg1:T6 Arg2:T5	
+R5	acomp Arg1:T7 Arg2:T5	
+R6	acomp Arg1:T8 Arg2:T5	

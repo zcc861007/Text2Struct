@@ -1,0 +1,33 @@
+T1	Targ 48 49	n
+T2	Num 52 55	244
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 128 129	n
+T4	Num 132 135	187
+R2	acomp Arg1:T4 Arg2:T3	
+T5	Targ 140 150	median age
+T6	Num 151 153	74
+R3	acomp Arg1:T6 Arg2:T5	
+T7	Targ 156 175	interquartile range
+T8	Num 178 180	63
+T9	Num 183 185	81
+R4	acomp Arg1:T8 Arg2:T7	
+R5	acomp Arg1:T9 Arg2:T7	
+T10	Num 195 197	71
+R6	acomp Arg1:T10 Arg2:T5	
+T11	Num 200 202	61
+T12	Num 205 207	78
+R7	acomp Arg1:T11 Arg2:T7	
+R8	acomp Arg1:T12 Arg2:T7	
+T13	Targ 212 223	NIHSS score
+T14	Num 224 226	17
+R9	acomp Arg1:T14 Arg2:T13	
+T15	Num 229 233	11.5
+T16	Num 236 238	21
+T17	Num 248 250	15
+T18	Num 253 255	10
+T19	Num 258 260	20
+R10	acomp Arg1:T17 Arg2:T13	
+R11	acomp Arg1:T15 Arg2:T13	
+R12	acomp Arg1:T16 Arg2:T13	
+R13	acomp Arg1:T18 Arg2:T13	
+R14	acomp Arg1:T19 Arg2:T13	

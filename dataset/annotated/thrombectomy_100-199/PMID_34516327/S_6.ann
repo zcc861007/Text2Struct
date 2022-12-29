@@ -1,0 +1,7 @@
+T1	Num 78 83	0.139
+T2	Num 88 93	0.431
+T3	Targ 96 97	p
+T4	Num 100 105	0.002
+R1	acomp Arg1:T4 Arg2:T3	
+T5	Num 51 75	in-hospital stroke group
+R2	acomp Arg1:T1 Arg2:T5	

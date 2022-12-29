@@ -1,0 +1,18 @@
+T1	Targ 73 95	mean difference ( MD )
+T2	Num 98 103	-1.60
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 106 107	p
+T4	Num 110 115	0.002
+R2	acomp Arg1:T4 Arg2:T3	
+T5	Targ 155 157	MD
+T6	Num 160 165	-1.68
+R3	acomp Arg1:T6 Arg2:T5	
+T7	Targ 168 169	p
+T8	Num 172 177	0.001
+R4	acomp Arg1:T8 Arg2:T7	
+T9	Targ 259 261	MD
+T10	Num 264 268	2.02
+R5	acomp Arg1:T10 Arg2:T9	
+T11	Targ 271 272	p
+T12	Num 275 280	0.001
+R6	acomp Arg1:T12 Arg2:T11	

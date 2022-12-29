@@ -1,0 +1,13 @@
+T1	Targ 59 68	mRS score
+T2	Num 69 70	0
+T3	Num 74 75	1
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+T4	Targ 78 87	mRS score
+T5	Num 88 89	0
+T6	Num 93 94	2
+R3	acomp Arg1:T5 Arg2:T4	
+R4	acomp Arg1:T6 Arg2:T4	
+T7	Num 113 114	3
+T8	Unit 115 121	months
+R5	acomp Arg1:T7 Arg2:T8	

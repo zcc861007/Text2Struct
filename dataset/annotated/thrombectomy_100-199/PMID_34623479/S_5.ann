@@ -1,0 +1,14 @@
+T1	Num 119 123	0.14
+T2	Num 99 103	0.07
+T3	Num 106 107	3
+T4	Num 110 112	43
+T5	Num 126 127	6
+T6	Num 130 132	43
+T7	Targ 62 94	subarachnoid hemorrhages ( SAH )
+T8	Targ 0 57	The rate of symptomatic intracranial hemorrhages ( sICH )
+R1	acomp Arg1:T2 Arg2:T8	
+R2	acomp Arg1:T1 Arg2:T7	
+R3	acomp Arg1:T3 Arg2:T8	
+R4	acomp Arg1:T4 Arg2:T8	
+R5	acomp Arg1:T5 Arg2:T7	
+R6	acomp Arg1:T6 Arg2:T7	

@@ -1,0 +1,8 @@
+T1	Num 62 65	1.7
+T2	Targ 0 57	Adjusted common odds ratio for lower mRS in SSTS patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 68 75	0.95 CI
+T4	Num 78 81	1.2
+T5	Num 84 87	2.3
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	

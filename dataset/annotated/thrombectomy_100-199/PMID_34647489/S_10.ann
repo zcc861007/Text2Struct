@@ -1,0 +1,9 @@
+T1	Num 62 67	1.732
+T2	Targ 106 142	0.95 confidence interval ( 0.95 CI )
+T3	Num 145 150	-3.39
+T4	Num 154 160	-0.072
+T5	Targ 163 164	p
+T6	Num 167 172	0.041
+R1	acomp Arg1:T6 Arg2:T5	
+R2	acomp Arg1:T3 Arg2:T2	
+R3	acomp Arg1:T4 Arg2:T2	

@@ -1,0 +1,5 @@
+T1	Num 160 164	2017
+T2	Num 176 180	2019
+T3	Num 217 218	2
+T4	Unit 219 233	previous years
+R1	acomp Arg1:T3 Arg2:T4	

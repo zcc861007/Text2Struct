@@ -1,0 +1,30 @@
+T1	Targ 199 201	OR
+T2	Num 204 209	0.376
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 212 219	0.95 CI
+T4	Num 222 227	0.153
+T5	Num 230 235	0.922
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+T6	Targ 238 239	p
+T7	Num 242 247	0.033
+R4	acomp Arg1:T7 Arg2:T6	
+T8	Targ 0 39	Odds of achieving modified Rankin Scale
+T9	Num 43 44	0
+T10	Num 47 48	2
+R5	acomp Arg1:T9 Arg2:T8	
+R6	acomp Arg1:T10 Arg2:T8	
+T11	Num 52 54	90
+T12	Unit 55 59	days
+R7	acomp Arg1:T11 Arg2:T12	
+T13	Targ 111 128	odds ratio ( OR )
+T14	Num 131 136	0.279
+T15	Targ 139 146	0.95 CI
+T16	Num 149 154	0.090
+T17	Num 157 162	0.869
+R8	acomp Arg1:T14 Arg2:T13	
+R9	acomp Arg1:T16 Arg2:T15	
+R10	acomp Arg1:T17 Arg2:T15	
+T18	Targ 165 166	p
+T19	Num 169 174	0.028
+R11	acomp Arg1:T19 Arg2:T18	

@@ -1,0 +1,6 @@
+T1	Num 82 84	13
+T2	Num 134 138	2019
+T3	Num 152 156	2020
+T4	Num 36 38	45
+T5	Unit 39 44	DMVOs
+R1	acomp Arg1:T4 Arg2:T5	
