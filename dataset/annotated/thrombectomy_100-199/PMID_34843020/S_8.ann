@@ -1,0 +1,6 @@
+T1	Num 43 48	0.195
+T2	Num 87 89	90
+T3	Unit 90 94	days
+R1	acomp Arg1:T2 Arg2:T3	
+T4	Targ 49 83	higher chance of excellent outcome
+R2	acomp Arg1:T1 Arg2:T4	

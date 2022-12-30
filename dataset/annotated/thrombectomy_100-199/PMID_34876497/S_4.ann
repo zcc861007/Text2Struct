@@ -1,0 +1,10 @@
+T1	Num 13 17	4561
+T2	Unit 27 35	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 38 41	526
+T4	Num 44 49	0.115
+R2	acomp Arg1:T3 Arg2:T2	
+R3	acomp Arg1:T4 Arg2:T2	
+T5	Num 63 65	55
+T6	Unit 66 71	years
+R4	acomp Arg1:T5 Arg2:T6	

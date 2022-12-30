@@ -1,0 +1,8 @@
+T1	Targ 30 57	modified Rankin Scale score
+T2	Num 61 62	0
+T3	Num 65 66	1
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+T4	Num 70 72	90
+T5	Unit 73 77	days
+R3	acomp Arg1:T4 Arg2:T5	

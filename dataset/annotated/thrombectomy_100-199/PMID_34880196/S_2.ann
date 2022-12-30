@@ -1,0 +1,3 @@
+T1	Num 80 81	2
+T2	Targ 56 79	the applied MCA segment
+R1	acomp Arg1:T1 Arg2:T2	

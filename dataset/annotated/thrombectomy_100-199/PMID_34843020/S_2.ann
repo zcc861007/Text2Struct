@@ -1,0 +1,6 @@
+T1	Num 27 28	9
+T2	Unit 29 63	high-volume Italian stroke centers
+T3	Targ 181 216	Health Stroke Scale ( NIHSS ) score
+T4	Num 223 224	5
+R1	acomp Arg1:T4 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T2	

@@ -1,0 +1,11 @@
+T1	Num 129 130	3
+T2	Unit 131 137	months
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 163 167	aged
+T4	Num 174 176	55
+T5	Num 183 185	55
+T6	Unit 186 191	years
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+R4	acomp Arg1:T4 Arg2:T6	
+R5	acomp Arg1:T5 Arg2:T6	
