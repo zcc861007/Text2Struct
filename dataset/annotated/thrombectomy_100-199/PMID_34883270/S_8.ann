@@ -1,0 +1,8 @@
+T1	Targ 66 72	groups
+T2	Num 73 74	3
+T3	Num 79 80	4
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+T4	Targ 83 84	P
+T5	Num 87 91	.001
+R3	acomp Arg1:T5 Arg2:T4	

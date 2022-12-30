@@ -1,0 +1,3 @@
+T1	Num 128 130	20
+T2	Unit 131 136	cases
+R1	acomp Arg1:T1 Arg2:T2	

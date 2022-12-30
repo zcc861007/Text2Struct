@@ -1,0 +1,23 @@
+T1	Num 11 13	80
+T2	Unit 14 22	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 78 80	20
+T4	Unit 81 86	cases
+T5	Targ 90 97	group 1
+R2	acomp Arg1:T3 Arg2:T4	
+R3	acomp Arg1:T3 Arg2:T5	
+T6	Num 111 113	20
+T7	Unit 114 119	cases
+T8	Targ 123 130	group 2
+R4	acomp Arg1:T6 Arg2:T7	
+R5	acomp Arg1:T6 Arg2:T8	
+T9	Num 143 145	20
+T10	Unit 146 151	cases
+T11	Targ 155 162	group 3
+R6	acomp Arg1:T9 Arg2:T10	
+R7	acomp Arg1:T9 Arg2:T11	
+T12	Num 179 181	20
+T13	Unit 182 187	cases
+T14	Targ 191 198	group 4
+R8	acomp Arg1:T12 Arg2:T13	
+R9	acomp Arg1:T12 Arg2:T14	

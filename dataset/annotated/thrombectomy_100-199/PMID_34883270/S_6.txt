@@ -1,0 +1,1 @@
+The mean operative time was 139.3 minutes for group 1 , 134.8 minutes for group 2 , 111.3 minutes for group 3 , and 106.7 minutes for group 4 .

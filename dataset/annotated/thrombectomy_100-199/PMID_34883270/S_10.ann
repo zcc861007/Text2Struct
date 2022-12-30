@@ -1,0 +1,21 @@
+T1	Num 62 64	20
+T2	Unit 65 70	cases
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 164 165	1
+T4	Targ 158 163	group
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 168 171	0.7
+T6	Targ 176 183	group 1
+R3	acomp Arg1:T5 Arg2:T6	
+T7	Num 186 189	0.9
+T8	Targ 194 201	group 2
+R4	acomp Arg1:T7 Arg2:T8	
+T9	Num 204 208	0.95
+T10	Targ 213 220	group 3
+R5	acomp Arg1:T9 Arg2:T10	
+T11	Num 227 230	1.0
+T12	Targ 235 242	group 4
+R6	acomp Arg1:T11 Arg2:T12	
+T13	Targ 245 246	P
+T14	Num 249 253	.024
+R7	acomp Arg1:T14 Arg2:T13	

@@ -1,0 +1,10 @@
+T1	Num 91 92	3
+T2	Num 97 98	4
+T3	Num 129 130	1
+T4	Num 135 136	2
+T5	Targ 122 128	groups
+T6	Targ 84 90	groups
+R1	acomp Arg1:T1 Arg2:T6	
+R2	acomp Arg1:T2 Arg2:T6	
+R3	acomp Arg1:T3 Arg2:T5	
+R4	acomp Arg1:T4 Arg2:T5	
