@@ -1,0 +1,8 @@
+T1	Num 100 104	67.8
+T2	Num 109 111	16
+T4	Unit 112 117	years
+T3	Targ 86 96	a mean age
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	
+R3	acomp Arg1:T2 Arg2:T4	
+R4	acomp Arg1:T1 Arg2:T4	

@@ -1,0 +1,1 @@
+Cox regression analysis adjusting for age showed no increased all cause mortality after EVT+CEA ( HR 1.3 , 0.95 CI 0.6 - 2.7 , p = .52 ) .

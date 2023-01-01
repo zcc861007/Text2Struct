@@ -1,0 +1,3 @@
+T1	Num 57 59	25
+T2	Targ 29 56	IBM SPSS Statistics Version
+R1	acomp Arg1:T1 Arg2:T2	

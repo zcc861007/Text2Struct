@@ -1,0 +1,5 @@
+T1	Num 79 81	24
+T2	Unit 82 87	hours
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 91 104	symptom onset
+R2	acomp Arg1:T1 Arg2:T3	

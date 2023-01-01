@@ -1,0 +1,1 @@
+A p-value of less than .05 was considered to indicate statistical significance .

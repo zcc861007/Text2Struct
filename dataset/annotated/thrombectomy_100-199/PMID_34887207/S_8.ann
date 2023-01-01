@@ -1,0 +1,11 @@
+T1	Num 38 40	30
+T2	Unit 41 45	days
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 62 65	0.0
+T4	Targ 0 34	The combined stroke and death rate
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Targ 68 99	0.95 confidence interval [ CI ]
+T6	Num 100 103	0.0
+T7	Num 106 109	5.7
+R3	acomp Arg1:T6 Arg2:T5	
+R4	acomp Arg1:T7 Arg2:T5	

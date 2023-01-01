@@ -1,0 +1,8 @@
+T1	Num 66 68	11
+T2	Num 73 76	8.5
+T3	Unit 77 83	points
+T4	Targ 0 61	Median National Institute of Health Stroke Scale at admission
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T4	
+R3	acomp Arg1:T1 Arg2:T3	
+R4	acomp Arg1:T2 Arg2:T3	

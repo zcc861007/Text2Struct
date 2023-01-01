@@ -1,0 +1,8 @@
+T1	Num 65 66	8
+T2	Unit 67 72	hours
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 137 141	0.17
+T4	Targ 53 61	a median
+R2	acomp Arg1:T1 Arg2:T4	
+T5	Unit 145 159	thrombectomies
+R3	acomp Arg1:T3 Arg2:T5	

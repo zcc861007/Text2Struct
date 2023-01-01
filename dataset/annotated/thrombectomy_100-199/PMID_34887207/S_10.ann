@@ -1,0 +1,11 @@
+T1	Targ 50 69	interquartile range
+T2	Num 70 71	4
+T3	Num 74 76	15
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+T4	Num 95 99	0.75
+T5	Targ 104 107	CEA
+T6	Num 114 116	14
+T7	Unit 117 121	days
+R3	acomp Arg1:T6 Arg2:T7	
+R4	acomp Arg1:T6 Arg2:T5	

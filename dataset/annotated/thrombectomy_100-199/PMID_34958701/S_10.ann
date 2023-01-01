@@ -1,0 +1,6 @@
+T1	Num 22 24	41
+T2	Unit 25 49	thrombectomy experiments
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 144 146	41
+T4	Unit 147 155	patients
+R2	acomp Arg1:T3 Arg2:T4	

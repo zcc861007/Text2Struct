@@ -1,0 +1,9 @@
+T1	Num 93 97	0.79
+T2	Num 109 114	0.059
+T3	Targ 148 149	p
+T4	Num 152 156	.001
+R1	acomp Arg1:T4 Arg2:T3	
+T5	Targ 127 145	the CEA only group
+R2	acomp Arg1:T2 Arg2:T5	
+T6	Targ 10 27	The EVT+CEA group
+R3	acomp Arg1:T1 Arg2:T6	

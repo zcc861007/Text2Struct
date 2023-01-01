@@ -1,0 +1,3 @@
+T1	Num 24 26	30
+T2	Unit 27 30	day
+R1	acomp Arg1:T1 Arg2:T2	

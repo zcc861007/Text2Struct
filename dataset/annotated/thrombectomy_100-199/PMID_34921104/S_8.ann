@@ -1,0 +1,11 @@
+T1	Num 175 180	0.002
+T2	Targ 171 172	p
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 157 161	1.36
+T4	Num 164 168	4.00
+T5	Targ 125 156	0.95 confidence interval [ CI ]
+R2	acomp Arg1:T3 Arg2:T5	
+R3	acomp Arg1:T4 Arg2:T5	
+T6	Num 119 122	2.3
+T7	Targ 93 118	common odds ratio [ cOR ]
+R4	acomp Arg1:T6 Arg2:T7	

@@ -1,0 +1,12 @@
+T1	Num 64 69	0.037
+T2	Targ 0 54	The stroke and death rate in patients treated with CEA
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 72 79	0.95 CI
+T4	Num 80 83	3.2
+T5	Num 86 89	4.4
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+T6	Num 154 159	0.797
+T7	Num 169 171	14
+T8	Unit 172 176	days
+R4	acomp Arg1:T7 Arg2:T8	

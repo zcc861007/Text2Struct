@@ -1,0 +1,1 @@
+METHODS : Using patient-specific 3-dimensional phantoms of the cervical and intracranial circulation , we simulated middle cerebral arteries ( MCA ) M1 and M2 occlusions treated with SR thrombectomy using Solitaire ( Medtronic ) or Trevo ( Styker ) .

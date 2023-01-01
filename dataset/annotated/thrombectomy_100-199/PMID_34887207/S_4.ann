@@ -1,0 +1,11 @@
+T1	Num 23 28	0.017
+T2	Num 31 36	0.005
+T3	Unit 12 20	patients
+R1	acomp Arg1:T1 Arg2:T3	
+T4	Targ 37 41	2011
+T5	Num 44 49	0.043
+R2	acomp Arg1:T2 Arg2:T4	
+T6	Targ 50 54	2019
+R3	acomp Arg1:T5 Arg2:T6	
+R4	acomp Arg1:T2 Arg2:T3	
+R5	acomp Arg1:T5 Arg2:T3	

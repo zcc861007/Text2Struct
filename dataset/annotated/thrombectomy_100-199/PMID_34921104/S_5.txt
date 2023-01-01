@@ -1,0 +1,1 @@
+Adjusted logistic regression models assessed the association of SA-HD with pretreatment and procedural variables and with poor clinical outcome ( shift towards worse categories in the ordinal Rankin Scale at 90 days ) .

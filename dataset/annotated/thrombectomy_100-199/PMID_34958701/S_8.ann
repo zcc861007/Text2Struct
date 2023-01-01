@@ -1,0 +1,3 @@
+T1	Num 23 26	.05
+T2	Targ 0 9	A p-value
+R1	acomp Arg1:T1 Arg2:T2	

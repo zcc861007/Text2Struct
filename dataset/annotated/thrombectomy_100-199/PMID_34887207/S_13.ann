@@ -1,0 +1,16 @@
+T1	Targ 0 37	The three year survival after EVT+CEA
+T2	Num 42 46	0.93
+T3	Targ 49 56	0.95 CI
+T4	Num 57 59	85
+T5	Num 62 65	100
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+T6	Num 84 88	0.87
+T7	Targ 91 98	0.95 CI
+T8	Num 99 101	86
+T9	Num 104 106	88
+R5	acomp Arg1:T8 Arg2:T7	
+R6	acomp Arg1:T9 Arg2:T7	
+R1	acomp Arg1:T2 Arg2:T1	
+T10	Targ 109 123	after CEA only
+R4	acomp Arg1:T6 Arg2:T10	

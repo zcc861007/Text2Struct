@@ -1,0 +1,18 @@
+T1	Num 150 155	0.458
+T2	Num 158 163	0.036
+T3	Num 166 171	0.222
+T4	Num 174 179	0.283
+T5	Num 182 185	0.2
+T6	Num 190 195	0.162
+T7	Targ 34 57	red blood cells ( RBC )
+T8	Targ 60 85	white blood cells ( WBC )
+T9	Targ 88 96	platelet
+T10	Targ 99 105	fibrin
+T11	Targ 108 113	H3Cit
+T12	Targ 120 123	vWF
+R1	acomp Arg1:T1 Arg2:T7	
+R2	acomp Arg1:T2 Arg2:T8	
+R3	acomp Arg1:T3 Arg2:T9	
+R4	acomp Arg1:T4 Arg2:T10	
+R5	acomp Arg1:T5 Arg2:T11	
+R6	acomp Arg1:T6 Arg2:T12	

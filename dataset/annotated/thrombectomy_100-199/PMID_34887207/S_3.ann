@@ -1,0 +1,5 @@
+T1	Targ 54 55	n
+T2	Num 58 62	3780
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Num 162 166	2011
+T4	Num 180 184	2020

@@ -1,0 +1,10 @@
+T1	Num 41 42	4
+T2	Num 63 64	4
+T3	Unit 65 66	h
+T4	Unit 43 44	h
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T3	
+T5	Targ 27 32	early
+R3	acomp Arg1:T1 Arg2:T5	
+T6	Targ 51 58	delayed
+R4	acomp Arg1:T2 Arg2:T6	

@@ -1,0 +1,1 @@
+Based on ANN model , the most important factors for predicting the number of passes required for successful recanalization are fibrin and RBC contents of the thrombus followed by vWF and H3Cit contents .
