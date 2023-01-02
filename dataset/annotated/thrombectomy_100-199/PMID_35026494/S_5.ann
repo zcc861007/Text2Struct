@@ -1,0 +1,5 @@
+T1	Num 27 29	90
+T2	Unit 30 39	years-old
+T3	Targ 12 20	patients
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T2	

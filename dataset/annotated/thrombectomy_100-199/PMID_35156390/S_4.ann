@@ -1,0 +1,12 @@
+T1	Num 20 25	26640
+T2	Targ 26 46	White , non-Hispanic
+T3	Num 62 66	7956
+T4	Num 49 53	0.77
+T5	Num 92 96	0.23
+T6	Targ 67 89	African American/Black
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T3 Arg2:T6	
+T7	Unit 99 107	patients
+R3	acomp Arg1:T4 Arg2:T7	
+R4	acomp Arg1:T5 Arg2:T7	
+R5	acomp Arg1:T1 Arg2:T7	

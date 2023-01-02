@@ -1,0 +1,27 @@
+T1	Targ 313 314	p
+T2	Num 317 321	0.97
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 290 297	0.95 CI
+T4	Num 298 302	0.69
+T5	Num 306 310	1.47
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+T7	Num 283 287	1.01
+T6	Targ 264 282	common adjusted OR
+R4	acomp Arg1:T7 Arg2:T6	
+T8	Targ 96 112	90-day mRS score
+T9	Num 116 117	0
+T10	Num 120 121	2
+R5	acomp Arg1:T9 Arg2:T8	
+R6	acomp Arg1:T10 Arg2:T8	
+T11	Targ 212 213	p
+T12	Num 216 220	0.83
+R7	acomp Arg1:T12 Arg2:T11	
+T13	Targ 189 196	0.95 CI
+T14	Num 197 201	0.69
+T15	Num 205 209	1.59
+R8	acomp Arg1:T14 Arg2:T13	
+R9	acomp Arg1:T15 Arg2:T13	
+T16	Targ 170 181	adjusted OR
+T17	Num 182 186	1.05
+R10	acomp Arg1:T17 Arg2:T16	

@@ -1,0 +1,10 @@
+T1	Num 37 38	2
+T2	Num 80 81	3
+T3	Num 84 89	0.094
+T4	Num 41 46	0.063
+T5	Targ 0 24	Procedural complications
+R1	acomp Arg1:T1 Arg2:T5	
+R2	acomp Arg1:T4 Arg2:T5	
+T6	Targ 53 76	intracranial hemorrhage
+R3	acomp Arg1:T2 Arg2:T6	
+R4	acomp Arg1:T3 Arg2:T6	

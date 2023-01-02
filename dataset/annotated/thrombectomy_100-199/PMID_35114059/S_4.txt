@@ -1,0 +1,1 @@
+METHODS : The primary endpoint is a composite of major adverse events ( MAE ) including device-related death , major bleeding , and intraprocedural device- or procedure-related adverse events at 48 h. Secondary endpoints include on-table changes in hemodynamics and longer-term measures including dyspnea , heart rate , and cardiac function .

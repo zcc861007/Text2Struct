@@ -1,0 +1,8 @@
+T1	Num 68 70	25
+T2	Num 73 77	0.81
+T3	Unit 21 34	nonagenarians
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	
+T5	Num 104 105	2
+T4	Targ 84 97	prestroke mRS
+R3	acomp Arg1:T5 Arg2:T4	

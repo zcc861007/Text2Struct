@@ -1,0 +1,10 @@
+T1	Num 91 94	8.8
+T2	Unit 95 100	hours
+T3	Num 105 110	0.532
+T4	Targ 28 86	the median onset/last-known-well to emergency arrival time
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T1 Arg2:T2	
+T5	Num 13 16	608
+T6	Unit 17 25	patients
+R3	acomp Arg1:T5 Arg2:T6	
+R4	acomp Arg1:T3 Arg2:T6	

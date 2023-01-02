@@ -1,0 +1,5 @@
+T1	Targ 20 42	a time delay threshold
+T2	Num 48 49	6
+T3	Unit 50 51	s
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T1	

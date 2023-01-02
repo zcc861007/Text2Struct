@@ -1,0 +1,10 @@
+T1	Num 39 40	0
+T2	Num 43 44	2
+T3	Num 81 83	30
+T4	Num 87 89	90
+T5	Targ 77 80	day
+R1	acomp Arg1:T3 Arg2:T5	
+R2	acomp Arg1:T4 Arg2:T5	
+T6	Targ 48 73	the modified Rankin Scale
+R3	acomp Arg1:T1 Arg2:T6	
+R4	acomp Arg1:T2 Arg2:T6	

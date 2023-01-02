@@ -1,0 +1,36 @@
+T1	Num 94 96	59
+T2	Unit 97 99	mL
+T3	Num 104 105	8
+T4	Unit 106 108	mL
+T5	Targ 111 112	p
+T6	Num 115 120	0.001
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T3 Arg2:T4	
+R3	acomp Arg1:T6 Arg2:T5	
+T7	Targ 48 91	lesion growth on diffusion-weighted imaging
+R4	acomp Arg1:T1 Arg2:T7	
+R5	acomp Arg1:T3 Arg2:T7	
+T8	Num 178 182	0.24
+T9	Num 187 190	0.7
+T10	Targ 193 194	p
+T11	Num 197 202	0.002
+R6	acomp Arg1:T11 Arg2:T10	
+T12	Num 208 210	24
+T13	Unit 211 212	h
+R7	acomp Arg1:T12 Arg2:T13	
+T14	Num 281 283	30
+T15	Num 287 289	90
+T16	Unit 290 294	days
+R8	acomp Arg1:T14 Arg2:T16	
+R9	acomp Arg1:T15 Arg2:T16	
+T17	Num 297 298	5
+T18	Num 306 307	2
+T19	Targ 310 311	p
+T20	Num 314 319	0.001
+R10	acomp Arg1:T20 Arg2:T19	
+T21	Targ 225 277	long-term outcome based on the modified Rankin Scale
+R11	acomp Arg1:T17 Arg2:T21	
+R12	acomp Arg1:T18 Arg2:T21	
+T22	Targ 131 175	rate of major early neurological improvement
+R13	acomp Arg1:T8 Arg2:T22	
+R14	acomp Arg1:T9 Arg2:T22	

@@ -1,0 +1,7 @@
+T1	Num 48 52	0.56
+T2	Num 55 57	34
+T3	Num 61 63	61
+T4	Unit 69 81	our patients
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T4	
+R3	acomp Arg1:T1 Arg2:T4	

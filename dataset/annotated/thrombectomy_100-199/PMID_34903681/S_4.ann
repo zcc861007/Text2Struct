@@ -1,0 +1,13 @@
+T1	Num 26 28	24
+T2	Unit 29 30	h
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 53 64	Tmax volume
+T4	Num 67 69	10
+T5	Unit 70 72	mL
+T6	Num 80 81	6
+T7	Unit 82 83	s
+T8	Targ 84 89	delay
+R2	acomp Arg1:T6 Arg2:T7	
+R3	acomp Arg1:T6 Arg2:T8	
+R4	acomp Arg1:T4 Arg2:T5	
+R5	acomp Arg1:T4 Arg2:T3	

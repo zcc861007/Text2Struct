@@ -1,0 +1,15 @@
+T1	Num 45 46	2
+T2	Num 49 54	0.067
+T3	Num 72 73	8
+T4	Num 76 81	0.267
+T5	Num 113 115	20
+T6	Num 118 123	0.667
+T7	Targ 89 110	a combination of both
+T8	Targ 36 42	stents
+R1	acomp Arg1:T1 Arg2:T8	
+R2	acomp Arg1:T2 Arg2:T8	
+T9	Targ 59 69	aspiration
+R3	acomp Arg1:T3 Arg2:T9	
+R4	acomp Arg1:T4 Arg2:T9	
+R5	acomp Arg1:T5 Arg2:T7	
+R6	acomp Arg1:T6 Arg2:T7	

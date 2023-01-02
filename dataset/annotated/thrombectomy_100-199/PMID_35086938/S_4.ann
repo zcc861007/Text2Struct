@@ -1,0 +1,5 @@
+T1	Targ 101 129	modified Rankin Scale 'mRS '
+T2	Num 130 131	0
+T3	Num 134 135	2
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	

@@ -1,0 +1,29 @@
+T1	Num 60 62	67
+T2	Unit 63 68	years
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 49 59	median age
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 71 75	0.58
+T5	Targ 76 82	female
+T6	Num 85 89	0.45
+T7	Targ 90 112	Black/African American
+T8	Num 115 119	0.36
+T9	Targ 120 135	White/Caucasian
+R3	acomp Arg1:T4 Arg2:T5	
+R4	acomp Arg1:T6 Arg2:T7	
+R5	acomp Arg1:T8 Arg2:T9	
+T10	Targ 138 197	median admission National Institutes of Health Stroke Scale
+T11	Num 198 200	19
+R6	acomp Arg1:T11 Arg2:T10	
+T12	Num 238 242	0.71
+T13	Targ 243 245	M1
+T14	Num 248 253	0.145
+T15	Targ 254 258	iICA
+T16	Num 261 266	0.145
+T17	Targ 267 269	M2
+T18	Num 272 276	0.69
+R7	acomp Arg1:T12 Arg2:T13	
+R8	acomp Arg1:T14 Arg2:T15	
+R9	acomp Arg1:T16 Arg2:T17	
+T19	Targ 290 342	intravenous recombinant tissue plasminogen activator
+R10	acomp Arg1:T18 Arg2:T19	

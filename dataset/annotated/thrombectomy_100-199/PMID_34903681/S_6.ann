@@ -1,0 +1,13 @@
+T1	Targ 147 152	score
+T2	Num 156 157	0
+T3	Num 160 161	1
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+T4	Num 165 167	24
+T5	Unit 168 169	h
+R3	acomp Arg1:T4 Arg2:T5	
+T6	Num 133 134	8
+T7	Unit 135 141	points
+R4	acomp Arg1:T6 Arg2:T7	
+T8	Targ 52 123	a reduction of the admission National Institutes of Health Stroke Scale
+R5	acomp Arg1:T6 Arg2:T8	

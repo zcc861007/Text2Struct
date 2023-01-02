@@ -1,0 +1,27 @@
+T1	Targ 87 113	adjusted odds ratio [ OR ]
+T2	Num 116 120	0.65
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 123 130	0.95 CI
+T4	Num 133 137	0.54
+T5	Num 140 144	0.76
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+T6	Num 163 164	5
+T7	Unit 165 170	hours
+R4	acomp Arg1:T6 Arg2:T7	
+T8	Targ 198 209	adjusted OR
+T9	Num 212 216	0.73
+R5	acomp Arg1:T9 Arg2:T8	
+T10	Targ 219 226	0.95 CI
+T11	Num 229 233	0.69
+R6	acomp Arg1:T11 Arg2:T10	
+T12	Num 236 240	0.78
+R7	acomp Arg1:T12 Arg2:T10	
+T13	Targ 311 322	adjusted OR
+T14	Num 325 329	0.78
+R8	acomp Arg1:T14 Arg2:T13	
+T15	Targ 332 339	0.95 CI
+T16	Num 342 346	0.64
+T17	Num 349 353	0.96
+R9	acomp Arg1:T16 Arg2:T15	
+R10	acomp Arg1:T17 Arg2:T15	

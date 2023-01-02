@@ -1,0 +1,1 @@
+Bivariate analyses were performed using the Mann-Whitney U test for continuous variables , and chi ( 2 ) and Fisher 's exact tests , respectively , for nominal and ordinal variables .

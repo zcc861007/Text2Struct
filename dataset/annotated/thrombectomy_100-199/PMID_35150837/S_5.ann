@@ -1,0 +1,27 @@
+T1	Num 60 63	245
+T2	Num 71 74	253
+T3	Unit 75 82	minutes
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	
+T4	Targ 85 86	P
+T5	Num 89 92	.49
+R3	acomp Arg1:T5 Arg2:T4	
+T6	Targ 10 55	The median time from stroke onset to puncture
+R4	acomp Arg1:T1 Arg2:T6	
+R5	acomp Arg1:T2 Arg2:T6	
+T7	Targ 97 146	the technically successful revascularization rate
+T8	Num 151 156	0.818
+T9	Num 164 169	0.824
+T10	Targ 172 173	P
+T11	Num 176 179	.81
+R6	acomp Arg1:T8 Arg2:T7	
+R7	acomp Arg1:T9 Arg2:T7	
+R8	acomp Arg1:T11 Arg2:T10	
+T12	Num 223 228	0.455
+T13	Num 236 241	0.501
+T14	Targ 244 245	P
+T15	Num 248 251	.16
+R9	acomp Arg1:T15 Arg2:T14	
+T16	Targ 188 218	the good clinical outcome rate
+R10	acomp Arg1:T12 Arg2:T16	
+R11	acomp Arg1:T13 Arg2:T16	

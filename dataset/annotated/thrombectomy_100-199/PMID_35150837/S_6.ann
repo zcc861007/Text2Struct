@@ -1,0 +1,11 @@
+T1	Targ 102 112	odds ratio
+T2	Num 115 120	1.028
+T3	Targ 123 147	0.95 confidence interval
+T4	Num 150 155	0.760
+T5	Num 158 163	1.390
+T6	Targ 166 167	P
+T7	Num 170 173	.86
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+R4	acomp Arg1:T7 Arg2:T6	

@@ -1,0 +1,13 @@
+T1	Targ 128 131	mRS
+T2	Num 134 135	2
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Num 141 143	90
+T4	Unit 144 148	days
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Targ 151 152	p
+T6	Num 155 158	.13
+T7	Num 161 164	.75
+T8	Num 167 170	.84
+R3	acomp Arg1:T6 Arg2:T5	
+R4	acomp Arg1:T7 Arg2:T5	
+R5	acomp Arg1:T8 Arg2:T5	

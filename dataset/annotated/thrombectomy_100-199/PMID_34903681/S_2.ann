@@ -1,0 +1,8 @@
+T1	Num 121 125	2015
+T2	Num 139 143	2018
+T3	Num 181 183	12
+T4	Unit 184 185	h
+R1	acomp Arg1:T3 Arg2:T4	
+T5	Num 493 495	24
+T6	Unit 496 497	h
+R2	acomp Arg1:T5 Arg2:T6	

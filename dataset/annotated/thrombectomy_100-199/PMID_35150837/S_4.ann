@@ -1,0 +1,9 @@
+T1	Num 11 15	1009
+T2	Unit 16 24	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 42 45	622
+T4	Num 65 68	387
+T5	Targ 57 60	IRs
+R2	acomp Arg1:T3 Arg2:T5	
+T6	Targ 80 93	NI physicians
+R3	acomp Arg1:T4 Arg2:T6	

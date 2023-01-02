@@ -1,0 +1,6 @@
+T1	Num 77 82	0.068
+T2	Num 95 100	0.932
+T3	Unit 83 92	high-risk
+T4	Unit 101 118	intermediate-risk
+R1	acomp Arg1:T2 Arg2:T4	
+R2	acomp Arg1:T1 Arg2:T3	

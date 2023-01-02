@@ -1,0 +1,12 @@
+T1	Num 171 173	48
+T2	Unit 174 175	h
+T3	Num 201 206	0.004
+T4	Num 210 212	30
+T5	Unit 213 217	days
+R1	acomp Arg1:T4 Arg2:T5	
+T6	Targ 17 21	MAEs
+T7	Num 24 29	0.012
+R2	acomp Arg1:T7 Arg2:T6	
+R3	acomp Arg1:T1 Arg2:T2	
+T8	Targ 177 196	All-cause mortality
+R4	acomp Arg1:T3 Arg2:T8	

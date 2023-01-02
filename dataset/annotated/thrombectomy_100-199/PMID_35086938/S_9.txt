@@ -1,0 +1,1 @@
+A logistic regression model adjusting for inverse-probability-weighting showed no difference in 90-day mRS score of 0 - 2 among the perfusion versus collateral cohorts ( adjusted OR 1.05 , 0.95 CI 0.69 to 1.59 , p = 0.83 ) or in a favourable shift in 90-day mRS ( common adjusted OR 1.01 , 0.95 CI 0.69 to 1.47 , p = 0.97 ) .

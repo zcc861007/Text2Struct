@@ -1,0 +1,1 @@
+MRI Tmax maps using a time delay threshold of > 6 s were used to quantitate hypoperfusion volumes .

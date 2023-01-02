@@ -1,0 +1,8 @@
+T1	Num 59 64	34596
+T2	Unit 65 73	patients
+T3	Num 86 88	43
+T4	Unit 89 98	hospitals
+T5	Num 112 116	2016
+T6	Num 130 134	2020
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T1 Arg2:T2	
