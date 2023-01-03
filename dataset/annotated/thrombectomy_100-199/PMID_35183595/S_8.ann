@@ -1,0 +1,5 @@
+T1	Num 38 42	0.28
+T2	Unit 46 58	the patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 0 21	Good clinical outcome
+R2	acomp Arg1:T1 Arg2:T3	

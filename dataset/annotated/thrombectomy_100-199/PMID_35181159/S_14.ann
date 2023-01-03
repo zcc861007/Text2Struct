@@ -1,0 +1,9 @@
+T1	Num 147 151	4877
+T2	Num 155 160	10494
+T3	Unit 161 177	ischemic strokes
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	
+T4	Num 245 249	6596
+T5	Unit 250 273	thrombectomy procedures
+R3	acomp Arg1:T4 Arg2:T5	
+T6	Num 296 300	2018

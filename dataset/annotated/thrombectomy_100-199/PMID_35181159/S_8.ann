@@ -1,0 +1,8 @@
+T1	Num 110 111	6
+T2	Unit 112 113	H
+T3	Num 118 119	6
+T4	Num 122 124	24
+T5	Unit 125 126	H
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T3 Arg2:T5	
+R3	acomp Arg1:T4 Arg2:T5	

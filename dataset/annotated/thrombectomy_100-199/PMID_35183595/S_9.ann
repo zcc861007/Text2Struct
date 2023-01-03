@@ -1,0 +1,5 @@
+T1	Num 28 31	136
+T2	Unit 32 40	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 0 17	The meta-analysis
+R2	acomp Arg1:T1 Arg2:T3	

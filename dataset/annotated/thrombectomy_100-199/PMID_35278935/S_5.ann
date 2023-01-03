@@ -1,0 +1,5 @@
+T1	Num 69 77	18835.00
+T2	Unit 67 68	$
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 25 63	marginal cost-effective ratio ( mCER )
+R2	acomp Arg1:T1 Arg2:T3	

@@ -1,0 +1,6 @@
+T1	Num 55 57	30
+T2	Unit 58 62	days
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 175 176	6
+T4	Unit 177 183	months
+R2	acomp Arg1:T3 Arg2:T4	

@@ -1,0 +1,10 @@
+T1	Num 13 18	0.145
+T2	Num 22 27	0.269
+T3	Num 84 88	16.9
+T4	Num 92 97	0.312
+T5	Targ 102 126	`` real-life '' criteria
+R1	acomp Arg1:T4 Arg2:T5	
+R2	acomp Arg1:T3 Arg2:T5	
+T6	Targ 36 79	`` stringent eligibility '' criteria for MT
+R3	acomp Arg1:T1 Arg2:T6	
+R4	acomp Arg1:T2 Arg2:T6	

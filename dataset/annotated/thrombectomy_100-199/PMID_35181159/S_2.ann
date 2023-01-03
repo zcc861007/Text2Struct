@@ -1,0 +1,3 @@
+T1	Num 121 123	24
+T2	Unit 124 129	hours
+R1	acomp Arg1:T1 Arg2:T2	

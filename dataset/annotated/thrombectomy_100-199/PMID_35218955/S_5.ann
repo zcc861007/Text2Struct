@@ -1,0 +1,10 @@
+T1	Num 29 31	62
+T2	Unit 32 37	years
+T3	Num 42 45	0.4
+T4	Unit 49 57	patients
+R1	acomp Arg1:T3 Arg2:T4	
+T5	Targ 10 24	The median age
+R2	acomp Arg1:T1 Arg2:T5	
+R3	acomp Arg1:T1 Arg2:T2	
+T6	Targ 62 96	contraindications to thrombolytics
+R4	acomp Arg1:T3 Arg2:T6	

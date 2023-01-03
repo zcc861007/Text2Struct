@@ -1,0 +1,5 @@
+T1	Num 28 32	0.57
+T2	Unit 36 45	the cases
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 0 11	Reperfusion
+R2	acomp Arg1:T1 Arg2:T3	

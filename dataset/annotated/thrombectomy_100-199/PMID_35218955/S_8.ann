@@ -1,0 +1,5 @@
+T1	Num 33 35	28
+T2	Unit 36 43	minutes
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 0 28	The median thrombectomy time
+R2	acomp Arg1:T1 Arg2:T3	

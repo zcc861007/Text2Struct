@@ -1,0 +1,6 @@
+T1	Num 75 78	0.5
+T2	Targ 79 95	reperfusion rate
+T3	Num 102 106	0.29
+T4	Targ 110 131	good clinical outcome
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T1 Arg2:T2	

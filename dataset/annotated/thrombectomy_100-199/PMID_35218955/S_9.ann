@@ -1,0 +1,5 @@
+T1	Num 52 56	0.86
+T2	Unit 60 65	limbs
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 0 35	The primary effectiveness end point
+R2	acomp Arg1:T1 Arg2:T3	

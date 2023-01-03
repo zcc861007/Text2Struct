@@ -1,0 +1,8 @@
+T1	Num 78 80	24
+T2	Unit 81 86	hours
+T3	Num 31 35	2025
+T4	Unit 36 52	ischemic strokes
+R1	acomp Arg1:T3 Arg2:T4	
+T5	Targ 58 71	symptom onset
+R2	acomp Arg1:T1 Arg2:T2	
+R3	acomp Arg1:T1 Arg2:T5	

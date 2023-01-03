@@ -1,0 +1,5 @@
+T1	Num 12 14	75
+T2	Num 18 21	162
+T3	Unit 22 29	persons
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	

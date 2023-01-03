@@ -1,0 +1,5 @@
+T1	Num 44 47	250
+T2	Unit 48 56	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 18 30	the outcomes
+R2	acomp Arg1:T1 Arg2:T3	

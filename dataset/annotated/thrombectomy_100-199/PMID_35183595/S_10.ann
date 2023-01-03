@@ -1,0 +1,9 @@
+T1	Num 55 58	0.5
+T2	Num 63 67	0.29
+T3	Unit 71 80	the cases
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Targ 0 11	Reperfusion
+T5	Targ 16 37	good clinical outcome
+R3	acomp Arg1:T5 Arg2:T2	
+R4	acomp Arg1:T4 Arg2:T1	

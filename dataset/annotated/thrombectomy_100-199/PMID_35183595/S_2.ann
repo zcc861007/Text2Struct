@@ -1,0 +1,5 @@
+T1	Num 63 65	37
+T2	Targ 59 60	n
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 213 217	2015
+T4	Num 230 234	2019

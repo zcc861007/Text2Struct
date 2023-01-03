@@ -1,0 +1,9 @@
+T1	Num 33 37	0.33
+T2	Num 46 50	0.35
+T3	Num 62 66	0.32
+T4	Targ 38 43	acute
+T5	Targ 51 59	subacute
+T6	Targ 67 74	chronic
+R1	acomp Arg1:T3 Arg2:T6	
+R2	acomp Arg1:T2 Arg2:T5	
+R3	acomp Arg1:T1 Arg2:T4	

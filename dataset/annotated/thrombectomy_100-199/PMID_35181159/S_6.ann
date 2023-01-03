@@ -1,0 +1,6 @@
+T1	Targ 73 76	mRS
+T2	Num 83 84	1
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 130 133	mRS
+T4	Num 140 141	2
+R2	acomp Arg1:T4 Arg2:T3	

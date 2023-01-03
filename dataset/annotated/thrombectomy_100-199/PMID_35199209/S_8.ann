@@ -1,0 +1,4 @@
+T1	Num 0 1	2
+T2	Num 38 39	5
+T3	Unit 40 45	weeks
+R1	acomp Arg1:T2 Arg2:T3	

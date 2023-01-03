@@ -1,0 +1,5 @@
+T1	Num 30 35	0.063
+T2	Num 39 44	0.117
+T3	Unit 48 68	all ischemic strokes
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	
