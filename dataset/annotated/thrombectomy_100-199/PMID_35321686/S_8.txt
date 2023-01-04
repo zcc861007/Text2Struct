@@ -1,0 +1,1 @@
+The area under the nomogram curve was 0.8791 with good calibration performance ( P = 0.873 for the Spiegelhalter 's Z-test ) .

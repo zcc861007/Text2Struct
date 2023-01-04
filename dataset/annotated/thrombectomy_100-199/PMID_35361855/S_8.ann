@@ -1,0 +1,32 @@
+T1	Num 102 107	0.111
+T2	Num 111 116	0.179
+T3	Num 134 139	1.641
+T4	Targ 119 131	hazard ratio
+R1	acomp Arg1:T3 Arg2:T4	
+T5	Targ 142 173	0.95 confidence interval [ CI ]
+T6	Num 174 179	0.822
+T7	Num 183 188	3.277
+R2	acomp Arg1:T6 Arg2:T5	
+R3	acomp Arg1:T7 Arg2:T5	
+T8	Targ 191 192	p
+T9	Num 195 200	0.161
+R4	acomp Arg1:T9 Arg2:T8	
+T10	Targ 78 99	the incidence of MACE
+R5	acomp Arg1:T1 Arg2:T10	
+R6	acomp Arg1:T2 Arg2:T10	
+T11	Targ 207 231	the incidences of stroke
+T12	Num 234 239	0.017
+T13	Num 243 248	0.026
+R7	acomp Arg1:T12 Arg2:T11	
+R8	acomp Arg1:T13 Arg2:T11	
+T14	Targ 251 263	hazard ratio
+T15	Num 264 269	1.522
+R9	acomp Arg1:T15 Arg2:T14	
+T16	Targ 272 303	0.95 confidence interval [ CI ]
+T17	Num 304 309	0.254
+T18	Num 313 318	9.107
+R10	acomp Arg1:T17 Arg2:T16	
+R11	acomp Arg1:T18 Arg2:T16	
+T19	Targ 321 322	p
+T20	Num 325 330	0.646
+R12	acomp Arg1:T20 Arg2:T19	

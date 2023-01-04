@@ -1,0 +1,10 @@
+T1	Num 33 35	80
+T3	Num 71 73	72
+T2	Unit 42 50	attempts
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T3 Arg2:T2	
+T4	Targ 88 98	successful
+T5	Num 101 104	0.9
+T6	Targ 105 117	success rate
+R3	acomp Arg1:T5 Arg2:T6	
+R4	acomp Arg1:T3 Arg2:T4	

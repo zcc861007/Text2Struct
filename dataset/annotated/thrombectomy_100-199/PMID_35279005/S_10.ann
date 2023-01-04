@@ -1,0 +1,8 @@
+T1	Num 45 50	0.265
+T2	Num 63 67	0.17
+T3	Num 70 74	0.38
+T4	Targ 53 60	0.95 CI
+R1	acomp Arg1:T2 Arg2:T4	
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Targ 35 41	a rate
+R3	acomp Arg1:T1 Arg2:T5	

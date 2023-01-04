@@ -1,0 +1,7 @@
+T1	Num 52 54	57
+T2	Unit 55 75	consecutive patients
+T3	Num 171 175	2018
+T4	Num 184 188	2021
+R1	acomp Arg1:T1 Arg2:T2	
+T5	Targ 81 156	acute ischemic stroke who underwent mechanical thrombectomy at our hospital
+R2	acomp Arg1:T1 Arg2:T5	

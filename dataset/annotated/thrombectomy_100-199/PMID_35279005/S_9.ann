@@ -1,0 +1,13 @@
+T1	Num 38 40	32
+T2	Unit 41 44	min
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 0 33	Carotid puncture-reperfusion time
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Targ 47 49	CI
+T5	Num 52 54	24
+T6	Num 57 59	40
+R3	acomp Arg1:T5 Arg2:T4	
+R4	acomp Arg1:T6 Arg2:T4	
+T7	Targ 62 63	p
+T8	Num 66 71	0.001
+R5	acomp Arg1:T8 Arg2:T7	

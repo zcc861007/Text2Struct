@@ -1,0 +1,1 @@
+After propensity-score matching , there was no significant difference both in the incidence of MACE ( 0.111 vs 0.179 , hazard ratio , 1.641 ; 0.95 confidence interval [ CI ] 0.822 to 3.277 , p = 0.161 ) and the incidences of stroke ( 0.017 vs 0.026 , hazard ratio 1.522 ; 0.95 confidence interval [ CI ] 0.254 to 9.107 , p = 0.646 ) between two groups at 1-year follow-up .

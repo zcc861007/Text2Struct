@@ -1,0 +1,6 @@
+T1	Num 85 90	0.873
+T2	Targ 81 82	P
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 38 44	0.8791
+T4	Targ 0 33	The area under the nomogram curve
+R2	acomp Arg1:T3 Arg2:T4	

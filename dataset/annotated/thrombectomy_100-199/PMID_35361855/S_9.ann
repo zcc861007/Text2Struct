@@ -1,0 +1,8 @@
+T1	Num 143 144	1
+T2	Unit 145 149	year
+T3	Num 70 71	5
+T4	Unit 64 69	grade
+T5	Targ 17 63	Thrombolysis In Myocardial Infarction thrombus
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T3 Arg2:T5	
+R3	acomp Arg1:T1 Arg2:T2	

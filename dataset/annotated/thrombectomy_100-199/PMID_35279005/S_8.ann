@@ -1,0 +1,9 @@
+T1	Num 0 2	90
+T2	Unit 3 6	day
+T3	Targ 7 28	modified Rankin Scale
+T4	Num 35 36	2
+T5	Num 53 57	0.28
+T6	Unit 61 69	patients
+R1	acomp Arg1:T5 Arg2:T6	
+R2	acomp Arg1:T1 Arg2:T2	
+R3	acomp Arg1:T4 Arg2:T3	

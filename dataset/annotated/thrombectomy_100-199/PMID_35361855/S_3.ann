@@ -1,0 +1,10 @@
+T1	Num 57 60	621
+T2	Unit 61 69	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 128 129	5
+T4	Unit 122 127	grade
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Targ 91 121	Myocardial Infarction thrombus
+R3	acomp Arg1:T3 Arg2:T5	
+T6	Targ 75 87	Thrombolysis
+R4	acomp Arg1:T1 Arg2:T6	

@@ -1,0 +1,5 @@
+T1	Num 49 52	117
+T2	Unit 53 61	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 0 31	AngioJet rheolytic thrombectomy
+R2	acomp Arg1:T1 Arg2:T3	

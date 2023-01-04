@@ -1,0 +1,24 @@
+T1	Num 205 210	0.013
+T2	Targ 201 202	p
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 191 194	183
+T4	Unit 195 198	min
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Unit 183 186	min
+T6	Num 179 182	146
+R3	acomp Arg1:T6 Arg2:T5	
+T7	Num 99 103	52.0
+T8	Unit 104 107	min
+T9	Num 112 116	70.0
+T10	Unit 117 120	min
+T11	Targ 123 124	p
+T12	Num 127 132	0.019
+R4	acomp Arg1:T7 Arg2:T8	
+R5	acomp Arg1:T9 Arg2:T10	
+R6	acomp Arg1:T12 Arg2:T11	
+T13	Targ 55 96	the `` puncture to recanalization time ''
+R7	acomp Arg1:T7 Arg2:T13	
+R8	acomp Arg1:T9 Arg2:T13	
+T14	Targ 139 176	the `` door to recanalization time ''
+R9	acomp Arg1:T6 Arg2:T14	
+R10	acomp Arg1:T3 Arg2:T14	

@@ -1,0 +1,7 @@
+T1	Num 92 96	2018
+T2	Num 109 113	2021
+T3	Num 22 25	258
+T4	Unit 26 34	patients
+R1	acomp Arg1:T3 Arg2:T4	
+T5	Targ 40 78	acute ischemic stroke who underwent MT
+R2	acomp Arg1:T3 Arg2:T5	

@@ -1,0 +1,20 @@
+T1	Num 51 55	0.07
+T2	Num 60 65	0.107
+T3	Targ 69 75	MT+BMT
+T4	Targ 80 83	BMT
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T4	
+T5	Targ 0 18	The mortality rate
+R3	acomp Arg1:T1 Arg2:T5	
+R4	acomp Arg1:T2 Arg2:T5	
+T6	Targ 110 112	OR
+T7	Num 115 119	0.64
+R5	acomp Arg1:T7 Arg2:T6	
+T8	Targ 122 129	0.95 CI
+T9	Num 132 135	0.1
+T10	Num 138 139	4
+R6	acomp Arg1:T9 Arg2:T8	
+R7	acomp Arg1:T10 Arg2:T8	
+T11	Targ 142 143	p
+T12	Num 146 150	1.00
+R8	acomp Arg1:T12 Arg2:T11	

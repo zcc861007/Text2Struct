@@ -1,0 +1,3 @@
+T1	Num 93 98	0.036
+T2	Targ 0 43	Symptomatic intracranial hemorrhage ( ICH )
+R1	acomp Arg1:T1 Arg2:T2	
