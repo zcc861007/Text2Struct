@@ -1,0 +1,15 @@
+T1	Num 39 41	34
+T2	Num 44 48	0.72
+T3	Num 81 83	13
+T4	Num 86 90	0.28
+T5	Unit 93 98	cases
+R1	acomp Arg1:T4 Arg2:T5	
+R2	acomp Arg1:T3 Arg2:T5	
+T6	Targ 60 77	a patch graft CEA
+R3	acomp Arg1:T3 Arg2:T6	
+R4	acomp Arg1:T4 Arg2:T6	
+T7	Targ 23 35	eversion CEA
+R5	acomp Arg1:T1 Arg2:T7	
+R6	acomp Arg1:T2 Arg2:T7	
+R7	acomp Arg1:T1 Arg2:T5	
+R8	acomp Arg1:T2 Arg2:T5	

@@ -1,0 +1,8 @@
+T1	Num 29 31	30
+T2	Unit 32 36	days
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 23 24	3
+R2	acomp Arg1:T3 Arg2:T2	
+T4	Targ 91 92	P
+T5	Num 95 98	.05
+R3	acomp Arg1:T5 Arg2:T4	

@@ -1,0 +1,5 @@
+T1	Num 100 101	2
+T2	Unit 102 108	passes
+T3	Targ 0 69	Higher preprocedural NIHSS scores and internal carotid artery thrombi
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	

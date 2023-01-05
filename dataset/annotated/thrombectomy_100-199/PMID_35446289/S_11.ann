@@ -1,0 +1,5 @@
+T1	Num 53 54	3
+T2	Num 59 61	30
+T3	Unit 62 66	days
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	

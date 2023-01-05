@@ -1,0 +1,15 @@
+T1	Num 21 24	122
+T2	Unit 25 33	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 58 60	83
+T4	Unit 61 69	patients
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 85 86	2
+T6	Unit 87 93	passes
+R3	acomp Arg1:T5 Arg2:T6	
+T7	Num 98 100	39
+T8	Unit 101 109	patients
+T9	Num 126 127	2
+T10	Unit 128 134	passes
+R4	acomp Arg1:T9 Arg2:T10	
+R5	acomp Arg1:T7 Arg2:T8	

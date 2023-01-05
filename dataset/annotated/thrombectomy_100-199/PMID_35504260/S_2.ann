@@ -1,0 +1,9 @@
+T1	Num 27 28	2
+T2	Unit 29 35	groups
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 63 64	2
+T4	Unit 65 71	passes
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 102 103	2
+T6	Unit 104 110	passes
+R3	acomp Arg1:T5 Arg2:T6	

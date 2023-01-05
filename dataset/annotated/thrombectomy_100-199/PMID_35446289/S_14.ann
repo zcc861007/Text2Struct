@@ -1,0 +1,11 @@
+T1	Targ 171 172	P
+T2	Num 175 178	.05
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Num 94 95	3
+T4	Unit 96 102	months
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 69 70	2
+T6	Unit 71 77	points
+T7	Targ 35 62	modified Rankin scale score
+R3	acomp Arg1:T5 Arg2:T6	
+R4	acomp Arg1:T5 Arg2:T7	

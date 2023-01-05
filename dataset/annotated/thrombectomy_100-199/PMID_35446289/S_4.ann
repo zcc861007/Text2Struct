@@ -1,0 +1,5 @@
+T1	Num 107 111	2017
+T2	Num 123 127	2020
+T3	Num 51 53	96
+T4	Unit 54 66	ACI patients
+R1	acomp Arg1:T3 Arg2:T4	

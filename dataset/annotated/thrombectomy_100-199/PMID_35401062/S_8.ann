@@ -1,0 +1,5 @@
+T1	Num 6 9	0.5
+T2	Unit 17 25	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 38 54	transfemoral PCI
+R2	acomp Arg1:T1 Arg2:T3	

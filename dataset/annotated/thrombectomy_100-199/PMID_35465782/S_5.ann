@@ -1,0 +1,11 @@
+T1	Num 10 11	5
+T2	Num 15 17	47
+T3	Num 20 24	0.11
+T4	Unit 27 35	patients
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T4	
+R3	acomp Arg1:T1 Arg2:T4	
+T5	Targ 42 54	complete CoW
+R4	acomp Arg1:T3 Arg2:T5	
+R5	acomp Arg1:T2 Arg2:T5	
+R6	acomp Arg1:T1 Arg2:T5	

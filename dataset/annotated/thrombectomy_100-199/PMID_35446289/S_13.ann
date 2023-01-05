@@ -1,0 +1,6 @@
+T1	Num 57 59	30
+T2	Unit 60 64	days
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 133 134	P
+T4	Num 137 140	.05
+R2	acomp Arg1:T4 Arg2:T3	
