@@ -1,0 +1,5 @@
+T1	Num 123 124	6
+T2	Unit 125 130	hours
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 136 139	ICA
+R2	acomp Arg1:T1 Arg2:T3	

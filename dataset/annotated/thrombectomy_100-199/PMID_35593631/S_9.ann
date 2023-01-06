@@ -1,0 +1,14 @@
+T1	Num 139 144	0.433
+T2	Unit 148 156	patients
+T3	Num 111 114	0.4
+T4	Num 69 74	0.167
+T5	Unit 78 86	patients
+R1	acomp Arg1:T4 Arg2:T5	
+T6	Targ 89 105	partial recovery
+T7	Targ 21 55	complete restoration of vein lumen
+R2	acomp Arg1:T4 Arg2:T7	
+R3	acomp Arg1:T3 Arg2:T6	
+R4	acomp Arg1:T3 Arg2:T5	
+T8	Targ 117 133	minimal recovery
+R5	acomp Arg1:T1 Arg2:T2	
+R6	acomp Arg1:T1 Arg2:T8	

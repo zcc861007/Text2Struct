@@ -1,0 +1,1 @@
+RESULTS : Over a 38-month period , we identified 104 patients meeting inclusion criteria , with a mean age of 65.4 +/- 16.2 years , median presenting National Institutes of Health Stroke Scale score 20 ( IQR 16 - 24 ) , median ischemic core volume ( CBF < 0.3 ) 82 ml ( IQR 61 - 118 ) , and median mismatch volume 80 ml ( IQR 56 - 134 ) .

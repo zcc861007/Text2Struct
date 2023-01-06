@@ -1,0 +1,11 @@
+T3	Num 65 66	3
+T4	Targ 69 109	TIMI myocardial perfusion grade ( TMPG )
+T5	Num 110 111	3
+R3	acomp Arg1:T5 Arg2:T4	
+T1	Targ 49 64	TIMI flow grade
+R1	acomp Arg1:T3 Arg2:T1	
+T2	Targ 114 144	Myocardial blush grade ( MBG )
+T6	Num 145 146	2
+T7	Num 149 150	3
+R2	acomp Arg1:T6 Arg2:T2	
+R4	acomp Arg1:T7 Arg2:T2	

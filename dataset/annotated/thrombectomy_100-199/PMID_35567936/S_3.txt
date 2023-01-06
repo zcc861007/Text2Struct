@@ -1,0 +1,1 @@
+A multivariable logistic regression model was constructed to identify independent predictors ( p < 0.05 ) of poor discharge outcome ( modified Rankin scale score 4 - 6 ) .

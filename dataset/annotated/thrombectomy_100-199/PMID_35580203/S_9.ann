@@ -1,0 +1,24 @@
+T1	Targ 64 85	adjusted hazard ratio
+T2	Num 88 92	1.83
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 95 102	0.95 CI
+T4	Num 105 109	1.13
+T5	Num 112 116	2.95
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+T6	Targ 143 164	adjusted hazard ratio
+T7	Num 167 171	2.02
+R4	acomp Arg1:T7 Arg2:T6	
+T8	Targ 174 181	0.95 CI
+T9	Num 184 188	1.08
+T10	Num 191 195	3.76
+R5	acomp Arg1:T9 Arg2:T8	
+R6	acomp Arg1:T10 Arg2:T8	
+T11	Num 222 243	adjusted hazard ratio
+T12	Num 246 250	1.74
+R7	acomp Arg1:T12 Arg2:T11	
+T13	Targ 253 260	0.95 CI
+T14	Num 263 267	1.02
+T15	Num 270 274	2.96
+R8	acomp Arg1:T14 Arg2:T13	
+R9	acomp Arg1:T15 Arg2:T13	

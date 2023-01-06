@@ -1,0 +1,27 @@
+T1	Targ 197 204	0.95 CI
+T2	Num 207 211	2.48
+T3	Num 214 219	11.36
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+T4	Targ 177 187	odds ratio
+T5	Num 190 194	5.31
+R3	acomp Arg1:T5 Arg2:T4	
+T6	Targ 57 67	odds ratio
+T7	Num 70 74	3.71
+R4	acomp Arg1:T7 Arg2:T6	
+T8	Targ 77 84	0.95 CI
+T9	Num 87 91	1.85
+T10	Num 94 98	7.45
+R5	acomp Arg1:T9 Arg2:T8	
+R6	acomp Arg1:T10 Arg2:T8	
+T11	Targ 118 128	odds ratio
+T12	Num 131 135	3.64
+T13	Targ 138 145	0.95 CI
+T14	Num 148 152	1.60
+T15	Num 155 159	8.26
+R7	acomp Arg1:T12 Arg2:T11	
+R8	acomp Arg1:T14 Arg2:T13	
+R9	acomp Arg1:T15 Arg2:T13	
+T16	Num 53 54	3
+T17	Targ 37 52	TIMI flow grade
+R10	acomp Arg1:T16 Arg2:T17	

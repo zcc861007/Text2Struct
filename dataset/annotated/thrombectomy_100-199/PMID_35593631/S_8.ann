@@ -1,0 +1,8 @@
+T1	Num 68 69	8
+T2	Num 72 77	0.133
+T3	Unit 80 88	patients
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Targ 0 55	Hemorrhagic complications following rivaroxaban therapy
+R3	acomp Arg1:T1 Arg2:T4	
+R4	acomp Arg1:T2 Arg2:T4	

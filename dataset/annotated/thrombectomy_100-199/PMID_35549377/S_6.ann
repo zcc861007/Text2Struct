@@ -1,0 +1,13 @@
+T1	Num 28 30	20
+T3	Targ 51 58	0.95 CI
+T4	Num 61 63	17
+T5	Num 66 68	24
+T2	Unit 31 48	percentage points
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+T6	Unit 69 86	percentage points
+R4	acomp Arg1:T4 Arg2:T6	
+R5	acomp Arg1:T5 Arg2:T6	
+T7	Targ 89 97	increase
+R6	acomp Arg1:T1 Arg2:T7	

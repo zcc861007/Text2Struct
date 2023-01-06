@@ -1,0 +1,8 @@
+T1	Num 24 29	0.721
+T2	Unit 13 21	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 36 75	a discharge modified Rankin scale score
+T4	Num 79 80	4
+T5	Num 83 84	6
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	

@@ -1,0 +1,10 @@
+T1	Num 46 51	0.433
+T2	Unit 55 63	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 87 92	0.233
+T4	Unit 96 104	patients
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Targ 71 81	first grou
+R3	acomp Arg1:T1 Arg2:T5	
+T6	Targ 112 124	second group
+R4	acomp Arg1:T3 Arg2:T6	

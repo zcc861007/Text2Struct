@@ -1,0 +1,8 @@
+T1	Targ 83 93	odds ratio
+T2	Num 96 100	0.29
+T3	Targ 103 110	0.95 CI
+T4	Num 113 117	0.13
+T5	Num 120 124	0.65
+R1	acomp Arg1:T4 Arg2:T3	
+R2	acomp Arg1:T5 Arg2:T3	
+R3	acomp Arg1:T2 Arg2:T1	

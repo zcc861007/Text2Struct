@@ -1,0 +1,15 @@
+T1	Num 89 93	2589
+T2	Num 96 100	0.85
+T3	Num 138 142	1180
+T4	Num 145 149	0.39
+T5	Unit 37 45	patients
+R1	acomp Arg1:T1 Arg2:T5	
+R2	acomp Arg1:T2 Arg2:T5	
+T6	Targ 108 133	successful recanalization
+R3	acomp Arg1:T1 Arg2:T6	
+R4	acomp Arg1:T2 Arg2:T6	
+R5	acomp Arg1:T3 Arg2:T5	
+R6	acomp Arg1:T4 Arg2:T5	
+T7	Targ 157 180	good functional outcome
+R7	acomp Arg1:T3 Arg2:T7	
+R8	acomp Arg1:T4 Arg2:T7	

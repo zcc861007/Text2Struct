@@ -1,0 +1,13 @@
+T1	Num 124 129	0.086
+T2	Num 137 142	0.046
+T3	Targ 145 166	adjusted hazard ratio
+T4	Num 169 173	1.83
+T5	Targ 176 183	0.95 CI
+T6	Num 186 190	1.34
+T7	Num 193 197	2.48
+R1	acomp Arg1:T6 Arg2:T5	
+R2	acomp Arg1:T7 Arg2:T5	
+R3	acomp Arg1:T4 Arg2:T3	
+T8	Targ 0 19	The primary outcome
+R4	acomp Arg1:T1 Arg2:T8	
+R5	acomp Arg1:T2 Arg2:T8	

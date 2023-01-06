@@ -1,0 +1,11 @@
+T1	Num 51 54	0.5
+T2	Num 67 70	0.5
+T3	Num 73 77	0.99
+T4	Num 90 93	1.0
+T5	Targ 57 64	minimal
+R1	acomp Arg1:T1 Arg2:T5	
+T6	Targ 80 87	partial
+R2	acomp Arg1:T3 Arg2:T6	
+R3	acomp Arg1:T2 Arg2:T6	
+T7	Targ 96 104	complete
+R4	acomp Arg1:T4 Arg2:T7	

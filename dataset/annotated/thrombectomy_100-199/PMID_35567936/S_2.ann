@@ -1,0 +1,11 @@
+T1	Num 159 160	6
+T2	Unit 161 166	hours
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 181 183	50
+T4	Unit 184 186	ml
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Targ 211 238	cerebral blood flow ( CBF )
+T6	Num 241 244	0.3
+R3	acomp Arg1:T6 Arg2:T5	
+T7	Targ 190 193	CTP
+R4	acomp Arg1:T3 Arg2:T7	

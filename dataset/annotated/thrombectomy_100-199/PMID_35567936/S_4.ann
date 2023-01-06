@@ -1,0 +1,42 @@
+T1	Num 49 52	104
+T2	Unit 53 61	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 96 106	a mean age
+T4	Num 110 114	65.4
+T5	Num 119 123	16.2
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+T6	Unit 124 129	years
+R4	acomp Arg1:T4 Arg2:T6	
+R5	acomp Arg1:T5 Arg2:T6	
+T7	Targ 132 198	median presenting National Institutes of Health Stroke Scale score
+T8	Num 199 201	20
+R6	acomp Arg1:T8 Arg2:T7	
+T9	Targ 204 207	IQR
+T10	Num 208 210	16
+T11	Num 213 215	24
+R7	acomp Arg1:T10 Arg2:T9	
+R8	acomp Arg1:T11 Arg2:T9	
+T12	Targ 220 247	median ischemic core volume
+T13	Num 262 264	82
+T14	Unit 265 267	ml
+R9	acomp Arg1:T13 Arg2:T14	
+R10	acomp Arg1:T13 Arg2:T12	
+T15	Targ 250 253	CBF
+T16	Num 256 259	0.3
+R11	acomp Arg1:T16 Arg2:T15	
+T17	Targ 270 273	IQR
+T18	Num 274 276	61
+T19	Num 279 282	118
+R12	acomp Arg1:T18 Arg2:T17	
+R13	acomp Arg1:T19 Arg2:T17	
+T20	Targ 291 313	median mismatch volume
+T21	Num 314 316	80
+T22	Unit 317 319	ml
+R14	acomp Arg1:T21 Arg2:T22	
+R15	acomp Arg1:T21 Arg2:T20	
+T23	Targ 322 325	IQR
+T24	Num 326 328	56
+T25	Num 331 334	134
+R16	acomp Arg1:T24 Arg2:T23	
+R17	acomp Arg1:T25 Arg2:T23	

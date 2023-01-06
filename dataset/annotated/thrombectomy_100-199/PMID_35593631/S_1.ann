@@ -1,0 +1,9 @@
+T1	Num 69 71	60
+T2	Unit 72 80	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 129 130	2
+T4	Unit 131 149	homogeneous groups
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 153 155	30
+T6	Unit 156 162	people
+R3	acomp Arg1:T5 Arg2:T6	

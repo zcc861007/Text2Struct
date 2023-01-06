@@ -1,0 +1,13 @@
+T1	Num 44 48	1466
+T2	Unit 49 57	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 60 63	696
+R2	acomp Arg1:T3 Arg2:T2	
+T4	Num 144 147	553
+T5	Targ 83 139	intracoronary-administered pharmacological interventions
+R3	acomp Arg1:T3 Arg2:T5	
+T6	Unit 151 153	AT
+R4	acomp Arg1:T4 Arg2:T6	
+R5	acomp Arg1:T4 Arg2:T2	
+T7	Targ 10 34	Twelve randomized trials
+R6	acomp Arg1:T1 Arg2:T7	

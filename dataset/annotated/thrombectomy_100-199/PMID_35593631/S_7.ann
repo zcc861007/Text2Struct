@@ -1,0 +1,8 @@
+T1	Num 54 55	2
+T2	Num 58 63	0.067
+T3	Unit 66 74	patients
+T4	Targ 10 40	Recurrent deep vein thrombosis
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	
+R3	acomp Arg1:T1 Arg2:T4	
+R4	acomp Arg1:T2 Arg2:T4	

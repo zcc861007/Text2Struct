@@ -1,0 +1,77 @@
+T1	Targ 117 139	odds ratio [ 0.95 CI ]
+T2	Num 142 146	0.95
+T3	Num 149 153	0.94
+T4	Num 156 160	0.96
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+R3	acomp Arg1:T4 Arg2:T1	
+T5	Targ 167 198	prestroke modified Rankin Scale
+T6	Num 201 205	0.48
+T7	Num 208 212	0.42
+T8	Num 215 219	0.55
+R4	acomp Arg1:T6 Arg2:T5	
+R5	acomp Arg1:T7 Arg2:T5	
+R6	acomp Arg1:T8 Arg2:T5	
+T9	Targ 226 241	admission-NIHSS
+T10	Num 244 248	0.96
+T11	Num 251 255	0.94
+T12	Num 258 262	0.98
+R7	acomp Arg1:T10 Arg2:T9	
+R8	acomp Arg1:T11 Arg2:T9	
+R9	acomp Arg1:T12 Arg2:T9	
+T13	Targ 269 282	24-hour NIHSS
+T14	Num 285 289	0.83
+T15	Num 292 296	0.81
+T16	Num 299 303	0.84
+R10	acomp Arg1:T14 Arg2:T13	
+R11	acomp Arg1:T15 Arg2:T13	
+R12	acomp Arg1:T16 Arg2:T13	
+T17	Targ 310 318	diabetes
+T18	Num 321 325	0.56
+R13	acomp Arg1:T18 Arg2:T17	
+T19	Num 328 332	0.43
+T20	Num 335 339	0.72
+R14	acomp Arg1:T19 Arg2:T17	
+R15	acomp Arg1:T20 Arg2:T17	
+T21	Targ 346 388	proximal middle cerebral artery occlusions
+T22	Num 391 395	0.78
+T23	Num 398 402	0.62
+T24	Num 405 409	0.97
+R16	acomp Arg1:T22 Arg2:T21	
+R17	acomp Arg1:T23 Arg2:T21	
+R18	acomp Arg1:T24 Arg2:T21	
+T25	Targ 416 422	passes
+T26	Num 425 429	0.88
+T27	Num 432 436	0.82
+T28	Num 439 443	0.95
+R19	acomp Arg1:T26 Arg2:T25	
+R20	acomp Arg1:T27 Arg2:T25	
+R21	acomp Arg1:T28 Arg2:T25	
+T29	Targ 450 487	Alberta Stroke Program Early CT Score
+T30	Num 490 494	1.07
+T31	Num 497 501	1.00
+T32	Num 504 508	1.14
+R22	acomp Arg1:T30 Arg2:T29	
+R23	acomp Arg1:T31 Arg2:T29	
+R24	acomp Arg1:T32 Arg2:T29	
+T33	Targ 515 540	successful recanalization
+T34	Num 543 547	2.39
+T35	Num 550 554	1.68
+T36	Num 557 561	3.43
+R25	acomp Arg1:T34 Arg2:T33	
+R26	acomp Arg1:T35 Arg2:T33	
+R27	acomp Arg1:T36 Arg2:T33	
+T37	Targ 568 592	intracerebral hemorrhage
+T38	Num 595 599	0.51
+T39	Num 602 606	0.35
+T40	Num 609 613	0.73
+R28	acomp Arg1:T38 Arg2:T37	
+R29	acomp Arg1:T39 Arg2:T37	
+R30	acomp Arg1:T40 Arg2:T37	
+T41	Targ 624 641	recurrent strokes
+T42	Num 644 648	0.54
+T43	Num 651 655	0.32
+T44	Num 658 662	0.92
+R31	acomp Arg1:T42 Arg2:T41	
+R32	acomp Arg1:T43 Arg2:T41	
+R33	acomp Arg1:T44 Arg2:T41	
