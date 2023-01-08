@@ -1,0 +1,1 @@
+A model including the change of CCT of the stroke side versus CCT of the healthy side also had significantly higher area under the curve values compared with the baseline model in patients with dramatic clinical recovery ( 0.780 versus 0.742 ) or favorable outcome ( 0.759 versus 0.713 ) .

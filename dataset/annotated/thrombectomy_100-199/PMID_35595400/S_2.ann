@@ -1,0 +1,7 @@
+T1	Num 17 19	83
+T2	Unit 20 28	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 42 47	0.229
+R2	acomp Arg1:T3 Arg2:T2	
+T4	Targ 58 65	an iSCI
+R3	acomp Arg1:T3 Arg2:T4	

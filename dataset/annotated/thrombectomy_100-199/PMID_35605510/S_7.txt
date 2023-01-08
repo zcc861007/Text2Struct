@@ -1,0 +1,1 @@
+After multivariate logistic regression , baseline glucose level ( odds ratio [ OR ] , 1.16 ; p = 0.022 ) , Alberta Stroke Program Early CT Score ( OR , 0.44 ; p < 0.001 ) , regional Leptomeningeal Collateral score ( OR , 0.74 ; p < 0.001 ) were identified as independent predictors of sICH , which were then incorporated into a predictive nomogram .

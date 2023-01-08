@@ -1,0 +1,9 @@
+T1	Targ 42 100	a 24-hour National Institutes of Health Stroke Scale score
+T2	Num 107 108	2
+T3	Num 118 119	8
+T4	Unit 120 126	points
+T5	Targ 129 130	o
+R1	acomp Arg1:T3 Arg2:T5	
+R2	acomp Arg1:T3 Arg2:T4	
+R3	acomp Arg1:T2 Arg2:T4	
+R4	acomp Arg1:T2 Arg2:T1	

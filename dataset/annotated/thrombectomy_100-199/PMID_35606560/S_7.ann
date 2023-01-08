@@ -1,0 +1,37 @@
+T1	Num 116 117	5
+T2	Unit 118 121	min
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 142 145	4.8
+T4	Unit 146 151	mm Hg
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 160 163	3.8
+T6	Num 166 169	7.1
+T7	Num 296 300	0.74
+T8	Num 225 228	5.5
+T9	Num 208 211	7.1
+T10	Unit 212 216	mmHg
+T11	Num 231 234	9.7
+T12	Targ 303 329	confidence interval ( CI )
+T13	Num 330 334	0.57
+T14	Num 337 341	0.85
+T15	Targ 344 345	p
+T16	Num 348 353	0.031
+R3	acomp Arg1:T16 Arg2:T15	
+R4	acomp Arg1:T13 Arg2:T12	
+R5	acomp Arg1:T14 Arg2:T12	
+T17	Targ 273 293	area under the curve
+R6	acomp Arg1:T7 Arg2:T17	
+T18	Targ 135 141	median
+R7	acomp Arg1:T3 Arg2:T18	
+R8	acomp Arg1:T5 Arg2:T4	
+R9	acomp Arg1:T6 Arg2:T4	
+R10	acomp Arg1:T9 Arg2:T10	
+R11	acomp Arg1:T8 Arg2:T10	
+R12	acomp Arg1:T11 Arg2:T10	
+T19	Targ 219 224	range
+R13	acomp Arg1:T8 Arg2:T19	
+R14	acomp Arg1:T11 Arg2:T19	
+T20	Targ 154 159	range
+R15	acomp Arg1:T5 Arg2:T20	
+R16	acomp Arg1:T6 Arg2:T20	
+R17	acomp Arg1:T9 Arg2:T18	

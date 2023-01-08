@@ -1,0 +1,1 @@
+CONCLUSIONS : Using high-resolution BP data of 1 Hz , downsampling by averaging all BP values within 5-min intervals is essential to find relevant differences in systolic BPV , as noise can be avoided ( confirmed by the significance of the power of midrange frequencies ) .

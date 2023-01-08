@@ -1,0 +1,19 @@
+T1	Num 56 60	1000
+T2	Unit 61 70	resamples
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 88 93	0.835
+T4	Targ 78 84	an AUC
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Targ 96 103	0.95 CI
+T6	Num 106 111	0.782
+T7	Num 114 119	0.887
+R3	acomp Arg1:T6 Arg2:T5	
+R4	acomp Arg1:T7 Arg2:T5	
+T8	Num 165 170	0.831
+T9	Targ 155 161	an AUC
+R5	acomp Arg1:T8 Arg2:T9	
+T10	Targ 173 180	0.95 CI
+T11	Num 183 188	0.775
+T12	Num 191 196	0.887
+R6	acomp Arg1:T11 Arg2:T10	
+R7	acomp Arg1:T12 Arg2:T10	

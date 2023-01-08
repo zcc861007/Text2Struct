@@ -1,0 +1,22 @@
+T1	Num 71 74	130
+T2	Num 79 81	18
+T3	Unit 82 87	mm Hg
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Targ 35 68	mean absolute systolic BP ( SBP )
+R3	acomp Arg1:T1 Arg2:T4	
+R4	acomp Arg1:T2 Arg2:T4	
+T5	Targ 90 91	p
+T6	Num 94 98	0.82
+R5	acomp Arg1:T6 Arg2:T5	
+T7	Targ 105 125	diastolic BP ( DBP )
+T8	Num 128 130	59
+T9	Num 135 137	10
+T10	Unit 138 143	mm Hg
+R6	acomp Arg1:T9 Arg2:T10	
+R7	acomp Arg1:T8 Arg2:T10	
+R8	acomp Arg1:T8 Arg2:T7	
+R9	acomp Arg1:T9 Arg2:T7	
+T11	Targ 146 147	p
+T12	Num 150 154	1.00
+R10	acomp Arg1:T12 Arg2:T11	

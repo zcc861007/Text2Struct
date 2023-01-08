@@ -1,0 +1,9 @@
+T1	Num 96 97	1
+T2	Unit 98 100	Hz
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 111 113	24
+T4	Unit 114 115	h
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 136 138	34
+T6	Unit 139 147	patients
+R3	acomp Arg1:T5 Arg2:T6	

@@ -1,0 +1,32 @@
+T1	Num 17 19	34
+T2	Unit 20 28	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 35 37	72
+T4	Num 42 46	12.7
+T5	Unit 47 52	years
+R2	acomp Arg1:T4 Arg2:T5	
+R3	acomp Arg1:T3 Arg2:T5	
+T6	Num 55 60	0.676
+T7	Num 69 71	10
+T8	Num 74 79	0.294
+T9	Num 126 128	24
+T10	Num 131 136	0.706
+R4	acomp Arg1:T6 Arg2:T2	
+T11	Targ 61 64	men
+R5	acomp Arg1:T6 Arg2:T11	
+T12	Targ 31 34	age
+R6	acomp Arg1:T3 Arg2:T12	
+R7	acomp Arg1:T4 Arg2:T12	
+R8	acomp Arg1:T7 Arg2:T2	
+R9	acomp Arg1:T8 Arg2:T2	
+T13	Targ 91 121	a favorable functional outcome
+R10	acomp Arg1:T7 Arg2:T13	
+R11	acomp Arg1:T8 Arg2:T13	
+R12	acomp Arg1:T9 Arg2:T2	
+R13	acomp Arg1:T10 Arg2:T2	
+T14	Targ 143 176	an unfavorable functional outcome
+R14	acomp Arg1:T9 Arg2:T14	
+R15	acomp Arg1:T10 Arg2:T14	
+T15	Num 180 181	3
+T16	Unit 182 188	months
+R16	acomp Arg1:T15 Arg2:T16	

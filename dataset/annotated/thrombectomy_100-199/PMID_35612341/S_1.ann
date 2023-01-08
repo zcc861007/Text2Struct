@@ -1,0 +1,11 @@
+T1	Num 21 24	178
+T2	Unit 25 33	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 185 188	0.9
+T4	Unit 189 204	mg per kilogram
+T5	Targ 175 181	a dose
+R2	acomp Arg1:T3 Arg2:T5	
+R3	acomp Arg1:T3 Arg2:T4	
+T6	Num 227 230	4.5
+T7	Unit 231 236	hours
+R4	acomp Arg1:T6 Arg2:T7	

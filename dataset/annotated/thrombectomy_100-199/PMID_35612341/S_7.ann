@@ -1,0 +1,12 @@
+T1	Num 103 104	6
+T2	Num 119 120	1
+T3	Num 107 112	0.053
+T4	Targ 0 53	The incidence of symptomatic intracerebral hemorrhage
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T4	
+R3	acomp Arg1:T3 Arg2:T4	
+T5	Num 123 128	0.016
+R4	acomp Arg1:T5 Arg2:T4	
+T6	Targ 133 134	P
+T7	Num 137 141	0.42
+R5	acomp Arg1:T7 Arg2:T6	

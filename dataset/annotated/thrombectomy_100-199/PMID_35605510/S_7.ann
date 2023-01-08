@@ -1,0 +1,18 @@
+T1	Targ 66 83	odds ratio [ OR ]
+T2	Num 86 90	1.16
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 93 94	p
+T4	Num 97 102	0.022
+R2	acomp Arg1:T4 Arg2:T3	
+T5	Targ 147 149	OR
+T6	Num 152 156	0.44
+R3	acomp Arg1:T6 Arg2:T5	
+T7	Targ 159 160	p
+T8	Num 163 168	0.001
+R4	acomp Arg1:T8 Arg2:T7	
+T9	Targ 216 218	OR
+T10	Num 221 225	0.74
+R5	acomp Arg1:T10 Arg2:T9	
+T11	Targ 228 229	p
+T12	Num 232 237	0.001
+R6	acomp Arg1:T12 Arg2:T11	

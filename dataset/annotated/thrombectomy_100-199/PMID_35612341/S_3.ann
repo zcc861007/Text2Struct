@@ -1,0 +1,15 @@
+T1	Num 21 24	178
+T2	Unit 25 33	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 50 60	median age
+T4	Num 63 65	65
+T5	Unit 66 71	years
+R2	acomp Arg1:T4 Arg2:T5	
+R3	acomp Arg1:T4 Arg2:T3	
+T6	Num 74 78	0.55
+T7	Targ 79 82	men
+R4	acomp Arg1:T6 Arg2:T2	
+R5	acomp Arg1:T6 Arg2:T7	
+T8	Targ 85 144	median National Institutes of Health Stroke Scale [ NIHSS ]
+T9	Num 147 151	14.3
+R6	acomp Arg1:T9 Arg2:T8	

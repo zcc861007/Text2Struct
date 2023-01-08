@@ -1,0 +1,8 @@
+T1	Targ 67 73	an AUC
+T2	Num 77 82	0.856
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 85 92	0.95 CI
+T4	Num 95 100	0.785
+T5	Num 103 108	0.928
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	

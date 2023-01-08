@@ -1,0 +1,15 @@
+T1	Num 46 48	38
+T2	Num 51 55	0.38
+T3	Unit 12 20	patients
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	
+T4	Num 103 105	43
+T5	Num 108 112	0.43
+R3	acomp Arg1:T4 Arg2:T3	
+R4	acomp Arg1:T5 Arg2:T3	
+T6	Targ 70 98	a dramatic clinical recovery
+R5	acomp Arg1:T2 Arg2:T6	
+R6	acomp Arg1:T1 Arg2:T6	
+T7	Targ 124 143	a favorable outcome
+R7	acomp Arg1:T4 Arg2:T7	
+R8	acomp Arg1:T5 Arg2:T7	

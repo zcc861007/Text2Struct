@@ -1,0 +1,6 @@
+T1	Num 72 73	3
+T2	Unit 74 80	months
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 114 115	3
+T4	Unit 116 122	months
+R2	acomp Arg1:T3 Arg2:T4	

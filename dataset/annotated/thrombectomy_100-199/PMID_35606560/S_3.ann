@@ -1,0 +1,9 @@
+T1	Targ 27 48	modified Rankin Scale
+T2	Num 49 50	0
+T3	Num 53 54	2
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+T4	Num 73 74	3
+T5	Num 77 78	6
+R3	acomp Arg1:T4 Arg2:T1	
+R4	acomp Arg1:T5 Arg2:T1	

@@ -1,0 +1,9 @@
+T1	Num 142 147	0.877
+T2	Num 152 157	0.906
+T3	Targ 10 18	MT alone
+T4	Targ 121 139	the combined group
+T5	Unit 61 69	patients
+R1	acomp Arg1:T1 Arg2:T5	
+R2	acomp Arg1:T1 Arg2:T3	
+R3	acomp Arg1:T2 Arg2:T4	
+R4	acomp Arg1:T2 Arg2:T5	

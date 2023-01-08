@@ -1,0 +1,10 @@
+T1	Num 267 272	0.759
+T2	Num 280 285	0.713
+T3	Num 223 228	0.780
+T4	Num 236 241	0.742
+T5	Targ 116 136	area under the curve
+R1	acomp Arg1:T3 Arg2:T5	
+R2	acomp Arg1:T4 Arg2:T5	
+T6	Targ 247 264	favorable outcome
+R3	acomp Arg1:T1 Arg2:T6	
+R4	acomp Arg1:T2 Arg2:T6	

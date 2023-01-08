@@ -1,0 +1,19 @@
+T1	Num 36 38	76
+T2	Num 50 55	0.667
+T3	Unit 39 47	patients
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	
+T5	Num 84 86	42
+T6	Unit 87 95	patients
+T7	Num 98 103	0.656
+R5	acomp Arg1:T5 Arg2:T6	
+R6	acomp Arg1:T7 Arg2:T6	
+T4	Targ 61 79	the MT-alone group
+R3	acomp Arg1:T1 Arg2:T4	
+R4	acomp Arg1:T2 Arg2:T4	
+T8	Targ 109 128	the com-bined group
+R7	acomp Arg1:T5 Arg2:T8	
+R8	acomp Arg1:T7 Arg2:T8	
+T9	Targ 178 179	P
+T10	Num 182 186	0.31
+R9	acomp Arg1:T10 Arg2:T9	
