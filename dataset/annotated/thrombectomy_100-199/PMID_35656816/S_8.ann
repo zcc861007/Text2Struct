@@ -1,0 +1,16 @@
+T1	Targ 40 62	adjusted relative risk
+T2	Num 65 69	0.78
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 72 79	0.95 CI
+T4	Num 82 86	0.69
+T5	Num 89 93	0.88
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+T6	Targ 98 122	absolute risk difference
+T7	Num 125 131	-0.103
+R4	acomp Arg1:T7 Arg2:T6	
+T8	Targ 134 141	0.95 CI
+T9	Num 144 149	-15.8
+T10	Num 153 157	-4.9
+R5	acomp Arg1:T9 Arg2:T8	
+R6	acomp Arg1:T10 Arg2:T8	

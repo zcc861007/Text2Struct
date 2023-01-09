@@ -1,0 +1,15 @@
+T1	Num 26 30	0.25
+T2	Targ 33 34	n
+T3	Num 37 39	12
+R1	acomp Arg1:T3 Arg2:T2	
+T4	Targ 0 21	In-hospital mortality
+R2	acomp Arg1:T1 Arg2:T4	
+T5	Num 48 51	0.4
+T6	Targ 54 55	n
+T7	Num 58 60	19
+R3	acomp Arg1:T7 Arg2:T6	
+T8	Targ 72 102	3-month modified Rankin Scores
+T9	Num 103 104	0
+T10	Num 107 108	2
+R4	acomp Arg1:T9 Arg2:T8	
+R5	acomp Arg1:T10 Arg2:T8	

@@ -1,0 +1,3 @@
+T1	Num 14 18	0.22
+T2	Targ 0 9	Mortality
+R1	acomp Arg1:T1 Arg2:T2	

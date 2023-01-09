@@ -1,0 +1,19 @@
+T1	Num 167 169	90
+T2	Unit 170 174	days
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 231 253	adjusted relative risk
+T4	Num 256 260	1.42
+R2	acomp Arg1:T4 Arg2:T3	
+T5	Targ 263 270	0.95 CI
+T6	Num 273 277	1.19
+T7	Num 280 284	1.65
+R3	acomp Arg1:T6 Arg2:T5	
+R4	acomp Arg1:T7 Arg2:T5	
+T8	Num 316 321	0.118
+T9	Targ 324 331	0.95 CI
+T10	Num 334 337	6.9
+T11	Num 340 344	16.7
+R5	acomp Arg1:T10 Arg2:T9	
+R6	acomp Arg1:T11 Arg2:T9	
+T12	Targ 289 313	absolute risk difference
+R7	acomp Arg1:T8 Arg2:T12	

@@ -1,0 +1,5 @@
+T1	Num 42 44	24
+T2	Unit 45 50	hours
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 54 67	estimated BAO
+R2	acomp Arg1:T1 Arg2:T3	

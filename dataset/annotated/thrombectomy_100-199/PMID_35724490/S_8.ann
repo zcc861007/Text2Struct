@@ -1,0 +1,18 @@
+T1	Num 40 41	3
+T2	Num 60 64	0.73
+T3	Targ 67 68	n
+T4	Num 71 73	35
+R1	acomp Arg1:T4 Arg2:T3	
+T5	Num 84 88	0.06
+T6	Targ 91 92	n
+T7	Num 95 96	3
+R2	acomp Arg1:T7 Arg2:T6	
+T8	Unit 102 110	patients
+R3	acomp Arg1:T5 Arg2:T8	
+R4	acomp Arg1:T7 Arg2:T8	
+T9	Targ 0 25	Successful recanalization
+R5	acomp Arg1:T2 Arg2:T9	
+T10	Targ 28 33	mTICI
+R6	acomp Arg1:T1 Arg2:T10	
+T11	Targ 121 157	symptomatic intracerebral hemorrhage
+R7	acomp Arg1:T5 Arg2:T11	

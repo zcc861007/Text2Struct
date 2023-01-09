@@ -1,0 +1,13 @@
+T1	Num 138 139	6
+T2	Num 142 144	24
+T3	Unit 145 146	h
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	
+T4	Targ 233 261	non-contrast CT head ASPECTS
+T5	Num 268 269	6
+R3	acomp Arg1:T5 Arg2:T4	
+T6	Targ 277 308	CTA collateral scores ASITN/SIR
+T7	Num 309 310	2
+T8	Num 313 314	4
+R4	acomp Arg1:T7 Arg2:T6	
+R5	acomp Arg1:T8 Arg2:T6	

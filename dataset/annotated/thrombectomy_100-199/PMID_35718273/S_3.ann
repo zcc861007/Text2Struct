@@ -1,0 +1,8 @@
+T1	Num 38 39	9
+T2	Unit 40 45	cases
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 49 50	8
+T4	Unit 51 59	patients
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 137 141	2014
+T6	Num 154 158	2021

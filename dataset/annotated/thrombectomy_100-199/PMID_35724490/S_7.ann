@@ -1,0 +1,6 @@
+T1	Num 35 39	0.46
+T2	Num 49 53	0.29
+T3	Targ 26 32	M1 MCA
+R1	acomp Arg1:T1 Arg2:T3	
+T4	Targ 54 71	tandem occlusions
+R2	acomp Arg1:T2 Arg2:T4	

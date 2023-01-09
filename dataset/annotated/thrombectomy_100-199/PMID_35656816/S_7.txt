@@ -1,0 +1,1 @@
+RESULTS : In our primary analysis using the inversed probability of treatment weighting-based analysis , there was a significantly higher rate of favorable outcome at 90 days among EVT patients compared with BMM-treated patients ( adjusted relative risk , 1.42 [ 0.95 CI , 1.19 - 1.65 ] ; absolute risk difference , 0.118 [ 0.95 CI , 6.9 - 16.7 ] ) .

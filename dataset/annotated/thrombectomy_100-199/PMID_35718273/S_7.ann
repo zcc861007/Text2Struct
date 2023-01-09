@@ -1,0 +1,12 @@
+T1	Num 40 44	1327
+T2	Targ 0 35	The median total follow-up duration
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Unit 67 71	days
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Targ 47 52	range
+T5	Num 55 57	78
+T6	Num 60 64	2659
+R3	acomp Arg1:T6 Arg2:T3	
+R4	acomp Arg1:T5 Arg2:T3	
+R5	acomp Arg1:T5 Arg2:T4	
+R6	acomp Arg1:T6 Arg2:T4	

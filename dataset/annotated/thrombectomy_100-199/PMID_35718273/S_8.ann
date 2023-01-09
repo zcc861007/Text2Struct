@@ -1,0 +1,8 @@
+T1	Num 7 8	8
+T2	Unit 9 17	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 20 21	3
+T4	Unit 22 30	patients
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Targ 41 62	heart transplantation
+R3	acomp Arg1:T3 Arg2:T5	

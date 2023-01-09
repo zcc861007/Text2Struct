@@ -1,0 +1,15 @@
+T1	Targ 0 59	The median National Institutes of Health Stroke Scale score
+T2	Num 74 76	12
+T3	Num 99 100	5
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+T4	Targ 79 84	range
+T5	Num 87 88	8
+T6	Num 91 93	29
+R3	acomp Arg1:T5 Arg2:T4	
+R4	acomp Arg1:T6 Arg2:T4	
+T7	Targ 103 108	range
+T8	Num 111 112	0
+T9	Num 115 117	29
+R5	acomp Arg1:T8 Arg2:T7	
+R6	acomp Arg1:T9 Arg2:T7	
