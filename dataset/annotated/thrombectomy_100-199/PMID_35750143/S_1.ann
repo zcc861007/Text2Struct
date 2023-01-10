@@ -1,0 +1,5 @@
+T1	Num 138 142	2018
+T2	Num 156 160	2019
+T3	Num 264 266	90
+T4	Unit 267 271	days
+R1	acomp Arg1:T3 Arg2:T4	

@@ -1,0 +1,7 @@
+T1	Num 23 26	394
+T2	Unit 27 35	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 106 110	2012
+T4	Num 115 119	2020
+T5	Targ 41 71	large vessel occlusion ( LVO )
+R2	acomp Arg1:T1 Arg2:T5	

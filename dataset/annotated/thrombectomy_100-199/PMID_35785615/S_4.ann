@@ -1,0 +1,8 @@
+T1	Num 14 17	256
+T2	Unit 18 26	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 183 184	6
+T4	Num 191 192	6
+T5	Targ 133 158	computer tomography score
+R2	acomp Arg1:T3 Arg2:T5	
+R3	acomp Arg1:T4 Arg2:T5	

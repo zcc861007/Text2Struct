@@ -1,0 +1,10 @@
+T1	Num 87 91	0.96
+T2	Num 99 104	0.578
+T3	Targ 29 53	the good-prognosis group
+T4	Targ 58 82	the poor-prognosis group
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T4	
+T5	Num 199 202	0.0
+T6	Num 210 215	0.178
+R3	acomp Arg1:T5 Arg2:T3	
+R4	acomp Arg1:T6 Arg2:T4	

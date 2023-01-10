@@ -1,0 +1,6 @@
+T1	Num 27 28	2
+T2	Unit 29 35	groups
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 68 69	P
+T4	Num 72 76	0.05
+R2	acomp Arg1:T4 Arg2:T3	

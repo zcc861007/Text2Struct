@@ -1,0 +1,12 @@
+T1	Num 98 103	32510
+T2	Num 107 112	29469
+T3	Num 91 95	2035
+T4	Num 55 60	30426
+T5	Num 64 69	32510
+T6	Num 5 9	2020
+T7	Num 13 17	2035
+T8	Targ 20 27	the PCI
+R1	acomp Arg1:T4 Arg2:T8	
+R2	acomp Arg1:T5 Arg2:T8	
+R3	acomp Arg1:T1 Arg2:T8	
+R4	acomp Arg1:T2 Arg2:T8	

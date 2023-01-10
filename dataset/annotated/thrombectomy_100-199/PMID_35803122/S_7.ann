@@ -1,0 +1,6 @@
+T1	Num 58 62	0.01
+T2	Num 85 90	0.001
+T3	Targ 35 54	the increase in PCI
+R1	acomp Arg1:T1 Arg2:T3	
+T4	Targ 70 81	an increase
+R2	acomp Arg1:T2 Arg2:T4	

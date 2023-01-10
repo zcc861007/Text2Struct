@@ -1,0 +1,3 @@
+T1	Num 114 117	0.5
+T2	Targ 91 107	a mortality rate
+R1	acomp Arg1:T1 Arg2:T2	

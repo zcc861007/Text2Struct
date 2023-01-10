@@ -1,0 +1,16 @@
+T1	Num 213 218	0.947
+T2	Num 226 231	0.778
+T3	Targ 234 235	p
+T4	Num 238 243	0.006
+T5	Num 246 251	0.491
+T6	Num 259 264	0.273
+T7	Targ 267 268	p
+T8	Num 271 276	0.006
+R1	acomp Arg1:T8 Arg2:T7	
+T9	Targ 77 108	successful recanalisation rates
+T10	Targ 113 148	favourable functional outcome rates
+R2	acomp Arg1:T1 Arg2:T9	
+R3	acomp Arg1:T2 Arg2:T9	
+R4	acomp Arg1:T4 Arg2:T3	
+R5	acomp Arg1:T5 Arg2:T10	
+R6	acomp Arg1:T6 Arg2:T10	

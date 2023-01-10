@@ -1,0 +1,43 @@
+T1	Num 88 91	270
+T2	Num 94 97	225
+T3	Num 100 103	345
+T4	Num 113 116	330
+T5	Num 119 122	270
+T6	Num 125 128	420
+T7	Unit 131 138	minutes
+T8	Num 200 201	2
+T9	Unit 202 208	groups
+T10	Num 213 216	350
+T11	Num 219 222	295
+T12	Num 225 228	405
+T13	Num 238 241	410
+T14	Num 244 247	340
+T15	Num 250 253	470
+T16	Unit 256 263	minutes
+T17	Targ 34 54	good-prognosis group
+T18	Targ 63 83	poor-prognosis group
+R1	acomp Arg1:T1 Arg2:T17	
+R2	acomp Arg1:T2 Arg2:T17	
+R3	acomp Arg1:T3 Arg2:T17	
+R4	acomp Arg1:T4 Arg2:T18	
+R5	acomp Arg1:T5 Arg2:T18	
+R6	acomp Arg1:T6 Arg2:T18	
+R7	acomp Arg1:T1 Arg2:T7	
+R8	acomp Arg1:T2 Arg2:T7	
+R9	acomp Arg1:T3 Arg2:T7	
+R10	acomp Arg1:T4 Arg2:T7	
+R11	acomp Arg1:T5 Arg2:T7	
+R12	acomp Arg1:T6 Arg2:T7	
+R13	acomp Arg1:T8 Arg2:T9	
+R14	acomp Arg1:T10 Arg2:T17	
+R15	acomp Arg1:T11 Arg2:T17	
+R16	acomp Arg1:T12 Arg2:T17	
+R17	acomp Arg1:T13 Arg2:T18	
+R18	acomp Arg1:T14 Arg2:T18	
+R19	acomp Arg1:T15 Arg2:T18	
+R20	acomp Arg1:T10 Arg2:T16	
+R21	acomp Arg1:T11 Arg2:T16	
+R22	acomp Arg1:T12 Arg2:T16	
+R23	acomp Arg1:T13 Arg2:T16	
+R24	acomp Arg1:T14 Arg2:T16	
+R25	acomp Arg1:T15 Arg2:T16	

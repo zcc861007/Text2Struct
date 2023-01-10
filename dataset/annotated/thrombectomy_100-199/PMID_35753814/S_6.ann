@@ -1,0 +1,11 @@
+T1	Num 90 92	37
+T2	Num 100 102	56
+T3	Unit 103 110	minutes
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Targ 0 25	The median procedure time
+R3	acomp Arg1:T1 Arg2:T4	
+R4	acomp Arg1:T2 Arg2:T4	
+T5	Targ 113 114	p
+T6	Num 117 122	0.001
+R5	acomp Arg1:T6 Arg2:T5	

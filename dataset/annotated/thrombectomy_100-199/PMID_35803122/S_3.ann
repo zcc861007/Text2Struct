@@ -1,0 +1,18 @@
+T1	Num 17 21	2020
+T2	Num 29 33	0.99
+T3	Num 57 59	55
+T4	Num 121 124	120
+T5	Unit 125 128	min
+R1	acomp Arg1:T4 Arg2:T5	
+T6	Num 157 161	5876
+T7	Num 165 171	129838
+T8	Num 191 196	30426
+T9	Targ 179 187	a median
+R2	acomp Arg1:T8 Arg2:T9	
+T10	Targ 137 144	the PCI
+R3	acomp Arg1:T6 Arg2:T10	
+R4	acomp Arg1:T7 Arg2:T10	
+T11	Targ 37 51	the population
+R5	acomp Arg1:T2 Arg2:T11	
+T12	Unit 60 65	years
+R6	acomp Arg1:T3 Arg2:T12	

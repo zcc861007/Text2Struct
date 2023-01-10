@@ -1,0 +1,12 @@
+T1	Num 71 76	0.114
+T2	Num 79 80	8
+T3	Num 83 85	70
+T4	Num 122 127	0.343
+T5	Num 130 132	24
+T6	Num 135 137	70
+T7	Targ 0 66	The incidence of postoperative symptomatic intracranial hemorrhage
+R1	acomp Arg1:T1 Arg2:T7	
+R2	acomp Arg1:T2 Arg2:T7	
+T8	Targ 94 117	postoperative mortality
+R3	acomp Arg1:T4 Arg2:T8	
+R4	acomp Arg1:T5 Arg2:T8	

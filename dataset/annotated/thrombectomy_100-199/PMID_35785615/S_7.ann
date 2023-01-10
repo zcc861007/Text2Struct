@@ -1,0 +1,37 @@
+T1	Num 71 76	0.234
+T2	Targ 79 80	n
+T3	Num 83 85	60
+R1	acomp Arg1:T3 Arg2:T2	
+T4	Num 92 96	66.3
+T5	Targ 10 22	The mean age
+T6	Num 101 105	11.6
+T7	Unit 106 111	years
+R2	acomp Arg1:T6 Arg2:T7	
+R3	acomp Arg1:T4 Arg2:T7	
+R4	acomp Arg1:T4 Arg2:T5	
+R5	acomp Arg1:T6 Arg2:T5	
+T8	Unit 30 38	patients
+R6	acomp Arg1:T2 Arg2:T8	
+T9	Targ 122 134	the mean age
+T10	Num 191 195	62.4
+T11	Num 200 204	12.8
+T12	Unit 205 210	years
+R7	acomp Arg1:T11 Arg2:T12	
+R8	acomp Arg1:T10 Arg2:T12	
+R9	acomp Arg1:T10 Arg2:T9	
+R10	acomp Arg1:T11 Arg2:T9	
+T13	Num 159 160	6
+T14	Targ 142 156	CTA-SI ASPECTS
+R11	acomp Arg1:T13 Arg2:T14	
+T15	Targ 213 214	p
+T16	Num 217 222	0.034
+R12	acomp Arg1:T16 Arg2:T15	
+T17	Num 169 174	0.766
+T18	Targ 177 178	n
+T19	Num 181 184	196
+R13	acomp Arg1:T19 Arg2:T18	
+T20	Targ 316 317	p
+T21	Num 320 325	0.001
+R14	acomp Arg1:T21 Arg2:T20	
+T22	Targ 46 68	fast-progressive group
+R15	acomp Arg1:T1 Arg2:T22	

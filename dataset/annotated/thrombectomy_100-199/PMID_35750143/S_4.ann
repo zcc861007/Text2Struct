@@ -1,0 +1,18 @@
+T1	Num 21 23	70
+T2	Unit 24 32	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 59 61	18
+T4	Unit 62 67	cases
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 94 96	11
+T6	Unit 97 102	cases
+R3	acomp Arg1:T5 Arg2:T6	
+T7	Num 133 135	10
+T8	Unit 136 141	cases
+R4	acomp Arg1:T7 Arg2:T8	
+T9	Targ 73 91	bridging treatment
+R5	acomp Arg1:T3 Arg2:T9	
+T10	Targ 108 126	stent implantation
+R6	acomp Arg1:T5 Arg2:T10	
+T11	Targ 147 165	balloon dilatation
+R7	acomp Arg1:T7 Arg2:T11	
