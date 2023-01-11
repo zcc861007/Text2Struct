@@ -1,0 +1,6 @@
+T1	Num 80 85	0.742
+T2	Targ 24 69	the experimental group 's recanalization rate
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 148 149	P
+T4	Num 152 156	0.05
+R2	acomp Arg1:T4 Arg2:T3	

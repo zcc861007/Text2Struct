@@ -1,0 +1,24 @@
+T1	Targ 0 5	NIHSS
+T2	Num 6 8	24
+T3	Unit 9 10	h
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T1	
+T4	Num 111 115	0.87
+T5	Targ 53 107	receiver operator characteristics area under the curve
+R3	acomp Arg1:T4 Arg2:T5	
+T6	Targ 118 142	0.95 confidence interval
+T7	Num 145 149	0.83
+T8	Num 152 156	0.90
+R4	acomp Arg1:T7 Arg2:T6	
+R5	acomp Arg1:T8 Arg2:T6	
+T9	Num 172 176	0.89
+T10	Num 179 183	0.85
+T11	Num 186 190	0.92
+R7	acomp Arg1:T10 Arg2:T6	
+R8	acomp Arg1:T11 Arg2:T6	
+R6	acomp Arg1:T9 Arg2:T5	
+T12	Targ 218 240	optimal cut-off values
+T13	Num 252 253	9
+T14	Num 264 265	5
+R9	acomp Arg1:T13 Arg2:T12	
+R10	acomp Arg1:T14 Arg2:T12	

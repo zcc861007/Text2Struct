@@ -1,0 +1,9 @@
+T1	Num 20 22	40
+T2	Unit 23 31	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 105 107	11
+T4	Num 110 114	2020
+T5	Num 130 132	31
+T6	Num 135 139	2020
+T7	Targ 39 67	confirmed COVID-19 diagnosis
+R2	acomp Arg1:T1 Arg2:T7	

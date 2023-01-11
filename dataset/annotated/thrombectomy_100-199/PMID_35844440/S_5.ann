@@ -1,0 +1,6 @@
+T1	Num 136 141	15.23
+T2	Targ 91 126	the score in the experimental group
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 198 199	P
+T4	Num 202 206	0.05
+R2	acomp Arg1:T4 Arg2:T3	

@@ -1,0 +1,8 @@
+T1	Num 22 25	102
+T2	Unit 26 34	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 49 51	80
+T4	Unit 52 57	years
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 111 115	2019
+T6	Num 129 133	2020

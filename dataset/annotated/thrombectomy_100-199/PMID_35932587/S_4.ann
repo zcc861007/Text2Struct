@@ -1,0 +1,9 @@
+T1	Num 103 105	51
+T2	Num 141 143	51
+T3	Targ 132 134	ET
+T4	Targ 161 188	general supportive measures
+T5	Targ 4 12	patients
+R1	acomp Arg1:T1 Arg2:T5	
+R2	acomp Arg1:T1 Arg2:T3	
+R3	acomp Arg1:T2 Arg2:T5	
+R4	acomp Arg1:T2 Arg2:T4	

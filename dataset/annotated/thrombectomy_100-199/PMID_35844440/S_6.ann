@@ -1,0 +1,18 @@
+T1	Num 136 139	132
+T2	Unit 140 144	cm/s
+T3	Num 147 150	147
+T4	Unit 151 155	cm/s
+T5	Num 162 165	114
+T6	Unit 166 170	cm/s
+T7	Targ 32 50	the basilar artery
+T8	Targ 53 76	internal carotid artery
+T9	Targ 83 104	common carotid artery
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T3 Arg2:T4	
+R3	acomp Arg1:T5 Arg2:T6	
+R4	acomp Arg1:T5 Arg2:T9	
+R5	acomp Arg1:T3 Arg2:T8	
+R6	acomp Arg1:T1 Arg2:T7	
+T10	Targ 247 248	P
+T11	Num 251 255	0.05
+R7	acomp Arg1:T11 Arg2:T10	

@@ -1,0 +1,5 @@
+T4	Num 31 32	9
+T5	Unit 33 39	points
+R3	acomp Arg1:T4 Arg2:T5	
+T1	Targ 14 24	NIHSS 24 h
+R1	acomp Arg1:T4 Arg2:T1	

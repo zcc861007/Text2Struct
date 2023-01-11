@@ -1,0 +1,17 @@
+T1	Targ 45 54	mRS score
+T2	Num 55 56	0
+T3	Num 59 60	2
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+T4	Num 143 145	14
+T5	Num 150 154	0.08
+T6	Num 174 178	1.98
+T7	Num 185 189	0.05
+T8	Targ 181 182	p
+R3	acomp Arg1:T7 Arg2:T8	
+T9	Targ 170 171	Z
+R4	acomp Arg1:T6 Arg2:T9	
+T10	Targ 125 127	ET
+T11	Targ 138 140	ST
+R5	acomp Arg1:T4 Arg2:T10	
+R6	acomp Arg1:T5 Arg2:T11	

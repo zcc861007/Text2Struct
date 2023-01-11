@@ -1,0 +1,1 @@
+RESULTS : Of the patients with AIS who are infected with COVID-19 , 0.625 were males , and all patients have a median age of 63.5 +/- 14.4 years .

@@ -1,0 +1,9 @@
+T1	Targ 44 73	modified Rankin Scale ( mRS )
+T2	Num 74 75	0
+T3	Num 78 79	2
+T4	Num 84 85	0
+T5	Num 88 89	3
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+R3	acomp Arg1:T4 Arg2:T1	
+R4	acomp Arg1:T5 Arg2:T1	

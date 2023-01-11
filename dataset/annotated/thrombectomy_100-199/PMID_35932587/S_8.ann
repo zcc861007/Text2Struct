@@ -1,0 +1,6 @@
+T2	Num 30 34	0.33
+T1	Targ 0 25	Mortality in the ET group
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 50 58	ST group
+T4	Num 63 67	0.41
+R2	acomp Arg1:T4 Arg2:T3	
