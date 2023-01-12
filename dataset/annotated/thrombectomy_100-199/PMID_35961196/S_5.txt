@@ -1,0 +1,1 @@
+A binary logistic regression analysis was performed , controlling for baseline parameters , with the 24-h post-MT BP parameters as predictors .

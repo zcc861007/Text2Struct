@@ -1,0 +1,1 @@
+DATA SOURCES : Data from consecutive patients with acute stroke undergoing endovascular thrombectomy were retrospectively collected between 2015 to 2020 from a single-center cohort , and a systematic review was performed using PubMed , EMBASE , and Ovid MEDLINE up to June 2020 .

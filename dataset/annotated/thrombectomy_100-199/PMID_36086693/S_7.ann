@@ -1,0 +1,3 @@
+T1	Num 168 169	3
+T2	Targ 157 167	TICI level
+R1	acomp Arg1:T1 Arg2:T2	

@@ -1,0 +1,5 @@
+T1	Num 59 63	0.71
+T2	Unit 67 72	cases
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 40 56	watchful waiting
+R2	acomp Arg1:T1 Arg2:T3	

@@ -1,0 +1,12 @@
+T1	Num 47 51	1419
+T2	Unit 52 60	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 110 112	32
+T4	Num 115 120	0.023
+T5	Targ 71 96	endovascular thrombectomy
+R2	acomp Arg1:T1 Arg2:T5	
+R3	acomp Arg1:T3 Arg2:T2	
+R4	acomp Arg1:T4 Arg2:T2	
+T6	Targ 127 145	vessel perforation
+R5	acomp Arg1:T4 Arg2:T6	
+R6	acomp Arg1:T3 Arg2:T6	
