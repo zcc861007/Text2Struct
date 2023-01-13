@@ -1,0 +1,6 @@
+T1	Targ 18 53	modified Rankin scale ( mRS ) score
+T2	Num 56 57	3
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 165 166	P
+T4	Num 169 173	0.05
+R2	acomp Arg1:T4 Arg2:T3	

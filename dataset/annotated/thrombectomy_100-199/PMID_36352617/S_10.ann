@@ -1,0 +1,8 @@
+T1	Num 45 47	26
+T2	Unit 48 56	patients
+T3	Num 59 64	0.867
+R1	acomp Arg1:T3 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T2	
+T4	Targ 0 28	Successful revascularization
+R3	acomp Arg1:T1 Arg2:T4	
+R4	acomp Arg1:T3 Arg2:T4	

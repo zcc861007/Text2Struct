@@ -1,0 +1,19 @@
+T1	Num 42 46	0.75
+T2	Targ 0 37	The rate of successful recanalization
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 49 52	215
+T4	Num 56 59	285
+T5	Targ 133 145	an mRS score
+T6	Num 149 150	3
+R2	acomp Arg1:T6 Arg2:T5	
+T7	Targ 161 180	adjusted odds ratio
+T8	Num 183 187	4.39
+T9	Targ 190 197	0.95 CI
+T10	Num 200 204	1.79
+T11	Num 207 212	10.72
+T12	Targ 215 216	P
+T13	Num 219 223	.001
+R3	acomp Arg1:T13 Arg2:T12	
+R4	acomp Arg1:T10 Arg2:T9	
+R5	acomp Arg1:T11 Arg2:T9	
+R6	acomp Arg1:T8 Arg2:T7	

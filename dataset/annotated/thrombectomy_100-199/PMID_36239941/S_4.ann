@@ -1,0 +1,3 @@
+T1	Targ 97 128	Cerebral Infarction Scale score
+T2	Num 138 139	3
+R1	acomp Arg1:T2 Arg2:T1	

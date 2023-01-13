@@ -1,0 +1,5 @@
+T1	Num 63 68	0.063
+T2	Num 71 73	18
+T3	Num 77 80	285
+T4	Targ 0 58	The rate of secondary symptomatic intracerebral hemorrhage
+R1	acomp Arg1:T1 Arg2:T4	

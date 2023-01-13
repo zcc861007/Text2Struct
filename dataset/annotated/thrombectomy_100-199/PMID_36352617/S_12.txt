@@ -1,0 +1,1 @@
+The presenting National Institute of Health and Stroke Scale ( NIHSS ) was the only predictor of mortality , and the optimal cut-off value for death was 15 with area under the curve ( AUC ) = 0.758 ( sensitivity 0.91 and specificity 0.59 ) and P value = 0.02 .

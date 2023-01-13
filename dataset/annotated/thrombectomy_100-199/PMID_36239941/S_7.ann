@@ -1,0 +1,13 @@
+T1	Num 9 12	285
+T2	Unit 13 21	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 24 26	79
+T4	Num 29 34	0.277
+T5	Targ 41 53	an mRS score
+T6	Num 57 58	3
+R2	acomp Arg1:T6 Arg2:T5	
+R3	acomp Arg1:T3 Arg2:T2	
+R4	acomp Arg1:T4 Arg2:T2	
+T7	Num 74 76	90
+T8	Unit 70 73	day
+R5	acomp Arg1:T7 Arg2:T8	

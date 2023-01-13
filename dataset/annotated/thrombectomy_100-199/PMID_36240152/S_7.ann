@@ -1,0 +1,8 @@
+T1	Num 124 128	0.25
+T2	Num 131 134	0.5
+T3	Targ 135 143	stenosis
+T4	Num 199 203	0.25
+T5	Targ 204 212	stenosis
+R1	acomp Arg1:T4 Arg2:T5	
+R2	acomp Arg1:T2 Arg2:T3	
+R3	acomp Arg1:T1 Arg2:T3	

@@ -1,0 +1,12 @@
+T1	Targ 138 139	n
+T2	Num 142 144	49
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 209 210	n
+T4	Num 213 215	49
+R2	acomp Arg1:T4 Arg2:T3	
+T5	Num 369 371	24
+T6	Unit 372 377	hours
+R3	acomp Arg1:T5 Arg2:T6	
+T7	Num 479 481	90
+T8	Unit 482 486	days
+R4	acomp Arg1:T7 Arg2:T8	

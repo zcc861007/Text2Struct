@@ -1,0 +1,17 @@
+T1	Targ 71 102	Cerebral Infarction Scale score
+T2	Num 112 113	3
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Num 136 140	0.19
+T4	Targ 141 149	increase
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Targ 152 159	0.95 CI
+T6	Num 162 166	0.09
+T7	Num 169 173	0.29
+R3	acomp Arg1:T6 Arg2:T5	
+R4	acomp Arg1:T7 Arg2:T5	
+T8	Targ 176 177	P
+T9	Num 180 184	.001
+R5	acomp Arg1:T9 Arg2:T8	
+T10	Targ 210 222	an mRS score
+T11	Num 226 227	3
+R6	acomp Arg1:T11 Arg2:T10	

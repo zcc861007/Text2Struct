@@ -1,0 +1,5 @@
+T1	Num 60 61	1
+T2	Unit 62 67	month
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 0 44	Angiographic and histopathologic evaluations
+R2	acomp Arg1:T1 Arg2:T3	

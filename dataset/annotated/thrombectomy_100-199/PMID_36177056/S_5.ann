@@ -1,0 +1,34 @@
+T1	Num 25 30	19.34
+T2	Num 35 39	5.93
+T3	Num 44 49	13.55
+T4	Num 54 58	6.54
+T5	Unit 59 61	mg
+T6	Targ 64 65	P
+T7	Num 68 73	0.001
+R1	acomp Arg1:T7 Arg2:T6	
+R2	acomp Arg1:T4 Arg2:T5	
+R3	acomp Arg1:T3 Arg2:T5	
+R4	acomp Arg1:T2 Arg2:T5	
+R5	acomp Arg1:T1 Arg2:T5	
+T8	Targ 0 22	Thrombolytic drug dose
+R6	acomp Arg1:T1 Arg2:T8	
+R7	acomp Arg1:T2 Arg2:T8	
+R8	acomp Arg1:T3 Arg2:T8	
+R9	acomp Arg1:T4 Arg2:T8	
+T9	Targ 80 103	length of hospital stay
+T10	Num 106 110	8.29
+T11	Num 115 119	3.91
+T12	Num 124 128	5.49
+T13	Num 133 137	1.18
+T14	Unit 138 142	days
+R10	acomp Arg1:T13 Arg2:T14	
+R11	acomp Arg1:T12 Arg2:T14	
+R12	acomp Arg1:T11 Arg2:T14	
+R13	acomp Arg1:T10 Arg2:T14	
+R14	acomp Arg1:T10 Arg2:T9	
+R15	acomp Arg1:T11 Arg2:T9	
+R16	acomp Arg1:T12 Arg2:T9	
+R17	acomp Arg1:T13 Arg2:T9	
+T15	Targ 145 146	P
+T16	Num 149 154	0.003
+R18	acomp Arg1:T16 Arg2:T15	

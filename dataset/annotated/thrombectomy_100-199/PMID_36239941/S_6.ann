@@ -1,0 +1,25 @@
+T1	Num 14 15	8
+T2	Unit 18 26	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 29 32	285
+T4	Num 35 39	0.05
+T5	Num 42 45	146
+T6	Unit 46 49	men
+T7	Num 52 56	0.51
+T8	Num 74 76	73
+T9	Unit 77 82	years
+T10	Num 91 93	62
+T11	Num 96 98	81
+T12	Unit 99 104	years
+R2	acomp Arg1:T11 Arg2:T12	
+R3	acomp Arg1:T10 Arg2:T12	
+R4	acomp Arg1:T8 Arg2:T9	
+T13	Targ 61 71	median age
+R5	acomp Arg1:T8 Arg2:T13	
+T14	Targ 85 88	IQR
+R6	acomp Arg1:T10 Arg2:T14	
+R7	acomp Arg1:T11 Arg2:T14	
+R8	acomp Arg1:T3 Arg2:T2	
+R9	acomp Arg1:T4 Arg2:T2	
+R10	acomp Arg1:T5 Arg2:T6	
+R11	acomp Arg1:T7 Arg2:T6	

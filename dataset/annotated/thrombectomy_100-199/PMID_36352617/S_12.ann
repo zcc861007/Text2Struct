@@ -1,0 +1,15 @@
+T1	Num 153 155	15
+T2	Targ 113 148	the optimal cut-off value for death
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 161 189	area under the curve ( AUC )
+T4	Num 192 197	0.758
+R2	acomp Arg1:T4 Arg2:T3	
+T5	Targ 200 211	sensitivity
+T6	Num 212 216	0.91
+R3	acomp Arg1:T6 Arg2:T5	
+T7	Targ 221 232	specificity
+T8	Num 233 237	0.59
+R4	acomp Arg1:T8 Arg2:T7	
+T9	Targ 244 251	P value
+T10	Num 254 258	0.02
+R5	acomp Arg1:T10 Arg2:T9	

@@ -1,0 +1,6 @@
+T1	Targ 152 153	P
+T2	Num 156 160	0.05
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Num 40 41	2
+T4	Targ 18 33	TIMI flow grade
+R2	acomp Arg1:T3 Arg2:T4	

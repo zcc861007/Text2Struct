@@ -1,0 +1,5 @@
+T1	Num 91 93	30
+T2	Num 148 152	2016
+T3	Num 162 166	2021
+T4	Unit 94 106	BAO patients
+R1	acomp Arg1:T1 Arg2:T4	

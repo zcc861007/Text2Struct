@@ -1,0 +1,5 @@
+T1	Num 142 145	0.7
+T2	Unit 149 157	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 71 92	catastrophic outcomes
+R2	acomp Arg1:T1 Arg2:T3	

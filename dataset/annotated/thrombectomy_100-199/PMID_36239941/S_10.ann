@@ -1,0 +1,10 @@
+T1	Num 149 153	17.6
+T2	Unit 154 159	hours
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 164 171	ASPECTS
+T4	Num 175 176	3
+T5	Num 180 181	5
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+T6	Targ 126 139	a time window
+R4	acomp Arg1:T1 Arg2:T6	

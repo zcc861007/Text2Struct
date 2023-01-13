@@ -1,0 +1,12 @@
+T1	Targ 172 221	Alberta Stroke Program Early CT Score ( ASPECTS )
+T2	Num 225 226	5
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Num 257 258	6
+T4	Num 263 265	24
+T5	Unit 266 271	hours
+R2	acomp Arg1:T3 Arg2:T5	
+R3	acomp Arg1:T4 Arg2:T5	
+T6	Num 361 365	2015
+T7	Num 386 390	2019
+T8	Num 381 383	31
+T9	Num 357 358	1

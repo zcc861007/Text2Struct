@@ -1,0 +1,6 @@
+T1	Targ 57 92	modified Rankin Scale ( mRS ) score
+T2	Num 96 97	3
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Num 113 115	90
+T4	Unit 109 112	day
+R2	acomp Arg1:T3 Arg2:T4	
