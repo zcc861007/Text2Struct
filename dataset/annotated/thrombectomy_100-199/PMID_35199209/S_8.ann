@@ -2,3 +2,5 @@ T1	Num 0 1	2
 T2	Num 38 39	5
 T3	Unit 40 45	weeks
 R1	acomp Arg1:T2 Arg2:T3	
+T4	Targ 12 37	asymptomatic NICE lesions
+R2	acomp Arg1:T1 Arg2:T4	

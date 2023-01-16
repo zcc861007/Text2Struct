@@ -4,3 +4,4 @@ R1	acomp Arg1:T1 Arg2:T2
 T3	Num 254 259	0.209
 T4	Targ 244 245	R
 R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 248 249	2

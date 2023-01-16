@@ -6,3 +6,5 @@ T4	Unit 74 76	MT
 R2	acomp Arg1:T3 Arg2:T4	
 T5	Num 79 83	2015
 T6	Num 86 90	2020
+T7	Targ 59 64	total
+R3	acomp Arg1:T3 Arg2:T7	

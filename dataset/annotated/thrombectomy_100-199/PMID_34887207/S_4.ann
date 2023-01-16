@@ -9,3 +9,5 @@ T6	Targ 50 54	2019
 R3	acomp Arg1:T5 Arg2:T6	
 R4	acomp Arg1:T2 Arg2:T3	
 R5	acomp Arg1:T5 Arg2:T3	
+T7	Targ 67 83	EVT prior to CEA
+R6	acomp Arg1:T1 Arg2:T7	

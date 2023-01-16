@@ -10,3 +10,12 @@ R3	acomp Arg1:T5 Arg2:T6
 T7	Num 479 481	90
 T8	Unit 482 486	days
 R4	acomp Arg1:T7 Arg2:T8	
+T9	Targ 326 361	symptomatic intracranial hemorrhage
+R5	acomp Arg1:T5 Arg2:T9	
+T10	Num 437 438	1
+T11	Unit 439 443	year
+R6	acomp Arg1:T10 Arg2:T11	
+T12	Targ 413 429	the death status
+R7	acomp Arg1:T10 Arg2:T12	
+T13	Targ 448 475	incidence of adverse events
+R8	acomp Arg1:T7 Arg2:T13	

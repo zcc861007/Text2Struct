@@ -3,3 +3,5 @@ T2	Num 36 40	2019
 T3	Num 43 46	362
 T4	Unit 47 67	consecutive patients
 R1	acomp Arg1:T3 Arg2:T4	
+T5	Targ 73 150	acute ischemic stroke with large vessel occlusion in the anterior circulation
+R2	acomp Arg1:T3 Arg2:T5	

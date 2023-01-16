@@ -1,3 +1,5 @@
 T1	Num 51 52	2
 T2	Unit 53 64	time points
 R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 0 43	Other unknown factors not apparent in NIHSS
+R2	acomp Arg1:T1 Arg2:T3	

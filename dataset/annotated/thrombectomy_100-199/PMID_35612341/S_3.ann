@@ -13,3 +13,5 @@ R5	acomp Arg1:T6 Arg2:T7
 T8	Targ 85 144	median National Institutes of Health Stroke Scale [ NIHSS ]
 T9	Num 147 151	14.3
 R6	acomp Arg1:T9 Arg2:T8	
+T10	Targ 12 17	total
+R7	acomp Arg1:T1 Arg2:T10	

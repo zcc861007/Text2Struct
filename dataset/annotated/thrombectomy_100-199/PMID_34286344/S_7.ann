@@ -3,3 +3,6 @@ T2	Unit 35 43	patients
 T3	Num 28 32	0.48
 R1	acomp Arg1:T1 Arg2:T2	
 R2	acomp Arg1:T3 Arg2:T2	
+T4	Targ 48 62	mTICI > / = 2c
+R3	acomp Arg1:T3 Arg2:T4	
+R4	acomp Arg1:T1 Arg2:T4	

@@ -3,3 +3,6 @@ T2	Num 39 44	0.117
 T3	Unit 48 68	all ischemic strokes
 R1	acomp Arg1:T1 Arg2:T3	
 R2	acomp Arg1:T2 Arg2:T3	
+T4	Targ 0 17	Eligible patients
+R3	acomp Arg1:T1 Arg2:T4	
+R4	acomp Arg1:T2 Arg2:T4	

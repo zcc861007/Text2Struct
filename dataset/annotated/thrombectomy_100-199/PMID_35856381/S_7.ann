@@ -1,3 +1,5 @@
 T1	Num 23 24	3
 T2	Unit 25 31	months
 R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 0 19	The mortality rates
+R2	acomp Arg1:T1 Arg2:T3	

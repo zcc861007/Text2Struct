@@ -2,11 +2,12 @@ T1	Num 97 102	0.914
 T2	Num 109 111	32
 T3	Num 179 184	0.657
 T4	Unit 117 125	patients
-T5	Targ 128 159	rate of complete recanalization
-R1	acomp Arg1:T3 Arg2:T5	
 T6	Targ 105 106	n
 R2	acomp Arg1:T2 Arg2:T6	
 R3	acomp Arg1:T1 Arg2:T4	
 T7	Num 49 50	3
 T8	Unit 51 57	passes
 R4	acomp Arg1:T7 Arg2:T8	
+R5	acomp Arg1:T2 Arg2:T4	
+T5	Targ 128 174	rate of complete recanalization ( mTICI 2c-3 )
+R1	acomp Arg1:T3 Arg2:T5	

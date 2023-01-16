@@ -3,3 +3,11 @@ T2	Unit 91 96	cases
 R1	acomp Arg1:T1 Arg2:T2	
 T3	Num 99 104	0.733
 T4	Num 126 131	0.067
+T5	Targ 155 176	an alternate catheter
+R2	acomp Arg1:T4 Arg2:T5	
+T6	Targ 44 84	the intracranial internal carotid artery
+R3	acomp Arg1:T1 Arg2:T6	
+R4	acomp Arg1:T3 Arg2:T6	
+R5	acomp Arg1:T3 Arg2:T2	
+T7	Unit 118 123	cases
+R6	acomp Arg1:T4 Arg2:T7	

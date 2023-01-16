@@ -1,6 +1,4 @@
-T1	Targ 92 93	n
 T2	Num 96 97	7
-T3	Targ 120 121	n
 T4	Num 124 126	65
 T5	Num 147 149	48
 T6	Unit 158 166	patients
@@ -12,13 +10,18 @@ R1	acomp Arg1:T9 Arg2:T10
 R2	acomp Arg1:T8 Arg2:T10	
 R3	acomp Arg1:T7 Arg2:T6	
 R4	acomp Arg1:T5 Arg2:T6	
-T11	Targ 201 202	n
 T12	Num 205 207	15
-R5	acomp Arg1:T12 Arg2:T11	
-T13	Targ 230 231	n
 T14	Num 234 236	33
-R6	acomp Arg1:T14 Arg2:T13	
-R7	acomp Arg1:T2 Arg2:T1	
-R8	acomp Arg1:T4 Arg2:T3	
 R11	acomp Arg1:T2 Arg2:T10	
 R12	acomp Arg1:T4 Arg2:T10	
+T15	Targ 16 21	SA-HD
+R9	acomp Arg1:T8 Arg2:T15	
+R10	acomp Arg1:T9 Arg2:T15	
+T1	Targ 60 93	isolated contrast extravasation n
+R7	acomp Arg1:T2 Arg2:T1	
+T3	Targ 100 121	blood extravasation n
+R8	acomp Arg1:T4 Arg2:T3	
+T11	Num 169 202	isolated contrast extravasation n
+R5	acomp Arg1:T12 Arg2:T11	
+T13	Targ 210 231	blood extravasation n
+R6	acomp Arg1:T14 Arg2:T13	

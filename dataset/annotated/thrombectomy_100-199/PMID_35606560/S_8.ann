@@ -1,3 +1,5 @@
 T1	Num 47 48	1
 T2	Unit 49 51	Hz
 R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 20 43	high-resolution BP data
+R2	acomp Arg1:T1 Arg2:T3	

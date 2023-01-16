@@ -4,3 +4,7 @@ R1	acomp Arg1:T1 Arg2:T2
 T3	Num 173 175	90
 T4	Unit 176 180	days
 R2	acomp Arg1:T3 Arg2:T4	
+T5	Targ 105 117	NIHSS scores
+R3	acomp Arg1:T1 Arg2:T5	
+T6	Targ 151 169	functional outcome
+R4	acomp Arg1:T3 Arg2:T6	

@@ -3,3 +3,6 @@ T2	Num 59 61	30
 T3	Unit 62 66	days
 R1	acomp Arg1:T1 Arg2:T3	
 R2	acomp Arg1:T2 Arg2:T3	
+T4	Targ 28 52	GCS scores postoperative
+R3	acomp Arg1:T1 Arg2:T4	
+R4	acomp Arg1:T2 Arg2:T4	

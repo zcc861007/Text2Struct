@@ -1,3 +1,5 @@
 T1	Num 21 28	2826334
 T2	Unit 29 37	patients
 R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 43 66	primary ischemic stroke
+R2	acomp Arg1:T1 Arg2:T3	

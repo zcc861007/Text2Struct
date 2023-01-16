@@ -1,3 +1,5 @@
 T1	Num 156 158	24
 T2	Unit 159 160	h
 R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 85 152	a higher rate of residual hypoperfusion and increased lesion growth
+R2	acomp Arg1:T1 Arg2:T3	

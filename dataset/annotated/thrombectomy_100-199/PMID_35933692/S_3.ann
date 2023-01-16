@@ -24,3 +24,5 @@ T13	Unit 166 170	days
 R11	acomp Arg1:T12 Arg2:T13	
 T14	Targ 141 159	functional outcome
 R12	acomp Arg1:T12 Arg2:T14	
+T15	Targ 0 15	NIHSS admission
+R13	acomp Arg1:T1 Arg2:T15	

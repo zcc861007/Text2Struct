@@ -8,3 +8,7 @@ T5	Num 118 119	2
 R2	acomp Arg1:T4 Arg2:T7	
 R3	acomp Arg1:T5 Arg2:T7	
 T6	Num 126 131	0.103
+R4	acomp Arg1:T3 Arg2:T2	
+R5	acomp Arg1:T6 Arg2:T2	
+T8	Targ 0 25	Ninety-day follow-up data
+R6	acomp Arg1:T1 Arg2:T8	

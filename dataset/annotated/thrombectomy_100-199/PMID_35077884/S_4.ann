@@ -3,3 +3,5 @@ T2	Num 43 47	2021
 T3	Num 50 52	61
 T4	Unit 53 61	patients
 R1	acomp Arg1:T3 Arg2:T4	
+T5	Targ 74 76	MT
+R2	acomp Arg1:T3 Arg2:T5	

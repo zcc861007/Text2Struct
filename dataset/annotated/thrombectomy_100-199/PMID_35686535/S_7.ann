@@ -3,3 +3,5 @@ T2	Unit 4 12	patients
 R1	acomp Arg1:T1 Arg2:T2	
 T3	Num 24 28	0.55
 R2	acomp Arg1:T3 Arg2:T2	
+T4	Targ 35 64	cardiac arrest before therapy
+R3	acomp Arg1:T3 Arg2:T4	

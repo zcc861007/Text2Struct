@@ -23,3 +23,5 @@ R8	acomp Arg1:T3 Arg2:T2
 R9	acomp Arg1:T4 Arg2:T2	
 R10	acomp Arg1:T5 Arg2:T6	
 R11	acomp Arg1:T7 Arg2:T6	
+T15	Targ 113 135	the inclusion criteria
+R12	acomp Arg1:T3 Arg2:T15	

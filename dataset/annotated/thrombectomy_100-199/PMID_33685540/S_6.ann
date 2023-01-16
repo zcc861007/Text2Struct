@@ -1,6 +1,7 @@
-T1	Num 79 83	0.74
 T2	Num 13 16	151
 T3	Unit 26 34	patients
 R1	acomp Arg1:T2 Arg2:T3	
 T4	Targ 37 62	successful recanalization
+T1	Num 79 84	0.742
 R2	acomp Arg1:T1 Arg2:T4	
+R3	acomp Arg1:T1 Arg2:T3	

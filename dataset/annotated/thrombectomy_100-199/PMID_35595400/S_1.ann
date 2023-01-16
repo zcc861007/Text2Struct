@@ -6,3 +6,5 @@ R1	acomp Arg1:T3 Arg2:T4
 T5	Unit 268 273	hours
 T6	Num 265 267	24
 R2	acomp Arg1:T6 Arg2:T5	
+T7	Targ 236 261	iSCI in a control CT scan
+R3	acomp Arg1:T6 Arg2:T7	

@@ -7,3 +7,5 @@ R2	acomp Arg1:T2 Arg2:T1
 T5	Num 329 331	24
 T6	Unit 332 337	hours
 R3	acomp Arg1:T5 Arg2:T6	
+T7	Targ 273 325	National Institutes of Health Stroke Scale [ NIHSS ]
+R4	acomp Arg1:T5 Arg2:T7	

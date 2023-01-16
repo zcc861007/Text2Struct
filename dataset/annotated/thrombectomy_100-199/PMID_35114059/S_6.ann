@@ -10,3 +10,5 @@ R2	acomp Arg1:T7 Arg2:T6
 R3	acomp Arg1:T1 Arg2:T2	
 T8	Targ 177 196	All-cause mortality
 R4	acomp Arg1:T3 Arg2:T8	
+T9	Targ 161 167	deaths
+R5	acomp Arg1:T1 Arg2:T9	

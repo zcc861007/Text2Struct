@@ -16,3 +16,5 @@ T10	Targ 108 126	stent implantation
 R6	acomp Arg1:T5 Arg2:T10	
 T11	Targ 147 165	balloon dilatation
 R7	acomp Arg1:T7 Arg2:T11	
+T12	Targ 14 15	t
+R8	acomp Arg1:T1 Arg2:T12	

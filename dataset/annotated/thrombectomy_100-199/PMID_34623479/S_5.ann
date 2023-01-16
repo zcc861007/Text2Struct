@@ -8,7 +8,3 @@ T7	Targ 62 94	subarachnoid hemorrhages ( SAH )
 T8	Targ 0 57	The rate of symptomatic intracranial hemorrhages ( sICH )
 R1	acomp Arg1:T2 Arg2:T8	
 R2	acomp Arg1:T1 Arg2:T7	
-R3	acomp Arg1:T3 Arg2:T8	
-R4	acomp Arg1:T4 Arg2:T8	
-R5	acomp Arg1:T5 Arg2:T7	
-R6	acomp Arg1:T6 Arg2:T7	

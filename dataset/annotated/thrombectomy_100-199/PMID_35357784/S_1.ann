@@ -3,3 +3,5 @@ T2	Unit 14 22	patients
 T3	Num 141 145	2018
 T4	Num 159 163	2019
 R1	acomp Arg1:T1 Arg2:T2	
+T5	Targ 47 124	Stroke Center of Gaziantep University Sahinbey Research and Practice Hospital
+R2	acomp Arg1:T1 Arg2:T5	

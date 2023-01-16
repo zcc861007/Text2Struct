@@ -16,3 +16,5 @@ T11	Targ 127 130	BMM
 R5	acomp Arg1:T7 Arg2:T11	
 T12	Targ 162 165	EVT
 R6	acomp Arg1:T9 Arg2:T12	
+T13	Targ 0 19	Our analytic sample
+R7	acomp Arg1:T1 Arg2:T13	

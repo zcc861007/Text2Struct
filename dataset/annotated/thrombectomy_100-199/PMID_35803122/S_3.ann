@@ -16,3 +16,5 @@ T11	Targ 37 51	the population
 R5	acomp Arg1:T2 Arg2:T11	
 T12	Unit 60 65	years
 R6	acomp Arg1:T3 Arg2:T12	
+T13	Targ 79 112	access to mechanical thrombectomy
+R7	acomp Arg1:T4 Arg2:T13	

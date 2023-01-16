@@ -3,3 +3,6 @@ T2	Num 71 73	30
 T3	Unit 74 78	days
 R1	acomp Arg1:T2 Arg2:T3	
 R2	acomp Arg1:T1 Arg2:T3	
+T4	Targ 38 64	NIHSS scores postoperative
+R3	acomp Arg1:T1 Arg2:T4	
+R4	acomp Arg1:T2 Arg2:T4	

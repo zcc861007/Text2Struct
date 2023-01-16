@@ -4,3 +4,7 @@ R1	acomp Arg1:T1 Arg2:T2
 T3	Num 199 200	8
 T4	Unit 201 206	hours
 R2	acomp Arg1:T3 Arg2:T4	
+T5	Targ 207 220	postprocedure
+R3	acomp Arg1:T3 Arg2:T5	
+T6	Targ 241 264	worse clinical outcomes
+R4	acomp Arg1:T1 Arg2:T6	

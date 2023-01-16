@@ -1,3 +1,5 @@
 T1	Num 24 28	6635
 T2	Unit 29 37	patients
 R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 52 85	endovascular thrombectomy ( EVT )
+R2	acomp Arg1:T1 Arg2:T3	

@@ -7,3 +7,5 @@ R2	acomp Arg1:T3 Arg2:T4
 T5	Num 136 138	34
 T6	Unit 139 147	patients
 R3	acomp Arg1:T5 Arg2:T6	
+T7	Targ 58 67	BP values
+R4	acomp Arg1:T3 Arg2:T7	

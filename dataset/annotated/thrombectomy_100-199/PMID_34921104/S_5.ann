@@ -1,3 +1,5 @@
 T1	Num 208 210	90
 T2	Unit 211 215	days
 R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 160 204	worse categories in the ordinal Rankin Scale
+R2	acomp Arg1:T1 Arg2:T3	

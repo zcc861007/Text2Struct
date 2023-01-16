@@ -8,3 +8,5 @@ T5	Num 101 105	2017
 T6	Num 135 137	69
 T7	Unit 138 145	minutes
 R3	acomp Arg1:T6 Arg2:T7	
+T8	Targ 114 131	onset-to-EVT time
+R4	acomp Arg1:T6 Arg2:T8	

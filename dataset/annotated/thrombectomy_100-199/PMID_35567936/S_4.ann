@@ -40,3 +40,5 @@ T24	Num 326 328	56
 T25	Num 331 334	134
 R16	acomp Arg1:T24 Arg2:T23	
 R17	acomp Arg1:T25 Arg2:T23	
+T26	Targ 70 88	inclusion criteria
+R18	acomp Arg1:T1 Arg2:T26	

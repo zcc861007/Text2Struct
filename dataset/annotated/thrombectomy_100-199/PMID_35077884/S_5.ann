@@ -5,3 +5,6 @@ T4	Unit 69 81	our patients
 R1	acomp Arg1:T3 Arg2:T4	
 R2	acomp Arg1:T2 Arg2:T4	
 R3	acomp Arg1:T1 Arg2:T4	
+T5	Targ 10 31	good clinical outcome
+R4	acomp Arg1:T1 Arg2:T5	
+R5	acomp Arg1:T2 Arg2:T5	

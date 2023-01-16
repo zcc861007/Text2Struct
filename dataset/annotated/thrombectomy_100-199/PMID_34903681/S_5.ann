@@ -1,3 +1,5 @@
 T1	Num 122 124	24
 T2	Unit 125 126	h
 R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 0 44	Hyperintense acute reperfusion injury marker
+R2	acomp Arg1:T3 Arg2:T1	

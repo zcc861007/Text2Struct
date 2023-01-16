@@ -3,3 +3,5 @@ T2	Unit 26 47	thrombectomy patients
 R1	acomp Arg1:T1 Arg2:T2	
 T3	Num 94 98	2013
 T4	Num 112 116	2020
+T5	Targ 53 66	emergency CEA
+R2	acomp Arg1:T1 Arg2:T5	

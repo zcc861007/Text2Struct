@@ -1,2 +1,5 @@
 T1	Num 40 43	379
 T2	Num 46 51	0.623
+T3	Targ 58 75	perfusion imaging
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	

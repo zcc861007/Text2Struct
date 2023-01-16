@@ -1,3 +1,5 @@
 T1	Num 0 2	80
 T2	Unit 3 11	patients
 R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 42 57	a control group
+R2	acomp Arg1:T1 Arg2:T3	

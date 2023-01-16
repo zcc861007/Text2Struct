@@ -1,0 +1,12 @@
+T1	Num 37 40	0.5
+T2	Num 43 44	5
+T3	Num 47 49	10
+T4	Targ 56 80	single session therapies
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T4	
+T5	Targ 23 25	AT
+R3	acomp Arg1:T3 Arg2:T5	
+T6	Unit 4 12	patients
+R4	acomp Arg1:T1 Arg2:T6	
+R5	acomp Arg1:T2 Arg2:T6	
+R6	acomp Arg1:T3 Arg2:T6	

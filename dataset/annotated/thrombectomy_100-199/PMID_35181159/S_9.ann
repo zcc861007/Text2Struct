@@ -3,3 +3,6 @@ T2	Num 42 47	0.442
 T3	Unit 51 103	ischemic strokes admitted within the first six hours
 R1	acomp Arg1:T1 Arg2:T3	
 R2	acomp Arg1:T2 Arg2:T3	
+T4	Targ 108 136	LVO clinical characteristics
+R3	acomp Arg1:T2 Arg2:T4	
+R4	acomp Arg1:T1 Arg2:T4	

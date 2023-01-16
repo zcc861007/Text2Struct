@@ -1,3 +1,5 @@
 T1	Num 73 74	8
 T2	Unit 75 76	h
 R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 60 62	MT
+R2	acomp Arg1:T1 Arg2:T3	

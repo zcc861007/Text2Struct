@@ -22,3 +22,5 @@ R11	acomp Arg1:T10 Arg2:T2
 T11	Targ 136 171	no antithrombotic use pre-admission
 R12	acomp Arg1:T9 Arg2:T11	
 R13	acomp Arg1:T10 Arg2:T11	
+T12	Targ 23 38	analysis cohort
+R14	acomp Arg1:T1 Arg2:T12	

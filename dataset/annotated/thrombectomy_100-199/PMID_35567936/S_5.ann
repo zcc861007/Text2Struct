@@ -6,3 +6,4 @@ T4	Num 79 80	4
 T5	Num 83 84	6
 R2	acomp Arg1:T4 Arg2:T3	
 R3	acomp Arg1:T5 Arg2:T3	
+R4	acomp Arg1:T1 Arg2:T3	

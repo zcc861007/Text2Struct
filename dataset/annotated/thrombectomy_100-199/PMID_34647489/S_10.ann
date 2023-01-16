@@ -7,3 +7,5 @@ T6	Num 167 172	0.041
 R1	acomp Arg1:T6 Arg2:T5	
 R2	acomp Arg1:T3 Arg2:T2	
 R3	acomp Arg1:T4 Arg2:T2	
+T7	Targ 74 103	NIHSS hemibody strength score
+R4	acomp Arg1:T1 Arg2:T7	

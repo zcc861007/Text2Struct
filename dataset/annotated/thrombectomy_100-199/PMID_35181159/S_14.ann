@@ -7,3 +7,6 @@ T4	Num 245 249	6596
 T5	Unit 250 273	thrombectomy procedures
 R3	acomp Arg1:T4 Arg2:T5	
 T6	Num 296 300	2018
+T7	Targ 209 228	metropolitan France
+R4	acomp Arg1:T1 Arg2:T7	
+R5	acomp Arg1:T2 Arg2:T7	

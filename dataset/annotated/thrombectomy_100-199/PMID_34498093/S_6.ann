@@ -9,3 +9,5 @@ T5	Num 87 89	64
 T6	Targ 93 108	the ADAPT group
 R4	acomp Arg1:T5 Arg2:T6	
 R5	acomp Arg1:T5 Arg2:T2	
+T7	Targ 12 17	total
+R6	acomp Arg1:T1 Arg2:T7	

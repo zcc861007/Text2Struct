@@ -6,3 +6,6 @@ R2	acomp Arg1:T3 Arg2:T2
 T4	Targ 91 92	P
 T5	Num 95 98	.05
 R3	acomp Arg1:T5 Arg2:T4	
+T6	Targ 37 50	postoperation
+R4	acomp Arg1:T1 Arg2:T6	
+R5	acomp Arg1:T3 Arg2:T6	

@@ -13,3 +13,6 @@ T8	Num 94 95	4
 T9	Num 98 99	6
 R5	acomp Arg1:T8 Arg2:T7	
 R6	acomp Arg1:T9 Arg2:T7	
+T10	Targ 75 86	poor outcom
+R7	acomp Arg1:T3 Arg2:T10	
+R8	acomp Arg1:T5 Arg2:T10	

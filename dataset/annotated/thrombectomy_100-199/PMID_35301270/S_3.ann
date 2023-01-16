@@ -1,3 +1,5 @@
 T1	Num 106 108	28
 T2	Unit 109 117	patients
 R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 133 184	routine head magnetic resonance imaging/angiography
+R2	acomp Arg1:T1 Arg2:T3	

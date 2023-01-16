@@ -1,3 +1,5 @@
 T1	Num 136 139	178
 T2	Unit 140 148	patients
 R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 154 183	acute ischemic stroke ( AIS )
+R2	acomp Arg1:T1 Arg2:T3	

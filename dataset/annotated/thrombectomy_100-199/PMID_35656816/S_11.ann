@@ -1,3 +1,5 @@
 T1	Num 122 124	90
 T2	Unit 125 129	days
 R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 65 118	significantly better functional outcomes and survival
+R2	acomp Arg1:T1 Arg2:T3	

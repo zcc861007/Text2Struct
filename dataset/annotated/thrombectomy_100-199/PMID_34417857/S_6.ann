@@ -3,5 +3,6 @@ T2	Num 91 96	1.217
 T3	Num 99 104	1.082
 T4	Num 107 112	1.370
 R1	acomp Arg1:T2 Arg2:T1	
-R2	acomp Arg1:T3 Arg2:T1	
-R3	acomp Arg1:T4 Arg2:T1	
+T5	Targ 78 80	OR
+R2	acomp Arg1:T3 Arg2:T5	
+R3	acomp Arg1:T4 Arg2:T5	

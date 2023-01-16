@@ -8,3 +8,5 @@ T5	Num 13 16	608
 T6	Unit 17 25	patients
 R3	acomp Arg1:T5 Arg2:T6	
 R4	acomp Arg1:T3 Arg2:T6	
+T7	Targ 115 130	wake-up strokes
+R5	acomp Arg1:T3 Arg2:T7	

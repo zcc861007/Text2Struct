@@ -3,3 +3,6 @@ T2	Num 178 180	24
 T3	Unit 181 186	hours
 R1	acomp Arg1:T1 Arg2:T3	
 R2	acomp Arg1:T2 Arg2:T3	
+T4	Targ 160 171	late window
+R3	acomp Arg1:T1 Arg2:T4	
+R4	acomp Arg1:T2 Arg2:T4	

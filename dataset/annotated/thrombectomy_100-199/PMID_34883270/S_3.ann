@@ -21,3 +21,5 @@ T13	Unit 182 187	cases
 T14	Targ 191 198	group 4
 R8	acomp Arg1:T12 Arg2:T13	
 R9	acomp Arg1:T12 Arg2:T14	
+T15	Targ 2 7	total
+R10	acomp Arg1:T1 Arg2:T15	

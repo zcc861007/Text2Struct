@@ -9,3 +9,5 @@ R3	acomp Arg1:T3 Arg2:T4
 T6	Num 227 230	4.5
 T7	Unit 231 236	hours
 R4	acomp Arg1:T6 Arg2:T7	
+T8	Targ 12 17	total
+R5	acomp Arg1:T1 Arg2:T8	

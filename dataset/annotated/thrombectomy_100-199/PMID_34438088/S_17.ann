@@ -6,3 +6,7 @@ T4	Num 171 174	6.0
 T5	Num 177 181	12.0
 R2	acomp Arg1:T4 Arg2:T3	
 R3	acomp Arg1:T5 Arg2:T3	
+T6	Unit 184 188	days
+R4	acomp Arg1:T1 Arg2:T6	
+R5	acomp Arg1:T4 Arg2:T6	
+R6	acomp Arg1:T5 Arg2:T6	

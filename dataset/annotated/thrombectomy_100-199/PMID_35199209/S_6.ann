@@ -2,3 +2,5 @@ T1	Num 37 38	8
 T2	Unit 39 44	weeks
 T3	Num 0 1	1
 R1	acomp Arg1:T1 Arg2:T2	
+T4	Targ 12 36	symptomatic NICE lesions
+R2	acomp Arg1:T3 Arg2:T4	

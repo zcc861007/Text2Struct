@@ -1,3 +1,5 @@
 T1	Num 154 157	180
 T2	Unit 158 162	days
 R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 24 146	death from cardiovascular causes , recurrent myocardial infarction , cardiogenic shock , or new or worsening heart failure
+R2	acomp Arg1:T1 Arg2:T3	

@@ -2,3 +2,9 @@ T1	Num 30 32	47
 T2	Num 35 40	0.904
 T3	Num 66 68	35
 T4	Num 71 76	0.673
+T5	Targ 47 61	mTICI > / = 2b
+T6	Targ 83 97	mTICI > / = 2c
+R1	acomp Arg1:T4 Arg2:T6	
+R2	acomp Arg1:T3 Arg2:T6	
+R3	acomp Arg1:T2 Arg2:T5	
+R4	acomp Arg1:T1 Arg2:T5	

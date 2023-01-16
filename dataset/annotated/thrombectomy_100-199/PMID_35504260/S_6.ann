@@ -13,3 +13,5 @@ T9	Num 126 127	2
 T10	Unit 128 134	passes
 R4	acomp Arg1:T9 Arg2:T10	
 R5	acomp Arg1:T7 Arg2:T8	
+T11	Targ 12 17	total
+R6	acomp Arg1:T1 Arg2:T11	

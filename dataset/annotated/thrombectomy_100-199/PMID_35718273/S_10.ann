@@ -1,1 +1,3 @@
 T1	Num 137 140	0.5
+T2	Targ 144 167	independence from LVADs
+R1	acomp Arg1:T1 Arg2:T2	

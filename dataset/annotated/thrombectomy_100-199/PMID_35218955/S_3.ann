@@ -1,1 +1,3 @@
 T1	Num 73 77	0.75
+T2	Targ 0 35	The primary effectiveness end point
+R1	acomp Arg1:T1 Arg2:T2	

@@ -1,3 +1,5 @@
 T1	Num 195 197	48
 T2	Unit 198 199	h
 R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 88 191	device-related death , major bleeding , and intraprocedural device- or procedure-related adverse events
+R2	acomp Arg1:T1 Arg2:T3	

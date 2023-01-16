@@ -4,10 +4,10 @@ T4	Num 129 131	36
 T5	Unit 132 140	patients
 T2	Unit 17 25	patients
 R1	acomp Arg1:T1 Arg2:T2	
-T6	Unit 40 48	patients
-R2	acomp Arg1:T3 Arg2:T6	
 T7	Targ 90 96	MT+BMT
 R3	acomp Arg1:T3 Arg2:T7	
 T8	Targ 154 157	BMT
 R4	acomp Arg1:T4 Arg2:T5	
 R5	acomp Arg1:T4 Arg2:T8	
+T6	Unit 40 78	patients with distal vessel occlusions
+R2	acomp Arg1:T3 Arg2:T6	

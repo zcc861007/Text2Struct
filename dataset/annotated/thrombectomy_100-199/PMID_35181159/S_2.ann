@@ -1,3 +1,5 @@
 T1	Num 121 123	24
 T2	Unit 124 129	hours
 R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 133 151	an ischemic stroke
+R2	acomp Arg1:T1 Arg2:T3	

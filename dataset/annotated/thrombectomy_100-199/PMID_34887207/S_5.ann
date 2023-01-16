@@ -1,3 +1,5 @@
 T1	Num 24 26	30
 T2	Unit 27 30	day
 R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 31 52	stroke and death rate
+R2	acomp Arg1:T1 Arg2:T3	

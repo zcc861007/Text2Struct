@@ -1,3 +1,5 @@
 T1	Num 120 122	90
 T2	Unit 123 127	days
 R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 128 173	post-procedure with the modified Rankin Scale
+R2	acomp Arg1:T1 Arg2:T3	

@@ -9,3 +9,5 @@ T6	Unit 71 77	points
 T7	Targ 35 62	modified Rankin scale score
 R3	acomp Arg1:T5 Arg2:T6	
 R4	acomp Arg1:T5 Arg2:T7	
+T8	Targ 80 93	postoperative
+R5	acomp Arg1:T3 Arg2:T8	

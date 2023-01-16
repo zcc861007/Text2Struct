@@ -1,3 +1,5 @@
 T1	Num 44 45	3
 T2	Unit 46 52	months
 R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 31 40	mRS score
+R2	acomp Arg1:T1 Arg2:T3	

@@ -1,2 +1,3 @@
 T1	Targ 107 118	RV/LV ratio
 T2	Num 125 129	0.90
+R1	acomp Arg1:T2 Arg2:T1	

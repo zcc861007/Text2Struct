@@ -1,3 +1,5 @@
 T1	Num 58 60	72
 T2	Unit 61 69	patients
 R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 75 97	community-onset stroke
+R2	acomp Arg1:T1 Arg2:T3	

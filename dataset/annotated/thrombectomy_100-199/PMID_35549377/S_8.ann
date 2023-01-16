@@ -2,5 +2,6 @@ T1	Num 130 132	24
 T2	Unit 133 138	hours
 R1	acomp Arg1:T1 Arg2:T2	
 T3	Num 141 145	0.75
-T4	Targ 40 51	improvement
-R2	acomp Arg1:T3 Arg2:T4	
+T4	Targ 40 105	improvement in functional outcome after successful recanalization
+R2	acomp Arg1:T1 Arg2:T4	
+R3	acomp Arg1:T3 Arg2:T4	

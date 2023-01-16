@@ -6,3 +6,5 @@ R1	acomp Arg1:T3 Arg2:T4
 T5	Targ 58 71	symptom onset
 R2	acomp Arg1:T1 Arg2:T2	
 R3	acomp Arg1:T1 Arg2:T5	
+T6	Targ 21 25	data
+R4	acomp Arg1:T3 Arg2:T6	

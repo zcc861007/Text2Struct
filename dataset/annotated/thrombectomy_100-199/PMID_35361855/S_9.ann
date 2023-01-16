@@ -6,3 +6,5 @@ T5	Targ 17 63	Thrombolysis In Myocardial Infarction thrombus
 R1	acomp Arg1:T3 Arg2:T4	
 R2	acomp Arg1:T3 Arg2:T5	
 R3	acomp Arg1:T1 Arg2:T2	
+T6	Targ 122 139	clinical outcomes
+R4	acomp Arg1:T1 Arg2:T6	

@@ -4,3 +4,5 @@ T3	Targ 180 181	p
 T4	Num 184 189	0.002
 R1	acomp Arg1:T1 Arg2:T2	
 R2	acomp Arg1:T4 Arg2:T3	
+T5	Targ 95 124	puncture-to-reperfusion times
+R3	acomp Arg1:T1 Arg2:T5	

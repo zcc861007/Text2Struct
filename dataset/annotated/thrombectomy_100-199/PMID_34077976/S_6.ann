@@ -4,3 +4,7 @@ T3	Num 94 97	142
 T4	Unit 98 106	patients
 R1	acomp Arg1:T1 Arg2:T2	
 R2	acomp Arg1:T3 Arg2:T4	
+T5	Targ 10 23	Fresh thrombi
+R3	acomp Arg1:T1 Arg2:T5	
+T6	Targ 61 74	older thrombi
+R4	acomp Arg1:T3 Arg2:T6	
