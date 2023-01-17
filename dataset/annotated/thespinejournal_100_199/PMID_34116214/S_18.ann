@@ -1,0 +1,15 @@
+T1	Num 47 52	0.283
+T2	Num 57 62	0.361
+T3	Unit 63 71	patients
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	
+T4	Num 83 88	0.283
+T5	Num 93 98	0.443
+T6	Targ 107 116	allograft
+T7	Targ 121 125	PEEK
+R3	acomp Arg1:T5 Arg2:T7	
+R4	acomp Arg1:T4 Arg2:T3	
+R5	acomp Arg1:T5 Arg2:T3	
+R6	acomp Arg1:T2 Arg2:T7	
+R7	acomp Arg1:T4 Arg2:T6	
+R8	acomp Arg1:T1 Arg2:T6	

@@ -1,0 +1,1 @@
+In the independent testing set of patients ( n = 141 ) not used for model development , the area under the receiver operating curve of NLP algorithms for prediction of 90-day readmission using discharge summary notes , operative notes , nursing notes , physical therapy notes , case management notes , MD/APP notes was 0.70 , 0.57 , 0.57 , 0.60 , 0.60 , and 0.49 respectively .

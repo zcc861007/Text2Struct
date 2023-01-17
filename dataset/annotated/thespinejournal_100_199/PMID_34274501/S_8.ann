@@ -1,0 +1,5 @@
+T1	Num 81 84	100
+T2	Unit 85 91	cycles
+T3	Targ 31 76	a stepwise increasing cyclic loading protocol
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	

@@ -1,0 +1,25 @@
+T1	Num 41 42	2
+T2	Unit 43 48	years
+T3	Num 53 54	2
+T4	Unit 55 61	months
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 116 117	3
+T6	Num 120 121	6
+T7	Num 124 126	12
+T8	Num 131 133	24
+T9	Unit 134 140	months
+R3	acomp Arg1:T5 Arg2:T9	
+R4	acomp Arg1:T6 Arg2:T9	
+R5	acomp Arg1:T7 Arg2:T9	
+R6	acomp Arg1:T8 Arg2:T9	
+T10	Num 173 174	3
+T11	Unit 175 180	weeks
+R7	acomp Arg1:T10 Arg2:T11	
+T12	Targ 146 169	an additional follow-up
+R8	acomp Arg1:T10 Arg2:T12	
+T13	Targ 64 98	radiographic and clinical outcomes
+R9	acomp Arg1:T5 Arg2:T13	
+R10	acomp Arg1:T6 Arg2:T13	
+R11	acomp Arg1:T7 Arg2:T13	
+R12	acomp Arg1:T8 Arg2:T13	

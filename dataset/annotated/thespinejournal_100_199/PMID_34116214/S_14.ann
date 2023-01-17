@@ -1,0 +1,13 @@
+T1	Num 58 61	118
+T2	Num 64 69	0.975
+T3	Unit 72 80	patients
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 88 90	24
+T5	Unit 91 97	months
+T6	Targ 98 107	follow-up
+R3	acomp Arg1:T4 Arg2:T5	
+R4	acomp Arg1:T4 Arg2:T6	
+T7	Targ 10 41	evidence of radiographic fusion
+R5	acomp Arg1:T1 Arg2:T7	
+R6	acomp Arg1:T2 Arg2:T7	

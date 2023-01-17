@@ -1,0 +1,1 @@
+CONCLUSION : In this exploratory analysis , discharge summary , physical therapy , and case management notes had the most utility and daily MD/APP progress notes had the least utility for prediction of 90-day inpatient readmission in lumbar fusion patients among the free-text documentation generated during the index hospitalization .

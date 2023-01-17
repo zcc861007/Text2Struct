@@ -1,0 +1,5 @@
+T1	Num 15 18	5.5
+T2	Unit 19 21	mm
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 22 28	screws
+R2	acomp Arg1:T1 Arg2:T3	

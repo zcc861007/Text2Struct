@@ -1,0 +1,1 @@
+Failure testing was done using a stepwise increasing cyclic loading protocol for 100 cycles at each increasing load level .

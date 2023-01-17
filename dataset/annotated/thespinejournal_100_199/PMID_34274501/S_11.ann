@@ -1,0 +1,43 @@
+T1	Num 35 38	5.5
+T2	Unit 39 41	mm
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 53 58	135.8
+T4	Num 63 67	29.4
+T5	Unit 68 69	N
+R2	acomp Arg1:T4 Arg2:T5	
+R3	acomp Arg1:T3 Arg2:T5	
+T6	Num 84 87	6.0
+T7	Unit 88 90	mm
+T8	Num 102 107	141.8
+T9	Num 112 116	38.6
+T10	Num 123 126	5.5
+T11	Num 137 142	158.1
+T12	Num 147 151	53.8
+T13	Num 162 165	6.0
+T14	Num 176 181	173.6
+T15	Num 186 190	52.1
+T16	Targ 195 196	p
+T17	Num 199 203	.023
+R4	acomp Arg1:T17 Arg2:T16	
+T18	Unit 191 192	N
+R5	acomp Arg1:T15 Arg2:T18	
+R6	acomp Arg1:T14 Arg2:T18	
+T19	Unit 166 168	mm
+R7	acomp Arg1:T13 Arg2:T19	
+T20	Unit 152 153	N
+R8	acomp Arg1:T12 Arg2:T20	
+R9	acomp Arg1:T11 Arg2:T20	
+T21	Unit 127 129	mm
+R10	acomp Arg1:T10 Arg2:T21	
+T22	Unit 117 118	N
+R11	acomp Arg1:T9 Arg2:T22	
+R12	acomp Arg1:T8 Arg2:T22	
+R13	acomp Arg1:T6 Arg2:T7	
+T23	Targ 130 134	Dual
+R14	acomp Arg1:T10 Arg2:T23	
+T24	Targ 169 173	Dual
+R15	acomp Arg1:T13 Arg2:T24	
+T25	Targ 91 99	Standard
+R16	acomp Arg1:T6 Arg2:T25	
+T26	Targ 42 50	Standard
+R17	acomp Arg1:T1 Arg2:T26	

@@ -1,0 +1,5 @@
+T1	Num 37 39	13
+T2	Unit 40 45	weeks
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 6 33	a postoperative time period
+R2	acomp Arg1:T1 Arg2:T3	

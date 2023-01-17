@@ -1,0 +1,9 @@
+T1	Num 32 34	18
+T2	Unit 35 40	years
+T3	Targ 17 31	Adult patients
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 152 153	1
+T5	Num 156 160	2016
+T6	Num 174 176	31
+T7	Num 179 183	2020
