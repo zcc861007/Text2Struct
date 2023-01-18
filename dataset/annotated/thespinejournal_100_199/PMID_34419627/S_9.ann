@@ -1,0 +1,10 @@
+T1	Num 71 75	0.87
+T2	Num 90 94	0.60
+T3	Num 97 102	0.050
+T4	Num 78 83	0.028
+T5	Targ 113 118	SCIRS
+T6	Targ 123 126	ISS
+R1	acomp Arg1:T3 Arg2:T6	
+R2	acomp Arg1:T2 Arg2:T6	
+R3	acomp Arg1:T4 Arg2:T5	
+R4	acomp Arg1:T1 Arg2:T5	

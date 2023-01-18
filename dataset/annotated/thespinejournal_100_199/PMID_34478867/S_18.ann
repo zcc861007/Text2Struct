@@ -1,0 +1,13 @@
+T1	Num 7 10	284
+T2	Unit 17 30	complications
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 11 16	total
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 42 44	86
+T5	Num 47 52	0.303
+T6	Unit 62 69	entries
+R3	acomp Arg1:T5 Arg2:T6	
+R4	acomp Arg1:T4 Arg2:T6	
+T7	Targ 85 108	investigation completed
+R5	acomp Arg1:T5 Arg2:T7	
+R6	acomp Arg1:T4 Arg2:T7	

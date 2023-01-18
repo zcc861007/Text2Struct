@@ -1,0 +1,9 @@
+T1	Num 21 24	431
+T2	Unit 25 45	complication entries
+T3	Targ 12 17	total
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 73 74	1
+T5	Num 77 81	2004
+T6	Num 94 95	1
+T7	Num 98 102	2021

@@ -1,0 +1,14 @@
+T1	Num 25 29	3976
+T2	Unit 30 38	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 41 45	4525
+T4	Unit 46 52	levels
+T5	Num 66 69	165
+T6	Num 72 77	0.041
+T7	Unit 80 99	additional failures
+R2	acomp Arg1:T6 Arg2:T7	
+R3	acomp Arg1:T5 Arg2:T7	
+R4	acomp Arg1:T3 Arg2:T4	
+T8	Targ 0 21	The systematic review
+R5	acomp Arg1:T3 Arg2:T8	
+R6	acomp Arg1:T1 Arg2:T8	

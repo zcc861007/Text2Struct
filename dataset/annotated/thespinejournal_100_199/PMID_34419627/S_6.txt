@@ -1,0 +1,1 @@
+Validation of the SCIRS was performed by testing its accuracy in an independent validation cohort ( n = 396 ) and comparing its performance to the ISS , a measure which is used to predict mortality following general trauma .

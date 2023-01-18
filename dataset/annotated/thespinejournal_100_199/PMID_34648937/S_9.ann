@@ -1,0 +1,84 @@
+T1	Num 174 179	10.79
+T2	Unit 180 182	cm
+T3	Num 187 191	0.94
+T4	Unit 192 194	cm
+T5	Targ 197 198	p
+T6	Num 201 205	.003
+R1	acomp Arg1:T6 Arg2:T5	
+R2	acomp Arg1:T3 Arg2:T4	
+R3	acomp Arg1:T1 Arg2:T2	
+T7	Num 248 253	15.06
+T8	Num 261 266	10.00
+T9	Unit 254 256	cm
+T10	Unit 267 269	cm
+T11	Targ 270 271	p
+T12	Num 274 278	.201
+R4	acomp Arg1:T12 Arg2:T11	
+R5	acomp Arg1:T8 Arg2:T10	
+R6	acomp Arg1:T7 Arg2:T9	
+T13	Num 312 317	89.82
+T14	Unit 318 320	cm
+T15	Num 325 330	18.71
+T16	Unit 331 333	cm
+R7	acomp Arg1:T13 Arg2:T14	
+R8	acomp Arg1:T15 Arg2:T16	
+T17	Targ 336 337	p
+T18	Num 340 344	.007
+R9	acomp Arg1:T18 Arg2:T17	
+T19	Num 373 379	154.68
+T20	Unit 380 382	cm
+T21	Num 387 392	87.47
+T22	Unit 393 395	cm
+R10	acomp Arg1:T21 Arg2:T22	
+R11	acomp Arg1:T19 Arg2:T20	
+T23	Targ 398 399	p
+T24	Num 402 406	.601
+R12	acomp Arg1:T24 Arg2:T23	
+T25	Num 438 444	199.79
+T26	Unit 445 447	cm
+R13	acomp Arg1:T25 Arg2:T26	
+T27	Num 452 457	88.44
+T28	Unit 458 460	cm
+R14	acomp Arg1:T27 Arg2:T28	
+T29	Targ 463 464	p
+T30	Num 467 471	.014
+R15	acomp Arg1:T30 Arg2:T29	
+T31	Num 488 494	284.74
+T32	Unit 495 497	cm
+R16	acomp Arg1:T31 Arg2:T32	
+T33	Num 508 513	57.76
+T34	Unit 514 516	cm
+T35	Targ 525 526	p
+T36	Num 529 533	.006
+R17	acomp Arg1:T36 Arg2:T35	
+T37	Num 558 562	7.00
+T38	Unit 563 567	cm/s
+T39	Num 572 576	2.91
+T40	Unit 577 581	cm/s
+R18	acomp Arg1:T39 Arg2:T40	
+R19	acomp Arg1:T37 Arg2:T38	
+T41	Targ 584 585	p
+T42	Num 588 592	.006
+R20	acomp Arg1:T42 Arg2:T41	
+R21	acomp Arg1:T33 Arg2:T34	
+T43	Targ 147 171	maximum lateral movement
+R22	acomp Arg1:T1 Arg2:T43	
+R23	acomp Arg1:T3 Arg2:T43	
+T44	Targ 210 245	maximum anterior-posterior movement
+R24	acomp Arg1:T7 Arg2:T44	
+R25	acomp Arg1:T8 Arg2:T44	
+T45	Targ 283 309	total lateral CoP movement
+R26	acomp Arg1:T13 Arg2:T45	
+R27	acomp Arg1:T15 Arg2:T45	
+T46	Targ 349 370	total AP CoP movement
+R28	acomp Arg1:T19 Arg2:T46	
+R29	acomp Arg1:T21 Arg2:T46	
+T47	Targ 411 435	total CoP trace movement
+R30	acomp Arg1:T25 Arg2:T47	
+R31	acomp Arg1:T27 Arg2:T47	
+T48	Targ 476 485	sway area
+R32	acomp Arg1:T31 Arg2:T48	
+R33	acomp Arg1:T33 Arg2:T48	
+T49	Targ 542 555	average speed
+R34	acomp Arg1:T37 Arg2:T49	
+R35	acomp Arg1:T39 Arg2:T49	

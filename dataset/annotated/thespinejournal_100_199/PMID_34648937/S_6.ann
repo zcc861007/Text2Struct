@@ -1,0 +1,6 @@
+T1	Num 290 292	30
+T2	Unit 293 300	seconds
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 330 332	30
+T4	Unit 333 340	seconds
+R2	acomp Arg1:T3 Arg2:T4	

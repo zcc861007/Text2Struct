@@ -1,0 +1,15 @@
+T1	Num 60 63	776
+T2	Unit 58 59	$
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 33 53	the mean direct cost
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Targ 90 105	a median income
+T5	Num 111 113	16
+T6	Unit 109 110	$
+R3	acomp Arg1:T5 Arg2:T6	
+R4	acomp Arg1:T5 Arg2:T4	
+T7	Num 147 150	124
+T8	Unit 145 146	$
+T9	Targ 118 140	the mean indirect cost
+R5	acomp Arg1:T7 Arg2:T8	
+R6	acomp Arg1:T7 Arg2:T9	

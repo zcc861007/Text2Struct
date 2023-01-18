@@ -1,0 +1,5 @@
+T1	Num 126 130	2015
+T2	Num 117 121	2005
+T3	Num 40 42	10
+T4	Unit 43 52	hospitals
+R1	acomp Arg1:T3 Arg2:T4	

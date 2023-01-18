@@ -1,0 +1,1 @@
+For in-hospital mortality , AUC values for the development cohort were 0.87 ( 0.028 ) and 0.60 ( 0.050 ) for the SCIRS and ISS , respectively .

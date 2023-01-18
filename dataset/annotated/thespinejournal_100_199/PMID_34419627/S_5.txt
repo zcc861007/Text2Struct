@@ -1,0 +1,1 @@
+METHODS : Machine learning techniques were used on patient-level data ( n = 849 ) to develop the Spinal Cord Injury Risk Score ( SCIRS ) that can predict mortality based on age , neurological level and completeness of injury , AOSpine classification of spinal column injury morphology , and Abbreviated Injury Scale scores .

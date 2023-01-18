@@ -1,0 +1,7 @@
+T1	Num 41 45	1245
+T2	Unit 46 53	persons
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 143 147	2004
+T4	Num 152 156	2016
+T5	Targ 17 21	Data
+R2	acomp Arg1:T1 Arg2:T5	

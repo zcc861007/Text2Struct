@@ -1,0 +1,1 @@
+Each parameter for evaluating the CART model were the area under the curve 0.813 , the classification accuracy 0.786 , the sensitivity 0.807 , the specificity 0.751 , and the positive predictive value 0.845 .

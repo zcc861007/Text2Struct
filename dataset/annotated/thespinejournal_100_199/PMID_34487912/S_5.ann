@@ -1,0 +1,7 @@
+T1	Num 159 162	200
+T2	Unit 163 171	patients
+T3	Targ 135 155	A consecutive series
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 206 210	2018
+T5	Num 214 218	2019

@@ -1,0 +1,7 @@
+T1	Num 22 24	87
+T2	Num 27 30	186
+T3	Targ 42 70	routine postoperative visits
+R1	acomp Arg1:T1 Arg2:T3	
+T4	Num 75 77	24
+T5	Targ 82 98	revision surgery
+R2	acomp Arg1:T4 Arg2:T5	

@@ -1,0 +1,12 @@
+T1	Num 133 138	0.047
+T2	Targ 115 129	a failure rate
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 55 58	169
+T4	Unit 59 67	patients
+T5	Num 70 73	201
+T6	Unit 74 80	levels
+R2	acomp Arg1:T5 Arg2:T6	
+R3	acomp Arg1:T3 Arg2:T4	
+T7	Targ 10 32	A retrospective review
+R4	acomp Arg1:T3 Arg2:T7	
+R5	acomp Arg1:T5 Arg2:T7	

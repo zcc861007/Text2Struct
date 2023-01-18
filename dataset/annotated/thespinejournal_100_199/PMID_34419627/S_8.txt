@@ -1,0 +1,1 @@
+For the validation cohort , AUC values were 0.86 ( 0.051 ) for the SCIRS and 0.71 ( 0.074 ) for the ISS .

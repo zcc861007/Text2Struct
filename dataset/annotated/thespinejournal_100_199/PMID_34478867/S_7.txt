@@ -1,0 +1,1 @@
+METHODS : Data files from January 1 , 2004 to April 1 , 2021 were queried using the publicly accessible Manufacturer and User Facility Device Experience ( MAUDE ) database and Alternative Summary Reporting program .

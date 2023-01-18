@@ -1,0 +1,13 @@
+T1	Num 38 41	102
+T2	Unit 42 53	phone calls
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 56 58	55
+T4	Unit 59 72	office visits
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 86 88	38
+T6	Unit 89 107	diagnostic studies
+R3	acomp Arg1:T5 Arg2:T6	
+T7	Targ 29 34	total
+R4	acomp Arg1:T1 Arg2:T7	
+R5	acomp Arg1:T3 Arg2:T7	
+R6	acomp Arg1:T5 Arg2:T7	

@@ -1,0 +1,1 @@
+RESULTS : For 1-year mortality prediction , the values for the Area Under the Receiver Operating Characteristic Curve ( AUC ) for the development cohort were 0.84 ( standard deviation = 0.029 ) for the SCIRS and 0.55 ( 0.041 ) for the ISS .
