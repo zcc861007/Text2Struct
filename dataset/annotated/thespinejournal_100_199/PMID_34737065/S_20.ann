@@ -1,0 +1,5 @@
+T1	Num 120 123	0.9
+T2	Unit 117 119	L5
+T3	Targ 133 154	a single SVN filament
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	

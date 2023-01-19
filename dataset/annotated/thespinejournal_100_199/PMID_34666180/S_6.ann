@@ -1,0 +1,11 @@
+T1	Num 75 76	4
+T2	Num 79 80	8
+T3	Num 83 85	12
+T4	Num 88 90	16
+T5	Num 96 98	20
+T6	Unit 99 104	hours
+R1	acomp Arg1:T5 Arg2:T6	
+R2	acomp Arg1:T4 Arg2:T6	
+R3	acomp Arg1:T3 Arg2:T6	
+R4	acomp Arg1:T2 Arg2:T6	
+R5	acomp Arg1:T1 Arg2:T6	

@@ -1,0 +1,5 @@
+T1	Num 193 199	300000
+T2	Unit 191 192	$
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 180 188	totaling
+R2	acomp Arg1:T1 Arg2:T3	

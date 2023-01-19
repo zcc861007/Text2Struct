@@ -1,0 +1,15 @@
+T1	Num 20 22	97
+T2	Unit 32 40	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 56 60	60.5
+T4	Num 65 69	11.4
+T5	Unit 70 75	years
+R2	acomp Arg1:T4 Arg2:T5	
+R3	acomp Arg1:T3 Arg2:T5	
+T6	Targ 43 51	mean age
+R4	acomp Arg1:T3 Arg2:T6	
+T7	Num 80 84	0.51
+T8	Unit 88 96	patients
+T9	Targ 102 106	male
+R5	acomp Arg1:T7 Arg2:T8	
+R6	acomp Arg1:T7 Arg2:T9	

@@ -1,0 +1,10 @@
+T1	Num 80 83	0.9
+T2	Unit 87 92	cases
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 106 109	0.4
+T4	Unit 113 118	cases
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Targ 100 102	L5
+R3	acomp Arg1:T3 Arg2:T5	
+T6	Targ 25 27	L2
+R4	acomp Arg1:T1 Arg2:T6	

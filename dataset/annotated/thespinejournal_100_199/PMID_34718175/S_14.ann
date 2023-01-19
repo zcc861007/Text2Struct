@@ -1,0 +1,8 @@
+T1	Num 30 33	288
+T2	Unit 34 38	days
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 0 25	Median time to recurrence
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 44 47	1.0
+T5	Targ 51 58	lesions
+R3	acomp Arg1:T4 Arg2:T5	

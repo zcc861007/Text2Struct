@@ -1,0 +1,9 @@
+T1	Num 171 172	6
+T2	Unit 173 178	weeks
+T3	Num 181 182	6
+T4	Unit 183 189	months
+T5	Num 196 198	12
+T6	Unit 199 205	months
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T3 Arg2:T4	
+R3	acomp Arg1:T5 Arg2:T6	

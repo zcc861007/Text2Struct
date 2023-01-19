@@ -1,0 +1,8 @@
+T1	Num 58 60	24
+T2	Unit 61 66	hours
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 157 160	1.0
+T4	Unit 161 179	silver carboxylate
+T5	Targ 180 187	coating
+R2	acomp Arg1:T3 Arg2:T5	
+R3	acomp Arg1:T3 Arg2:T4	

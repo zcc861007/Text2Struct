@@ -1,0 +1,5 @@
+T1	Num 70 72	24
+T2	Unit 73 78	hours
+T3	Targ 61 66	total
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	

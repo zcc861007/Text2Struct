@@ -1,0 +1,18 @@
+T1	Num 83 88	0.198
+T2	Num 93 98	0.189
+T3	Num 116 118	12
+T4	Unit 119 125	months
+T5	Num 161 166	0.097
+T6	Num 171 175	0.16
+T7	Num 216 220	13.0
+T8	Targ 21 46	monthly average time lost
+R1	acomp Arg1:T1 Arg2:T8	
+R2	acomp Arg1:T2 Arg2:T8	
+R3	acomp Arg1:T3 Arg2:T4	
+T9	Unit 221 238	percentage points
+T10	Targ 196 212	a mitigated loss
+R4	acomp Arg1:T7 Arg2:T10	
+R5	acomp Arg1:T7 Arg2:T9	
+T11	Targ 148 155	numbers
+R6	acomp Arg1:T5 Arg2:T11	
+R7	acomp Arg1:T6 Arg2:T11	

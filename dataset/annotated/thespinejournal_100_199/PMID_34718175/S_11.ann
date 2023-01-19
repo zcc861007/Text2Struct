@@ -1,0 +1,17 @@
+T1	Num 23 25	17
+T2	Unit 26 34	patients
+T3	Num 37 42	0.175
+T4	Targ 0 10	Recurrence
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T3 Arg2:T2	
+R3	acomp Arg1:T1 Arg2:T4	
+R4	acomp Arg1:T3 Arg2:T4	
+T6	Num 76 81	0.855
+T7	Num 95 100	0.811
+T8	Num 118 123	0.549
+T9	Targ 126 132	5-year
+R5	acomp Arg1:T8 Arg2:T9	
+T10	Targ 103 109	2-year
+R6	acomp Arg1:T7 Arg2:T10	
+T11	Targ 84 90	1-year
+R7	acomp Arg1:T6 Arg2:T11	

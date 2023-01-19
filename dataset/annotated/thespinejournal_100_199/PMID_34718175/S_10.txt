@@ -1,0 +1,1 @@
+The most common primary tumor types were lung ( 0.206 ) , breast ( 0.175 ) , kidney ( 0.134 ) and prostate ( 0.124 ) .

@@ -1,0 +1,22 @@
+T1	Num 107 111	75.4
+T2	Num 115 119	78.7
+T3	Num 141 142	6
+T4	Unit 143 148	weeks
+R1	acomp Arg1:T3 Arg2:T4	
+T5	Num 151 155	71.8
+T6	Num 159 163	85.9
+T7	Num 185 186	6
+T8	Unit 187 193	months
+R2	acomp Arg1:T7 Arg2:T8	
+T9	Num 200 204	73.0
+T10	Num 208 212	88.1
+T11	Num 234 236	12
+T12	Unit 237 243	months
+R3	acomp Arg1:T11 Arg2:T12	
+T13	Targ 0 50	Average at-work performance among working patients
+R4	acomp Arg1:T1 Arg2:T13	
+R5	acomp Arg1:T2 Arg2:T13	
+R6	acomp Arg1:T5 Arg2:T13	
+R7	acomp Arg1:T6 Arg2:T13	
+R8	acomp Arg1:T9 Arg2:T13	
+R9	acomp Arg1:T10 Arg2:T13	

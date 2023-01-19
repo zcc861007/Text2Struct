@@ -1,0 +1,5 @@
+T2	Num 108 111	1.0
+T3	Unit 112 130	silver carboxylate
+T4	Targ 131 147	positive control
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T4	

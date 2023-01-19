@@ -1,0 +1,9 @@
+T1	Num 124 127	0.4
+T2	Unit 131 136	cases
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 159 162	0.6
+T4	Unit 166 171	cases
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Targ 51 68	L5 discogenic LBP
+R3	acomp Arg1:T1 Arg2:T5	
+R4	acomp Arg1:T3 Arg2:T5	

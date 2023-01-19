@@ -1,0 +1,5 @@
+T1	Num 45 47	12
+T2	Unit 48 54	months
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 20 41	kyphosis of the spine
+R2	acomp Arg1:T1 Arg2:T3	

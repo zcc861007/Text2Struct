@@ -1,0 +1,24 @@
+T1	Num 111 112	4
+T2	Unit 113 119	groups
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 216 217	2
+T4	Unit 218 223	years
+R2	acomp Arg1:T3 Arg2:T4	
+T6	Num 292 293	2
+T7	Unit 294 299	years
+R3	acomp Arg1:T6 Arg2:T7	
+T5	Num 313 314	0
+T8	Num 317 318	2
+T9	Num 239 240	2
+T10	Targ 203 206	THA
+R4	acomp Arg1:T3 Arg2:T10	
+R5	acomp Arg1:T9 Arg2:T4	
+T11	Targ 241 250	Prior THA
+R6	acomp Arg1:T9 Arg2:T11	
+T12	Targ 319 328	Prior THA
+T13	Targ 281 284	THA
+R7	acomp Arg1:T6 Arg2:T13	
+R8	acomp Arg1:T8 Arg2:T12	
+R9	acomp Arg1:T5 Arg2:T12	
+R10	acomp Arg1:T5 Arg2:T7	
+R11	acomp Arg1:T8 Arg2:T7	

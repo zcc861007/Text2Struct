@@ -1,0 +1,5 @@
+T1	Num 43 44	9
+T2	Unit 45 51	months
+T3	Targ 55 67	TSC1mKO mice
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	

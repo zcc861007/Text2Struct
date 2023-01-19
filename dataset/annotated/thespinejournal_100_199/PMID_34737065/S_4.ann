@@ -1,0 +1,5 @@
+T1	Num 41 43	20
+T2	Unit 44 48	SVNs
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 15 37	Dissection-based study
+R2	acomp Arg1:T1 Arg2:T3	

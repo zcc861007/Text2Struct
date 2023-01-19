@@ -1,0 +1,18 @@
+T1	Num 55 60	0.424
+T2	Num 92 96	0.22
+T3	Num 112 117	0.137
+T4	Num 128 132	0.25
+T5	Targ 65 89	percentage-change in ODI
+R1	acomp Arg1:T1 Arg2:T5	
+T6	Targ 101 109	EQ-5D-3L
+T7	Targ 122 125	PCS
+T8	Targ 137 140	NRS
+T9	Num 161 166	0.556
+T10	Targ 171 174	NRS
+T11	Num 190 195	0.222
+T12	Targ 200 203	NRS
+R2	acomp Arg1:T2 Arg2:T6	
+R3	acomp Arg1:T3 Arg2:T7	
+R4	acomp Arg1:T4 Arg2:T8	
+R5	acomp Arg1:T9 Arg2:T10	
+R6	acomp Arg1:T11 Arg2:T12	

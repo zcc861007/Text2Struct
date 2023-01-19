@@ -1,0 +1,5 @@
+T2	Num 166 169	1.0
+T3	Unit 170 172	Ag
+T4	Targ 173 180	coating
+R1	acomp Arg1:T2 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T3	
