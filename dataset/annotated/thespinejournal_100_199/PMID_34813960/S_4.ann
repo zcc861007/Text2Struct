@@ -1,0 +1,18 @@
+T1	Num 51 52	8
+T2	Targ 53 60	females
+T3	Unit 29 48	healthy individuals
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 106 108	30
+T5	Unit 109 112	min
+R3	acomp Arg1:T4 Arg2:T5	
+T6	Targ 113 134	continuous AG ( cAG )
+R4	acomp Arg1:T4 Arg2:T6	
+T7	Num 152 153	6
+T8	Num 156 157	5
+T9	Unit 158 161	min
+T10	Targ 162 172	AG ( iAG )
+R5	acomp Arg1:T8 Arg2:T9	
+R6	acomp Arg1:T7 Arg2:T9	
+R7	acomp Arg1:T8 Arg2:T10	
+R8	acomp Arg1:T7 Arg2:T10	

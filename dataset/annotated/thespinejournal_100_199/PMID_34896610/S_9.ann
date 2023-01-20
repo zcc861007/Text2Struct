@@ -1,0 +1,13 @@
+T1	Num 56 60	12.4
+T2	Num 65 68	1.9
+T3	Targ 0 51	The mean quality score based on the MINORS criteria
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	
+T4	Targ 71 76	range
+T5	Num 79 80	8
+T6	Num 83 85	16
+T7	Unit 88 94	points
+R3	acomp Arg1:T6 Arg2:T7	
+R4	acomp Arg1:T5 Arg2:T7	
+R5	acomp Arg1:T5 Arg2:T4	
+R6	acomp Arg1:T6 Arg2:T4	

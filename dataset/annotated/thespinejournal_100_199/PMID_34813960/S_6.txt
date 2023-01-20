@@ -1,0 +1,1 @@
+Chemical shift-based 2-echo lipid and/or water Dixon sequence was used to measure tissue composition .

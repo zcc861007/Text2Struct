@@ -1,0 +1,8 @@
+T1	Num 100 102	60
+T2	Unit 103 106	day
+T3	Num 114 115	6
+T4	Unit 116 123	degrees
+T5	Targ 124 146	head-down tilt ( HDT )
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T3 Arg2:T5	
+R3	acomp Arg1:T1 Arg2:T2	

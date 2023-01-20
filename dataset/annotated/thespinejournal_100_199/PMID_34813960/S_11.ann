@@ -1,0 +1,9 @@
+T1	Num 157 161	0.04
+T2	Num 211 215	0.02
+T3	Targ 218 219	p
+T4	Num 222 225	.05
+R1	acomp Arg1:T4 Arg2:T3	
+T5	Targ 179 194	central regions
+R2	acomp Arg1:T2 Arg2:T5	
+T6	Targ 114 140	medial and lateral regions
+R3	acomp Arg1:T1 Arg2:T6	

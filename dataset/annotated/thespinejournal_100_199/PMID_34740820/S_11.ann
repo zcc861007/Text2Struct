@@ -1,0 +1,13 @@
+T1	Num 129 133	11.4
+T2	Unit 134 141	degrees
+T3	Num 154 157	0.2
+T4	Unit 158 165	degrees
+T5	Targ 170 177	non-PJK
+T6	Targ 146 149	PJK
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T6	
+R3	acomp Arg1:T3 Arg2:T4	
+R4	acomp Arg1:T3 Arg2:T5	
+T7	Targ 180 181	p
+T8	Num 184 188	.033
+R5	acomp Arg1:T8 Arg2:T7	

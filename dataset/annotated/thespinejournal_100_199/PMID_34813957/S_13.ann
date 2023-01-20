@@ -1,0 +1,18 @@
+T1	Num 90 94	0.04
+T2	Num 99 104	0.148
+T3	Targ 74 87	the LSS group
+T4	Targ 24 36	the DS group
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T3	
+T5	Targ 107 108	p
+T6	Num 111 115	0.01
+R3	acomp Arg1:T6 Arg2:T5	
+T7	Num 210 215	0.158
+T8	Num 220 225	0.148
+T9	Targ 228 229	p
+T10	Num 232 237	0.493
+R4	acomp Arg1:T10 Arg2:T9	
+T11	Targ 154 167	the DLS group
+T12	Targ 194 207	the LSS group
+R5	acomp Arg1:T7 Arg2:T11	
+R6	acomp Arg1:T8 Arg2:T12	

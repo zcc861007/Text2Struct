@@ -1,0 +1,5 @@
+T1	Num 72 74	45
+T2	Unit 75 82	degrees
+T3	Targ 65 67	PI
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	

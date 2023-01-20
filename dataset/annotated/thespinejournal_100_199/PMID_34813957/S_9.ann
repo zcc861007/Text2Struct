@@ -1,0 +1,8 @@
+T1	Num 64 65	2
+T2	Num 70 71	5
+T3	Unit 72 77	years
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Targ 0 41	Clinical and radiological outcome results
+R3	acomp Arg1:T1 Arg2:T4	
+R4	acomp Arg1:T2 Arg2:T4	

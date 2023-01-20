@@ -1,0 +1,5 @@
+T1	Num 78 80	22
+T2	Unit 81 88	studies
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 106 123	the meta-analyses
+R2	acomp Arg1:T1 Arg2:T3	

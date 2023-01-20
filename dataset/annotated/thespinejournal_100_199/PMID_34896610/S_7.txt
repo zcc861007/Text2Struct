@@ -1,0 +1,1 @@
+A meta-analysis was done to calculate the odds ratio ( OR ) with the 0.95 confidence interval ( CI ) for dichotomous data and mean difference ( MD ) with 0.95 CI for continuous data .

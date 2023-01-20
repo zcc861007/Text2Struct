@@ -1,0 +1,5 @@
+T1	Num 102 104	60
+T2	Unit 105 108	day
+T3	Targ 109 116	bedrest
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	

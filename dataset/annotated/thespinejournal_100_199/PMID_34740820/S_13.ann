@@ -1,0 +1,17 @@
+T1	Targ 13 15	PI
+T2	Num 18 20	45
+T3	Unit 21 28	degrees
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T1	
+T4	Targ 51 79	a tendency of overcorrection
+T5	Num 82 87	0.733
+R3	acomp Arg1:T5 Arg2:T4	
+T6	Targ 90 91	P
+T7	Num 94 99	0.001
+R4	acomp Arg1:T7 Arg2:T6	
+T8	Targ 119 144	the high incidence of PJK
+T9	Num 147 152	0.533
+R5	acomp Arg1:T9 Arg2:T8	
+T10	Targ 155 156	p
+T11	Num 159 163	.005
+R6	acomp Arg1:T11 Arg2:T10	

@@ -1,0 +1,35 @@
+T1	Num 71 72	2
+T2	Unit 73 78	years
+R1	acomp Arg1:T1 Arg2:T2	
+T4	Num 120 124	34.7
+T3	Targ 43 54	the VAS LBP
+T5	Targ 59 67	leg pain
+T6	Num 129 133	27.8
+T7	Targ 136 137	p
+T8	Num 140 145	0.014
+T9	Num 148 152	27.8
+T10	Num 157 161	14.7
+T11	Targ 164 165	p
+T12	Num 168 173	0.028
+R2	acomp Arg1:T12 Arg2:T11	
+R3	acomp Arg1:T8 Arg2:T7	
+R4	acomp Arg1:T4 Arg2:T3	
+R5	acomp Arg1:T6 Arg2:T3	
+R6	acomp Arg1:T9 Arg2:T5	
+R7	acomp Arg1:T10 Arg2:T5	
+T13	Targ 251 258	VAS LBP
+T14	Targ 263 271	leg pain
+T15	Num 325 330	0.361
+T16	Num 335 340	0.542
+T17	Num 355 360	0.583
+T18	Num 365 370	0.699
+T19	Targ 343 344	p
+T20	Num 347 352	0.036
+T21	Targ 373 374	p
+T22	Num 377 381	0.10
+R8	acomp Arg1:T22 Arg2:T21	
+R9	acomp Arg1:T20 Arg2:T19	
+R10	acomp Arg1:T15 Arg2:T13	
+R11	acomp Arg1:T16 Arg2:T13	
+R12	acomp Arg1:T17 Arg2:T14	
+R13	acomp Arg1:T18 Arg2:T14	

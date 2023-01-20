@@ -1,0 +1,10 @@
+T1	Num 119 120	5
+T2	Unit 121 126	years
+T3	Targ 107 116	follow-up
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 28 31	169
+T5	Unit 32 40	patients
+T6	Targ 19 24	total
+R3	acomp Arg1:T4 Arg2:T5	
+R4	acomp Arg1:T4 Arg2:T6	

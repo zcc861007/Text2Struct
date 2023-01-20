@@ -1,0 +1,8 @@
+T1	Num 30 32	78
+T2	Unit 33 45	ASD patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 10 20	This study
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 112 113	2
+T5	Unit 114 119	years
+R3	acomp Arg1:T4 Arg2:T5	

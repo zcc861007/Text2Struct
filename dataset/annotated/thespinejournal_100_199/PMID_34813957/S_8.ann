@@ -1,0 +1,25 @@
+T1	Num 21 23	81
+T2	Unit 24 32	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T4	Num 44 46	50
+T5	Unit 47 55	patients
+R3	acomp Arg1:T4 Arg2:T5	
+T3	Targ 38 41	LSS
+R2	acomp Arg1:T1 Arg2:T3	
+T6	Targ 61 71	LSS and DS
+R4	acomp Arg1:T4 Arg2:T6	
+T7	Num 80 81	3
+T8	Unit 82 84	mm
+R5	acomp Arg1:T7 Arg2:T8	
+T9	Targ 85 102	anterior slippage
+R6	acomp Arg1:T7 Arg2:T9	
+T10	Num 111 113	38
+T11	Unit 114 122	patients
+T12	Targ 128 139	LSS and DLS
+R7	acomp Arg1:T10 Arg2:T11	
+R8	acomp Arg1:T10 Arg2:T12	
+T13	Num 148 150	15
+T14	Unit 151 158	degrees
+T15	Targ 159 177	coronal Cobb angle
+R9	acomp Arg1:T13 Arg2:T14	
+R10	acomp Arg1:T13 Arg2:T15	

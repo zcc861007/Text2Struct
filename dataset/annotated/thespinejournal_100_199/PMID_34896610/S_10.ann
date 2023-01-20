@@ -1,0 +1,46 @@
+T1	Targ 80 102	mean difference [ MD ]
+T2	Num 105 109	1.97
+T3	Unit 110 114	kg/m
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T1	
+T4	Num 157 161	1.49
+T5	Num 164 168	2.45
+T6	Targ 123 154	0.95 confidence interval [ CI ]
+R3	acomp Arg1:T4 Arg2:T6	
+R4	acomp Arg1:T5 Arg2:T6	
+T7	Targ 171 172	p
+T8	Num 175 179	.001
+R5	acomp Arg1:T8 Arg2:T7	
+T9	Targ 202 219	Odds ratio [ OR ]
+T10	Num 222 226	1.78
+R6	acomp Arg1:T10 Arg2:T9	
+T11	Targ 229 236	0.95 CI
+T12	Num 239 243	1.32
+T13	Num 246 250	2.41
+R7	acomp Arg1:T12 Arg2:T11	
+R8	acomp Arg1:T13 Arg2:T11	
+T14	Targ 253 254	p
+T15	Num 257 261	.001
+R9	acomp Arg1:T15 Arg2:T14	
+T16	Targ 299 301	OR
+T17	Num 304 309	10.43
+R10	acomp Arg1:T17 Arg2:T16	
+T18	Targ 312 319	0.95 CI
+T19	Num 322 325	6.4
+T20	Num 328 333	17.01
+R11	acomp Arg1:T19 Arg2:T18	
+R12	acomp Arg1:T20 Arg2:T18	
+T21	Targ 336 337	p
+T22	Num 340 344	.001
+R13	acomp Arg1:T22 Arg2:T21	
+T23	Targ 394 396	OR
+T24	Num 399 403	1.72
+R14	acomp Arg1:T24 Arg2:T23	
+T25	Targ 406 413	0.95 CI
+T26	Num 416 420	1.25
+T27	Num 423 427	2.37
+R15	acomp Arg1:T26 Arg2:T25	
+R16	acomp Arg1:T27 Arg2:T25	
+T28	Targ 430 431	p
+T29	Num 434 438	.001
+R17	acomp Arg1:T29 Arg2:T28	

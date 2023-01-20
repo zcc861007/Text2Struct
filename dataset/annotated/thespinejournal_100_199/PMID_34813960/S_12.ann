@@ -1,0 +1,9 @@
+T1	Num 83 87	0.01
+T2	Num 158 162	0.02
+T3	Targ 165 166	p
+T4	Num 169 172	.05
+R1	acomp Arg1:T4 Arg2:T3	
+T5	Targ 41 66	the lateral region of LES
+R2	acomp Arg1:T1 Arg2:T5	
+T6	Targ 117 141	the centro-medial region
+R3	acomp Arg1:T2 Arg2:T6	

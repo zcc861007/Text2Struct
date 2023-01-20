@@ -1,0 +1,5 @@
+T1	Num 49 50	5
+T2	Unit 51 56	years
+T3	Targ 0 45	The clinical outcomes except VAS leg numbness
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	
