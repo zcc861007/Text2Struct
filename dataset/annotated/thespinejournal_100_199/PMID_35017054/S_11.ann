@@ -1,0 +1,24 @@
+T1	Num 72 76	0.54
+T2	Num 81 85	0.35
+T3	Num 89 93	0.83
+T4	Num 98 102	0.13
+T5	Targ 105 106	p
+T6	Num 109 112	.05
+R1	acomp Arg1:T6 Arg2:T5	
+T7	Targ 49 69	the central aperture
+R2	acomp Arg1:T1 Arg2:T7	
+R3	acomp Arg1:T2 Arg2:T7	
+R4	acomp Arg1:T3 Arg2:T7	
+R5	acomp Arg1:T4 Arg2:T7	
+T8	Targ 119 140	porous cage structure
+T9	Num 143 147	0.19
+T10	Num 152 156	0.26
+T11	Num 160 164	0.37
+T12	Num 169 173	0.21
+T13	Targ 176 177	p
+T14	Num 180 183	.15
+R6	acomp Arg1:T14 Arg2:T13	
+R7	acomp Arg1:T9 Arg2:T8	
+R8	acomp Arg1:T10 Arg2:T8	
+R9	acomp Arg1:T11 Arg2:T8	
+R10	acomp Arg1:T12 Arg2:T8	

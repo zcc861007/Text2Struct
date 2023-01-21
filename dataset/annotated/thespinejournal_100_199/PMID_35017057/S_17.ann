@@ -1,0 +1,6 @@
+T1	Num 137 138	6
+T2	Unit 141 142	n
+T3	Num 149 150	1
+T4	Unit 151 155	year
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T1 Arg2:T2	

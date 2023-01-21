@@ -1,0 +1,8 @@
+T1	Num 30 31	6
+T2	Unit 32 38	months
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 43 44	1
+T4	Num 48 49	2
+T5	Unit 50 55	years
+R2	acomp Arg1:T4 Arg2:T5	
+R3	acomp Arg1:T3 Arg2:T5	

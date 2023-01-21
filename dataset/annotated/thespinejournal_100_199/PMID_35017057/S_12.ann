@@ -1,0 +1,9 @@
+T1	Unit 61 67	months
+T2	Num 59 60	6
+T3	Num 72 73	1
+T4	Unit 74 78	year
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T1	
+T5	Targ 36 55	improvements in QOL
+R3	acomp Arg1:T2 Arg2:T5	
+R4	acomp Arg1:T3 Arg2:T5	

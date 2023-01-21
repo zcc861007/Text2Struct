@@ -1,0 +1,16 @@
+T1	Num 95 99	40.4
+T2	Num 104 107	0.3
+T3	Unit 108 113	kN/mm
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 154 160	1976.8
+T5	Num 165 169	27.4
+T6	Unit 170 174	N/mm
+R3	acomp Arg1:T5 Arg2:T6	
+R4	acomp Arg1:T4 Arg2:T6	
+T7	Targ 133 150	a block stiffness
+R5	acomp Arg1:T4 Arg2:T7	
+R6	acomp Arg1:T5 Arg2:T7	
+T8	Targ 58 78	the lowest stiffness
+R7	acomp Arg1:T1 Arg2:T8	
+R8	acomp Arg1:T2 Arg2:T8	

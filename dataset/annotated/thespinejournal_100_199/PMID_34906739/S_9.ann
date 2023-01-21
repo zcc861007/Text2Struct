@@ -1,0 +1,15 @@
+T1	Num 11 13	98
+T2	Unit 14 22	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 2 7	total
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 150 152	52
+T5	Unit 153 161	patients
+T6	Targ 173 177	TLIF
+R3	acomp Arg1:T4 Arg2:T5	
+R4	acomp Arg1:T4 Arg2:T6	
+T7	Num 44 46	46
+T8	Unit 47 55	patients
+R5	acomp Arg1:T7 Arg2:T8	
+T9	Targ 67 143	OLIF combined with anterolateral single screw-rod fixation ( OLIF-AF group )
+R6	acomp Arg1:T7 Arg2:T9	

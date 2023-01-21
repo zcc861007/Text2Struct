@@ -1,0 +1,6 @@
+T1	Num 44 49	0.167
+T2	Num 86 91	0.166
+T3	Targ 53 76	the porous body lattice
+T4	Targ 95 119	the microporous endplate
+R1	acomp Arg1:T2 Arg2:T4	
+R2	acomp Arg1:T1 Arg2:T3	

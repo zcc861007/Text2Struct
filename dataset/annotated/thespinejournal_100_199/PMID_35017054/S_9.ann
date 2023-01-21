@@ -1,0 +1,3 @@
+T1	Num 112 114	12
+T2	Unit 115 120	weeks
+R1	acomp Arg1:T1 Arg2:T2	

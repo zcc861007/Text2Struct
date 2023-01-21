@@ -1,0 +1,43 @@
+T1	Num 94 96	12
+T2	Unit 97 103	months
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 82 90	outcomes
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 108 111	0.5
+T5	Targ 112 137	reduction in NRS leg pain
+R3	acomp Arg1:T4 Arg2:T5	
+T6	Num 156 160	0.51
+T7	Targ 140 143	PDD
+T8	Targ 148 151	TDD
+T9	Num 191 194	0.4
+R4	acomp Arg1:T6 Arg2:T7	
+R5	acomp Arg1:T9 Arg2:T8	
+T10	Targ 163 170	0.95 CI
+T11	Num 171 175	0.41
+T12	Num 178 181	0.6
+R6	acomp Arg1:T11 Arg2:T10	
+R7	acomp Arg1:T12 Arg2:T10	
+T13	Targ 197 204	0.95 CI
+T14	Num 207 210	0.3
+T15	Num 213 217	0.49
+R8	acomp Arg1:T14 Arg2:T13	
+R9	acomp Arg1:T15 Arg2:T13	
+T16	Num 224 227	0.3
+T17	Targ 228 243	ODI improvement
+R10	acomp Arg1:T16 Arg2:T17	
+T18	Targ 246 249	PDD
+T19	Targ 254 257	TDD
+T20	Num 262 266	0.42
+R11	acomp Arg1:T20 Arg2:T18	
+T21	Num 298 301	0.3
+R12	acomp Arg1:T21 Arg2:T19	
+T22	Targ 269 276	0.95 CI
+T23	Num 277 281	0.32
+T24	Num 284 288	0.51
+R13	acomp Arg1:T23 Arg2:T22	
+R14	acomp Arg1:T24 Arg2:T22	
+T25	Targ 304 311	0.95 CI
+T26	Num 314 318	0.21
+T27	Num 321 325	0.39
+R15	acomp Arg1:T26 Arg2:T25	
+R16	acomp Arg1:T27 Arg2:T25	

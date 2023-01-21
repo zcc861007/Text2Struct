@@ -1,0 +1,5 @@
+T1	Num 4 6	35
+T2	Unit 7 27	uncontrolled studies
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 32 51	serious limitations
+R2	acomp Arg1:T1 Arg2:T3	

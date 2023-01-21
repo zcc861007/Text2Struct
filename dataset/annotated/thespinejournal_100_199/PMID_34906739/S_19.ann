@@ -1,0 +1,8 @@
+T1	Num 115 120	0.077
+T2	Num 125 130	0.109
+T3	Targ 133 134	p
+T4	Num 137 141	.422
+R1	acomp Arg1:T4 Arg2:T3	
+T5	Targ 39 89	the incidence of adjacent segment disorder ( ASD )
+R2	acomp Arg1:T1 Arg2:T5	
+R3	acomp Arg1:T2 Arg2:T5	

@@ -1,0 +1,3 @@
+T1	Num 77 80	0.3
+T2	Targ 81 135	improvement in Oswestry Disability Index ( ODI ) score
+R1	acomp Arg1:T1 Arg2:T2	

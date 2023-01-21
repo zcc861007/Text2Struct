@@ -1,0 +1,12 @@
+T1	Num 37 42	0.132
+T2	Targ 43 69	incidence of complications
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 113 115	90
+T4	Unit 116 120	days
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 162 167	0.031
+T6	Targ 168 197	incidence of revision surgery
+R3	acomp Arg1:T5 Arg2:T6	
+T7	Num 203 206	2.5
+T8	Unit 207 212	years
+R4	acomp Arg1:T7 Arg2:T8	

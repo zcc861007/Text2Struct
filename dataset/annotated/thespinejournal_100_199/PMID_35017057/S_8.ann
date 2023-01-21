@@ -1,0 +1,13 @@
+T1	Num 26 27	2
+T2	Targ 28 32	RCTs
+T3	Unit 16 23	studies
+T4	Num 35 36	3
+T5	Targ 37 41	CCSs
+T6	Num 48 50	35
+T7	Targ 51 71	uncontrolled studies
+R1	acomp Arg1:T6 Arg2:T7	
+R2	acomp Arg1:T4 Arg2:T5	
+R3	acomp Arg1:T1 Arg2:T2	
+R4	acomp Arg1:T1 Arg2:T3	
+R5	acomp Arg1:T4 Arg2:T3	
+R6	acomp Arg1:T6 Arg2:T3	

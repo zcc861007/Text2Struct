@@ -1,0 +1,3 @@
+T1	Num 93 96	0.5
+T2	Targ 97 153	reduction in Numeric Rating Scale ( NRS ) leg pain score
+R1	acomp Arg1:T1 Arg2:T2	

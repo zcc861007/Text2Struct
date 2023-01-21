@@ -1,0 +1,9 @@
+T2	Num 57 62	0.135
+T3	Num 118 123	0.065
+T4	Targ 98 115	the OLIF-AF group
+R2	acomp Arg1:T3 Arg2:T4	
+T1	Targ 40 54	the TLIF group
+R1	acomp Arg1:T2 Arg2:T1	
+T5	Targ 128 129	p
+T6	Num 132 136	.257
+R3	acomp Arg1:T6 Arg2:T5	

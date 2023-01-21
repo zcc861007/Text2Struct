@@ -1,0 +1,1 @@
+RESULTS : The cage stiffness was reduced by 0.167 by the porous body lattice , and by 0.166 by the microporous endplates .

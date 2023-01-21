@@ -1,0 +1,8 @@
+T1	Num 114 118	2015
+T2	Num 123 127	2017
+T3	Num 151 152	4
+T4	Unit 153 158	years
+R1	acomp Arg1:T3 Arg2:T4	
+T5	Targ 162 171	follow-up
+R2	acomp Arg1:T3 Arg2:T5	
+T6	Num 104 105	5

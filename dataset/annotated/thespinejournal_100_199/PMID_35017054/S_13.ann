@@ -1,0 +1,5 @@
+T1	Num 250 252	12
+T2	Unit 253 258	weeks
+T3	Targ 262 284	ovine interbody fusion
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	

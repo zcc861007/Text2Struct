@@ -1,0 +1,8 @@
+T1	Num 131 132	4
+T2	Num 137 138	8
+T3	Unit 139 144	weeks
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	
+T4	Targ 111 127	osseointegration
+R3	acomp Arg1:T1 Arg2:T4	
+R4	acomp Arg1:T2 Arg2:T4	

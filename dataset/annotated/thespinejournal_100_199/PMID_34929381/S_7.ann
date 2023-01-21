@@ -1,0 +1,8 @@
+T1	Num 45 46	6
+T2	Num 51 53	12
+T3	Unit 54 60	months
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Targ 0 3	MRI
+R3	acomp Arg1:T1 Arg2:T4	
+R4	acomp Arg1:T2 Arg2:T4	

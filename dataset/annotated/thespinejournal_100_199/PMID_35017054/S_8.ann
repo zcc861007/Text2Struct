@@ -1,0 +1,11 @@
+T1	Num 71 76	0.014
+T2	Targ 77 86	reduction
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 49 68	the block stiffness
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Targ 133 152	the block stiffness
+T5	Num 170 175	0.249
+R3	acomp Arg1:T5 Arg2:T4	
+T6	Targ 178 179	p
+T7	Num 182 187	.0001
+R4	acomp Arg1:T7 Arg2:T6	
