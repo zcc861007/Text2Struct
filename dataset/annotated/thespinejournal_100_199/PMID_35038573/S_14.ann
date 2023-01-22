@@ -1,0 +1,10 @@
+T1	Num 68 70	29
+T2	Unit 71 76	cases
+T3	Num 101 103	41
+T4	Unit 104 109	cases
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T1 Arg2:T2	
+T5	Targ 54 59	early
+R3	acomp Arg1:T1 Arg2:T5	
+T6	Targ 83 93	late phase
+R4	acomp Arg1:T3 Arg2:T6	

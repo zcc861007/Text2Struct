@@ -1,0 +1,3 @@
+T1	Num 81 85	5413
+T2	Unit 86 94	patients
+R1	acomp Arg1:T1 Arg2:T2	

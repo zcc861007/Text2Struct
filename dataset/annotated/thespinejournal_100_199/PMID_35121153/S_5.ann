@@ -1,0 +1,13 @@
+T1	Num 29 33	1000
+T2	Unit 34 42	datasets
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 74 75	1
+T4	Num 78 79	9
+T5	Targ 52 71	number of ODI items
+R2	acomp Arg1:T3 Arg2:T5	
+R3	acomp Arg1:T4 Arg2:T5	
+T6	Num 155 156	2
+T7	Num 206 207	3
+T8	Num 288 289	4
+T9	Num 354 355	5
+T10	Num 15 16	1

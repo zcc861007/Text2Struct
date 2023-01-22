@@ -1,0 +1,5 @@
+T1	Num 21 26	13710
+T2	Unit 27 40	ALIF patients
+T3	Targ 13 18	total
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	

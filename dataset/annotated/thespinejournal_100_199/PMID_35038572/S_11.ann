@@ -1,0 +1,13 @@
+T1	Num 52 63	42710365196
+T2	Unit 50 51	$
+T3	Targ 85 93	payments
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 146 151	0.026
+T5	Num 156 166	1112936203
+T6	Unit 154 155	$
+R3	acomp Arg1:T5 Arg2:T6	
+T7	Targ 186 200	spine surgeons
+R4	acomp Arg1:T5 Arg2:T7	
+R5	acomp Arg1:T4 Arg2:T7	
+R6	acomp Arg1:T4 Arg2:T6	

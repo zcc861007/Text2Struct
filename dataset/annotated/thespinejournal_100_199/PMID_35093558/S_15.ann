@@ -1,0 +1,3 @@
+T1	Targ 71 72	p
+T2	Num 75 79	.015
+R1	acomp Arg1:T2 Arg2:T1	

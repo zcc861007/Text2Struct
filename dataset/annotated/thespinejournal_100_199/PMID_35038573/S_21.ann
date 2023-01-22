@@ -1,0 +1,5 @@
+T1	Num 6 8	29
+T2	Unit 9 14	cases
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 38 53	mastery of ACAF
+R2	acomp Arg1:T1 Arg2:T3	

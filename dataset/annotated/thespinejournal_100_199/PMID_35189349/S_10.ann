@@ -1,0 +1,7 @@
+T1	Num 64 67	5.9
+T2	Num 70 73	9.2
+T3	Targ 0 59	Mean ( SD ) improvement of PROMIS-GH Mental Health T-scores
+R1	acomp Arg1:T1 Arg2:T3	
+T4	Targ 78 79	p
+T5	Num 82 86	.001
+R2	acomp Arg1:T5 Arg2:T4	

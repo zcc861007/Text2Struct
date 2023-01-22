@@ -1,0 +1,6 @@
+T1	Num 94 99	0.005
+T2	Num 147 151	2019
+T3	Unit 103 120	research payments
+R1	acomp Arg1:T1 Arg2:T3	
+T4	Targ 129 143	all physicians
+R2	acomp Arg1:T1 Arg2:T4	

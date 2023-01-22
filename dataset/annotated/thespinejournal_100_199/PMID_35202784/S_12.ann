@@ -1,0 +1,12 @@
+T1	Num 90 94	0.93
+T3	Num 163 167	0.22
+T4	Unit 171 191	US citizens patients
+T2	Num 200 203	0.3
+T5	Targ 207 242	Taiwanese patients received opioids
+T6	Num 250 254	0.25
+T7	Unit 98 148	Taiwanese patients receiving NSAIDS preoperatively
+R1	acomp Arg1:T1 Arg2:T7	
+R2	acomp Arg1:T3 Arg2:T4	
+R3	acomp Arg1:T2 Arg2:T5	
+T8	Unit 258 264	the US
+R4	acomp Arg1:T6 Arg2:T8	

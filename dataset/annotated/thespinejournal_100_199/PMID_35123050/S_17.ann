@@ -1,0 +1,17 @@
+T1	Num 32 37	0.917
+T2	Targ 40 47	0.95 CI
+T3	Num 50 55	0.853
+T4	Num 58 63	0.981
+R1	acomp Arg1:T3 Arg2:T2	
+R2	acomp Arg1:T4 Arg2:T2	
+T5	Targ 0 27	The AUC of the UIV HU value
+R3	acomp Arg1:T1 Arg2:T5	
+T6	Targ 72 118	the most appropriate threshold of the HU value
+T7	Num 123 126	115
+R4	acomp Arg1:T7 Arg2:T6	
+T8	Targ 129 140	sensitivity
+T9	Num 143 148	0.846
+R5	acomp Arg1:T9 Arg2:T8	
+T10	Targ 151 162	specificity
+T11	Num 165 168	1.0
+R6	acomp Arg1:T11 Arg2:T10	

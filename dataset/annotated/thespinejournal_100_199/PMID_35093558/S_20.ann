@@ -1,0 +1,6 @@
+T1	Num 47 51	0.03
+T2	Unit 55 67	the patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 14 34	L5 pedicle fractures
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 92 93	5

@@ -1,0 +1,8 @@
+T1	Num 27 30	1.4
+T2	Num 34 37	5.9
+T3	Unit 38 43	years
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Targ 0 14	Mean follow-up
+R3	acomp Arg1:T1 Arg2:T4	
+R4	acomp Arg1:T2 Arg2:T4	

@@ -1,0 +1,19 @@
+T1	Num 3 4	2
+T2	Unit 5 10	years
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 29 33	0.51
+T4	Unit 37 45	patients
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 92 96	0.33
+T6	Num 112 116	0.16
+T7	Num 156 157	2
+R3	acomp Arg1:T5 Arg2:T4	
+R4	acomp Arg1:T6 Arg2:T4	
+T8	Targ 50 83	no spine-related monthly payments
+R5	acomp Arg1:T3 Arg2:T8	
+T9	Targ 101 107	higher
+R6	acomp Arg1:T5 Arg2:T9	
+T10	Targ 121 143	lower monthly payments
+R7	acomp Arg1:T6 Arg2:T10	
+T11	Unit 158 163	years
+R8	acomp Arg1:T7 Arg2:T11	

@@ -1,0 +1,1 @@
+The AUC of the UIV HU value was 0.917 ( 0.95 CI : 0.853 - 0.981 ) , and the most appropriate threshold of the HU value was 115 ( sensitivity : 0.846 , specificity : 1.0 ) .

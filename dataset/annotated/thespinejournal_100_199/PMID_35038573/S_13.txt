@@ -1,0 +1,1 @@
+Spearman 's correlation analysis showed the operative time was more affected by the case number ( r = -0.73 ) than the complexity of condition and number of levels hoisted .

@@ -1,0 +1,20 @@
+T1	Num 87 92	0.032
+T2	Targ 10 82	The overall incidence of L5 pedicle fractures after L4 / 5 spinal fusion
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 100 145	a median time from index surgery to diagnosis
+T4	Num 149 151	25
+T5	Unit 152 156	days
+R2	acomp Arg1:T4 Arg2:T5	
+R3	acomp Arg1:T4 Arg2:T3	
+T6	Num 167 168	6
+T7	Num 171 174	199
+T8	Unit 175 179	days
+T9	Targ 159 164	range
+R4	acomp Arg1:T6 Arg2:T9	
+R5	acomp Arg1:T7 Arg2:T9	
+R6	acomp Arg1:T7 Arg2:T8	
+R7	acomp Arg1:T6 Arg2:T8	
+T10	Num 184 188	0.75
+T11	Num 206 208	32
+T12	Unit 209 213	days
+R8	acomp Arg1:T11 Arg2:T12	

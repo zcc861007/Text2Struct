@@ -1,0 +1,15 @@
+T1	Num 126 129	113
+T2	Num 134 136	60
+T3	Num 141 144	120
+T4	Num 149 151	43
+T5	Targ 73 104	bone mineral density assessment
+T6	Unit 107 123	Hounsfield units
+R1	acomp Arg1:T1 Arg2:T6	
+R2	acomp Arg1:T1 Arg2:T5	
+R3	acomp Arg1:T2 Arg2:T6	
+R4	acomp Arg1:T2 Arg2:T5	
+R5	acomp Arg1:T3 Arg2:T5	
+R6	acomp Arg1:T4 Arg2:T5	
+T7	Targ 154 155	p
+T8	Num 158 162	.396
+R7	acomp Arg1:T8 Arg2:T7	

@@ -1,0 +1,9 @@
+T1	Num 3 4	2
+T2	Unit 5 10	years
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 99 103	0.01
+T4	Num 136 137	2
+T5	Unit 138 143	years
+R2	acomp Arg1:T4 Arg2:T5	
+T6	Unit 107 126	the baseline levels
+R3	acomp Arg1:T3 Arg2:T6	

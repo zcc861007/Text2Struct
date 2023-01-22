@@ -1,0 +1,5 @@
+T1	Num 38 41	520
+T2	Unit 42 52	references
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 100 103	501
+R2	acomp Arg1:T3 Arg2:T2	

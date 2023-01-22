@@ -1,0 +1,1 @@
+For 1 , 5 , and 9 missing items using MI , APE was 0.013 , 0.079 , and 0.56 , respectively , and misclassification rates were 0.046 , 0.097 , and 0.58 , respectively .

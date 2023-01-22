@@ -1,0 +1,11 @@
+T1	Num 20 24	1316
+T2	Unit 25 33	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 102 104	41
+T4	Num 107 112	0.031
+T5	Unit 115 123	patients
+R2	acomp Arg1:T4 Arg2:T5	
+R3	acomp Arg1:T3 Arg2:T5	
+T6	Targ 55 98	sustained postoperative opioid prescription
+R4	acomp Arg1:T3 Arg2:T6	
+R5	acomp Arg1:T4 Arg2:T6	

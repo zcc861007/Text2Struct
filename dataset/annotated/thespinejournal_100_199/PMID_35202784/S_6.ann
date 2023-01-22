@@ -1,0 +1,8 @@
+T1	Num 20 24	1316
+T2	Unit 25 33	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 43 45	20
+T4	Unit 46 51	years
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 136 140	2010
+T6	Num 145 149	2018

@@ -1,0 +1,1 @@
+The SORG machine learning model has been developed and successfully tested using 5413 patients from the United States ( US ) to predict the risk of prolonged opioid prescription after surgery for lumbar disc herniation .

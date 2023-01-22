@@ -1,0 +1,5 @@
+T1	Num 73 77	2017
+T3	Num 46 48	70
+T4	Unit 49 64	ACAF procedures
+R1	acomp Arg1:T3 Arg2:T4	
+T2	Num 82 86	2020

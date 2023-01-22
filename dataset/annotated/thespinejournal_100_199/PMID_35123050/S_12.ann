@@ -1,0 +1,13 @@
+T1	Num 32 35	2.2
+T2	Unit 36 38	mm
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 0 27	The average cage subsidence
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Targ 46 53	a range
+T5	Num 57 58	0
+T6	Num 61 64	7.7
+T7	Unit 65 67	mm
+R3	acomp Arg1:T6 Arg2:T7	
+R4	acomp Arg1:T5 Arg2:T7	
+R5	acomp Arg1:T5 Arg2:T4	
+R6	acomp Arg1:T6 Arg2:T4	

@@ -1,0 +1,17 @@
+T1	Num 32 37	0.893
+T2	Targ 0 27	The AUC of the LIV HU value
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 40 47	0.95 CI
+T4	Num 50 55	0.819
+T5	Num 58 63	0.966
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+T6	Targ 72 118	the most appropriate threshold of the HU value
+T7	Num 123 126	125
+R4	acomp Arg1:T7 Arg2:T6	
+T8	Targ 129 140	sensitivity
+T9	Targ 151 162	specificity
+T10	Num 143 148	0.769
+T11	Num 165 168	1.0
+R5	acomp Arg1:T10 Arg2:T8	
+R6	acomp Arg1:T11 Arg2:T9	

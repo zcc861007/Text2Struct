@@ -1,0 +1,6 @@
+T1	Targ 127 138	obese class
+T2	Num 139 140	1
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 151 162	obese class
+T4	Num 163 164	2
+R2	acomp Arg1:T4 Arg2:T3	

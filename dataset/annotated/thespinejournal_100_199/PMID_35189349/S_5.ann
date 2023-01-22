@@ -1,0 +1,5 @@
+T1	Num 37 39	31
+T2	Unit 40 48	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 17 23	Cohort
+R2	acomp Arg1:T1 Arg2:T3	

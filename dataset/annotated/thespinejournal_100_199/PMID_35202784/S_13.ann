@@ -1,0 +1,18 @@
+T1	Num 143 147	0.76
+T2	Targ 85 139	area under the receiver operating characteristic curve
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 152 193	the area under the precision-recall curve
+T4	Num 197 201	0.33
+R2	acomp Arg1:T4 Arg2:T3	
+T5	Targ 270 292	null model Brier score
+T6	Num 296 301	0.030
+R3	acomp Arg1:T6 Arg2:T5	
+T7	Num 250 255	0.028
+T8	Targ 235 246	Brier score
+R4	acomp Arg1:T7 Arg2:T8	
+T9	Targ 371 388	calibration slope
+T10	Num 392 396	1.07
+R5	acomp Arg1:T10 Arg2:T9	
+T11	Targ 401 422	calibration intercept
+T12	Num 426 431	-0.87
+R6	acomp Arg1:T12 Arg2:T11	

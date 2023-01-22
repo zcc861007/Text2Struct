@@ -1,0 +1,3 @@
+T1	Num 153 154	2
+T2	Unit 155 171	treatment groups
+R1	acomp Arg1:T1 Arg2:T2	

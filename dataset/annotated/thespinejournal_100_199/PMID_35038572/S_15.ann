@@ -1,0 +1,18 @@
+T1	Num 99 104	0.729
+T2	Num 117 121	2014
+T3	Num 148 153	0.176
+T4	Num 157 161	2019
+T5	Num 166 178	120409083.75
+T6	Num 190 201	99283264.49
+T7	Unit 188 189	$
+T8	Num 164 165	$
+R1	acomp Arg1:T5 Arg2:T8	
+R2	acomp Arg1:T6 Arg2:T7	
+T9	Unit 105 113	payments
+R3	acomp Arg1:T1 Arg2:T9	
+T10	Num 181 185	2014
+T11	Num 204 208	2019
+T12	Targ 0 84	Top eight spine device manufactures with the highest level of spine surgeon payments
+R4	acomp Arg1:T1 Arg2:T12	
+T13	Unit 136 144	payments
+R5	acomp Arg1:T3 Arg2:T13	

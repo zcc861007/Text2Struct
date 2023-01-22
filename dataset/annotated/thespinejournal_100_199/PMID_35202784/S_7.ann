@@ -1,0 +1,5 @@
+T1	Num 139 141	90
+T2	Num 145 148	180
+T3	Unit 149 153	days
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	

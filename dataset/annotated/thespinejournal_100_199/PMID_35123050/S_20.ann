@@ -1,0 +1,6 @@
+T1	Targ 28 44	upper endplate p
+T2	Num 47 51	.314
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 54 70	lower endplate p
+T4	Num 73 77	.189
+R2	acomp Arg1:T4 Arg2:T3	

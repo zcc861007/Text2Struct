@@ -1,0 +1,7 @@
+T1	Num 75 78	8.7
+T2	Num 81 85	10.5
+T3	Targ 10 70	Mean ( SD ) improvement of PROMIS-GH Physical Health T-score
+R1	acomp Arg1:T1 Arg2:T3	
+T4	Targ 90 91	p
+T5	Num 94 98	.001
+R2	acomp Arg1:T5 Arg2:T4	

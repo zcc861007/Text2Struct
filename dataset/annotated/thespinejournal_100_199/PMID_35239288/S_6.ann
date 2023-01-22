@@ -1,0 +1,9 @@
+T1	Num 26 29	672
+T2	Unit 30 38	patients
+T3	Num 41 44	274
+T4	Targ 45 60	noninstrumented
+R1	acomp Arg1:T1 Arg2:T2	
+T5	Num 63 66	398
+T6	Targ 67 79	instrumented
+R2	acomp Arg1:T3 Arg2:T4	
+R3	acomp Arg1:T5 Arg2:T6	

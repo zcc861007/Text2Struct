@@ -1,0 +1,14 @@
+T1	Num 50 51	6
+T2	Unit 52 58	months
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 99 103	1402
+T4	Num 108 111	634
+T5	Num 116 120	2827
+T6	Unit 114 115	$
+T7	Unit 106 107	$
+T8	Unit 97 98	$
+R2	acomp Arg1:T5 Arg2:T6	
+R3	acomp Arg1:T4 Arg2:T7	
+R4	acomp Arg1:T3 Arg2:T8	
+T9	Targ 87 93	a peak
+R5	acomp Arg1:T3 Arg2:T9	

@@ -1,0 +1,1 @@
+PURPOSE : To analyze trends in medical industry payments to spine surgeons and all physicians from 2014 to 2019 , and further evaluate whether specific payments to spine surgeons vary based on company size .

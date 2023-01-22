@@ -1,0 +1,5 @@
+T1	Num 11 13	16
+T2	Unit 14 19	cases
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 22 88	anterior support with transforaminal or posterior interbody fusion
+R2	acomp Arg1:T1 Arg2:T3	

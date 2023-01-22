@@ -1,0 +1,7 @@
+T1	Num 24 29	0.257
+T2	Targ 0 19	The subsidence rate
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 32 33	n
+T4	Num 36 38	18
+R2	acomp Arg1:T4 Arg2:T3	
+T5	Num 41 43	70

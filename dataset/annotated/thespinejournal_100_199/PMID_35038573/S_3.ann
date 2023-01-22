@@ -1,0 +1,7 @@
+T1	Num 133 137	2017
+T2	Num 142 146	2020
+T3	Num 28 30	70
+T4	Unit 31 51	consecutive patients
+T5	Targ 19 24	total
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T3 Arg2:T5	

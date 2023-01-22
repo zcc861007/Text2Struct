@@ -1,0 +1,1 @@
+The AUC of the LIV HU value was 0.893 ( 0.95 CI : 0.819 - 0.966 ) , and the most appropriate threshold of the HU value was 125 ( sensitivity : 0.769 , specificity : 1.0 ) .

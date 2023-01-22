@@ -1,0 +1,8 @@
+T1	Num 97 101	18.5
+T2	Num 104 108	24.9
+T3	Unit 109 119	kg/m ( 3 )
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Targ 93 96	BMI
+R3	acomp Arg1:T1 Arg2:T4	
+R4	acomp Arg1:T2 Arg2:T4	

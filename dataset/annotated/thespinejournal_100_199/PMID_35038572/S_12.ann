@@ -1,0 +1,27 @@
+T1	Num 70 75	0.175
+T2	Num 80 89	195571109
+T3	Unit 78 79	$
+R1	acomp Arg1:T2 Arg2:T3	
+T4	Num 92 96	2014
+T5	Num 101 110	161283683
+T6	Num 113 117	2019
+T7	Num 142 147	0.087
+T8	Num 152 162	6706208391
+T9	Num 165 169	2014
+T10	Num 174 184	7288003832
+T11	Num 187 191	2019
+T12	Unit 172 173	$
+R2	acomp Arg1:T10 Arg2:T12	
+T13	Num 150 151	$
+R3	acomp Arg1:T8 Arg2:T13	
+T14	Unit 99 100	$
+R4	acomp Arg1:T5 Arg2:T14	
+T15	Targ 0 56	Industry general and research payments to spine surgeons
+R5	acomp Arg1:T1 Arg2:T15	
+R6	acomp Arg1:T2 Arg2:T15	
+R7	acomp Arg1:T1 Arg2:T3	
+R8	acomp Arg1:T5 Arg2:T15	
+T16	Targ 197 211	all physicians
+R9	acomp Arg1:T7 Arg2:T16	
+R10	acomp Arg1:T8 Arg2:T16	
+R11	acomp Arg1:T10 Arg2:T16	

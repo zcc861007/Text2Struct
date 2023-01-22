@@ -1,0 +1,10 @@
+T1	Num 44 45	2
+T2	Unit 46 64	randomized studies
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 70 78	level II
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 85 86	4
+T5	Unit 87 108	nonrandomized studies
+T6	Targ 114 123	level III
+R3	acomp Arg1:T4 Arg2:T5	
+R4	acomp Arg1:T4 Arg2:T6	

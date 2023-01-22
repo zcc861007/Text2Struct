@@ -1,0 +1,1 @@
+The operative time-related CUSUM model identified the early ( first 29 cases ) and late phase ( late 41 cases ) of the learning process , which was also confirmed by a modified CUSUM model based on surgical procedure .

@@ -1,0 +1,8 @@
+T1	Num 37 42	235.4
+T2	Num 47 51	50.9
+T3	Targ 0 32	The mean upper endplate HU value
+T4	Targ 58 90	the mean lower endplate HU value
+T5	Num 95 100	193.4
+T6	Num 105 109	40.3
+R1	acomp Arg1:T1 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T4	

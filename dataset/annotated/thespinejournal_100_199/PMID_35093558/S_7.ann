@@ -1,0 +1,25 @@
+T1	Num 13 16	253
+T2	Unit 17 25	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 44 47	145
+T4	Num 50 53	108
+T5	Targ 28 34	female
+T6	Targ 37 41	male
+R2	acomp Arg1:T3 Arg2:T5	
+R3	acomp Arg1:T4 Arg2:T6	
+T7	Num 83 87	2014
+T8	Num 91 95	2020
+T9	Num 72 73	5
+T10	Targ 196 197	n
+T11	Num 200 201	8
+T12	Targ 217 220	age
+T13	Num 223 225	70
+T14	Num 230 234	10.7
+T15	Unit 235 240	years
+R4	acomp Arg1:T14 Arg2:T15	
+R5	acomp Arg1:T13 Arg2:T15	
+R6	acomp Arg1:T13 Arg2:T12	
+R7	acomp Arg1:T14 Arg2:T12	
+R8	acomp Arg1:T11 Arg2:T10	
+R9	acomp Arg1:T3 Arg2:T2	
+R10	acomp Arg1:T4 Arg2:T2	

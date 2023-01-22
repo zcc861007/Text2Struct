@@ -1,0 +1,7 @@
+T1	Num 124 128	2014
+T2	Num 132 136	2020
+T3	Num 71 74	995
+T4	Unit 75 83	patients
+R1	acomp Arg1:T3 Arg2:T4	
+T5	Targ 98 118	lumbar spine surgery
+R2	acomp Arg1:T3 Arg2:T5	
