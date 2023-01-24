@@ -1,0 +1,1 @@
+HbA1c levels above 6.1 were associated with failure to achieve MCID for NDI ( AUC = 0.77 , 0.95 CI 0.70 - 0.84 , p < .001 ) , and HbA1c levels above 6.8 may be associated with increased odds of reoperation ( AUC = 0.61 , 0.95 CI 0.52 - 0.69 , p = .078 ) .

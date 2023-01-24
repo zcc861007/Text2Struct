@@ -1,0 +1,7 @@
+T1	Num 22 25	259
+T2	Unit 26 43	diabetic patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 13 18	total
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 81 84	141
+R3	acomp Arg1:T4 Arg2:T2	

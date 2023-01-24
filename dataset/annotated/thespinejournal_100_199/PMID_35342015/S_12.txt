@@ -1,0 +1,1 @@
+The VBQ score was calculated by dividing the median signal intensity of the L1-L4 vertebral bodies by the signal intensity of the cerebrospinal fluid on midsagittal T1-weighted MRI images .

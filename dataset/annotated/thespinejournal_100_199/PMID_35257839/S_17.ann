@@ -1,0 +1,9 @@
+T1	Num 85 88	6.8
+T2	Num 107 110	7.6
+T3	Num 143 146	6.8
+T4	Targ 52 82	select outcomes of reoperation
+R1	acomp Arg1:T1 Arg2:T4	
+T5	Targ 93 104	readmission
+R2	acomp Arg1:T2 Arg2:T5	
+T6	Targ 119 140	MCID for NRS-Arm pain
+R3	acomp Arg1:T3 Arg2:T6	

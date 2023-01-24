@@ -1,0 +1,6 @@
+T1	Num 13 17	1992
+T2	Unit 18 35	registry patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 66 69	408
+T4	Unit 70 87	diabetic patients
+R2	acomp Arg1:T3 Arg2:T4	

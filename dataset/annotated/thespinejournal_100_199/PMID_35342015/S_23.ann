@@ -1,0 +1,12 @@
+T1	Num 34 39	2.388
+T2	Targ 6 30	a VBQ score cutoff value
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 78 89	sensitivity
+T4	Num 93 98	0.743
+R2	acomp Arg1:T4 Arg2:T3	
+T5	Num 120 124	0.57
+T6	Targ 105 116	specificity
+R3	acomp Arg1:T5 Arg2:T6	
+T7	Targ 130 136	an AUC
+T8	Num 140 146	0.7079
+R4	acomp Arg1:T8 Arg2:T7	

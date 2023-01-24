@@ -1,0 +1,13 @@
+T1	Num 374 375	6
+T2	Unit 376 382	months
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 363 370	minimum
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 274 275	6
+T5	Unit 276 282	months
+R3	acomp Arg1:T4 Arg2:T5	
+T6	Num 214 216	12
+T7	Unit 217 223	months
+R4	acomp Arg1:T6 Arg2:T7	
+T8	Num 65 69	2020
+T9	Num 56 60	2008

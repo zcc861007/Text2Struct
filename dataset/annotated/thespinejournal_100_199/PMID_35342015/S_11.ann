@@ -1,0 +1,10 @@
+T1	Num 92 95	120
+T2	Unit 96 107	mg/cm ( 3 )
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 77 87	normal BMD
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Targ 113 136	osteopenic/osteoporotic
+T5	Num 145 148	120
+T6	Unit 149 160	mg/cm ( 3 )
+R3	acomp Arg1:T5 Arg2:T6	
+R4	acomp Arg1:T5 Arg2:T4	

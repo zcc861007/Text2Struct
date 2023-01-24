@@ -1,0 +1,1 @@
+Using a VBQ score cutoff value of 2.388 , the categorical VBQ score yielded a sensitivity of 0.743 and a specificity of 0.57 with an AUC of 0.7079 to differentiate patients with osteopenia/osteoporosis and with normal BMD .

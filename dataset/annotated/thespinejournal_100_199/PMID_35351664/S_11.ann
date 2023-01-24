@@ -1,0 +1,11 @@
+T1	Num 10 12	95
+T2	Unit 13 21	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 24 29	0.453
+T4	Targ 30 36	female
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 55 58	188
+T6	Unit 59 74	operated levels
+T7	Targ 46 51	total
+R3	acomp Arg1:T5 Arg2:T6	
+R4	acomp Arg1:T5 Arg2:T7	

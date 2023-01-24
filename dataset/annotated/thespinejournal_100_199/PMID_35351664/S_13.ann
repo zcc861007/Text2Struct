@@ -1,0 +1,42 @@
+T1	Num 252 256	.608
+T2	Targ 248 249	p
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 212 217	0.259
+T4	Num 220 222	21
+T5	Num 225 227	81
+T6	Targ 240 245	women
+T7	Unit 228 234	levels
+R2	acomp Arg1:T5 Arg2:T7	
+R3	acomp Arg1:T4 Arg2:T7	
+R4	acomp Arg1:T3 Arg2:T6	
+R5	acomp Arg1:T4 Arg2:T6	
+T8	Num 172 177	0.224
+T9	Num 180 182	24
+T10	Num 185 188	107
+T11	Unit 189 195	levels
+T12	Targ 201 204	men
+R6	acomp Arg1:T10 Arg2:T11	
+R7	acomp Arg1:T9 Arg2:T11	
+R8	acomp Arg1:T8 Arg2:T12	
+R9	acomp Arg1:T9 Arg2:T12	
+T13	Num 40 45	0.495
+T14	Num 48 50	53
+T15	Unit 57 63	levels
+T16	Num 53 56	107
+T17	Num 80 84	0.58
+T18	Num 87 89	47
+T19	Num 92 94	81
+T20	Unit 95 101	levels
+R10	acomp Arg1:T19 Arg2:T20	
+R11	acomp Arg1:T18 Arg2:T20	
+T21	Targ 107 112	women
+R12	acomp Arg1:T17 Arg2:T21	
+T22	Targ 69 72	men
+R13	acomp Arg1:T16 Arg2:T15	
+R14	acomp Arg1:T14 Arg2:T15	
+R15	acomp Arg1:T13 Arg2:T22	
+R16	acomp Arg1:T14 Arg2:T22	
+R17	acomp Arg1:T18 Arg2:T21	
+T23	Targ 115 116	p
+T24	Num 119 123	.302
+R18	acomp Arg1:T24 Arg2:T23	

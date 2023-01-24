@@ -1,0 +1,12 @@
+T2	Num 41 46	0.941
+T3	Num 49 54	0.621
+T4	Num 57 61	0.62
+T5	Num 68 73	0.133
+T6	Targ 78 89	ependymomas
+T7	Targ 92 101	lymphomas
+T8	Targ 104 124	diffuse astrocytomas
+T9	Targ 131 154	high-grade astrocytomas
+R1	acomp Arg1:T5 Arg2:T9	
+R2	acomp Arg1:T4 Arg2:T8	
+R3	acomp Arg1:T3 Arg2:T7	
+R4	acomp Arg1:T2 Arg2:T6	

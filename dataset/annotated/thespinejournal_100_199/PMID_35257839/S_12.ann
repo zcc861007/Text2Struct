@@ -1,0 +1,28 @@
+T1	Num 19 22	6.1
+T2	Num 84 88	0.77
+T3	Targ 78 81	AUC
+R1	acomp Arg1:T2 Arg2:T3	
+T4	Targ 91 98	0.95 CI
+T5	Num 99 103	0.70
+T6	Num 106 110	0.84
+R2	acomp Arg1:T5 Arg2:T4	
+R3	acomp Arg1:T6 Arg2:T4	
+T7	Targ 113 114	p
+T8	Num 117 121	.001
+R4	acomp Arg1:T8 Arg2:T7	
+T9	Num 149 152	6.8
+T10	Targ 208 211	AUC
+T11	Num 214 218	0.61
+R5	acomp Arg1:T11 Arg2:T10	
+T12	Targ 221 228	0.95 CI
+T13	Num 229 233	0.52
+T14	Num 236 240	0.69
+R6	acomp Arg1:T13 Arg2:T12	
+R7	acomp Arg1:T14 Arg2:T12	
+T15	Targ 243 244	p
+T16	Num 247 251	.078
+R8	acomp Arg1:T16 Arg2:T15	
+T17	Targ 130 142	HbA1c levels
+R9	acomp Arg1:T9 Arg2:T17	
+T18	Targ 0 12	HbA1c levels
+R10	acomp Arg1:T1 Arg2:T18	

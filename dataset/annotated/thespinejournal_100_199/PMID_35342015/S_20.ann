@@ -1,0 +1,10 @@
+T1	Num 157 161	64.9
+T2	Num 166 170	56.7
+T3	Unit 171 176	years
+T4	Targ 179 180	p
+T5	Num 183 188	.0001
+R1	acomp Arg1:T5 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T3	
+R3	acomp Arg1:T1 Arg2:T3	
+T6	Targ 88 129	the patients with osteopenia/osteoporosis
+R4	acomp Arg1:T1 Arg2:T6	

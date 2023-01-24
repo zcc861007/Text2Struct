@@ -1,0 +1,1 @@
+Following manual segmentation of muscles on axial T2-weighted images using ITK-SNAP ( version 3.8.0 ) , the FCSA was calculated using a custom written program on Matlab ( version R2019a , The MathWorks , Inc. ) that used an automated pixel intensity threshold method to differentiate between fat and muscle .

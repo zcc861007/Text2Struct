@@ -1,0 +1,6 @@
+T1	Num 19 24	0.178
+T2	Targ 0 14	The overall IR
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 29 35	100000
+T4	Unit 39 40	s
+R2	acomp Arg1:T3 Arg2:T4	

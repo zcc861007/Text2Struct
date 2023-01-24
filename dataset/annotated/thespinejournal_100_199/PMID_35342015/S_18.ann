@@ -1,0 +1,10 @@
+T1	Targ 0 12	The mean age
+T2	Num 17 19	62
+T3	Unit 20 25	years
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T1	
+T4	Targ 30 42	the mean BMI
+T5	Num 47 51	28.2
+T6	Unit 52 62	kg/m ( 2 )
+R3	acomp Arg1:T5 Arg2:T6	
+R4	acomp Arg1:T5 Arg2:T4	

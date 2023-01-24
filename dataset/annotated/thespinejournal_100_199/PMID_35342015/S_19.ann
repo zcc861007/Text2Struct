@@ -1,0 +1,3 @@
+T1	Targ 71 74	ICC
+T2	Num 78 82	0.90
+R1	acomp Arg1:T2 Arg2:T1	

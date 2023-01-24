@@ -1,0 +1,3 @@
+T1	Num 94 99	3.8.0
+T2	Targ 86 93	version
+R1	acomp Arg1:T1 Arg2:T2	

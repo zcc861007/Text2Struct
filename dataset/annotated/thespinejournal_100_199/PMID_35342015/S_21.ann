@@ -1,0 +1,8 @@
+T1	Num 72 75	2.6
+T2	Num 80 83	2.2
+T3	Targ 86 87	p
+T4	Num 90 95	.0001
+R1	acomp Arg1:T4 Arg2:T3	
+T5	Targ 59 69	VBQ scores
+R2	acomp Arg1:T1 Arg2:T5	
+R3	acomp Arg1:T2 Arg2:T5	
