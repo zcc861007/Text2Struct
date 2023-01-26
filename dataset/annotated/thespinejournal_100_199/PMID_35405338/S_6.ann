@@ -1,0 +1,10 @@
+T1	Num 85 86	6
+T2	Unit 87 93	months
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 113 114	6
+T4	Unit 115 121	months
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Targ 75 80	early
+R3	acomp Arg1:T1 Arg2:T5	
+T6	Targ 100 104	late
+R4	acomp Arg1:T3 Arg2:T6	

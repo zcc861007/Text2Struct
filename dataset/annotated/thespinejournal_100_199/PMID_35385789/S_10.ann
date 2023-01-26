@@ -1,0 +1,12 @@
+T1	Num 137 141	0.73
+T2	Num 192 196	0.35
+T3	Targ 223 224	p
+T4	Num 227 230	.03
+R1	acomp Arg1:T4 Arg2:T3	
+T5	Targ 158 189	patients with active EP changes
+R2	acomp Arg1:T2 Arg2:T5	
+T6	Num 199 200	1
+T7	Unit 201 206	month
+R3	acomp Arg1:T6 Arg2:T7	
+T8	Targ 102 134	the absence of active EP changes
+R4	acomp Arg1:T1 Arg2:T8	

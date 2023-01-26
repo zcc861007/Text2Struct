@@ -1,0 +1,5 @@
+T1	Num 139 142	924
+T2	Unit 143 157	adult patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 254 258	2015
+T4	Num 261 265	2020

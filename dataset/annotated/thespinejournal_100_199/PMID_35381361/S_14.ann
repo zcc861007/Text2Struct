@@ -1,0 +1,12 @@
+T1	Num 51 55	0.28
+T2	Targ 58 59	n
+T3	Num 62 65	107
+R1	acomp Arg1:T3 Arg2:T2	
+T4	Num 117 121	0.24
+T5	Targ 124 125	n
+T6	Num 128 130	94
+R2	acomp Arg1:T6 Arg2:T5	
+T7	Targ 28 48	intraoperative error
+R3	acomp Arg1:T1 Arg2:T7	
+T8	Targ 80 114	failure to obtain informed consent
+R4	acomp Arg1:T4 Arg2:T8	

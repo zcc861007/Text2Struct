@@ -1,0 +1,14 @@
+T1	Num 53 57	2.75
+T2	Unit 58 63	times
+T3	Num 134 138	2.75
+T4	Targ 129 131	OR
+R1	acomp Arg1:T3 Arg2:T4	
+T5	Targ 141 148	0.95 CI
+T6	Num 151 155	1.14
+T7	Num 158 162	6.86
+R2	acomp Arg1:T6 Arg2:T5	
+R3	acomp Arg1:T7 Arg2:T5	
+T8	Targ 167 168	p
+T9	Num 171 175	0.02
+R4	acomp Arg1:T9 Arg2:T8	
+R5	acomp Arg1:T1 Arg2:T2	

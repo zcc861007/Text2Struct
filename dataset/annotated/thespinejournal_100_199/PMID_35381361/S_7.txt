@@ -1,0 +1,1 @@
+METHODS : The Westlaw legal database ( Thomson Reuters , New York , NY , USA ) was queried for verdict and settlement reports pertaining to elective LSF cases from 1970 to 2021 .

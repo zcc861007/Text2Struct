@@ -1,0 +1,6 @@
+T1	Num 10 13	474
+T2	Num 33 36	608
+T3	Unit 14 22	patients
+R1	acomp Arg1:T1 Arg2:T3	
+T4	Unit 37 53	levels of fusion
+R2	acomp Arg1:T2 Arg2:T4	

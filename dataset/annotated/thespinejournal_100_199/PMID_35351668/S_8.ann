@@ -1,0 +1,13 @@
+T1	Num 22 25	924
+T2	Unit 26 34	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 54 58	58.4
+T4	Num 63 67	15.2
+T5	Unit 68 73	years
+T6	Num 78 83	0.526
+R2	acomp Arg1:T3 Arg2:T5	
+R3	acomp Arg1:T4 Arg2:T5	
+T7	Targ 42 50	mean age
+R4	acomp Arg1:T3 Arg2:T7	
+T8	Targ 84 99	male prevalence
+R5	acomp Arg1:T6 Arg2:T8	

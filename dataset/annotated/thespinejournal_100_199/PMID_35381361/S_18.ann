@@ -1,0 +1,5 @@
+T1	Num 167 168	1
+T2	Unit 169 176	million
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 146 159	jury verdicts
+R2	acomp Arg1:T1 Arg2:T3	

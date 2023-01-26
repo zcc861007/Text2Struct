@@ -1,0 +1,8 @@
+T1	Num 62 63	1
+T2	Num 67 68	2
+T3	Targ 21 58	large multicenter retrospective study
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	
+T4	Unit 69 101	level interbody fusion surgeries
+R3	acomp Arg1:T2 Arg2:T4	
+R4	acomp Arg1:T1 Arg2:T4	

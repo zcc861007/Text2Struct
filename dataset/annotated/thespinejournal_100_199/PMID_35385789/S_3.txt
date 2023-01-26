@@ -1,0 +1,1 @@
+PATIENT SAMPLE : 42 patients ( Male : 20 , Female : 22 ) with an average of 58 +/- 14 years with FJD on conventional magnetic resonance imaging ( MRI ) receiving a FJI for treatment of lower back pain were included .

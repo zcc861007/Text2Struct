@@ -1,0 +1,7 @@
+T1	Num 128 129	1
+T2	Num 133 134	2
+T3	Num 259 260	4
+T4	Num 268 269	5
+T5	Unit 229 246	interbody fusions
+R1	acomp Arg1:T1 Arg2:T5	
+R2	acomp Arg1:T2 Arg2:T5	

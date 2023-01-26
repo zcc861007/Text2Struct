@@ -1,0 +1,9 @@
+T1	Num 82 86	0.45
+T2	Num 91 95	0.51
+T3	Targ 111 112	p
+T4	Num 115 119	0.59
+R1	acomp Arg1:T4 Arg2:T3	
+T5	Targ 0 13	Neurosurgeons
+T6	Targ 18 43	orthopedic spine surgeons
+R2	acomp Arg1:T1 Arg2:T5	
+R3	acomp Arg1:T2 Arg2:T6	

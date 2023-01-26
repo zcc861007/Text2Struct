@@ -1,0 +1,3 @@
+T1	Num 156 157	6
+T2	Unit 158 164	months
+R1	acomp Arg1:T1 Arg2:T2	

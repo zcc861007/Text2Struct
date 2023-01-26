@@ -1,0 +1,3 @@
+T1	Num 144 145	1
+T2	Targ 138 143	Modic
+R1	acomp Arg1:T1 Arg2:T2	
