@@ -1,0 +1,3 @@
+T1	Num 37 42	0.969
+T2	Targ 0 32	The estimated probability of FJV
+R1	acomp Arg1:T1 Arg2:T2	

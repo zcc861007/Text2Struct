@@ -1,0 +1,20 @@
+T1	Num 78 80	60
+T2	Unit 81 86	years
+T3	Targ 62 75	male subjects
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Targ 104 119	female subjects
+T5	Num 122 124	60
+T6	Unit 125 130	years
+R3	acomp Arg1:T5 Arg2:T6	
+R4	acomp Arg1:T5 Arg2:T4	
+T7	Targ 148 161	male subjects
+T8	Num 168 170	60
+T9	Unit 171 176	years
+R5	acomp Arg1:T8 Arg2:T9	
+R6	acomp Arg1:T8 Arg2:T7	
+T10	Targ 196 211	female subjects
+T11	Num 218 220	60
+T12	Unit 221 226	years
+R7	acomp Arg1:T11 Arg2:T12	
+R8	acomp Arg1:T11 Arg2:T10	

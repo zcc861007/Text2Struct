@@ -1,0 +1,6 @@
+T1	Num 60 65	0.105
+T2	Num 109 114	0.069
+T3	Targ 47 57	corpectomy
+R1	acomp Arg1:T1 Arg2:T3	
+T4	Targ 72 106	anterior/posterior cervical fusion
+R2	acomp Arg1:T2 Arg2:T4	

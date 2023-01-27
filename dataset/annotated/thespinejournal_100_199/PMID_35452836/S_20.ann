@@ -1,0 +1,12 @@
+T1	Num 78 83	0.619
+T2	Targ 61 74	a sensitivity
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 86 97	specificity
+T4	Num 101 106	0.846
+R2	acomp Arg1:T4 Arg2:T3	
+T5	Targ 109 112	PPV
+T6	Num 116 121	0.156
+R3	acomp Arg1:T6 Arg2:T5	
+T7	Targ 128 131	NPV
+T8	Num 135 139	0.98
+R4	acomp Arg1:T8 Arg2:T7	

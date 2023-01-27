@@ -1,0 +1,9 @@
+T1	Num 20 24	4717
+T2	Num 66 71	0.793
+T3	Num 109 115	179246
+T4	Unit 107 108	$
+T5	Targ 89 103	a cost savings
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T3 Arg2:T5	
+T6	Targ 10 19	algorithm
+R3	acomp Arg1:T1 Arg2:T6	

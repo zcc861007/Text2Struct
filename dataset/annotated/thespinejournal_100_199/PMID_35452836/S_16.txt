@@ -1,0 +1,1 @@
+In the multivariate logistic regression model , the presence of a preoperative coagulation defect or hemorrhagic condition ( OR : 7.149 , p < .001 ) and 6+ level surgery ( OR : 7.511 , p < .001 ) were the strongest predictors of transfusion .

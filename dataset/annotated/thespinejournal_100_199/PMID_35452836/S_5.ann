@@ -1,0 +1,15 @@
+T1	Num 28 32	5947
+T2	Unit 33 42	surgeries
+T3	Targ 17 24	A total
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 56 57	1
+T5	Num 60 64	2016
+T6	Num 77 79	31
+T7	Num 82 86	2019
+T8	Num 117 123	166113
+T9	Unit 124 133	surgeries
+R3	acomp Arg1:T8 Arg2:T9	
+T10	Num 143 147	2016
+T11	Num 151 155	2018
+R4	acomp Arg1:T8 Arg2:T3	

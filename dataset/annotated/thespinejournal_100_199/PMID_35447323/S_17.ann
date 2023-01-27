@@ -1,0 +1,19 @@
+T1	Num 16 18	13
+T2	Num 21 24	119
+T3	Num 27 32	0.109
+T4	Unit 35 43	patients
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T3 Arg2:T4	
+R3	acomp Arg1:T2 Arg2:T4	
+T5	Targ 0 3	FJV
+R4	acomp Arg1:T1 Arg2:T5	
+R5	acomp Arg1:T3 Arg2:T5	
+T6	Num 48 50	15
+T7	Unit 67 73	joints
+T8	Num 59 64	0.063
+T9	Num 53 56	238
+R6	acomp Arg1:T6 Arg2:T7	
+R7	acomp Arg1:T9 Arg2:T7	
+R8	acomp Arg1:T8 Arg2:T7	
+R9	acomp Arg1:T6 Arg2:T5	
+R10	acomp Arg1:T8 Arg2:T5	

@@ -1,0 +1,1 @@
+Application of the model to the ACS-NSQIP cohort resulted in a sensitivity of 0.619 , specificity of 0.846 , PPV of 0.156 , and NPV of 0.98 .

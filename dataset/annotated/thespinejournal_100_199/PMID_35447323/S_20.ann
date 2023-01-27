@@ -1,0 +1,6 @@
+T1	Num 256 262	0.9486
+T2	Targ 249 253	AROC
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 265 266	p
+T4	Num 273 276	.05
+R2	acomp Arg1:T4 Arg2:T3	

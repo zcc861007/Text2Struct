@@ -1,0 +1,13 @@
+T1	Num 181 183	10
+T2	Num 175 176	9
+T3	Unit 184 189	codes
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	
+T4	Num 51 55	2019
+T5	Num 43 47	1996
+T6	Num 103 104	1
+T7	Targ 97 102	Level
+R3	acomp Arg1:T6 Arg2:T7	
+T8	Targ 134 174	International Classification of Diseases
+R4	acomp Arg1:T2 Arg2:T8	
+R5	acomp Arg1:T1 Arg2:T8	

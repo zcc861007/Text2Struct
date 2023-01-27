@@ -1,0 +1,1 @@
+Using the algorithm 4717 T & S tests would have been eliminated ( 0.793 ) , resulting in a cost savings of $ 179246 .

@@ -1,0 +1,11 @@
+T1	Num 118 121	.01
+T2	Targ 114 115	p
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 107 111	2015
+T4	Num 71 74	0.5
+T5	Num 35 40	0.818
+T6	Num 26 30	2015
+T7	Targ 0 18	The mortality rate
+R2	acomp Arg1:T5 Arg2:T7	
+T8	Targ 43 54	this number
+R3	acomp Arg1:T4 Arg2:T8	

@@ -1,0 +1,1 @@
+PURPOSE : This study aimed to identify differentially expressed proteins ( DEPs ) relating to energy metabolism in AIS by using proteomic and metabolic analysis and to explore if the expression of these DEPs is associated with clinical parameters and modulated by LBX1 .

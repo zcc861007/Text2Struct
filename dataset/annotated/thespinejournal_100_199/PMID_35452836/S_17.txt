@@ -1,0 +1,1 @@
+Overall , the model generated an AUC of 0.882 , indicating excellent predictive accuracy .

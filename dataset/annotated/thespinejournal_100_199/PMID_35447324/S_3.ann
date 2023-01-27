@@ -1,0 +1,10 @@
+T1	Num 21 24	692
+T2	Unit 25 56	asymptomatic Chinese volunteers
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 70 72	20
+T4	Num 77 79	79
+T5	Num 120 124	2017
+T6	Num 134 138	2019
+T7	Num 141 144	490
+T8	Unit 145 153	subjects
+R2	acomp Arg1:T7 Arg2:T8	

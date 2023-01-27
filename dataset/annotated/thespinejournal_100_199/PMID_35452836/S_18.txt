@@ -1,0 +1,1 @@
+When applied to the institutional cohort , the risk-based algorithm had a sensitivity of 0.783 , specificity of 0.805 , PPV of 0.076 , and NPV of 0.994 for evaluating likelihood of transfusion .

@@ -1,0 +1,16 @@
+T1	Num 19 22	120
+T2	Unit 23 29	joints
+T3	Targ 0 6	No FJV
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 70 72	15
+T5	Num 75 78	178
+T6	Num 81 86	0.084
+T7	Unit 89 95	joints
+R3	acomp Arg1:T6 Arg2:T7	
+R4	acomp Arg1:T5 Arg2:T7	
+R5	acomp Arg1:T4 Arg2:T7	
+T8	Targ 126 127	p
+T9	Num 130 133	.01
+R6	acomp Arg1:T9 Arg2:T8	
+R7	acomp Arg1:T4 Arg2:T3	

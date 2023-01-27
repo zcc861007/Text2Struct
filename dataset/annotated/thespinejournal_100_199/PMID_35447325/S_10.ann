@@ -1,0 +1,12 @@
+T1	Num 13 18	34.41
+T2	Targ 0 8	Mean age
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 21 26	11.71
+T4	Num 36 38	34
+T5	Unit 48 55	females
+R2	acomp Arg1:T4 Arg2:T5	
+T6	Num 41 45	65.4
+T7	Num 62 64	26
+T8	Unit 72 81	Hispanics
+R3	acomp Arg1:T7 Arg2:T8	
+T9	Num 67 69	50
