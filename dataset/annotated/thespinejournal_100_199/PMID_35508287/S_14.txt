@@ -1,0 +1,1 @@
+Multiple linear regression showed that mediolateral angle was significantly associated with the male gender ( B = -0.930 , p = .017 ) and the diagnoses of HRVA ( B = 6.964 , p < .001 ) , Goel type A ( B = -1.656 , p = .003 ) , and Goel type B ( B = 0.981 , p = .030 ) .

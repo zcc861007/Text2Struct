@@ -1,0 +1,14 @@
+T1	Num 126 127	1
+T2	Num 130 134	2018
+T3	Num 146 147	1
+T4	Num 150 154	2021
+T5	Num 24 27	175
+T6	Unit 28 36	patients
+R1	acomp Arg1:T5 Arg2:T6	
+T7	Num 39 41	88
+T8	Unit 42 50	patients
+R2	acomp Arg1:T7 Arg2:T8	
+T9	Targ 105 109	ALIF
+R3	acomp Arg1:T5 Arg2:T9	
+T10	Targ 60 85	a combined regional block
+R4	acomp Arg1:T7 Arg2:T10	

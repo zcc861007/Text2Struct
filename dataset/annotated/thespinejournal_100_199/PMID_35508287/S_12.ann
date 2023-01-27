@@ -1,0 +1,11 @@
+T1	Num 150 154	0.38
+T2	Unit 155 157	mm
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 206 210	6.05
+T4	Unit 211 218	degrees
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 235 239	4.78
+T6	Unit 240 247	degrees
+R3	acomp Arg1:T5 Arg2:T6	
+T7	Targ 81 121	the entry point in BI patients with HRVA
+R4	acomp Arg1:T1 Arg2:T7	

@@ -1,0 +1,11 @@
+T1	Num 141 146	0.248
+T2	Num 167 171	0.10
+T3	Num 174 178	0.13
+T4	Num 198 203	0.187
+T5	Targ 105 138	reduction in opioid pain medicine
+R1	acomp Arg1:T1 Arg2:T5	
+T6	Targ 151 164	reported pain
+R2	acomp Arg1:T2 Arg2:T6	
+R3	acomp Arg1:T3 Arg2:T6	
+T7	Targ 187 195	PACU LOS
+R4	acomp Arg1:T4 Arg2:T7	
