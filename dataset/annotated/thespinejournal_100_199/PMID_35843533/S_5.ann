@@ -1,0 +1,5 @@
+T1	Num 53 57	3001
+T2	Unit 58 66	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 17 39	The development cohort
+R2	acomp Arg1:T1 Arg2:T3	

@@ -1,0 +1,8 @@
+T1	Num 63 68	0.059
+T2	Num 73 78	0.026
+T3	Targ 81 82	p
+T4	Num 85 89	.001
+R1	acomp Arg1:T4 Arg2:T3	
+T5	Targ 0 18	The infection rate
+R2	acomp Arg1:T1 Arg2:T5	
+R3	acomp Arg1:T2 Arg2:T5	

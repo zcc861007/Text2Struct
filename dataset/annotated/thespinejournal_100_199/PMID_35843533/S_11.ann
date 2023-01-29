@@ -1,0 +1,6 @@
+T1	Num 164 168	0.81
+T2	Targ 137 160	an area under the curve
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 30 34	1303
+T4	Unit 35 43	patients
+R2	acomp Arg1:T3 Arg2:T4	

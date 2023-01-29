@@ -1,0 +1,10 @@
+T1	Num 21 25	2643
+T2	Unit 26 34	patients
+T3	Targ 12 17	total
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 62 64	95
+T5	Unit 65 75	infections
+R3	acomp Arg1:T4 Arg2:T5	
+T6	Num 78 83	0.036
+R4	acomp Arg1:T6 Arg2:T2	

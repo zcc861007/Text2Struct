@@ -1,0 +1,17 @@
+T1	Num 42 43	1
+T2	Unit 44 45	g
+T3	Num 49 50	2
+T4	Unit 51 52	g
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 94 98	0.05
+T6	Num 103 108	0.028
+T7	Num 145 149	.005
+T8	Targ 141 142	p
+R3	acomp Arg1:T7 Arg2:T8	
+T9	Targ 56 65	cefazolin
+R4	acomp Arg1:T3 Arg2:T9	
+R5	acomp Arg1:T1 Arg2:T9	
+T10	Targ 109 123	infection rate
+R6	acomp Arg1:T5 Arg2:T10	
+R7	acomp Arg1:T6 Arg2:T10	

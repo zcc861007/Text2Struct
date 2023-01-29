@@ -1,0 +1,1 @@
+Further , multiple linear regression model for CLL was built for the evaluation with adjustment of the reported risks , including cervical sagittal vertical axis , C7 slope , fROM , eROM , and patient age together with AL , RL , and TI , as independent variables .

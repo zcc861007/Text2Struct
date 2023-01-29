@@ -1,0 +1,1 @@
+R ( 2 ) coefficients of correlation were determined , and variances were compared with F-tests .

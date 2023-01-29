@@ -1,0 +1,1 @@
+Alpha was set at 0.05 .

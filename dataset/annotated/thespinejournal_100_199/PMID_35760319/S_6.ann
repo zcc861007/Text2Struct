@@ -1,0 +1,6 @@
+T1	Num 35 37	68
+T2	Unit 38 58	preoperative factors
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 200 201	2
+T4	Unit 202 207	years
+R2	acomp Arg1:T3 Arg2:T4	

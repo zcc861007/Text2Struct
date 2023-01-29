@@ -1,0 +1,8 @@
+T1	Num 28 30	12
+T2	Num 34 36	85
+T3	Unit 37 43	months
+T4	Targ 0 15	Mean follow-ups
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T4	
+R3	acomp Arg1:T2 Arg2:T3	
+R4	acomp Arg1:T1 Arg2:T3	

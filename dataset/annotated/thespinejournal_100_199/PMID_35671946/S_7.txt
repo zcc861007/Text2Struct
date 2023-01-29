@@ -1,0 +1,1 @@
+Multivariate regression analysis was used to search for preoperative factors which might interact with PHQ9 to predict ODI outcome .

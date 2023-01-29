@@ -1,0 +1,19 @@
+T1	Num 140 144	3360
+T2	Num 149 152	411
+T3	Unit 153 154	N
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	
+T5	Num 269 270	8
+T6	Unit 271 276	weeks
+R4	acomp Arg1:T5 Arg2:T6	
+T7	Num 242 245	903
+T8	Num 250 253	188
+T9	Unit 254 255	N
+R5	acomp Arg1:T8 Arg2:T9	
+R6	acomp Arg1:T7 Arg2:T9	
+T4	Targ 60 137	the maximum pull-out load for the novel cage without an autologous bone graft
+R3	acomp Arg1:T1 Arg2:T4	
+R7	acomp Arg1:T2 Arg2:T4	
+T10	Targ 196 239	the conventional cage using autologous bone
+R8	acomp Arg1:T7 Arg2:T10	
+R9	acomp Arg1:T8 Arg2:T10	

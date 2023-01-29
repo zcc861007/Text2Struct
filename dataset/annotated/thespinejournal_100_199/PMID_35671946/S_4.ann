@@ -1,0 +1,8 @@
+T1	Num 204 206	12
+T2	Unit 207 213	months
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 214 223	follow-up
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Targ 240 241	n
+T5	Num 244 248	2310
+R3	acomp Arg1:T5 Arg2:T4	

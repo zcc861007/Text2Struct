@@ -1,0 +1,10 @@
+T1	Num 104 108	0.82
+T2	Num 111 115	0.89
+T3	Targ 85 103	linear correlation
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	
+T4	Num 126 130	0.04
+T5	Num 134 138	0.06
+T6	Unit 146 154	subjects
+R3	acomp Arg1:T5 Arg2:T6	
+R4	acomp Arg1:T4 Arg2:T6	

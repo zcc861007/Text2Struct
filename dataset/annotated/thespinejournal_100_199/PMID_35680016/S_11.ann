@@ -1,0 +1,19 @@
+T1	Targ 37 61	0.95 confidence interval
+T2	Targ 0 32	The area under the curve ( AUC )
+T3	Num 72 77	0.850
+R1	acomp Arg1:T3 Arg2:T2	
+T4	Num 80 85	0.777
+T5	Num 88 93	0.924
+R2	acomp Arg1:T4 Arg2:T1	
+R3	acomp Arg1:T5 Arg2:T1	
+T6	Num 108 113	0.575
+T7	Num 116 121	0.493
+T8	Num 124 129	0.657
+R4	acomp Arg1:T6 Arg2:T2	
+R5	acomp Arg1:T7 Arg2:T1	
+R6	acomp Arg1:T8 Arg2:T1	
+T9	Num 203 204	2
+T10	Unit 205 206	g
+T11	Targ 207 216	cefazolin
+R7	acomp Arg1:T9 Arg2:T10	
+R8	acomp Arg1:T9 Arg2:T11	

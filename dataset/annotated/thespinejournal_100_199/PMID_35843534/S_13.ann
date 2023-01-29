@@ -1,0 +1,5 @@
+T1	Num 15 20	0.244
+T2	Targ 43 53	subsidence
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Unit 6 12	levels
+R2	acomp Arg1:T1 Arg2:T3	

@@ -1,0 +1,1 @@
+Repeatability was verified using two stimulations at each location for a subset of the screws with an R ( 2 ) of 0.96 .

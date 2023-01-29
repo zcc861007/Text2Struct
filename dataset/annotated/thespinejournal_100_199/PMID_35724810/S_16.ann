@@ -1,0 +1,9 @@
+T1	Num 82 87	0.378
+T2	Num 92 96	0.52
+T3	Num 103 107	.108
+T4	Targ 99 100	p
+R1	acomp Arg1:T3 Arg2:T4	
+T5	Targ 10 26	patients with AL
+T6	Targ 63 79	those without AL
+R2	acomp Arg1:T2 Arg2:T6	
+R3	acomp Arg1:T1 Arg2:T5	

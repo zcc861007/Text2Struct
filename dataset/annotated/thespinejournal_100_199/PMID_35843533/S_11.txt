@@ -1,0 +1,1 @@
+On external validation in the 1303 patients from the four independent institutions , the model retained good discriminative ability with an area under the curve of 0.81 .

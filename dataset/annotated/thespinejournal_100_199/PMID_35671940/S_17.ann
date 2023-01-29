@@ -1,0 +1,15 @@
+T1	Unit 40 48	patients
+T2	Num 36 39	163
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 10 26	The total cohort
+R2	acomp Arg1:T2 Arg2:T3	
+T4	Num 75 76	6
+T5	Unit 77 83	months
+T6	Targ 54 71	minimum follow-up
+R3	acomp Arg1:T4 Arg2:T5	
+R4	acomp Arg1:T4 Arg2:T6	
+T7	Targ 88 102	mean follow-up
+T8	Num 106 110	16.5
+T9	Unit 111 117	months
+R5	acomp Arg1:T8 Arg2:T9	
+R6	acomp Arg1:T8 Arg2:T7	

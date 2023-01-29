@@ -1,0 +1,5 @@
+T1	Num 21 24	667
+T2	Unit 25 33	articles
+T3	Targ 12 17	total
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	

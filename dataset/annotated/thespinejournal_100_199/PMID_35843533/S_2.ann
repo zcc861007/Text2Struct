@@ -1,0 +1,5 @@
+T1	Num 56 57	6
+T2	Unit 58 63	weeks
+T3	Targ 35 52	a life expectancy
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	

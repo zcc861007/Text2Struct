@@ -1,0 +1,16 @@
+T1	Num 0 2	40
+T2	Unit 3 11	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 14 19	0.245
+T4	Targ 44 62	the low NTPA group
+R2	acomp Arg1:T1 Arg2:T4	
+R3	acomp Arg1:T3 Arg2:T2	
+R4	acomp Arg1:T3 Arg2:T4	
+T5	Num 69 71	55
+T6	Unit 72 80	patients
+T7	Num 83 88	0.337
+T8	Targ 113 145	the poor paralumbar muscle group
+R5	acomp Arg1:T5 Arg2:T6	
+R6	acomp Arg1:T5 Arg2:T8	
+R7	acomp Arg1:T7 Arg2:T6	
+R8	acomp Arg1:T7 Arg2:T8	

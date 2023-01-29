@@ -1,0 +1,5 @@
+T1	Num 32 33	2
+T2	Unit 34 39	years
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 40 84	postoperative health-related quality of life
+R2	acomp Arg1:T1 Arg2:T3	

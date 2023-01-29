@@ -1,0 +1,12 @@
+T1	Num 43 48	0.495
+T2	Num 77 82	0.458
+T3	Num 162 167	0.289
+T4	Targ 54 64	normal BMD
+R1	acomp Arg1:T1 Arg2:T4	
+T5	Targ 88 101	low bone mass
+R2	acomp Arg1:T2 Arg2:T5	
+T6	Targ 181 191	normal BMD
+T7	Targ 196 209	low bone mass
+T8	Num 172 177	0.293
+R3	acomp Arg1:T3 Arg2:T6	
+R4	acomp Arg1:T8 Arg2:T7	

@@ -1,0 +1,32 @@
+T1	Targ 220 247	mean absolute error [ MAE ]
+T2	Num 248 251	8.9
+T3	Num 254 258	17.4
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+T4	Targ 261 285	median difference [ MD ]
+T5	Num 286 289	8.1
+T6	Num 292 296	15.6
+R3	acomp Arg1:T5 Arg2:T4	
+R4	acomp Arg1:T6 Arg2:T4	
+T7	Unit 303 309	points
+T8	Num 299 302	100
+R5	acomp Arg1:T8 Arg2:T7	
+R6	acomp Arg1:T6 Arg2:T7	
+R7	acomp Arg1:T5 Arg2:T7	
+T9	Num 364 367	8.9
+T10	Num 373 376	8.1
+T11	Targ 370 372	MD
+T12	Targ 360 363	MAE
+R8	acomp Arg1:T9 Arg2:T12	
+R9	acomp Arg1:T10 Arg2:T11	
+T13	Targ 425 428	MAE
+T14	Num 429 432	1.7
+T15	Targ 435 437	MD
+T16	Num 438 441	1.6
+T17	Num 444 446	10
+T18	Unit 447 453	points
+R10	acomp Arg1:T17 Arg2:T18	
+R11	acomp Arg1:T16 Arg2:T18	
+R12	acomp Arg1:T16 Arg2:T15	
+R13	acomp Arg1:T17 Arg2:T15	
+R14	acomp Arg1:T14 Arg2:T13	

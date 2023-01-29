@@ -1,0 +1,1 @@
+PATIENT SAMPLE : The development cohort consisted of 3001 patients undergoing radiotherapy and/or surgery for spinal metastases from one institution .

@@ -1,0 +1,1 @@
+RESULTS : The most important variables for prediction of 6-week mortality were albumin , primary tumor histology , absolute lymphocyte , three or more spine metastasis , and ECOG score .

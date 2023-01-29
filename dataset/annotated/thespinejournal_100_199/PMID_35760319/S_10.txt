@@ -1,0 +1,1 @@
+A strong linear correlation was observed between the predicted and measured values ( linear correlation 0.82 - 0.89 ) , while 0.04 to 0.06 of the subjects had predicted values of greater than+/-3 standard deviations of the MAE .

@@ -1,0 +1,5 @@
+T1	Num 49 53	1303
+T2	Unit 54 62	patients
+T3	Targ 0 35	The validation institutional cohort
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	

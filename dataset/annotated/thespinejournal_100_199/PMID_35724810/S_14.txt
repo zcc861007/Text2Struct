@@ -1,0 +1,1 @@
+Multiple linear regression analysis revealed that greater CLL is significantly associated with greater fROM and smaller eROM ( regression coefficient [ beta ] = 0.328 , 0.95 confidence interval : 0.178 to 0.478 , p < .001 ; beta = -0.372 , 0.95 confidence interval : -0.591 to -0.153 , p = .001 , respectively ) .

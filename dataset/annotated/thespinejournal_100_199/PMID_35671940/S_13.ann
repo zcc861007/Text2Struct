@@ -1,0 +1,8 @@
+T1	Targ 40 45	score
+T2	Num 49 50	2
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 97 102	score
+T4	Num 106 107	0
+T5	Num 111 112	1
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	

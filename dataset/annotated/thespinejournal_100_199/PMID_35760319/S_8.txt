@@ -1,0 +1,1 @@
+RESULTS : The correlation coefficients of the top algorithms for each domain established using the preoperative factors were excellent ( correlation coefficient : 0.95 - 0.97 [ relative error : 0.06 - 0.14 ] ) .

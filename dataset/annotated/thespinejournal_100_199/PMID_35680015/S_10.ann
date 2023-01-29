@@ -1,0 +1,11 @@
+T1	Targ 10 23	Mean+/-SD age
+T2	Num 28 32	72.0
+T3	Num 37 40	9.7
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+T4	Num 43 48	0.781
+T5	Targ 54 60	female
+R3	acomp Arg1:T4 Arg2:T5	
+T6	Num 67 72	0.924
+T7	Targ 78 87	Caucasian
+R4	acomp Arg1:T6 Arg2:T7	

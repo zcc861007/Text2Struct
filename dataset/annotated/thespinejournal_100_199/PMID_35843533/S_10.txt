@@ -1,0 +1,1 @@
+The elastic-net penalized logistic model was chosen as the best performing model with AUC 0.84 on evaluation in the independent testing set .

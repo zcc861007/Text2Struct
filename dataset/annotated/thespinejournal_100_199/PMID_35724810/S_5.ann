@@ -1,0 +1,15 @@
+T2	Num 83 84	2
+T3	Unit 85 87	mm
+T1	Targ 88 100	displacement
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T1	
+T4	Num 134 135	2
+T5	Unit 136 138	mm
+T6	Targ 139 151	displacement
+R3	acomp Arg1:T4 Arg2:T5	
+R4	acomp Arg1:T4 Arg2:T6	
+T7	Num 200 201	3
+T8	Unit 202 204	mm
+T9	Targ 205 225	translational motion
+R5	acomp Arg1:T7 Arg2:T8	
+R6	acomp Arg1:T7 Arg2:T9	

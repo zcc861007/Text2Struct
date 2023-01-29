@@ -1,0 +1,5 @@
+T1	Num 61 62	3
+T2	Unit 63 69	months
+T3	Targ 70 79	follow-up
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	

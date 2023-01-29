@@ -1,0 +1,10 @@
+T1	Num 37 39	23
+T2	Unit 40 48	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 79 81	25
+T4	Unit 82 90	patients
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Targ 60 74	TLIF with UPSF
+R3	acomp Arg1:T1 Arg2:T5	
+T6	Targ 102 116	TLIF with BPSF
+R4	acomp Arg1:T3 Arg2:T6	

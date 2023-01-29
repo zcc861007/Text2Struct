@@ -1,0 +1,1 @@
+RESULTS : Patients with PHQ9 < 5 , associated with minimal to no depression , had the smallest ODI improvement ( -16.8 [ 0.95 CI -18.1 to -15.3 ] ) and patients with severe preoperative depression ( PHQ9 > / = 10 ) had the largest ODI improvement ( -22.8 [ 0.95 CI -24.1 to -21.5 ] ; p < .00001 ) .

@@ -1,0 +1,7 @@
+T1	Num 113 117	2013
+T2	Num 130 134	2021
+T3	Targ 140 158	a follow-up period
+T4	Num 168 169	1
+T5	Unit 170 174	year
+R1	acomp Arg1:T4 Arg2:T5	
+R2	acomp Arg1:T4 Arg2:T3	

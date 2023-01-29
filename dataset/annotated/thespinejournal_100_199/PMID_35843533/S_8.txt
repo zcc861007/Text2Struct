@@ -1,0 +1,1 @@
+METHODS : Five models were considered to predict 6-week mortality , and the model with the best performance across discrimination , calibration , decision-curve analysis , and overall performance was integrated into an open access web-based application .

@@ -1,0 +1,22 @@
+T1	Num 154 158	2000
+T2	Num 171 175	2020
+T3	Num 337 338	1
+T4	Unit 339 340	g
+R1	acomp Arg1:T3 Arg2:T4	
+T5	Num 347 349	60
+T6	Unit 350 352	kg
+R2	acomp Arg1:T5 Arg2:T6	
+T7	Num 355 356	2
+T8	Unit 357 358	g
+R3	acomp Arg1:T7 Arg2:T8	
+T9	Num 363 365	60
+T10	Num 369 372	120
+T11	Unit 373 375	kg
+R4	acomp Arg1:T9 Arg2:T11	
+R5	acomp Arg1:T10 Arg2:T11	
+T12	Num 382 383	3
+T13	Unit 384 385	g
+R6	acomp Arg1:T12 Arg2:T13	
+T14	Num 392 395	120
+T15	Unit 396 398	kg
+R7	acomp Arg1:T14 Arg2:T15	
