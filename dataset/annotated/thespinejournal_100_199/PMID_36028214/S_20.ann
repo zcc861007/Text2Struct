@@ -1,0 +1,12 @@
+T1	Targ 40 59	vertebral fractures
+T2	Num 71 75	0.44
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 62 63	n
+T4	Num 66 68	34
+R2	acomp Arg1:T4 Arg2:T3	
+T5	Targ 90 105	disc herniation
+T6	Targ 108 109	n
+T7	Num 112 114	14
+R3	acomp Arg1:T7 Arg2:T6	
+T8	Num 117 121	0.18
+R4	acomp Arg1:T8 Arg2:T5	

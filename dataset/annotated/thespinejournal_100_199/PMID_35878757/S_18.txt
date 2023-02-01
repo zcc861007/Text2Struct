@@ -1,0 +1,1 @@
+ROC curve analysis showed that the optimal cutoff points were 18.405 , 2.95 , 4.47 , and 11.96 .

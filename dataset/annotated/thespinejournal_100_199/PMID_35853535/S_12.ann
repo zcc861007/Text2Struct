@@ -1,0 +1,6 @@
+T1	Num 65 70	0.189
+T2	Num 99 104	0.189
+T3	Targ 77 96	Cutibacterium acnes
+R1	acomp Arg1:T2 Arg2:T3	
+T4	Targ 36 62	Staphylococcus epidermidis
+R2	acomp Arg1:T1 Arg2:T4	

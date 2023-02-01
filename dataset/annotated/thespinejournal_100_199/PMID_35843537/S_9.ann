@@ -1,0 +1,13 @@
+T1	Num 45 48	104
+T2	Targ 49 53	TLIF
+T3	Num 56 59	147
+T4	Targ 60 73	decompression
+T5	Num 76 79	115
+T6	Targ 80 95	microdiscectomy
+R1	acomp Arg1:T5 Arg2:T6	
+R2	acomp Arg1:T3 Arg2:T4	
+R3	acomp Arg1:T1 Arg2:T2	
+T7	Unit 34 42	patients
+R4	acomp Arg1:T1 Arg2:T7	
+R5	acomp Arg1:T3 Arg2:T7	
+R6	acomp Arg1:T5 Arg2:T7	

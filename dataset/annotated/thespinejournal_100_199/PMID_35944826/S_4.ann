@@ -1,0 +1,5 @@
+T1	Num 69 73	2014
+T2	Num 78 82	2021
+T3	Num 206 208	12
+T4	Unit 209 215	months
+R1	acomp Arg1:T3 Arg2:T4	

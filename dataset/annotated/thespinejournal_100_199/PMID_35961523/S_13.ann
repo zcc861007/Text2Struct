@@ -1,0 +1,11 @@
+T1	Targ 125 127	OR
+T2	Num 130 133	1.5
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 136 143	0.95 CI
+T4	Num 146 151	1.160
+T5	Num 154 159	1.973
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+T6	Targ 162 163	p
+T7	Num 166 170	.004
+R4	acomp Arg1:T7 Arg2:T6	

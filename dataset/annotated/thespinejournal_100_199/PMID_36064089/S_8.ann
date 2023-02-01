@@ -1,0 +1,23 @@
+T1	Num 54 57	4.1
+T2	Unit 58 63	times
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 99 104	260.6
+T4	Num 109 113	26.2
+T5	Num 135 139	64.3
+T6	Num 144 147	2.9
+T7	Num 116 118	10
+T8	Num 121 122	4
+T9	Unit 125 130	mg/dL
+T10	Unit 159 164	mg/dL
+T11	Num 150 152	10
+T12	Num 155 156	4
+R2	acomp Arg1:T3 Arg2:T9	
+R3	acomp Arg1:T4 Arg2:T9	
+R4	acomp Arg1:T5 Arg2:T10	
+R5	acomp Arg1:T6 Arg2:T10	
+T13	Targ 32 35	PRP
+R6	acomp Arg1:T3 Arg2:T13	
+R7	acomp Arg1:T4 Arg2:T13	
+T14	Targ 85 96	whole blood
+R8	acomp Arg1:T5 Arg2:T14	
+R9	acomp Arg1:T6 Arg2:T14	

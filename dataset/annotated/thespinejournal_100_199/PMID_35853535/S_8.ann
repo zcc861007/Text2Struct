@@ -1,0 +1,10 @@
+T1	Num 11 13	55
+T2	Num 17 19	82
+T3	Unit 30 40	procedures
+T4	Num 22 27	0.671
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	
+R3	acomp Arg1:T4 Arg2:T3	
+T5	Targ 46 79	a positive microbiological result
+R4	acomp Arg1:T1 Arg2:T5	
+R5	acomp Arg1:T4 Arg2:T5	

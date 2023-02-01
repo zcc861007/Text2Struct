@@ -1,0 +1,18 @@
+T1	Num 60 62	38
+T2	Targ 56 57	n
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 65 69	0.46
+T4	Targ 107 108	n
+T5	Num 111 113	23
+R2	acomp Arg1:T5 Arg2:T4	
+T6	Num 116 120	0.28
+T7	Targ 174 175	n
+T8	Num 178 180	10
+R3	acomp Arg1:T8 Arg2:T7	
+T9	Num 183 187	0.12
+T10	Targ 32 53	negligent supervision
+R4	acomp Arg1:T3 Arg2:T10	
+T11	Targ 86 104	premises liability
+R5	acomp Arg1:T6 Arg2:T11	
+T12	Targ 129 171	workers ' compensation/no fault litigation
+R6	acomp Arg1:T9 Arg2:T12	

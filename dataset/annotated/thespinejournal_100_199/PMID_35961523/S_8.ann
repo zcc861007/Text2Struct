@@ -1,0 +1,5 @@
+T1	Num 32 33	2
+T2	Unit 34 36	mm
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 0 10	Subsidence
+R2	acomp Arg1:T1 Arg2:T3	

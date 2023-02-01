@@ -1,0 +1,6 @@
+T1	Num 25 30	0.163
+T2	Num 53 57	0.13
+T3	Unit 64 79	microdiscectomy
+R1	acomp Arg1:T2 Arg2:T3	
+T4	Unit 37 50	decompression
+R2	acomp Arg1:T1 Arg2:T4	

@@ -1,0 +1,10 @@
+T1	Num 25 28	2.9
+T2	Num 33 36	0.5
+T3	Num 70 73	2.5
+T4	Num 78 81	0.5
+T6	Targ 41 65	patients with subsidence
+R1	acomp Arg1:T1 Arg2:T6	
+R2	acomp Arg1:T2 Arg2:T6	
+T5	Targ 86 113	patients without subsidence
+R3	acomp Arg1:T3 Arg2:T5	
+R4	acomp Arg1:T4 Arg2:T5	

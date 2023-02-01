@@ -1,0 +1,7 @@
+T1	Num 144 145	4
+T2	Num 148 149	8
+T3	Num 156 158	12
+T4	Unit 159 164	weeks
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T4	
+R3	acomp Arg1:T1 Arg2:T4	

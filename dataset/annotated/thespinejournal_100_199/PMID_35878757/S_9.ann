@@ -1,0 +1,3 @@
+T1	Num 2 4	13
+T2	Targ 7 34	Preoperative CPE parameters
+R1	acomp Arg1:T1 Arg2:T2	

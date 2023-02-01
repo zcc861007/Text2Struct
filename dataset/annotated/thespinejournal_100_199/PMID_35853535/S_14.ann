@@ -1,0 +1,6 @@
+T1	Num 21 23	15
+T2	Num 27 29	55
+T3	Num 32 37	0.273
+T4	Targ 40 64	polymicrobial infections
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T1 Arg2:T4	

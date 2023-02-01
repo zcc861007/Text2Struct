@@ -1,0 +1,21 @@
+T1	Num 97 98	1
+T2	Num 122 123	2
+T3	Num 154 155	3
+T4	Num 179 180	5
+T5	Num 224 225	6
+T6	Num 245 246	7
+T7	Num 58 60	24
+T8	Unit 61 67	months
+R1	acomp Arg1:T7 Arg2:T8	
+T9	Targ 101 117	C0-C2 Cobb angle
+R2	acomp Arg1:T1 Arg2:T9	
+T10	Targ 126 149	C2-C7 Cobb angle ( CL )
+R3	acomp Arg1:T2 Arg2:T10	
+T11	Targ 158 174	T1 slope ( T1S )
+R4	acomp Arg1:T3 Arg2:T11	
+T12	Targ 183 219	C2-C7 sagittal vertical axis ( SVA )
+R5	acomp Arg1:T4 Arg2:T12	
+T13	Targ 228 240	T1S minus CL
+R6	acomp Arg1:T5 Arg2:T13	
+T14	Targ 249 319	Preoperative extension function : Extension CL minus Neutral CL ( EF )
+R7	acomp Arg1:T6 Arg2:T14	

@@ -1,0 +1,10 @@
+T1	Num 25 27	01
+T2	Num 30 34	2011
+T3	Num 39 41	12
+T4	Num 44 48	2018
+T5	Num 51 54	103
+T6	Unit 55 63	patients
+R1	acomp Arg1:T5 Arg2:T6	
+T7	Num 74 77	248
+T8	Unit 78 96	revision surgeries
+R2	acomp Arg1:T7 Arg2:T8	

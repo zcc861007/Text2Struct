@@ -1,0 +1,1 @@
+In the results of multivariate logistic regression analysis , diabetes ( odds ratio [ OR ] = 8.43 , p = .020 ) and the HU of the psoas muscle ( OR = 0.916 , p = .034 ) were associated with lower peak torque 1 week after surgery .

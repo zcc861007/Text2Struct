@@ -1,0 +1,1 @@
+Preoperative global alignment parameters : ( 8 ) spino cranial angle , ( 9 ) C7-S1 sagittal vertical axis ( C7 SVA ) , ( 10 ) pelvic incidence , ( 11 ) lumbar lordosis , ( 12 ) thoracic kyphosis .

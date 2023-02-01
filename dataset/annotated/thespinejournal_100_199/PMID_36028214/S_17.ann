@@ -1,0 +1,9 @@
+T1	Num 17 20	840
+T2	Unit 21 26	cases
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 58 60	78
+R2	acomp Arg1:T3 Arg2:T2	
+T4	Targ 41 55	initial search
+R3	acomp Arg1:T1 Arg2:T4	
+T5	Targ 82 99	in-depth analysis
+R4	acomp Arg1:T3 Arg2:T5	

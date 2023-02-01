@@ -1,0 +1,9 @@
+T1	Num 21 23	74
+T2	Unit 24 38	microorganisms
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 41 46	0.833
+T4	Targ 47 60	gram-positive
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 63 68	0.108
+T6	Targ 69 82	gram-negative
+R3	acomp Arg1:T5 Arg2:T6	

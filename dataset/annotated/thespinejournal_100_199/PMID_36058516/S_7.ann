@@ -1,0 +1,3 @@
+T1	Num 563 565	12
+T2	Unit 566 568	Nm
+R1	acomp Arg1:T1 Arg2:T2	

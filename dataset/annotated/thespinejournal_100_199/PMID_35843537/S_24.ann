@@ -1,0 +1,22 @@
+T1	Num 0 5	0.173
+T2	Num 8 13	0.154
+T3	Num 22 27	0.019
+T4	Num 47 50	0.1
+T5	Num 53 58	0.093
+T6	Num 69 74	0.007
+T7	Num 107 112	0.017
+T8	Num 149 150	7
+T9	Targ 14 19	minor
+R1	acomp Arg1:T2 Arg2:T9	
+T10	Targ 28 33	major
+R2	acomp Arg1:T3 Arg2:T10	
+T11	Targ 40 44	TLIF
+R3	acomp Arg1:T1 Arg2:T11	
+T12	Targ 59 64	minor
+T13	Targ 75 80	major
+R4	acomp Arg1:T6 Arg2:T13	
+R5	acomp Arg1:T5 Arg2:T12	
+T14	Targ 87 100	decompression
+R6	acomp Arg1:T4 Arg2:T14	
+T15	Targ 131 146	microdiscectomy
+R7	acomp Arg1:T7 Arg2:T15	

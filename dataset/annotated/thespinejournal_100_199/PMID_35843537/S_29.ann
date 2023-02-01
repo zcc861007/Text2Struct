@@ -1,0 +1,18 @@
+T1	Num 2 5	0.8
+T2	Unit 9 17	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 45 47	25
+T4	Unit 48 52	days
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 66 68	14
+T6	Unit 69 73	days
+R3	acomp Arg1:T5 Arg2:T6	
+T7	Num 96 98	11
+T8	Unit 99 103	days
+R4	acomp Arg1:T7 Arg2:T8	
+T9	Targ 59 63	TLIF
+R5	acomp Arg1:T3 Arg2:T9	
+T10	Targ 80 93	decompression
+R6	acomp Arg1:T5 Arg2:T10	
+T11	Targ 110 125	microdiscectomy
+R7	acomp Arg1:T7 Arg2:T11	

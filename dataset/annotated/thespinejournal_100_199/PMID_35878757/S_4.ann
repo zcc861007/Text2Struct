@@ -1,0 +1,7 @@
+T1	Num 30 34	2017
+T2	Num 47 51	2019
+T3	Num 54 56	55
+T4	Unit 57 65	patients
+R1	acomp Arg1:T3 Arg2:T4	
+T5	Targ 71 123	multilevel cord compression and myelopathic symptoms
+R2	acomp Arg1:T3 Arg2:T5	

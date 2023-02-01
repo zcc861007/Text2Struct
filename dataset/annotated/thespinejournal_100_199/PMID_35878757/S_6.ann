@@ -1,0 +1,7 @@
+T1	Num 23 27	2017
+T2	Num 40 44	2019
+T3	Num 47 49	55
+T4	Unit 50 58	patients
+R1	acomp Arg1:T3 Arg2:T4	
+T5	Targ 70 91	modified laminoplasty
+R2	acomp Arg1:T3 Arg2:T5	

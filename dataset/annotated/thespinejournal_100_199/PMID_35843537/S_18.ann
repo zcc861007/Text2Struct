@@ -1,0 +1,6 @@
+T1	Num 28 32	0.55
+T2	Unit 36 49	decompression
+T3	Num 56 60	0.75
+T4	Unit 64 88	microdiscectomy patients
+R1	acomp Arg1:T3 Arg2:T4	
+R2	acomp Arg1:T1 Arg2:T2	

@@ -1,0 +1,9 @@
+T1	Num 62 68	18.405
+T2	Num 71 75	2.95
+T3	Num 78 82	4.47
+T4	Num 89 94	11.96
+T5	Targ 31 56	the optimal cutoff points
+R1	acomp Arg1:T1 Arg2:T5	
+R2	acomp Arg1:T2 Arg2:T5	
+R3	acomp Arg1:T3 Arg2:T5	
+R4	acomp Arg1:T4 Arg2:T5	

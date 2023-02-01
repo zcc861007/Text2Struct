@@ -1,0 +1,6 @@
+T1	Num 68 73	0.174
+T2	Targ 88 115	the detected microorganisms
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 76 77	8
+T4	Num 80 82	46
+R2	acomp Arg1:T3 Arg2:T2	

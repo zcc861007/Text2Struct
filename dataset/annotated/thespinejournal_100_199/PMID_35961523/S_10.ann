@@ -1,0 +1,7 @@
+T1	Num 40 42	42
+T2	Num 50 52	74
+T3	Unit 53 67	study patients
+T4	Targ 10 20	Subsidence
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T2 Arg2:T3	
+R3	acomp Arg1:T1 Arg2:T3	

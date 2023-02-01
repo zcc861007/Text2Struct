@@ -1,0 +1,25 @@
+T1	Num 83 88	0.085
+T2	Unit 103 111	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 30 66	subjective left hip flexion weakness
+T4	Num 95 97	47
+T5	Num 91 92	4
+R2	acomp Arg1:T4 Arg2:T2	
+R3	acomp Arg1:T5 Arg2:T2	
+R4	acomp Arg1:T1 Arg2:T3	
+R5	acomp Arg1:T5 Arg2:T3	
+T6	Num 159 164	0.021
+T7	Num 167 168	1
+T8	Num 171 173	47
+T9	Unit 179 187	patients
+R6	acomp Arg1:T7 Arg2:T9	
+R7	acomp Arg1:T6 Arg2:T9	
+T10	Num 112 113	1
+T11	Unit 114 118	week
+R8	acomp Arg1:T10 Arg2:T11	
+T12	Num 194 195	3
+T13	Unit 196 202	months
+R9	acomp Arg1:T12 Arg2:T13	
+T14	Targ 206 215	operation
+R10	acomp Arg1:T12 Arg2:T14	
+R11	acomp Arg1:T8 Arg2:T9	

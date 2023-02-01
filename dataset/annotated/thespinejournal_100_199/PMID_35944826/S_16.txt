@@ -1,0 +1,1 @@
+PT ( beta = 0.187 ; p = .006 ) , SVA ( beta = 0.155 ; p = .035 ) , age ( beta = 0.468 ; p < .001 ) and sex ( beta = 0.235 ; p < .001 ) significantly predict FI ( PPM ) ( corrected R ( 2 ) = 0.393 ) as independent variables .

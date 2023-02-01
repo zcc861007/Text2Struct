@@ -1,0 +1,3 @@
+T1	Num 146 147	3
+T2	Unit 148 153	years
+R1	acomp Arg1:T1 Arg2:T2	

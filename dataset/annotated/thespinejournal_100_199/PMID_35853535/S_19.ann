@@ -1,0 +1,12 @@
+T1	Num 46 51	0.045
+T2	Num 89 94	0.077
+T3	Num 97 98	2
+T4	Num 101 103	26
+T5	Num 54 55	1
+T6	Num 58 60	23
+T8	Targ 66 85	index PSII revision
+R1	acomp Arg1:T1 Arg2:T8	
+R2	acomp Arg1:T5 Arg2:T8	
+T7	Targ 109 134	first re-revision surgery
+R3	acomp Arg1:T2 Arg2:T7	
+R4	acomp Arg1:T3 Arg2:T7	

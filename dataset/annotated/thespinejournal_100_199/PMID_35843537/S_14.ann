@@ -1,0 +1,3 @@
+T1	Targ 21 32	improvement
+T2	Num 38 41	0.5
+R1	acomp Arg1:T2 Arg2:T1	

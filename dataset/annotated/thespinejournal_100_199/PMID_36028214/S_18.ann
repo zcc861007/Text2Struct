@@ -1,0 +1,32 @@
+T1	Num 13 17	0.62
+T2	Targ 29 47	defendant verdicts
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 50 54	0.32
+T4	Targ 66 84	plaintiff verdicts
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 91 95	0.06
+T6	Targ 106 117	settlements
+R3	acomp Arg1:T5 Arg2:T6	
+T7	Targ 20 21	n
+T8	Num 24 26	48
+R4	acomp Arg1:T8 Arg2:T7	
+T9	Targ 57 58	n
+T10	Num 61 63	25
+R5	acomp Arg1:T10 Arg2:T9	
+T11	Targ 98 99	n
+T12	Num 102 103	5
+R6	acomp Arg1:T12 Arg2:T11	
+T13	Num 164 170	780000
+T14	Unit 162 163	$
+T15	Targ 125 158	a median inflation-adjusted award
+R7	acomp Arg1:T13 Arg2:T14	
+R8	acomp Arg1:T13 Arg2:T15	
+T16	Num 183 187	5480
+T17	Num 191 199	21585000
+T18	Unit 181 182	$
+R9	acomp Arg1:T16 Arg2:T18	
+T19	Unit 189 190	$
+R10	acomp Arg1:T17 Arg2:T19	
+T20	Targ 173 178	range
+R11	acomp Arg1:T16 Arg2:T20	
+R12	acomp Arg1:T17 Arg2:T20	

@@ -1,0 +1,16 @@
+T1	Num 106 110	0.23
+T2	Num 115 119	0.04
+T3	Targ 122 123	p
+T4	Num 126 129	.03
+R1	acomp Arg1:T4 Arg2:T3	
+T5	Targ 48 103	proportion of workers' compensation/no fault litigation
+R2	acomp Arg1:T1 Arg2:T5	
+R3	acomp Arg1:T2 Arg2:T5	
+T6	Targ 136 167	cases involving disc herniation
+T7	Num 170 174	0.29
+T8	Num 179 183	0.09
+R4	acomp Arg1:T7 Arg2:T6	
+R5	acomp Arg1:T8 Arg2:T6	
+T9	Targ 201 202	p
+T10	Num 205 208	.04
+R6	acomp Arg1:T10 Arg2:T9	
