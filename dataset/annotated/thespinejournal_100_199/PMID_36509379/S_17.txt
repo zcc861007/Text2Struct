@@ -1,0 +1,1 @@
+When predicting improvement in the mJOA , the clinically-driven feature set had an accuracy of 61.9 [ 61.6 , 62.5 ] , compared to 78.6 [ 78.4 , 79.2 ] in the DBSI feature set , and 90.5 [ 90.2 , 90.8 ] in the combined feature set .

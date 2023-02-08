@@ -1,0 +1,12 @@
+T1	Num 14 17	0.6
+T2	Unit 20 28	patients
+T3	Num 82 84	16
+T4	Num 87 90	0.4
+R1	acomp Arg1:T1 Arg2:T2	
+T5	Targ 39 69	anterior decompressive surgery
+R2	acomp Arg1:T1 Arg2:T5	
+T6	Targ 93 113	posterior approaches
+R3	acomp Arg1:T3 Arg2:T2	
+R4	acomp Arg1:T4 Arg2:T2	
+R5	acomp Arg1:T3 Arg2:T6	
+R6	acomp Arg1:T4 Arg2:T6	

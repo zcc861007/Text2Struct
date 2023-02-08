@@ -1,0 +1,19 @@
+T1	Num 50 54	0.78
+T2	Targ 38 49	c-statistic
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 157 159	OR
+T4	Num 160 164	1.04
+R2	acomp Arg1:T4 Arg2:T3	
+T5	Targ 167 174	0.95 CI
+T6	Num 175 179	1.01
+T7	Num 182 186	1.07
+R3	acomp Arg1:T6 Arg2:T5	
+R4	acomp Arg1:T7 Arg2:T5	
+T8	Targ 191 193	OR
+T9	Num 194 197	2.3
+R5	acomp Arg1:T9 Arg2:T8	
+T10	Targ 200 207	0.95 CI
+T11	Num 208 211	1.2
+T12	Num 214 217	4.7
+R6	acomp Arg1:T12 Arg2:T10	
+R7	acomp Arg1:T11 Arg2:T10	

@@ -1,0 +1,7 @@
+T1	Num 61 63	18
+T2	Unit 64 69	years
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 203 207	2017
+T4	Num 210 214	2021
+T5	Targ 41 49	patients
+R2	acomp Arg1:T1 Arg2:T5	

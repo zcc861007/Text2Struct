@@ -1,0 +1,1 @@
+The mathematical model derived from the binary logistic regression showed an excellent AUC of 0.846 .

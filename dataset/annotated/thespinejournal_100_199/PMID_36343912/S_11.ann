@@ -1,0 +1,10 @@
+T1	Num 73 76	508
+T2	Num 21 23	91
+T3	Unit 24 36	discectomies
+R1	acomp Arg1:T2 Arg2:T3	
+T4	Num 84 86	12
+T5	Unit 87 93	months
+R2	acomp Arg1:T4 Arg2:T5	
+R3	acomp Arg1:T1 Arg2:T3	
+T6	Targ 59 68	pregnancy
+R4	acomp Arg1:T2 Arg2:T6	

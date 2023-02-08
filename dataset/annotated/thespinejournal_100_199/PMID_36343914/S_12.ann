@@ -1,0 +1,18 @@
+T1	Num 56 60	22.5
+T2	Unit 61 68	degrees
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 72 75	6.0
+T4	Unit 76 83	degrees
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 124 128	18.3
+T6	Unit 129 136	degrees
+R3	acomp Arg1:T5 Arg2:T6	
+T7	Num 145 149	-9.2
+T8	Unit 150 157	degrees
+R4	acomp Arg1:T7 Arg2:T8	
+T9	Targ 26 38	coronal Cobb
+R5	acomp Arg1:T1 Arg2:T9	
+R6	acomp Arg1:T3 Arg2:T9	
+T10	Targ 137 141	Cobb
+R7	acomp Arg1:T5 Arg2:T10	
+R8	acomp Arg1:T7 Arg2:T10	

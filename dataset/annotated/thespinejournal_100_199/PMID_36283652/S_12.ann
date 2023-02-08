@@ -1,0 +1,7 @@
+T1	Num 0 3	860
+T2	Num 29 34	0.075
+T3	Unit 4 12	patients
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	
+T4	Targ 23 26	SSI
+R3	acomp Arg1:T1 Arg2:T4	

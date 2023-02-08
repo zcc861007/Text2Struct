@@ -1,0 +1,5 @@
+T1	Num 64 68	2500
+T2	Unit 69 71	ml
+T3	Targ 53 61	bleeding
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T2	

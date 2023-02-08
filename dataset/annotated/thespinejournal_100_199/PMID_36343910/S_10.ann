@@ -1,0 +1,10 @@
+T1	Num 100 103	120
+T2	Unit 104 114	mg/m ( 3 )
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 72 95	osteoporosis/osteopenia
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 144 147	120
+T5	Unit 148 158	mg/m ( 3 )
+R3	acomp Arg1:T4 Arg2:T5	
+T6	Targ 128 135	healthy
+R4	acomp Arg1:T4 Arg2:T6	

@@ -1,0 +1,32 @@
+T1	Num 37 40	8.1
+T2	Num 45 48	4.0
+T4	Unit 49 56	degrees
+R3	acomp Arg1:T1 Arg2:T4	
+R4	acomp Arg1:T2 Arg2:T4	
+T5	Num 83 86	7.2
+T6	Num 91 94	3.6
+T7	Unit 95 102	degrees
+R5	acomp Arg1:T5 Arg2:T7	
+R6	acomp Arg1:T6 Arg2:T7	
+T8	Targ 106 126	the 2-year follow-up
+R7	acomp Arg1:T5 Arg2:T8	
+R8	acomp Arg1:T6 Arg2:T8	
+T3	Targ 60 80	the 1-year follow-up
+R1	acomp Arg1:T2 Arg2:T3	
+R2	acomp Arg1:T1 Arg2:T3	
+T9	Num 129 132	5.7
+T10	Num 137 140	4.5
+T11	Unit 141 148	degrees
+R9	acomp Arg1:T9 Arg2:T11	
+R10	acomp Arg1:T10 Arg2:T11	
+T12	Targ 152 172	the 5-year follow-up
+R11	acomp Arg1:T10 Arg2:T12	
+R12	acomp Arg1:T9 Arg2:T12	
+T13	Num 177 180	4.3
+T14	Num 185 188	3.9
+T15	Unit 189 196	degrees
+R13	acomp Arg1:T14 Arg2:T15	
+R14	acomp Arg1:T13 Arg2:T15	
+T16	Targ 200 218	the last follow-up
+R15	acomp Arg1:T13 Arg2:T16	
+R16	acomp Arg1:T14 Arg2:T16	

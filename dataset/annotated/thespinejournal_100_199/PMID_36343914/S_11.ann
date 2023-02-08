@@ -1,0 +1,18 @@
+T1	Num 89 93	15.0
+T2	Unit 94 101	degrees
+T3	Num 105 108	5.4
+T4	Unit 109 116	degrees
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 131 135	11.2
+T6	Unit 136 143	degrees
+R3	acomp Arg1:T5 Arg2:T6	
+T7	Num 147 150	3.5
+T8	Unit 151 158	degrees
+R4	acomp Arg1:T7 Arg2:T8	
+T9	Targ 72 86	TSI only-group
+R5	acomp Arg1:T1 Arg2:T9	
+R6	acomp Arg1:T3 Arg2:T9	
+T10	Targ 119 128	DSR-group
+R7	acomp Arg1:T5 Arg2:T10	
+R8	acomp Arg1:T7 Arg2:T10	

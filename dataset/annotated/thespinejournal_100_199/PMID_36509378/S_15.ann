@@ -1,0 +1,5 @@
+T1	Num 61 63	48
+T2	Unit 11 19	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 83 102	the non-drain group
+R2	acomp Arg1:T1 Arg2:T3	

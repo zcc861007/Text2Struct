@@ -1,0 +1,5 @@
+T1	Num 28 33	0.036
+T2	Targ 0 23	Annual reoperation rate
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 85 90	0.019
+R2	acomp Arg1:T3 Arg2:T2	

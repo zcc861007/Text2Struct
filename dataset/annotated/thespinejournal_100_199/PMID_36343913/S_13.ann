@@ -1,0 +1,43 @@
+T1	Num 66 68	12
+T2	Unit 69 75	months
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 78 80	OR
+T4	Num 95 99	2.24
+R2	acomp Arg1:T4 Arg2:T3	
+T5	Targ 83 90	0.95 CI
+T6	Num 102 106	1.93
+T7	Num 109 113	2.60
+R3	acomp Arg1:T6 Arg2:T5	
+R4	acomp Arg1:T7 Arg2:T5	
+T8	Targ 118 119	p
+T9	Num 122 126	.001
+R5	acomp Arg1:T9 Arg2:T8	
+T10	Targ 54 63	back pain
+R6	acomp Arg1:T1 Arg2:T10	
+T11	Targ 155 157	OR
+T12	Num 172 176	2.21
+R7	acomp Arg1:T12 Arg2:T11	
+T13	Targ 160 167	0.95 CI
+T14	Num 179 183	1.94
+R8	acomp Arg1:T14 Arg2:T13	
+T15	Num 186 190	2.52
+R9	acomp Arg1:T15 Arg2:T13	
+T16	Targ 195 196	p
+T17	Num 199 203	.001
+R10	acomp Arg1:T17 Arg2:T16	
+T18	Targ 210 213	age
+T19	Num 216 218	70
+T20	Unit 219 224	years
+R11	acomp Arg1:T19 Arg2:T20	
+R12	acomp Arg1:T19 Arg2:T18	
+T21	Targ 227 229	OR
+T22	Num 244 248	1.97
+R13	acomp Arg1:T22 Arg2:T21	
+T23	Targ 232 239	0.95 CI
+T24	Num 251 255	1.69
+T25	Num 258 262	2.30
+R14	acomp Arg1:T24 Arg2:T23	
+R15	acomp Arg1:T25 Arg2:T23	
+T26	Targ 267 268	p
+T27	Num 271 275	.001
+R16	acomp Arg1:T27 Arg2:T26	

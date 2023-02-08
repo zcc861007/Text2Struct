@@ -1,0 +1,1 @@
+RESULTS : After exclusions of patients with incomplete medical chart data , 191 patients were available for analysis , mean age 66 +/- 10 y , BMI 28 +/- 5 kg/m2 , PI-LL 24 +/- 20 degrees , T1PA 28 +/- 13 degrees .

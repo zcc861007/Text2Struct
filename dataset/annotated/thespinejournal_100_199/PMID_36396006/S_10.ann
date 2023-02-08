@@ -1,0 +1,18 @@
+T1	Num 82 85	6.5
+T2	Num 90 93	3.2
+T3	Num 97 100	2.9
+T4	Num 105 108	2.0
+T5	Unit 109 114	hours
+R1	acomp Arg1:T1 Arg2:T5	
+R2	acomp Arg1:T2 Arg2:T5	
+R3	acomp Arg1:T3 Arg2:T5	
+R4	acomp Arg1:T4 Arg2:T5	
+T6	Targ 117 118	p
+T7	Num 121 125	.039
+R5	acomp Arg1:T7 Arg2:T6	
+T8	Targ 0 15	Female patients
+T9	Targ 66 79	male patients
+R6	acomp Arg1:T3 Arg2:T9	
+R7	acomp Arg1:T4 Arg2:T9	
+R8	acomp Arg1:T1 Arg2:T8	
+R9	acomp Arg1:T2 Arg2:T8	

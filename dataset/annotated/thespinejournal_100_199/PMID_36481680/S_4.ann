@@ -1,0 +1,7 @@
+T1	Num 106 110	2009
+T2	Num 120 124	2012
+T3	Num 37 40	148
+T4	Unit 41 92	single-level cervical degenerative disease patients
+R1	acomp Arg1:T3 Arg2:T4	
+T5	Targ 17 27	This study
+R2	acomp Arg1:T3 Arg2:T5	

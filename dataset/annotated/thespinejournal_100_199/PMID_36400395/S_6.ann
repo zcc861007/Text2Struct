@@ -1,0 +1,3 @@
+T1	Num 225 227	48
+T2	Unit 228 233	weeks
+R1	acomp Arg1:T1 Arg2:T2	

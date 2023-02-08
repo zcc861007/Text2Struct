@@ -1,0 +1,5 @@
+T1	Num 282 284	90
+T2	Unit 285 289	days
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 255 279	new opioid prescriptions
+R2	acomp Arg1:T1 Arg2:T3	

@@ -1,0 +1,16 @@
+T1	Num 42 44	27
+T2	Unit 45 53	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 56 61	0.692
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 131 132	6
+T5	Unit 133 141	patients
+R3	acomp Arg1:T4 Arg2:T5	
+T6	Num 144 149	0.154
+R4	acomp Arg1:T6 Arg2:T5	
+T7	Targ 24 26	HO
+R5	acomp Arg1:T1 Arg2:T7	
+R6	acomp Arg1:T3 Arg2:T2	
+T8	Targ 72 114	high-grade HO ( McAfee scores III and IV )
+R7	acomp Arg1:T4 Arg2:T8	
+R8	acomp Arg1:T6 Arg2:T8	

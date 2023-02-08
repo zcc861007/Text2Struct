@@ -1,0 +1,5 @@
+T1	Num 38 40	39
+T2	Unit 41 49	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 62 85	the ACDF or ACDR groups
+R2	acomp Arg1:T1 Arg2:T3	

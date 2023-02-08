@@ -1,0 +1,9 @@
+T1	Targ 86 87	p
+T2	Num 90 93	.05
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Num 75 76	2
+T4	Unit 77 83	groups
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 54 55	6
+T6	Unit 56 62	months
+R3	acomp Arg1:T5 Arg2:T6	

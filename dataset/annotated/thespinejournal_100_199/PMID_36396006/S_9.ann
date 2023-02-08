@@ -1,0 +1,13 @@
+T1	Num 39 42	5.5
+T2	Num 47 50	3.3
+T3	Unit 51 56	hours
+T4	Num 59 63	0.37
+T5	Num 68 72	0.22
+T6	Targ 73 83	compliance
+R1	acomp Arg1:T5 Arg2:T6	
+R2	acomp Arg1:T4 Arg2:T6	
+T7	Targ 10 34	The mean HO wearing time
+R3	acomp Arg1:T1 Arg2:T7	
+R4	acomp Arg1:T2 Arg2:T7	
+R5	acomp Arg1:T2 Arg2:T3	
+R6	acomp Arg1:T1 Arg2:T3	

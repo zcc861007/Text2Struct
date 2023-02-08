@@ -1,0 +1,9 @@
+T1	Num 64 69	0.027
+T2	Num 87 92	0.009
+T3	Targ 46 61	infectious POD8
+R1	acomp Arg1:T1 Arg2:T3	
+T4	Targ 74 84	renal POD7
+R2	acomp Arg1:T2 Arg2:T4	
+T5	Num 119 120	1
+T6	Targ 112 118	Figure
+R3	acomp Arg1:T5 Arg2:T6	

@@ -1,0 +1,15 @@
+T1	Num 72 75	8.5
+T2	Num 80 83	3.8
+T3	Num 88 91	5.8
+T4	Num 96 99	2.3
+T5	Unit 100 104	days
+T6	Targ 107 108	p
+T7	Num 111 115	.001
+R1	acomp Arg1:T7 Arg2:T6	
+R2	acomp Arg1:T4 Arg2:T5	
+R3	acomp Arg1:T3 Arg2:T5	
+R4	acomp Arg1:T2 Arg2:T5	
+R5	acomp Arg1:T1 Arg2:T5	
+T8	Targ 67 71	mean
+R6	acomp Arg1:T1 Arg2:T8	
+R7	acomp Arg1:T3 Arg2:T8	

@@ -1,0 +1,31 @@
+T1	Num 76 79	191
+T2	Unit 80 88	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 119 127	mean age
+T4	Num 128 130	66
+T5	Num 135 137	10
+T6	Unit 138 139	y
+R2	acomp Arg1:T4 Arg2:T6	
+R3	acomp Arg1:T4 Arg2:T3	
+R4	acomp Arg1:T5 Arg2:T6	
+T7	Targ 142 145	BMI
+T8	Num 146 148	28
+T9	Num 153 154	5
+T10	Unit 155 160	kg/m2
+R5	acomp Arg1:T8 Arg2:T7	
+R6	acomp Arg1:T8 Arg2:T10	
+R7	acomp Arg1:T9 Arg2:T10	
+T11	Targ 163 168	PI-LL
+T12	Num 169 171	24
+T13	Num 176 178	20
+T14	Unit 179 186	degrees
+R8	acomp Arg1:T12 Arg2:T11	
+R9	acomp Arg1:T12 Arg2:T14	
+R10	acomp Arg1:T13 Arg2:T14	
+T15	Targ 189 193	T1PA
+T16	Unit 204 211	degrees
+T17	Num 194 196	28
+T18	Num 201 203	13
+R11	acomp Arg1:T18 Arg2:T16	
+R12	acomp Arg1:T17 Arg2:T16	
+R13	acomp Arg1:T17 Arg2:T15	

@@ -1,0 +1,5 @@
+T1	Num 28 31	109
+T2	Unit 32 40	patients
+T3	Targ 46 70	one level herniated disc
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T1 Arg2:T3	

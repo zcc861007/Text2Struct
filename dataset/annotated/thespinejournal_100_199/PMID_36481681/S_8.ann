@@ -1,0 +1,34 @@
+T1	Num 138 143	50.75
+T2	Unit 144 147	min
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 150 152	25
+T4	Unit 153 154	k
+R2	acomp Arg1:T3 Arg2:T4	
+T5	Num 196 201	71.95
+T6	Num 204 206	50
+T7	Unit 207 208	k
+R3	acomp Arg1:T6 Arg2:T7	
+T8	Targ 216 223	p value
+T9	Num 232 236	.001
+R4	acomp Arg1:T9 Arg2:T8	
+T10	Targ 121 135	Vertebroplasty
+R5	acomp Arg1:T1 Arg2:T10	
+R6	acomp Arg1:T3 Arg2:T10	
+T11	Targ 174 193	balloon kyphoplasty
+R7	acomp Arg1:T5 Arg2:T11	
+R8	acomp Arg1:T6 Arg2:T11	
+T12	Targ 461 469	p values
+T13	Num 472 475	.05
+R9	acomp Arg1:T13 Arg2:T12	
+T14	Num 503 508	0.381
+T15	Targ 511 535	Gain in vertebral height
+R10	acomp Arg1:T14 Arg2:T15	
+T16	Num 540 545	0.108
+T17	Targ 548 559	pain relief
+R11	acomp Arg1:T16 Arg2:T17	
+T18	Num 564 569	0.846
+T19	Targ 572 597	Oswestry disability index
+R12	acomp Arg1:T18 Arg2:T19	
+T20	Num 604 609	0.197
+T21	Targ 612 634	risk of cement leakage
+R13	acomp Arg1:T20 Arg2:T21	

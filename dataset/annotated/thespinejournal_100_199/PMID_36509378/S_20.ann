@@ -1,0 +1,20 @@
+T1	Num 22 23	4
+T2	Targ 18 21	day
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 71 76	0.364
+T4	Targ 49 68	the non-drain group
+T5	Num 79 81	32
+T6	Num 84 86	39
+R2	acomp Arg1:T3 Arg2:T4	
+R3	acomp Arg1:T5 Arg2:T4	
+R4	acomp Arg1:T6 Arg2:T4	
+T7	Targ 99 114	the drain group
+T8	Num 117 121	0.34
+R5	acomp Arg1:T8 Arg2:T7	
+T9	Num 124 128	29.7
+R6	acomp Arg1:T9 Arg2:T7	
+T10	Num 131 135	37.6
+R7	acomp Arg1:T10 Arg2:T7	
+T11	Targ 176 177	p
+T12	Num 180 185	0.054
+R8	acomp Arg1:T12 Arg2:T11	

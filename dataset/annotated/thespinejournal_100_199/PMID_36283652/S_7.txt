@@ -1,0 +1,1 @@
+METHODS : Clinical data collected from the PearlDiver database based on ICD-10 codes included gender , age , diabetes , smoking status , obesity , Elixhauser Comorbidity Index ( ECI ) , Charlson Comorbidity Index ( CCI ) , and SSI .

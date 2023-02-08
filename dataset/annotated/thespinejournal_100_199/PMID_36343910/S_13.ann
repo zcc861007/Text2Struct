@@ -1,0 +1,8 @@
+T1	Num 20 23	108
+T2	Unit 24 32	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 35 40	0.794
+R2	acomp Arg1:T3 Arg2:T2	
+T4	Targ 47 70	osteoporosis/osteopenia
+R3	acomp Arg1:T1 Arg2:T4	
+R4	acomp Arg1:T3 Arg2:T4	

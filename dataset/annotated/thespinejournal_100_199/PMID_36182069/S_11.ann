@@ -1,0 +1,25 @@
+T1	Num 44 45	3
+T2	Num 48 49	8
+T3	Num 133 134	3
+T4	Num 137 138	8
+T5	Num 141 146	0.375
+T6	Num 52 57	0.375
+T7	Num 204 205	2
+T8	Num 208 209	8
+T9	Num 212 216	0.25
+T10	Unit 31 41	guidelines
+R1	acomp Arg1:T1 Arg2:T10	
+R2	acomp Arg1:T2 Arg2:T10	
+T11	Targ 78 120	one evidence-based and two consensus-based
+R3	acomp Arg1:T1 Arg2:T11	
+R4	acomp Arg1:T6 Arg2:T11	
+T12	Targ 171 189	all evidence-based
+R5	acomp Arg1:T5 Arg2:T12	
+R6	acomp Arg1:T3 Arg2:T12	
+R7	acomp Arg1:T3 Arg2:T10	
+R8	acomp Arg1:T4 Arg2:T10	
+R9	acomp Arg1:T7 Arg2:T10	
+R10	acomp Arg1:T8 Arg2:T10	
+R11	acomp Arg1:T9 Arg2:T10	
+R12	acomp Arg1:T6 Arg2:T10	
+R13	acomp Arg1:T5 Arg2:T10	

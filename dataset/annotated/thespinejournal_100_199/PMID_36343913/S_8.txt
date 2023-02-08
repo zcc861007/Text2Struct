@@ -1,0 +1,1 @@
+Failure ( ODI > 31 ) and worsening ( ODI > 39 ) were used as dependent variables .

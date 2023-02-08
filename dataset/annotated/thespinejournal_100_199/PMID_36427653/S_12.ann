@@ -1,0 +1,17 @@
+T1	Num 10 15	20280
+T2	Unit 16 24	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 27 32	0.477
+R2	acomp Arg1:T3 Arg2:T2	
+T4	Num 220 223	550
+T5	Num 227 230	540
+T6	Targ 233 234	p
+T7	Num 237 241	.413
+R3	acomp Arg1:T7 Arg2:T6	
+T8	Targ 182 192	ambulatory
+T9	Targ 197 217	inpatient procedures
+R4	acomp Arg1:T4 Arg2:T8	
+R5	acomp Arg1:T5 Arg2:T9	
+T10	Targ 46 80	perioperative opioid prescriptions
+R6	acomp Arg1:T3 Arg2:T10	
+R7	acomp Arg1:T1 Arg2:T10	

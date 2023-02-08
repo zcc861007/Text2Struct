@@ -1,0 +1,12 @@
+T1	Num 61 67	2.9179
+T2	Num 94 97	0.8
+T3	Num 117 121	0.75
+T4	Num 163 168	0.775
+T5	Targ 79 90	sensitivity
+R1	acomp Arg1:T2 Arg2:T5	
+T6	Targ 102 113	specificity
+R2	acomp Arg1:T3 Arg2:T6	
+T7	Targ 128 159	an area under the curve ( AUC )
+R3	acomp Arg1:T4 Arg2:T7	
+T8	Targ 0 57	A cutoff value for VBQ ( T1 ) x VBQ ( T2 ) / VBQ ( STIR )
+R4	acomp Arg1:T1 Arg2:T8	

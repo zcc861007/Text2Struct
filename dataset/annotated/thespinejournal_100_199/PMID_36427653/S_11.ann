@@ -1,0 +1,8 @@
+T1	Num 99 104	0.527
+T2	Num 108 113	0.473
+T3	Targ 118 138	inpatient procedures
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	
+T4	Targ 141 142	p
+T5	Num 145 149	.001
+R3	acomp Arg1:T5 Arg2:T4	

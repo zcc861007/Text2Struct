@@ -1,0 +1,5 @@
+T1	Num 81 83	93
+T2	Unit 84 92	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 111 130	the final follow-up
+R2	acomp Arg1:T1 Arg2:T3	

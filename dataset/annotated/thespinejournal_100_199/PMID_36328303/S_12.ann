@@ -1,0 +1,25 @@
+T1	Targ 14 15	p
+T2	Num 18 21	.58
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 24 26	MD
+T4	Num 29 34	-1.29
+R2	acomp Arg1:T4 Arg2:T3	
+T5	Targ 37 44	0.95 CI
+T6	Num 47 52	-5.83
+R3	acomp Arg1:T6 Arg2:T5	
+T7	Num 56 60	3.25
+R4	acomp Arg1:T7 Arg2:T5	
+T8	Targ 74 75	p
+T9	Num 78 83	.0001
+R5	acomp Arg1:T9 Arg2:T8	
+T10	Targ 86 88	MD
+T11	Num 91 96	-6.77
+R6	acomp Arg1:T11 Arg2:T10	
+T12	Targ 99 106	0.95 CI
+T13	Num 109 114	-9.94
+R7	acomp Arg1:T13 Arg2:T12	
+T14	Num 118 123	-3.61
+R8	acomp Arg1:T14 Arg2:T12	
+T15	Num 128 129	2
+T16	Unit 130 135	years
+R9	acomp Arg1:T15 Arg2:T16	

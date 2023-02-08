@@ -9,3 +9,9 @@ R2	acomp Arg1:T4 Arg2:T6
 R3	acomp Arg1:T3 Arg2:T6	
 R4	acomp Arg1:T2 Arg2:T6	
 R5	acomp Arg1:T1 Arg2:T6	
+T7	Targ 64 71	periods
+R6	acomp Arg1:T1 Arg2:T7	
+R7	acomp Arg1:T2 Arg2:T7	
+R8	acomp Arg1:T3 Arg2:T7	
+R9	acomp Arg1:T4 Arg2:T7	
+R10	acomp Arg1:T5 Arg2:T7	

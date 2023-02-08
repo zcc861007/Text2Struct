@@ -1,0 +1,5 @@
+T1	Num 129 131	35
+T2	Unit 132 139	degrees
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 84 124	the cutoff value for sacral slope on MRI
+R2	acomp Arg1:T1 Arg2:T3	

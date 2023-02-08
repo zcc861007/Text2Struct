@@ -1,0 +1,16 @@
+T1	Num 21 23	14
+T2	Unit 24 30	papers
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 12 17	total
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 44 46	12
+T5	Unit 47 75	randomized controlled trials
+R3	acomp Arg1:T4 Arg2:T5	
+T6	Targ 94 95	n
+T7	Num 98 101	892
+T8	Unit 102 110	patients
+R4	acomp Arg1:T7 Arg2:T8	
+R5	acomp Arg1:T7 Arg2:T6	
+T9	Num 113 117	4046
+T10	Unit 118 124	screws
+R6	acomp Arg1:T9 Arg2:T10	

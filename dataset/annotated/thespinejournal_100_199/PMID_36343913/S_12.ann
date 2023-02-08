@@ -1,0 +1,23 @@
+T1	Targ 41 48	0.95 CI
+T2	Targ 30 38	the mean
+T3	Num 65 69	23.9
+R1	acomp Arg1:T3 Arg2:T2	
+T4	Num 72 76	23.5
+T5	Num 79 83	24.2
+R2	acomp Arg1:T4 Arg2:T1	
+R3	acomp Arg1:T5 Arg2:T1	
+T6	Num 92 96	2950
+T7	Unit 97 105	patients
+R4	acomp Arg1:T6 Arg2:T7	
+T8	Num 108 113	0.332
+R5	acomp Arg1:T8 Arg2:T7	
+T9	Num 148 152	1921
+T10	Num 155 160	0.216
+T11	Targ 135 143	failures
+R6	acomp Arg1:T6 Arg2:T11	
+R7	acomp Arg1:T8 Arg2:T11	
+R8	acomp Arg1:T9 Arg2:T7	
+R9	acomp Arg1:T10 Arg2:T7	
+T12	Targ 166 171	worse
+R10	acomp Arg1:T9 Arg2:T12	
+R11	acomp Arg1:T10 Arg2:T12	

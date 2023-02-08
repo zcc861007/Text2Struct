@@ -1,0 +1,7 @@
+T1	Num 69 73	2007
+T2	Num 78 82	2017
+T3	Num 29 34	11873
+T4	Unit 35 43	patients
+R1	acomp Arg1:T3 Arg2:T4	
+T5	Targ 57 60	LSS
+R2	acomp Arg1:T3 Arg2:T5	

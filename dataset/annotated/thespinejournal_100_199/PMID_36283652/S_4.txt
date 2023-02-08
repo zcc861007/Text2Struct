@@ -1,0 +1,1 @@
+PATIENT SAMPLE : Patients undergoing spine surgery for thoracic and lumbar fractures between 2015 - 2020 were identified in the PearlDiver Patient Claims Database using ICD-10 codes .

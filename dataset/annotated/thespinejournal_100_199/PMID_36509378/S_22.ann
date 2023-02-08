@@ -1,0 +1,17 @@
+T1	Targ 50 69	the non-drain group
+T2	Num 72 76	67.9
+T3	Num 79 83	53.6
+T4	Num 86 90	79.2
+R1	acomp Arg1:T2 Arg2:T1	
+R2	acomp Arg1:T3 Arg2:T1	
+R3	acomp Arg1:T4 Arg2:T1	
+T5	Targ 103 118	the drain group
+T6	Num 121 125	56.7
+R4	acomp Arg1:T6 Arg2:T5	
+T7	Num 128 132	49.1
+T8	Num 135 137	66
+R5	acomp Arg1:T7 Arg2:T5	
+R6	acomp Arg1:T8 Arg2:T5	
+T9	Targ 144 145	p
+T10	Num 148 153	0.043
+R7	acomp Arg1:T10 Arg2:T9	

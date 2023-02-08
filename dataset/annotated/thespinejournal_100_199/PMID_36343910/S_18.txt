@@ -1,0 +1,1 @@
+A cutoff value for VBQ ( T1 ) x VBQ ( T2 ) / VBQ ( STIR ) of 2.9179 achieved a sensitivity of 0.8 , a specificity of 0.75 , and an area under the curve ( AUC ) of 0.775 for the determination of osteoporosis .

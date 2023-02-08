@@ -1,0 +1,9 @@
+T1	Num 38 42	0.33
+T2	Unit 50 58	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 68 75	failure
+R2	acomp Arg1:T1 Arg2:T3	
+T4	Num 82 86	0.22
+R3	acomp Arg1:T4 Arg2:T2	
+T5	Targ 96 124	worsening as assessed by ODI
+R4	acomp Arg1:T4 Arg2:T5	

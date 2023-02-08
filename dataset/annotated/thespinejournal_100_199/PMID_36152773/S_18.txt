@@ -1,0 +1,1 @@
+On multivariate logistic regression ( c-statistic 0.78 ) , larger coronal cobb and later POD of ambulation were independent risk factors for complications ( OR 1.04 , 0.95 CI 1.01 - 1.07 and OR 2.3 , 0.95 CI 1.2 - 4.7 , respectively ) .

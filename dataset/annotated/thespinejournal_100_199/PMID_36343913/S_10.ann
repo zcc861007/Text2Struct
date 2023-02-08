@@ -1,0 +1,8 @@
+T1	Targ 11 18	0.95 CI
+T2	Num 48 52	39.8
+T3	Targ 0 8	The mean
+R1	acomp Arg1:T2 Arg2:T3	
+T4	Num 55 59	39.4
+T5	Num 62 66	40.1
+R2	acomp Arg1:T4 Arg2:T1	
+R3	acomp Arg1:T5 Arg2:T1	

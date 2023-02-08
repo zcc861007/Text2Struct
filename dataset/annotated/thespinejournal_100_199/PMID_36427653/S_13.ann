@@ -1,0 +1,6 @@
+T1	Num 204 208	1.15
+T2	Targ 182 201	adjusted odds ratio
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 211 212	p
+T4	Num 215 219	.066
+R2	acomp Arg1:T4 Arg2:T3	

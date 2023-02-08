@@ -1,0 +1,6 @@
+T1	Targ 10 13	ODI
+T2	Num 16 18	31
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 37 40	ODI
+T4	Num 43 45	39
+R2	acomp Arg1:T4 Arg2:T3	

@@ -1,0 +1,25 @@
+T1	Targ 22 37	the drain group
+T2	Num 40 41	4
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Num 44 45	3
+T4	Num 48 49	5
+R2	acomp Arg1:T3 Arg2:T1	
+R3	acomp Arg1:T4 Arg2:T1	
+T5	Unit 52 56	days
+R4	acomp Arg1:T2 Arg2:T5	
+R5	acomp Arg1:T3 Arg2:T5	
+R6	acomp Arg1:T4 Arg2:T5	
+T6	Targ 71 86	non-drain group
+T7	Num 89 90	3
+T8	Num 93 94	2
+T9	Num 97 98	4
+R7	acomp Arg1:T7 Arg2:T6	
+R8	acomp Arg1:T8 Arg2:T6	
+R9	acomp Arg1:T9 Arg2:T6	
+T10	Unit 101 105	days
+R10	acomp Arg1:T7 Arg2:T10	
+R11	acomp Arg1:T8 Arg2:T10	
+R12	acomp Arg1:T9 Arg2:T10	
+T11	Targ 110 111	p
+T12	Num 114 119	0.007
+R13	acomp Arg1:T12 Arg2:T11	

@@ -1,0 +1,5 @@
+T1	Num 94 96	12
+T2	Unit 97 102	month
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 103 109	period
+R2	acomp Arg1:T1 Arg2:T3	

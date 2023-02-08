@@ -1,0 +1,13 @@
+T1	Num 44 46	55
+T2	Unit 57 65	patients
+T3	Num 49 54	0.288
+R1	acomp Arg1:T1 Arg2:T2	
+R2	acomp Arg1:T3 Arg2:T2	
+T4	Num 95 98	137
+T5	Num 101 106	0.717
+T6	Targ 0 31	Inpatient medical complications
+R3	acomp Arg1:T1 Arg2:T6	
+T7	Targ 68 82	adverse events
+R4	acomp Arg1:T4 Arg2:T7	
+R5	acomp Arg1:T4 Arg2:T2	
+R6	acomp Arg1:T5 Arg2:T2	

@@ -1,0 +1,25 @@
+T1	Num 228 229	1
+T2	Num 232 233	5
+T3	Num 236 240	0.20
+T4	Num 119 120	1
+T5	Num 123 124	5
+T6	Num 127 131	0.20
+T7	Num 68 72	0.60
+T8	Num 60 61	3
+T9	Num 64 65	5
+T10	Unit 47 57	guidelines
+R1	acomp Arg1:T8 Arg2:T10	
+R2	acomp Arg1:T9 Arg2:T10	
+R3	acomp Arg1:T7 Arg2:T10	
+R4	acomp Arg1:T4 Arg2:T10	
+R5	acomp Arg1:T5 Arg2:T10	
+R6	acomp Arg1:T6 Arg2:T10	
+T11	Targ 154 215	naloxone ( evidence-based ) and nimodipine ( evidence-based )
+R7	acomp Arg1:T4 Arg2:T11	
+R8	acomp Arg1:T6 Arg2:T11	
+T12	Targ 259 299	neural growth factor ( consensus-based )
+R9	acomp Arg1:T1 Arg2:T12	
+R10	acomp Arg1:T3 Arg2:T12	
+R11	acomp Arg1:T1 Arg2:T10	
+R12	acomp Arg1:T2 Arg2:T10	
+R13	acomp Arg1:T3 Arg2:T10	

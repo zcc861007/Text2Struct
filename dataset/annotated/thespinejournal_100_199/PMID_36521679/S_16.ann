@@ -1,0 +1,13 @@
+T1	Num 54 57	130
+T2	Num 60 63	139
+T3	Num 103 104	9
+T4	Num 107 110	139
+T5	Targ 88 100	fair quality
+R1	acomp Arg1:T3 Arg2:T5	
+T6	Targ 39 51	poor quality
+R2	acomp Arg1:T1 Arg2:T6	
+T7	Unit 12 31	supporting evidence
+R3	acomp Arg1:T1 Arg2:T7	
+R4	acomp Arg1:T2 Arg2:T7	
+R5	acomp Arg1:T3 Arg2:T7	
+R6	acomp Arg1:T4 Arg2:T7	

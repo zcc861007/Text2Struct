@@ -1,0 +1,3 @@
+T1	Num 90 95	0.075
+T2	Targ 96 107	risk of SSI
+R1	acomp Arg1:T1 Arg2:T2	

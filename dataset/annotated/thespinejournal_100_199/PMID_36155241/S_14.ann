@@ -1,0 +1,8 @@
+T1	Num 113 118	-0.98
+T2	Targ 121 128	0.95 CI
+T3	Num 131 136	-1.77
+T4	Num 140 145	-0.19
+R1	acomp Arg1:T3 Arg2:T2	
+R2	acomp Arg1:T4 Arg2:T2	
+T5	Targ 68 110	mean difference of VAS pain score at 48-hr
+R3	acomp Arg1:T1 Arg2:T5	

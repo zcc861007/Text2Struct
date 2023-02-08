@@ -1,0 +1,14 @@
+T1	Targ 0 25	The mean ( SD ) follow-up
+T2	Num 30 34	23.2
+R1	acomp Arg1:T2 Arg2:T1	
+T3	Targ 43 48	range
+T4	Num 49 52	6.1
+T5	Num 55 59	32.8
+R2	acomp Arg1:T4 Arg2:T3	
+R3	acomp Arg1:T5 Arg2:T3	
+T6	Unit 62 68	months
+R4	acomp Arg1:T2 Arg2:T6	
+T7	Num 37 40	5.6
+R5	acomp Arg1:T5 Arg2:T6	
+R6	acomp Arg1:T4 Arg2:T6	
+R7	acomp Arg1:T7 Arg2:T6	

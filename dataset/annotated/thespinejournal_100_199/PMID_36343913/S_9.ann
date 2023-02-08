@@ -1,0 +1,15 @@
+T1	Targ 10 14	Mean
+T2	Targ 17 24	0.95 CI
+T3	Num 35 39	66.6
+R1	acomp Arg1:T3 Arg2:T1	
+T4	Num 42 46	66.4
+T5	Num 49 53	66.9
+T6	Unit 56 61	years
+R2	acomp Arg1:T4 Arg2:T2	
+R3	acomp Arg1:T5 Arg2:T2	
+R4	acomp Arg1:T3 Arg2:T6	
+R5	acomp Arg1:T4 Arg2:T6	
+R6	acomp Arg1:T5 Arg2:T6	
+T7	Num 68 73	0.521
+T8	Targ 79 86	females
+R7	acomp Arg1:T7 Arg2:T8	

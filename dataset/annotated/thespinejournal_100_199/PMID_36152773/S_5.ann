@@ -1,0 +1,5 @@
+T1	Num 123 124	5
+T2	Num 156 160	2013
+T3	Num 165 169	2020
+T4	Unit 125 131	levels
+R1	acomp Arg1:T1 Arg2:T4	

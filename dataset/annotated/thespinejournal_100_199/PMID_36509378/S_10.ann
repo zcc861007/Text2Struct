@@ -1,0 +1,5 @@
+T1	Num 143 144	1
+T2	Num 149 150	4
+T3	Targ 138 142	days
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	

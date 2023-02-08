@@ -1,0 +1,8 @@
+T1	Num 37 41	1494
+T2	Num 44 49	0.126
+T3	Targ 56 86	an additional fusion procedure
+T4	Unit 4 12	patients
+R1	acomp Arg1:T1 Arg2:T4	
+R2	acomp Arg1:T1 Arg2:T3	
+R3	acomp Arg1:T2 Arg2:T4	
+R4	acomp Arg1:T2 Arg2:T3	

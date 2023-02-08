@@ -1,0 +1,5 @@
+T1	Num 29 31	10
+T2	Unit 32 37	years
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 41 50	follow-up
+R2	acomp Arg1:T1 Arg2:T3	

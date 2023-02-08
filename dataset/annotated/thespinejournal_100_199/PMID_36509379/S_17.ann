@@ -1,0 +1,21 @@
+T1	Num 95 99	61.9
+T2	Num 102 106	61.6
+T3	Num 109 113	62.5
+T4	Num 130 134	78.6
+T5	Num 137 141	78.4
+T6	Num 144 148	79.2
+T7	Num 181 185	90.5
+T8	Num 188 192	90.2
+T9	Num 195 199	90.8
+T10	Targ 80 91	an accuracy
+R1	acomp Arg1:T1 Arg2:T10	
+R2	acomp Arg1:T2 Arg2:T10	
+R3	acomp Arg1:T3 Arg2:T10	
+T11	Targ 158 174	DBSI feature set
+R4	acomp Arg1:T4 Arg2:T11	
+R5	acomp Arg1:T5 Arg2:T11	
+R6	acomp Arg1:T6 Arg2:T11	
+T12	Targ 209 229	combined feature set
+R7	acomp Arg1:T7 Arg2:T12	
+R8	acomp Arg1:T8 Arg2:T12	
+R9	acomp Arg1:T9 Arg2:T12	

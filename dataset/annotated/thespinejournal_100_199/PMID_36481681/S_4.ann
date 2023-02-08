@@ -1,0 +1,17 @@
+T1	Num 57 59	40
+T2	Unit 60 68	patients
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 71 75	Male
+T4	Num 78 80	15
+T5	Targ 83 89	Female
+T6	Num 92 94	25
+R2	acomp Arg1:T6 Arg2:T5	
+R3	acomp Arg1:T4 Arg2:T3	
+T7	Num 117 119	56
+T8	Num 124 125	8
+T9	Unit 126 131	years
+R4	acomp Arg1:T8 Arg2:T9	
+R5	acomp Arg1:T7 Arg2:T9	
+T10	Targ 102 113	average age
+R6	acomp Arg1:T7 Arg2:T10	
+R7	acomp Arg1:T8 Arg2:T10	

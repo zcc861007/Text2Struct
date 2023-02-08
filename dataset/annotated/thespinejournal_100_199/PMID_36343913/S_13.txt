@@ -1,0 +1,1 @@
+The strongest predictors for failure were duration of back pain > 12 months ( OR [ 0.95 CI ] = 2.24 [ 1.93 - 2.60 ] ; p < .001 ) , former spinal surgery ( OR [ 0.95 CI ] = 2.21 [ 1.94 - 2.52 ] ; p < .001 ) and age > 70 years ( OR ( 0.95 CI ) = 1.97 ( 1.69 - 2.30 ) ; p < .001 ) .

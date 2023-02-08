@@ -1,0 +1,5 @@
+T1	Num 110 115	0.005
+T2	Num 118 122	0.10
+T3	Targ 21 97	The rate of surgical site infection ( SSI ) following elective spine surgery
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	

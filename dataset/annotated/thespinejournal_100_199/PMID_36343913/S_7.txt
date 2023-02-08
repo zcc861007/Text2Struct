@@ -1,0 +1,1 @@
+METHODS : Predictors were assessed with uni- and multivariate logistic regression , using backward conditional stepwise selection and a significance level of 0.01 .

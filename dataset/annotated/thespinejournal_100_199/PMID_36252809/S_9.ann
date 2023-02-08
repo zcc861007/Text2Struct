@@ -1,0 +1,10 @@
+T1	Num 21 23	60
+T2	Unit 24 29	cases
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Num 32 34	27
+T4	Unit 35 40	cases
+T5	Targ 0 10	This study
+R2	acomp Arg1:T1 Arg2:T5	
+R3	acomp Arg1:T3 Arg2:T4	
+T6	Targ 44 58	the ULIF group
+R4	acomp Arg1:T3 Arg2:T6	

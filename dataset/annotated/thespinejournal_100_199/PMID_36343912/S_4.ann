@@ -1,0 +1,10 @@
+T1	Num 142 144	15
+T2	Num 148 150	49
+T3	Unit 151 156	years
+R1	acomp Arg1:T1 Arg2:T3	
+R2	acomp Arg1:T2 Arg2:T3	
+T4	Num 233 237	1999
+T5	Num 257 261	2017
+T6	Targ 127 136	all women
+R3	acomp Arg1:T1 Arg2:T6	
+R4	acomp Arg1:T2 Arg2:T6	

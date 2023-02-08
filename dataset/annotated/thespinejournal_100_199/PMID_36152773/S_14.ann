@@ -1,0 +1,5 @@
+T1	Num 46 50	0.58
+T2	Unit 54 71	all complications
+R1	acomp Arg1:T1 Arg2:T2	
+T3	Targ 39 43	POD3
+R2	acomp Arg1:T1 Arg2:T3	
